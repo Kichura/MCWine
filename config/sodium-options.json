@@ -5,7 +5,7 @@
     "use_advanced_entity_culling": false,
     "use_particle_culling": false,
     "use_fog_occlusion": false,
-    "use_compact_vertex_format": false,
+    "use_compact_vertex_format": true,
     "use_chunk_face_culling": false,
     "use_memory_intrinsics": false,
     "disable_driver_blacklist": false
