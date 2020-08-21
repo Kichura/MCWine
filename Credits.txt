@@ -11,4 +11,4 @@ XLPackets - tfarecnim.
 
 Modpack creator of MCWine: Kichura.
 
-If you wish to obtain some help and support from one of the broken mods, Please contact the original authors at github or their discord servers for more details instead of me (Kichura) as i do not own any of the following mods as said above.
+If you need obtain help and support from one of the broken mods; Please contact the original authors at github or their discord servers for more details instead of me (Kichura) as i do not own any of the following mods as said above.
