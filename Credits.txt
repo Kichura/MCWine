@@ -3,6 +3,8 @@ The following mods are owned by (Using CurseForge names instead):
 BrandPacket - liachmodded,
 DeBrand - haykam,
 Fabric-API - asiekierka, sfPlayer1, modmuss50,
+Fabric-MoveChat (Aka Chat Up!) - gnembon,
+Fabric-ItemModelFix (Aka Item Model Fix) - Pepper_Bell,
 Lithium - jellysquid_,
 MultiConnect - EarthComputer,
 Phosphor - jellysquid_,
