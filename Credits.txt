@@ -7,6 +7,7 @@ Fabric-MoveChat (Aka Chat Up!) - gnembon,
 Fabric-ItemModelFix (Aka Item Model Fix) - Pepper_Bell,
 Lithium - jellysquid_,
 MultiConnect - EarthComputer,
+Persist-Sneaking (Aka Sneaky Screens) - haykam,
 Phosphor - jellysquid_,
 Sodium - jellysquid_,
 XLPackets - tfarecnim.
