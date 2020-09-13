@@ -12,7 +12,7 @@ Phosphor - jellysquid_: https://www.curseforge.com/minecraft/mc-mods/phosphor,
 Sodium - jellysquid_: https://www.curseforge.com/minecraft/mc-mods/sodium,
 XLPackets - tfarecnim: https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric.
 
-Modpack creator of MCWine: Kichura: https://github.com/Kichura/MCWine.
+Modpack creator of MCWine - Kichura: https://github.com/Kichura/MCWine.
 
 If you need help and support from one of the broken mods;
 Please contact the original authors at github or their discord servers for more details instead of me (Kichura) as i do NOT own any of the following mods as said above.
