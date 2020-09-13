@@ -14,6 +14,7 @@ XLPackets - tfarecnim: https://www.curseforge.com/minecraft/mc-mods/xl-packets-f
 
 Modpack creator of MCWine: Kichura: https://github.com/Kichura/MCWine.
 
-If you need help and support from one of the broken mods; Please contact the original authors at github or their discord servers for more details instead of me (Kichura) as i do not own any of the following mods as said above.
+If you need help and support from one of the broken mods;
+Please contact the original authors at github or their discord servers for more details instead of me (Kichura) as i do NOT own any of the following mods as said above.
 
 Additional note: This modpack is NOT for forge nor is the main jar a mod itself, Meaning you will have to copy over all files to a seperate version profile instead.
