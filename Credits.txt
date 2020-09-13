@@ -1,19 +1,20 @@
-The following mods are owned by (Using CurseForge names instead):
+The following mods are owned by (Using CurseForge names with URLs instead):
 
-BrandPacket - liachmodded,
-DeBrand - haykam,
-Fabric-API - asiekierka, sfPlayer1, modmuss50,
-Fabric-MoveChat (Aka Chat Up!) - gnembon,
-Fabric-ItemModelFix (Aka Item Model Fix) - Pepper_Bell,
-Lithium - jellysquid_,
-MultiConnect - EarthComputer,
-Persist-Sneaking (Aka Sneaky Screens) - haykam,
-Phosphor - jellysquid_,
-Sodium - jellysquid_,
-XLPackets - tfarecnim.
+BrandPacket - liachmodded: https://www.curseforge.com/minecraft/mc-mods/brandpacket,
+DeBrand - haykam: https://www.curseforge.com/minecraft/mc-mods/debrand,
+Fabric-API - asiekierka, sfPlayer1, modmuss50: https://www.curseforge.com/minecraft/mc-mods/fabric-api,
+Fabric-MoveChat (Aka Chat Up!) - gnembon: https://www.curseforge.com/minecraft/mc-mods/chat-up,
+Fabric-ItemModelFix (Aka Item Model Fix) - Pepper_Bell: https://www.curseforge.com/minecraft/mc-mods/item-model-fix,
+Lithium - jellysquid_: https://www.curseforge.com/minecraft/mc-mods/lithium,
+MultiConnect - EarthComputer: https://www.curseforge.com/minecraft/mc-mods/multiconnect,
+Persist-Sneaking (Aka Sneaky Screens) - haykam: https://www.curseforge.com/minecraft/mc-mods/sneaky-screens,
+Phosphor - jellysquid_: https://www.curseforge.com/minecraft/mc-mods/phosphor,
+Sodium - jellysquid_: https://www.curseforge.com/minecraft/mc-mods/sodium,
+XLPackets - tfarecnim: https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric.
 
-Modpack creator of MCWine: Kichura.
+Modpack creator of MCWine - Kichura: https://github.com/Kichura/MCWine.
 
-If you need help and support from one of the broken mods; Please contact the original authors at github or their discord servers for more details instead of me (Kichura) as i do not own any of the following mods as said above.
+If you need help and support from one of the broken mods;
+Please contact the original authors at github or their discord servers for more details instead of me (Kichura) as i do NOT own any of the following mods as said above.
 
 Additional note: This modpack is NOT for forge nor is the main jar a mod itself, Meaning you will have to copy over all files to a seperate version profile instead.
