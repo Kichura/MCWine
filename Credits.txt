@@ -1,4 +1,4 @@
-The following mods are owned by (Using CurseForge names with URLs instead):
+The following mods are owned by (Using original names with URLs instead):
 
 BrandPacket - liachmodded: https://www.curseforge.com/minecraft/mc-mods/brandpacket,
 DeBrand - haykam: https://www.curseforge.com/minecraft/mc-mods/debrand,
