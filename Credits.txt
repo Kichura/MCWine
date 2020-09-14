@@ -6,6 +6,7 @@ Fabric-API - asiekierka, sfPlayer1, modmuss50: https://www.curseforge.com/minecr
 Fabric-MoveChat (Aka Chat Up!) - gnembon: https://www.curseforge.com/minecraft/mc-mods/chat-up,
 Fabric-ItemModelFix (Aka Item Model Fix) - Pepper_Bell: https://www.curseforge.com/minecraft/mc-mods/item-model-fix,
 Hydrogen - jellysquid_: https://github.com/jellysquid3/hydrogen-fabric,
+Dynamic-Lights (Aka LambDynamicLights) - LambdAurora: https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights,
 Lithium - jellysquid_: https://www.curseforge.com/minecraft/mc-mods/lithium,
 MultiConnect - EarthComputer: https://www.curseforge.com/minecraft/mc-mods/multiconnect,
 Persist-Sneaking (Aka Sneaky Screens) - haykam: https://www.curseforge.com/minecraft/mc-mods/sneaky-screens,
