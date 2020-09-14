@@ -5,6 +5,7 @@ DeBrand - haykam: https://www.curseforge.com/minecraft/mc-mods/debrand,
 Fabric-API - asiekierka, sfPlayer1, modmuss50: https://www.curseforge.com/minecraft/mc-mods/fabric-api,
 Fabric-MoveChat (Aka Chat Up!) - gnembon: https://www.curseforge.com/minecraft/mc-mods/chat-up,
 Fabric-ItemModelFix (Aka Item Model Fix) - Pepper_Bell: https://www.curseforge.com/minecraft/mc-mods/item-model-fix,
+Hydrogen - jellysquid_: https://github.com/jellysquid3/hydrogen-fabric,
 Lithium - jellysquid_: https://www.curseforge.com/minecraft/mc-mods/lithium,
 MultiConnect - EarthComputer: https://www.curseforge.com/minecraft/mc-mods/multiconnect,
 Persist-Sneaking (Aka Sneaky Screens) - haykam: https://www.curseforge.com/minecraft/mc-mods/sneaky-screens,
@@ -13,6 +14,12 @@ Sodium - jellysquid_: https://www.curseforge.com/minecraft/mc-mods/sodium,
 XLPackets - tfarecnim: https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric.
 
 Modpack creator of MCWine - Kichura: https://github.com/Kichura/MCWine.
+
+Additional thanks to:
+
+FlashyReese for providing an 1.16.2/1.16.3 version of sodium - https://github.com/FlashyReese/sodium-fabric,
+MrMangoHands for helping out with sharing the lithium configuration codes.
+
 
 If you need help and support from one of the broken mods;
 Please contact the original authors at github or their discord servers for more details instead of me (Kichura) as i do NOT own any of the following mods as said above.
