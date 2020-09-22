@@ -25,4 +25,5 @@ MrMangoHands for helping out with sharing the lithium configuration codes.
 If you need help and support from one of the broken mods;
 Please contact the original authors at github or their discord servers for more details instead of me (Kichura) as i do NOT own any of the following mods as said above.
 
-Additional note: This modpack is NOT for forge nor is the main jar a mod itself, Meaning you will have to copy over all files to a seperate version profile instead.
+Additional note: This modpack is NOT for forge nor is the main jar a mod itself, Meaning you will have to copy over all files to a seperate version profile instead,
+An example image on how the profile is properly installed: https://i.imgur.com/VNBtQJJ.png
