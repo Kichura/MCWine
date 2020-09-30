@@ -1,7 +1,6 @@
 The following mods are owned by (Using original names with URLs instead):
 
 BrandPacket - liachmodded: https://www.curseforge.com/minecraft/mc-mods/brandpacket,
-DeBrand - haykam: https://www.curseforge.com/minecraft/mc-mods/debrand,
 Dynamic-Lights (Aka LambDynamicLights) - LambdAurora: https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights,
 Fabric-API - asiekierka, sfPlayer1, modmuss50: https://www.curseforge.com/minecraft/mc-mods/fabric-api,
 Fabric-AudioReloader (Aka Reload Audio Driver) - CJMinecraft101, JayJay1989BE: https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-fabric,
@@ -14,6 +13,7 @@ MultiConnect - EarthComputer: https://www.curseforge.com/minecraft/mc-mods/multi
 Persist-Sneaking (Aka Sneaky Screens) - haykam: https://www.curseforge.com/minecraft/mc-mods/sneaky-screens,
 Phosphor - jellysquid_: https://www.curseforge.com/minecraft/mc-mods/phosphor,
 Sodium - jellysquid_: https://www.curseforge.com/minecraft/mc-mods/sodium,
+Vanilla-Branding (Aka fabric-branding) - LoganDark: https://github.com/LoganDark/fabric-branding,
 XLPackets - tfarecnim: https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric.
 
 Modpack creator of MCWine - Kichura: https://github.com/Kichura/MCWine.
