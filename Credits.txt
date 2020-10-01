@@ -21,7 +21,8 @@ Modpack creator of MCWine - Kichura: https://github.com/Kichura/MCWine.
 Additional thanks to:
 
 FlashyReese for providing an 1.16.2/1.16.3 version of sodium - https://github.com/FlashyReese/sodium-fabric,
-MrMangoHands for helping out with sharing the lithium configuration codes.
+MrMangoHands for helping out with sharing the lithium configuration codes,
+LoganDark for telling me how to resolve the version string issue for "vanilla" context in F3.
 
 
 If you need help and support from one of the broken mods;
