@@ -4,8 +4,9 @@ BrandPacket - liachmodded: https://www.curseforge.com/minecraft/mc-mods/brandpac
 Dynamic-Lights (Aka LambDynamicLights) - LambdAurora: https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights,
 Fabric-API - asiekierka, sfPlayer1, modmuss50: https://www.curseforge.com/minecraft/mc-mods/fabric-api,
 Fabric-AudioReloader (Aka Reload Audio Driver) - CJMinecraft101, JayJay1989BE: https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-fabric,
-Fabric-MoveChat (Aka Chat Up!) - gnembon: https://www.curseforge.com/minecraft/mc-mods/chat-up,
 Fabric-ItemModelFix (Aka Item Model Fix) - Pepper_Bell: https://www.curseforge.com/minecraft/mc-mods/item-model-fix,
+Fabric-MoveChat (Aka Chat Up!) - gnembon: https://www.curseforge.com/minecraft/mc-mods/chat-up,
+Fabric-SkyColorFix (Aka Clear Skies) - grondagthebarbarian: https://www.curseforge.com/minecraft/mc-mods/clear-skies,
 Fix-Retina (Aka RetiNO) - juliand665: https://www.curseforge.com/minecraft/mc-mods/retino,
 Hydrogen - jellysquid_: https://github.com/jellysquid3/hydrogen-fabric,
 Lithium - jellysquid_: https://www.curseforge.com/minecraft/mc-mods/lithium,
@@ -21,8 +22,8 @@ Modpack creator of MCWine - Kichura: https://github.com/Kichura/MCWine.
 Additional thanks to:
 
 FlashyReese for providing an 1.16.2/1.16.3 version of sodium - https://github.com/FlashyReese/sodium-fabric,
-MrMangoHands for helping out with sharing the lithium configuration codes,
-LoganDark for telling me how to resolve the version string issue for "vanilla" context in F3.
+LoganDark for telling me how to resolve the version string issue for "vanilla" context in F3,
+MrMangoHands for helping out with sharing the lithium configuration codes.
 
 
 If you need help and support from one of the broken mods;
