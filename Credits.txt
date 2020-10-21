@@ -10,7 +10,6 @@ Fabric-MoveChat (Aka Chat Up!) - gnembon: https://www.curseforge.com/minecraft/m
 Fabric-SkipExperimentWarning (Aka Disable Custom Worlds Advice) - rdvdev2: https://www.curseforge.com/minecraft/mc-mods/fabric-disable-custom-worlds-advice,
 Fabric-SkyColorFix (Aka Clear Skies) - grondagthebarbarian: https://www.curseforge.com/minecraft/mc-mods/clear-skies,
 Fix-Retina (Aka RetiNO) - juliand665: https://www.curseforge.com/minecraft/mc-mods/retino,
-Hydrogen - jellysquid_: https://github.com/jellysquid3/hydrogen-fabric,
 Lithium - jellysquid_: https://www.curseforge.com/minecraft/mc-mods/lithium,
 MultiConnect - EarthComputer: https://www.curseforge.com/minecraft/mc-mods/multiconnect,
 Optimized-Furnaces (Aka Fast Furnace for Fabric) - tfarecnim: https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric,
