@@ -7,9 +7,9 @@ mode = "fancy"
 	# Prevents torches and other entities from lighting up when submerged into water sources.
 	water_sensitive_check = true
 	# Should block entities light up?
-	block_entities = false
+	block_entities = true
 	# Should entities light up?
-	entities = false
+	entities = true
 	# TNT will be brighter when ignited, May not be recommended to turn this on.
 	tnt = "off"
 	# Creepers will be brighter when ignited, May not be recommended to turn this on.
