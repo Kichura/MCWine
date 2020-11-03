@@ -1,8 +1,8 @@
 {
   "id": "MCWine-1.16.4",
-  "inheritsFrom": "1.16.4-rc1",
-  "releaseTime": "2020-10-28",
-  "time": "2020-10-28",
+  "inheritsFrom": "1.16.4",
+  "releaseTime": "2020-11-03",
+  "time": "2020-11-03",
   "type": "release",
   "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
   "arguments": {
@@ -19,6 +19,10 @@
     },
     {
       "name": "net.fabricmc:tiny-remapper:0.3.0.70",
+      "url": "https://maven.fabricmc.net/"
+    },
+    {
+      "name": "net.fabricmc:access-widener:1.0.0",
       "url": "https://maven.fabricmc.net/"
     },
     {
@@ -54,11 +58,11 @@
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "net.fabricmc:intermediary:1.16.4-rc1",
+      "name": "net.fabricmc:intermediary:1.16.4",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "net.fabricmc:fabric-loader:0.10.5+build.213",
+      "name": "net.fabricmc:fabric-loader:0.10.6+build.214",
       "url": "https://maven.fabricmc.net/"
     }
   ]
