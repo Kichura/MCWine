@@ -13,7 +13,7 @@ It is recommended that you use [AdoptOpenJDK with OpenJ9](https://adoptopenjdk.n
 
 ### Alternate MCWine branches
 
-If you believe sodium does not work out properly on your computer, Then you can try to fall back to the [OptiFabric branch](https://github.com/Kichura/MCWine/tree/OptiFabric) instead to make use of OptiFine instead of sodium. And if you believe MultiConnect does not work out properly instead, Then you can try to fall back to the [ViaFabric branch](https://github.com/Kichura/MCWine/tree/ViaFabric/mods) instead to make use of ViaFabric instead of MultiConnect. You can also combine ViaFabric + OptiFabric if you want both to run at once but you must remove **Sodium**, **Lithium** and **MultiConnect** from your own profile to avoid conflicts.
+If you believe sodium does not work out properly on your computer, Then you can try to fall back to the [OptiFabric branch](https://github.com/Kichura/MCWine/tree/OptiFabric) instead to make use of OptiFine instead of sodium. And if you believe MultiConnect does not work out properly instead, Then you can try to fall back to the [ViaFabric branch](https://github.com/Kichura/MCWine/tree/ViaFabric/mods) instead to make use of ViaFabric instead of MultiConnect. You can also combine ViaFabric + OptiFabric if you want both to run at once but you must remove **Sodium**, **Lithium**, **MultiConnect**, **Dynamic-Lights** from your own profile to avoid conflicts.
 
 
 ### The following mods are owned by (Using original names with URLs instead):
