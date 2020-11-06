@@ -3,17 +3,21 @@
 # MCWine
 MCWine is a fabric-based modpack designed to bring better performance including having the ability to connect to older server versions out of the box.
 
-### Installing this modpack (Official/Vanilla Method)
+### Installing this modpack ([Official/Vanilla Method](https://github.com/Kichura/MCWine/tree/Standard))
 
 Download MCWine as ZIP by navigating to the "Code" button and then pressing "Download ZIP" from there. Then you will be required to drop the main folder (With folder containing it's files such as mods and whatnot) inside that ZIP to your minecraft's versions folder. After this you must reload your minecraft launcher to make a new profile by changing the game directory to the extracted version folder and then changing the version to the modpack itself.
+
+### Installing this modpack ([MultiMC Method](https://github.com/Kichura/MCWine/tree/MultiMC))
+
+Download MCWine as ZIP by navigating to the "Code" button and then pressing "Download ZIP" from there. After this you must open up your MultiMC launcher -> Click on "Add Instance" and import the MCWine-MultiMC ZIP to your MultiMC instance and press OK to confirm the changes.
 
 ### Recommended Java Version
 
 It is recommended that you use [AdoptOpenJDK with OpenJ9](https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=openj9) to allow minecraft to make use of the Shenandoah Garbage Collector. For JVM Arguments it is recommended that you use: ```-Xmx3G -XX:+UnlockExperimentalVMOptions -XX:+UseShenandoahGC``` as your arguments instead of default (You can change the RAM of ```-Xmx3G``` value if you want more RAM or less to be used, But depends on your computer's hardware) for better results as the Z garbage collector (ZGC) is considered to be memory-hungry in some conditions.
 
-### Alternate MCWine branches
+### Alternate MCWine branch
 
-If you believe sodium does not work out properly on your computer, Then you can try to fall back to the [OptiFabric branch](https://github.com/Kichura/MCWine/tree/OptiFabric) instead to make use of OptiFine instead of sodium. And if you believe MultiConnect does not work out properly instead, Then you can try to fall back to the [ViaFabric branch](https://github.com/Kichura/MCWine/tree/ViaFabric/mods) instead to make use of ViaFabric instead of MultiConnect. You can also combine ViaFabric + OptiFabric if you want both to run at once but you must remove **Sodium**, **Lithium**, **MultiConnect**, **Dynamic-Lights** from your own profile to avoid conflicts.
+If you believe Sodium or MultiConnect does not work out properly on your computer, Then you can try to fall back to the [Alternate Branch](https://github.com/Kichura/MCWine/tree/Alternate) in order to make use of OptiFine + ViaFabric instead. The method of this branch should be identical like the Vanilla method.
 
 
 ### The following mods are owned by (Using original names with URLs instead):
