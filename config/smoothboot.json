@@ -1,7 +1,0 @@
-{
-  "bootstrapThreadCount": 1,
-  "mainThreadCount": 7,
-  "bootstrapPriority": 1,
-  "mainPriority": 1,
-  "ioPriority": 5
-}
