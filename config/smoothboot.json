@@ -1,0 +1,8 @@
+{
+  "bootstrapThreadCount": 1,
+  "mainThreadCount": 7,
+  "gamePriority": 5,
+  "bootstrapPriority": 1,
+  "mainPriority": 1,
+  "ioPriority": 5
+}
