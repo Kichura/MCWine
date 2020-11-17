@@ -23,7 +23,7 @@ If you believe Sodium or MultiConnect does not work out properly on your compute
 ### The following mods are owned by (Using original names with URLs instead):
 
 - [BrandPacket](https://www.curseforge.com/minecraft/mc-mods/brandpacket) - **liachmodded**,
-- [Cadmium](https://github.com/Lucy-t/cadmium-fabric) - **Lucy-t**,
+- [Cadmium](https://github.com/Lucy-t/DataFixerUpper) - **Lucy-t**,
 - [Dynamic-Lights (Aka LambDynamicLights)](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) - **LambdAurora**,
 - [Fabric-API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) - **asiekierka**, **sfPlayer1**, **modmuss50**,
 - [Fabric-AudioReloader (Aka Reload Audio Driver)](https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-fabric) - **CJMinecraft101**, **JayJay1989BE**,
