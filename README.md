@@ -49,7 +49,7 @@ If you believe Sodium or MultiConnect does not work out properly on your compute
 - FlashyReese for providing an 1.16.2/1.16.3 version of [sodium](https://github.com/FlashyReese/sodium-fabric) + Helping me create this entire readme document,
 - LoganDark for telling me how to [resolve](https://github.com/LoganDark/fabric-branding/issues/1) the version string issue for "vanilla" context in F3 screen,  
 - MrMangoHands for helping out with sharing the lithium configuration codes,
-- [Lucy-t](https://github.com/Lucy-t) for giving me a copy of [cadmium](https://github.com/Lucy-t/cadmium-fabric) in order to fix DFU problems.
+- Lucy-t for giving me a copy of [cadmium](https://github.com/Lucy-t/DataFixerUpper) in order to fix DFU problems.
 
 
 ### Found a bug/issue via MCWine (Mods only)?
