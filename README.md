@@ -13,7 +13,7 @@ Download MCWine as ZIP by navigating to the "Code" button and then pressing "Dow
 
 ### Recommended Java Version
 
-It is recommended that you use [AdoptOpenJDK with OpenJ9](https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=openj9) to allow minecraft to make use of the Shenandoah Garbage Collector. For JVM Arguments it is recommended that you use: ```-Xmx3G -XX:+UnlockExperimentalVMOptions -XX:+UseShenandoahGC``` as your arguments instead of default (You can change the RAM of ```-Xmx3G``` value if you want more RAM or less to be used, But depends on your computer's hardware) for better results as the Z garbage collector (ZGC) is considered to be memory-hungry in some conditions.
+It is recommended that you use [AdoptOpenJDK with HotSpot](https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot) to allow minecraft to make use of the Shenandoah Garbage Collector. For JVM Arguments it is recommended that you use: ```-Xmx3G -XX:+UnlockExperimentalVMOptions -XX:+UseShenandoahGC``` as your arguments instead of default (You can change the RAM of ```-Xmx3G``` value if you want more RAM or less to be used, But depends on your computer's hardware) for better results as the Z garbage collector (ZGC) is considered to be memory-hungry in some conditions.
 
 ### Alternate MCWine branch
 
@@ -48,9 +48,14 @@ If you believe Sodium or MultiConnect does not work out properly on your compute
 
 - FlashyReese for providing an 1.16.2/1.16.3 version of [sodium](https://github.com/FlashyReese/sodium-fabric) + Helping me create this entire readme document,
 - LoganDark for telling me how to [resolve](https://github.com/LoganDark/fabric-branding/issues/1) the version string issue for "vanilla" context in F3 screen,  
-- MrMangoHands for helping out with sharing the lithium configuration codes. 
+- MrMangoHands for helping out with sharing the lithium configuration codes,
+- [Lucy-t](https://github.com/Lucy-t) for giving me a copy of [cadmium](https://github.com/Lucy-t/cadmium-fabric) in order to fix DFU problems.
 
 
 ### Found a bug/issue via MCWine (Mods only)?
 
 Please contact the original authors at github or their discord servers for more details instead of [me](https://github.com/Kichura) as i do NOT own any of the following mods as said above.
+
+### Where the name "MCWine" comes from
+
+The name "MCWine" is an inspired name from the linux software ["Wine"](https://github.com/wine-mirror/wine) where you can run your favorite windows applications using any older windows version you like on the linux environment without having to emulate them inside a virtual machine utility, Wine also keeps the performance intact thanks to it's compatibility layer; Allowing users to keep up their applications without losing any performance from their real hardware. Thous i chose the name "MCWine" for this entire modpack as a strong reference.
