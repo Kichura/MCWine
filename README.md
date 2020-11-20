@@ -23,7 +23,6 @@ If you believe Sodium or MultiConnect does not work out properly on your compute
 ### The following mods are owned by (Using original names with URLs instead):
 
 - [BrandPacket](https://www.curseforge.com/minecraft/mc-mods/brandpacket) - **liachmodded**,
-- [Cadmium](https://github.com/Lucy-t/DataFixerUpper) - **JellySquid_, Lucy-t**,
 - [Dynamic-Lights (Aka LambDynamicLights)](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) - **LambdAurora**,
 - [Fabric-API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) - **asiekierka**, **sfPlayer1**, **modmuss50**,
 - [Fabric-AudioReloader (Aka Reload Audio Driver)](https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-fabric) - **CJMinecraft101**, **JayJay1989BE**,
@@ -31,7 +30,6 @@ If you believe Sodium or MultiConnect does not work out properly on your compute
 - [Fabric-ItemModelFix (Aka Item Model Fix)](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - **Pepper_Bell**,
 - [Fabric-MoveChat (Aka Chat Up!)](https://www.curseforge.com/minecraft/mc-mods/chat-up) - **gnembon**,
 - [Fabric-SkyColorFix (Aka Clear Skies)](https://www.curseforge.com/minecraft/mc-mods/clear-skies) - **grondagthebarbarian**,
-- [Fabric-SmoothBoot (Aka Smooth Boot)](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) - **UltimateBoomer**,
 - [Fix-Retina (Aka RetiNO)](https://www.curseforge.com/minecraft/mc-mods/retino) - **juliand665**,
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - **jellysquid_**,
 - [MultiConnect](https://www.curseforge.com/minecraft/mc-mods/multiconnect) - **EarthComputer**,
@@ -48,8 +46,7 @@ If you believe Sodium or MultiConnect does not work out properly on your compute
 
 - FlashyReese for providing an 1.16.2/1.16.3 version of [sodium](https://github.com/FlashyReese/sodium-fabric) + Helping me create this entire readme document,
 - LoganDark for telling me how to [resolve](https://github.com/LoganDark/fabric-branding/issues/1) the version string issue for "vanilla" context in F3 screen,  
-- MrMangoHands for helping out with sharing the lithium configuration codes,
-- Lucy-t for giving me a copy of [cadmium](https://github.com/Lucy-t/DataFixerUpper) in order to fix DFU problems.
+- MrMangoHands for helping out with sharing the lithium configuration codes.
 
 
 ### Found a bug/issue via MCWine (Mods only)?
