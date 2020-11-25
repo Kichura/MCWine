@@ -37,7 +37,6 @@ If you believe Sodium or MultiConnect does not work out properly on your compute
 - [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) - **jellysquid_**,
 - [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) - **jellysquid_**,
 - [Vanilla-Branding (Aka fabric-branding)](https://github.com/LoganDark/fabric-branding) - **LoganDark**,
-- [Voyager](https://github.com/modmuss50/Voyager) - **modmuss50**,
 - [XLPackets](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric) - **tfarecnim**,
 
 - Modpack creator of MCWine - [Kichura](https://github.com/Kichura/MCWine).
