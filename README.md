@@ -32,11 +32,11 @@ If you believe Sodium or MultiConnect does not work out properly on your compute
 - [Fabric-SkyColorFix (Aka Clear Skies)](https://www.curseforge.com/minecraft/mc-mods/clear-skies) - **grondagthebarbarian**,
 - [Fix-Retina (Aka RetiNO)](https://www.curseforge.com/minecraft/mc-mods/retino) - **juliand665**,
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - **jellysquid_**,
-- [MultiConnect](https://www.curseforge.com/minecraft/mc-mods/multiconnect) - **EarthComputer**,
 - [Persist-Sneaking (Aka Sneaky Screens)](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens) - **haykam**,
 - [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) - **jellysquid_**,
 - [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) - **jellysquid_**,
 - [Vanilla-Branding (Aka fabric-branding)](https://github.com/LoganDark/fabric-branding) - **LoganDark**,
+- [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) - **creeper12312332, KennyTVN**,
 - [XLPackets](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric) - **tfarecnim**,
 
 - Modpack creator of MCWine - [Kichura](https://github.com/Kichura/MCWine).
