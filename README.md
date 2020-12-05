@@ -19,6 +19,9 @@ It is recommended that you use [AdoptOpenJDK with HotSpot](https://adoptopenjdk.
 
 If you believe Sodium or ViaFabric does not work out properly on your computer, Then you can try to fall back to the [Alternate Branch](https://github.com/Kichura/MCWine/tree/Alternate) in order to make use of OptiFine + MultiConnect instead. The method of this branch should be identical like the Vanilla method.
 
+### Canvas for MCWine branch
+
+If you believe OptiFine does not work out properly on your computer, Then you can try to fall back to the [Canvas Branch](https://github.com/Kichura/MCWine/tree/Canvas) in order to make use of Canvas instead. The method of this branch should be identical like the Vanilla method.
 
 ### The following mods are owned by (Using original names with URLs instead):
 
