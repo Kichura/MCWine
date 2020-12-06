@@ -48,7 +48,8 @@ If you believe OptiFine does not work out properly on your computer, Then you ca
 
 - FlashyReese for providing an 1.16.2/1.16.3 version of [sodium](https://github.com/FlashyReese/sodium-fabric) + Helping me create this entire readme document,
 - LoganDark for telling me how to [resolve](https://github.com/LoganDark/fabric-branding/issues/1) the version string issue for "vanilla" context in F3 screen,  
-- MrMangoHands for helping out with sharing the lithium configuration codes.
+- MrMangoHands for helping out with sharing the lithium configuration codes,
+- [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) for making the "Default+" resource pack possible.
 
 
 ### Found a bug/issue via MCWine (Mods only)?
