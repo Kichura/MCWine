@@ -8,7 +8,7 @@
 		"zoom_transition": "SMOOTH",
 		"zoom_mode": "HOLD",
 		//
-		// Controls the binding system for zoom,
+		// Controls the binding system for zoom.
 		//
 		"zoom_scrolling": true,
 		"extra_keybinds": false,
