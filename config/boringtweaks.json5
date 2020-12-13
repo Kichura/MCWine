@@ -1,0 +1,23 @@
+{
+	"features_group": {
+		// Tweaks for the baby heads, This will make them look slightly better.
+		"bigger_baby_villager_heads": false,
+		"fix_baby_hat_layer": true,
+		// Sound adjustion for game, Noisy sounds aren't recommended since it can cause trouble of hearings.
+		"reduce_volume_while_away": true,
+		"noisy_sound_sliders": false,
+		"dynamic_sound_slider_noise": false,
+		// Adds shadows to texts via F3 menu similar to forge's design.
+		"shadowed_debug_hud": true,
+		// Enables "Boring tweaks"' own features, We shouldn't make use of them at all.
+		"smooth_day_cycle": false,
+		"strider_easter_egg": false
+	},
+	"values_group": {
+		// Values used for specific tweaks, We should not be touching these.
+		"reduced_volume_percentage": 75.0,
+		"smooth_day_cycle_divisor": 32.0,
+		"noisy_sound_slider_steps": 10.0,
+		"baby_villager_head_scale": 1.75
+	}
+}
