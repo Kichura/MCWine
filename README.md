@@ -63,4 +63,4 @@ The name "MCWine" is an inspired name from the linux software ["Wine"](https://g
 
 ### License
 
-MCWine is licensed under GNU LGPLv3, a free and open-source license. For more information, please see the license file as seen in the code data.
+MCWine is licensed under GNU LGPLv3, a free and open-source license. For more information, please see the [license file](https://github.com/Kichura/MCWine/blob/Standard/LICENSE).
