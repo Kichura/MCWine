@@ -1,7 +1,7 @@
 
 ![MCWine Icon](https://i.imgur.com/sykJqfG.png)
 # MCWine
-MCWine is a fabric-based modpack designed to bring better performance, brand new fixes and a compatibility system to connect to older servers out of the box.
+MCWine is a fabric-based modpack designed to bring better performance, brand new fixes and a compatibility system to allow players to connect to older servers out of the box.
 
 ### Installing this modpack ([Official/Vanilla Method](https://github.com/Kichura/MCWine/tree/Standard))
 
