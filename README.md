@@ -1,7 +1,7 @@
 
 ![MCWine Icon](https://i.imgur.com/sykJqfG.png)
 # MCWine
-MCWine is a fabric-based modpack designed to bring better performance, brand new fixes and a compatibility system to connect to older servers out of the box.
+MCWine is a fabric-based modpack designed to bring better performance, brand new fixes and a compatibility system to allow players to connect to older servers out of the box.
 
 ### Installing this modpack ([Official/Vanilla Method](https://github.com/Kichura/MCWine/tree/Standard))
 
@@ -41,7 +41,7 @@ If you believe Sodium or ViaFabric does not work out properly on your computer, 
 - [Vanilla-Branding (Aka Branding)](https://github.com/LoganDark/fabric-branding) - **LoganDark**,
 - [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) - **creeper12312332, KennyTVN**,
 - [XLPackets](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric) - **tfarecnim**,
-- [Zoom (Aka Ok Zoomer)](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer) - **boredomh1**
+- [Zoom (Aka Ok Zoomer)](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer) - **boredomh1**,
 
 - Modpack creator of MCWine - [Kichura](https://github.com/Kichura/MCWine).
 
@@ -63,4 +63,4 @@ The name "MCWine" is an inspired name from the linux software ["Wine"](https://g
 
 ### License
 
-MCWine is licensed under GNU LGPLv3, a free and open-source license. For more information, please see the license file as seen in the code data.
+MCWine is licensed under GNU LGPLv3, a free and open-source license. For more information, please see the [license file](https://github.com/Kichura/MCWine/blob/Standard/LICENSE).
