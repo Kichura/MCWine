@@ -1,4 +1,11 @@
 {
+  "quality": {
+   "cloud_quality": "FAST",
+   "weather_quality": "FAST",
+   "enable_vignette": false,
+   "enable_clouds": false,
+   "smooth_lighting": "HIGH"
+  },
   "advanced": {
     "chunk_renderer_backend": "GL33",
     "animate_only_visible_textures": true,
