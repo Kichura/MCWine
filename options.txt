@@ -25,7 +25,7 @@ fovEffectScale:0.0
 gamma:0.5
 renderDistance:16
 entityDistanceScaling:0.5
-guiScale:3
+guiScale:0
 particles:1
 maxFps:260
 difficulty:1
