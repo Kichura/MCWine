@@ -30,7 +30,7 @@ particles:1
 maxFps:260
 difficulty:1
 graphicsMode:1
-ao:0
+ao:2
 biomeBlendRadius:0
 renderClouds:false
 resourcePacks:["vanilla","file/Default+.zip"]
