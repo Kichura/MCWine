@@ -75,7 +75,7 @@ key_key.right:key.keyboard.d
 key_key.jump:key.keyboard.space
 key_key.sneak:key.keyboard.left.control
 key_key.sprint:key.keyboard.left.shift
-key_key.drop:key.keyboard.g
+key_key.drop:key.keyboard.q
 key_key.inventory:key.keyboard.e
 key_key.chat:key.keyboard.t
 key_key.playerlist:key.keyboard.tab
