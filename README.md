@@ -9,7 +9,7 @@ Download MCWine as ZIP by navigating to the "Code" button and then pressing "Dow
 
 ### Installing this modpack ([MultiMC Method](https://github.com/Kichura/MCWine/tree/MultiMC-Standard))
 
-Download MCWine as ZIP by navigating to the "Code" button and then pressing "Download ZIP" from there. After this you must open up your MultiMC launcher -> Click on "Add Instance" and import the MCWine-MultiMC ZIP to your MultiMC instance and press OK to confirm the changes.
+Download MCWine as ZIP by navigating to the "Code" button and then pressing "Download ZIP" from there. After this you must open up your MultiMC launcher -> Click on "Add Instance" and import the ZIP to your MultiMC instance and press OK to confirm the changes.
 
 ### Recommended Java Version
 
