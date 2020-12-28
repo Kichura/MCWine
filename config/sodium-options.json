@@ -15,7 +15,6 @@
     "use_compact_vertex_format": true,
     "use_chunk_face_culling": true,
     "use_memory_intrinsics": true,
-    "disable_driver_blacklist": false,
-    "use_experimental_g_u_i": true
+    "disable_driver_blacklist": false
   }
 }
