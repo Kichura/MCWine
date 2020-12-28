@@ -36,7 +36,7 @@ If you believe Sodium or ViaFabric does not work out properly on your computer, 
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - **jellysquid_**,
 - [Persist-Sneaking (Aka Sneaky Screens)](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens) - **haykam**,
 - [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) - **jellysquid_**,
-- [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) - **jellysquid_**,
+- [Sodium](https://github.com/jellysquid3/sodium-fabric/tree/1.16.x/next) - **jellysquid_**,
 - [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) - **masady, CFGrafanaStats**,
 - [Vanilla-Branding (Aka Branding)](https://github.com/LoganDark/fabric-branding) - **LoganDark**,
 - [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) - **creeper12312332, KennyTVN**,
@@ -47,7 +47,7 @@ If you believe Sodium or ViaFabric does not work out properly on your computer, 
 
 ### Additional thanks to
 
-- FlashyReese for providing an 1.16.2/1.16.3 version of [sodium](https://github.com/FlashyReese/sodium-fabric) + Helping me create this entire readme document,
+- FlashyReese for helping me create this entire readme document,
 - LoganDark for telling me how to [resolve](https://github.com/LoganDark/fabric-branding/issues/1) the version string issue for "vanilla" context in F3 screen,  
 - MrMangoHands for helping out with sharing the [lithium configuration codes](https://github.com/jellysquid3/lithium-fabric/blob/1.16.x/dev/src/main/java/me/jellysquid/mods/lithium/common/config/LithiumConfig.java),
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) for making the "Default+" resource pack possible.
