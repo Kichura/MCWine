@@ -33,7 +33,7 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:0
 renderClouds:false
-resourcePacks:["vanilla","file/Default+.zip"]
+resourcePacks:["vanilla","file/Default+.zip","Fabric Mods"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
