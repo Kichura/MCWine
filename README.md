@@ -19,6 +19,10 @@ It is recommended that you use [AdoptOpenJDK with HotSpot](https://adoptopenjdk.
 
 If you believe Sodium or ViaFabric does not work out properly on your computer, Then you can try to fall back to the [Alternate Branch](https://github.com/Kichura/MCWine/tree/Alternate) in order to make use of Canvas + MultiConnect instead. The method of this branch should be identical like the Vanilla method, But if you use MultiMC then you can try this [Alternate MultiMC branch](https://github.com/Kichura/MCWine/tree/MultiMC-Alternate) instead.
 
+### Lite MCWine branch
+
+If you need to acquire a smaller version of this modpack, Then you can [try this branch](https://github.com/Kichura/MCWine/tree/Lite) out for a lite version (For the MultiMC version, [See this page instead](https://github.com/Kichura/MCWine/tree/MultiMC-Lite)).
+
 ### The following mods are owned by (Using original names with URLs instead):
 
 - [Audio-Reloader (Aka Reload Audio Driver)](https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-fabric) - **CJMinecraft101**, **JayJay1989BE**,
