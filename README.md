@@ -57,7 +57,7 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 
 ### Found a bug/issue via MCWine (Mods only)?
 
-Please contact the original authors at github or their discord servers for more details instead of [me](https://github.com/Kichura) as i do NOT own any of the following mods as said above.
+Please contact the original authors at github or their discord servers for more details instead of [me](https://github.com/Kichura) as i do NOT own any of the following mods as said above. I also am NOT responsible for any damages or broken mods that are mentioned above in the mods list, You can however choose to contact [me](https://github.com/Kichura) if you believe something is in error and requires a fix for it as soon as possible.
 
 ### Where the name "MCWine" comes from
 
