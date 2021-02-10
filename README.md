@@ -40,6 +40,7 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 - [Persist-Sneaking (Aka Sneaky Screens)](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens) - **haykam**,
 - [Sodium](https://github.com/jellysquid3/sodium-fabric/tree/1.16.x/next) - **jellysquid_**,
 - [Starlight](https://github.com/Spottedleaf/Starlight) - **Spottedleaf**,
+- [Third-Person Maps](https://www.curseforge.com/minecraft/mc-mods/third-person-maps) - **Pepperoni__Jabroni__**,
 - [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) - **masady, CFGrafanaStats**,
 - [Vanilla-Branding (Aka Branding)](https://github.com/LoganDark/fabric-branding) - **LoganDark**,
 - [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) - **creeper12312332, KennyTVN**,

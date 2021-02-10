@@ -1,0 +1,4 @@
+{ 
+	// Scale the map to a given pixel size. (Default is 64)
+	"forceMapScaling": 96
+}
