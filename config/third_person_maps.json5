@@ -1,4 +1,4 @@
 { 
-	// Scale the map to a given pixel size. (Default is 64)
+	// Scales the third-person map to a proper size.
 	"forceMapScaling": 96
 }
