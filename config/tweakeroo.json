@@ -2,6 +2,7 @@
   "Fixes": {
     "clientChunkEntityDupeFix": true,
     "elytraFix": true,
+    "macHorizontalScroll": false,
     "profilerChartFix": true,
     "ravagerClientBlockBreakFix": true,
     "tileEntityUnloadOptimization": true
@@ -44,6 +45,7 @@
     "flySpeedPreset3": 0.128,
     "flySpeedPreset4": 0.32,
     "gammaOverrideValue": 16.0,
+    "handRestockPreThreshold": 6,
     "hotbarSlotCycleMax": 2,
     "hotbarSlotRandomizerMax": 5,
     "hotbarSwapOverlayOffsetX": 4,
@@ -753,6 +755,7 @@
   },
   "DisableToggles": {
     "disableArmorStandRendering": false,
+    "disableAxeStripping": false,
     "disableBlockBreakingParticles": false,
     "disableDoubleTapSprint": false,
     "disableBossFog": true,
@@ -765,6 +768,7 @@
     "disableInventoryEffectRendering": false,
     "disableItemSwitchRenderCooldown": true,
     "disableMobSpawnerMobRendering": false,
+    "disableNauseaEffect": true,
     "disableNetherFog": true,
     "disableObserver": false,
     "disableOffhandRendering": false,
@@ -777,10 +781,23 @@
     "disableTileEntityRendering": false,
     "disableTileEntityTicking": false,
     "disableVillagerTradeLocking": true,
-    "disableWallUnsprint": true
+    "disableWallUnsprint": true,
+    "disableWorldViewBob": false
   },
   "DisableHotkeys": {
     "disableArmorStandRendering": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "disableAxeStripping": {
       "keys": "",
       "settings": {
         "activate_on": "PRESS",
@@ -925,6 +942,18 @@
       }
     },
     "disableMobSpawnerMobRendering": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "disableNauseaEffect": {
       "keys": "",
       "settings": {
         "activate_on": "PRESS",
@@ -1081,6 +1110,18 @@
       }
     },
     "disableWallUnsprint": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "disableWorldViewBob": {
       "keys": "",
       "settings": {
         "activate_on": "PRESS",
