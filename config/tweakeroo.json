@@ -2,7 +2,7 @@
   "Fixes": {
     "clientChunkEntityDupeFix": true,
     "elytraFix": true,
-    "macHorizontalScroll": false,
+    "macHorizontalScroll": true,
     "profilerChartFix": true,
     "ravagerClientBlockBreakFix": true,
     "tileEntityUnloadOptimization": true
