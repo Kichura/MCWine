@@ -1,0 +1,11 @@
+{
+  "configVersion": 2,
+  "renderNametagsThroughWalls": true,
+  "blockEntityWhitelist": [
+    "minecraft:beacon"
+  ],
+  "tracingDistance": 128,
+  "debugMode": false,
+  "sleepDelay": 10,
+  "hitboxLimit": 50
+}
