@@ -13,7 +13,7 @@ Download MCWine as ZIP by navigating to the "Code" button and then pressing "Dow
 
 ### Recommended Java Version
 
-It is recommended that you use [AdoptOpenJDK with HotSpot](https://adoptopenjdk.net/?variant=openjdk15&jvmVariant=hotspot) to allow minecraft to make use of the Z Garbage Collector. For JVM Arguments it is recommended that you use: ```-Xmx3G -XX:+UnlockExperimentalVMOptions -XX:+UseZGC -XX:+DisableExplicitGC -XX:+UseCompressedOops``` as your arguments instead of default (You can change the RAM of ```-Xmx3G``` value if you want more RAM or less to be used, But depends on your computer's hardware) for better results as the Shenandoah garbage collector (ShenandoahGC) is considered to be memory-hungry in some conditions.
+It is recommended that you use [AdoptOpenJDK with HotSpot](https://adoptopenjdk.net/?variant=openjdk15&jvmVariant=hotspot) to allow minecraft to make use of the Z Garbage Collector. For JVM Arguments it is recommended that you use: ```-Xmx2G -XX:+UnlockExperimentalVMOptions -XX:+UseZGC -XX:+DisableExplicitGC -XX:+UseCompressedOops -XX:+AlwaysPreTouch``` as your arguments instead of default (You can change the RAM of ```-Xmx2G``` value if you want more RAM or less to be used, But depends on your computer's hardware) for better results as the Shenandoah garbage collector (ShenandoahGC) is considered to be memory-hungry in some conditions.
 
 ### Alternate MCWine branch
 
