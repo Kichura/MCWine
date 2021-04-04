@@ -25,7 +25,6 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 
 ### The following mods are owned by (Using original names with URLs instead):
 
-- [Alternate-EntityCulling (Aka EntityCulling Fabric/Forge)](https://www.curseforge.com/minecraft/mc-mods/entityculling) - **tr9zw**,
 - [Audio-Management (Aka Audio Output)](https://www.curseforge.com/minecraft/mc-mods/audio-output) - **Maximumgame**,
 - [BrandPacket](https://www.curseforge.com/minecraft/mc-mods/brandpacket) - **liachmodded**,
 - [Dynamic-Lights (Aka LambDynamicLights)](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) - **LambdAurora**,
@@ -35,7 +34,6 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 - [Fix-ItemModels (Aka Item Model Fix)](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - **Pepper_Bell**,
 - [Fix-SkyColor (Aka Clear Skies)](https://www.curseforge.com/minecraft/mc-mods/clear-skies) - **grondagthebarbarian**,
 - [Fix-ToolTips (Aka ToolTipFix)](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) - **Kyrptonaught**,
-- [IME-Support (Aka IngameIME)](https://www.curseforge.com/minecraft/mc-mods/ingameime) - **Windmill_City**,
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - **CaffeineMC**,
 - [NoFlashing-NightVision (Aka Night Vision flash be gone)](https://www.curseforge.com/minecraft/mc-mods/night-vision-flash-be-gone) - **AshIndigo**,
 - [Persist-Sneaking (Aka Sneaky Screens)](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens) - **haykam**,
