@@ -19,7 +19,7 @@ bobView:true
 toggleCrouch:false
 toggleSprint:false
 mouseSensitivity:0.5
-fov:0.5
+fov:0.0
 screenEffectScale:0.0
 fovEffectScale:0.0
 gamma:0.5
