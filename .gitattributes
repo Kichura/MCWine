@@ -7,3 +7,8 @@
 # Try to detect these file-extensions as Java.
 *.jar linguist-language=Java
 *.properties linguist-language=Java
+
+# Attempt to make these files not available upon cloning/download.
+README.cmd export-ignore
+LICENSE export-ignore
+.gitattributes export-ignore
