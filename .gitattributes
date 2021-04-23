@@ -6,9 +6,4 @@
 
 # Try to detect these file-extensions as Java.
 *.jar linguist-language=Java
-
-# Try to detect these file-extensions as Other.
-*.zip linguist-language=Other
-*.png linguist-language=Other
-*.txt linguist-language=Other
-*.md linguist-language=Other
+*.properties linguist-language=Java
