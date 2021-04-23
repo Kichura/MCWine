@@ -1,0 +1,14 @@
+# Try to detect these file-extensions as JavaScript.
+*.json linguist-language=JavaScript 
+*.json5 linguist-language=JavaScript
+*.yml linguist-language=JavaScript
+*.toml linguist-language=JavaScript
+
+# Try to detect these file-extensions as Java.
+*.jar linguist-language=Java
+
+# Try to detect these file-extensions as Other.
+*.zip linguist-language=Other
+*.png linguist-language=Other
+*.txt linguist-language=Other
+*.md linguist-language=Other
