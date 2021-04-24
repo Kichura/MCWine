@@ -2,13 +2,13 @@
 *.json linguist-language=JavaScript 
 
 # .json5 files should be marked as JSON5.
-*.json5 linguist-language=JavaScript
+*.json5 linguist-language=JSON5
 
 # .yml files should be marked as YAML.
 *.yml linguist-language=YAML
 
 # .toml files should be marked as TOML.
-*.toml linguist-language=JavaScript
+*.toml linguist-language=TOML
 
 # .jar and .properties files should both be marked as Java.
 *.jar linguist-language=Java
