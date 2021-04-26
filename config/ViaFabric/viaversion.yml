@@ -26,7 +26,7 @@ hologram-patch: true
 hologram-y: -0.96
 piston-animation-patch: true
 chat-nbt-fix: true
-team-colour-fix: true
+team-colour-fix: false
 disable-1_13-auto-complete: false
 1_13-tab-complete-delay: 0
 fix-low-snow-collision: true
@@ -38,8 +38,9 @@ use-1_15-instant-respawn: false
 serverside-blockconnections: true
 reduce-blockstorage-memory: false
 flowerstem-when-block-above: false
-vine-climb-fix: true
+vine-climb-fix: false
 ignore-long-1_16-channel-names: true
+forced-use-1_17-resource-pack: false
 #
 # ViaFabric patch (1.8+) configuration goes here.
 #
@@ -47,11 +48,13 @@ prevent-collision: false
 auto-team: false
 suppress-metadata-errors: true
 shield-blocking: true
+show-shield-when-sword-in-hand: true
 simulate-pt: true
 bossbar-patch: true
 bossbar-anti-flicker: false
 use-new-effect-indicator: true
 use-new-deathmessages: true
+item-cache: true
 replace-pistons: true
 replacement-piston-id: 0
 force-json-transform: true
