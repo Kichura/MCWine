@@ -27,7 +27,7 @@ hologram-y: -0.96
 piston-animation-patch: true
 chat-nbt-fix: true
 team-colour-fix: false
-disable-1_13-auto-complete: false
+disable-1_13-auto-complete: true
 1_13-tab-complete-delay: 0
 fix-low-snow-collision: true
 fix-infested-block-breaking: true
@@ -38,7 +38,7 @@ use-1_15-instant-respawn: false
 serverside-blockconnections: true
 reduce-blockstorage-memory: false
 flowerstem-when-block-above: false
-vine-climb-fix: false
+vine-climb-fix: true
 ignore-long-1_16-channel-names: true
 forced-use-1_17-resource-pack: false
 #
