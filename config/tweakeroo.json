@@ -768,7 +768,7 @@
     "disableInventoryEffectRendering": false,
     "disableItemSwitchRenderCooldown": true,
     "disableMobSpawnerMobRendering": false,
-    "disableNauseaEffect": true,
+    "disableNauseaEffect": false,
     "disableNetherFog": true,
     "disableObserver": false,
     "disableOffhandRendering": false,
