@@ -26,12 +26,12 @@ gamma:0.5
 renderDistance:12
 entityDistanceScaling:0.5
 guiScale:0
-particles:1
+particles:0
 maxFps:260
 difficulty:1
 graphicsMode:1
 ao:2
-biomeBlendRadius:0
+biomeBlendRadius:7
 renderClouds:false
 resourcePacks:["vanilla","file/Default+.zip","Fabric Mods"]
 incompatibleResourcePacks:[]
@@ -73,8 +73,8 @@ key_key.left:key.keyboard.a
 key_key.back:key.keyboard.s
 key_key.right:key.keyboard.d
 key_key.jump:key.keyboard.space
-key_key.sneak:key.keyboard.left.control
-key_key.sprint:key.keyboard.left.shift
+key_key.sneak:key.keyboard.left.shift
+key_key.sprint:key.keyboard.left.control
 key_key.drop:key.keyboard.q
 key_key.inventory:key.keyboard.e
 key_key.chat:key.keyboard.t
