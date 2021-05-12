@@ -572,7 +572,8 @@
       "minecraft:suspicious_stew",
       "minecraft:structure_block{BlockEntityTag:{mode:\"SAVE\"}}",
       "minecraft:structure_block{BlockEntityTag:{mode:\"LOAD\"}}",
-      "minecraft:structure_block{BlockEntityTag:{mode:\"CORNER\"}}"
+      "minecraft:structure_block{BlockEntityTag:{mode:\"CORNER\"}}",
+      "minecraft:jigsaw"
     ],
     "fastPlacementItemListType": "blacklist",
     "fastRightClickBlockListType": "blacklist",
