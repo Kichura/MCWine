@@ -26,7 +26,7 @@ hologram-patch: true
 hologram-y: -0.96
 piston-animation-patch: true
 chat-nbt-fix: true
-team-colour-fix: false
+team-colour-fix: true
 disable-1_13-auto-complete: true
 1_13-tab-complete-delay: 0
 fix-low-snow-collision: true
@@ -44,10 +44,11 @@ forced-use-1_17-resource-pack: false
 #
 # ViaFabric patch (1.8+) configuration goes here.
 #
-prevent-collision: false
+prevent-collision: true
 auto-team: false
 suppress-metadata-errors: true
 shield-blocking: true
+no-delay-shield-blocking: false
 show-shield-when-sword-in-hand: true
 simulate-pt: true
 bossbar-patch: true
