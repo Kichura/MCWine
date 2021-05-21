@@ -40,7 +40,6 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 - [LazyDFU](https://modrinth.com/mod/lazydfu) - **astei**,
 - [Lithium](https://modrinth.com/mod/lithium) - **CaffeineMC**,
 - [NoFlashing-NightVision (Aka Night Vision flash be gone)](https://www.curseforge.com/minecraft/mc-mods/night-vision-flash-be-gone) - **AshIndigo**,
-- [Persist-Sneaking (Aka Sneaky Screens)](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens) - **haykam**,
 - [Phosphor](https://modrinth.com/mod/phosphor) - **CaffeineMC**,
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric/tree/1.16.x/next) - **CaffeineMC**,
 - [Third-Person Maps](https://www.curseforge.com/minecraft/mc-mods/third-person-maps) - **Pepperoni__Jabroni__**,
