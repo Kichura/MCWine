@@ -15,6 +15,8 @@ Download MCWine as ZIP by navigating to the "Code" button and then pressing "Dow
 
 It is recommended that you use [AdoptOpenJDK with HotSpot](https://adoptopenjdk.net/?variant=openjdk16&jvmVariant=hotspot) to allow minecraft to make use of the Z Garbage Collector. For JVM Arguments it is recommended that you use [these specific scripts](https://pastebin.com/raw/pSVi5zi2) as your arguments instead of default (You can change the RAM of ```-Xmx2G``` value from the pastebin if you want more RAM or less to be used, But depends on your computer's hardware) for better results as the Shenandoah garbage collector (ShenandoahGC) is considered to be memory-hungry in some conditions.
 
+Although this should NOT be confused as this giving out any performance as this is mainly made to manage the garbage collection system for any possible improvement, don't use this if your current configuration is already good to go unless it is poorly maintained.
+
 ### Alternate MCWine branch
 
 If you believe Sodium or ViaFabric or Phosphor does not work out properly on your computer, Then you can try to fall back to the [Alternate Branch](https://github.com/Kichura/MCWine/tree/Alternate) in order to make use of Canvas + MultiConnect + Starlight instead. The method of this branch should be identical like the Vanilla method, But if you use MultiMC then you can try this [Alternate MultiMC branch](https://github.com/Kichura/MCWine/tree/MultiMC-Alternate) instead.
