@@ -3,6 +3,8 @@
 # MCWine
 MCWine is a fabric-based modpack designed to bring better performance, brand new fixes and a compatibility system to allow players to connect to older servers out of the box.
 
+(This project may contain bugs via specific mods, If you are sensitive to these kinds of issues; Please use pure vanilla of minecraft instead)
+
 ### Installing this modpack ([Official/Vanilla Method](https://github.com/Kichura/MCWine/tree/Standard))
 
 Download MCWine as ZIP by navigating to the "Code" button and then pressing "Download ZIP" from there. Then you will be required to drop the main folder (With folder containing it's files such as mods and whatnot) inside that ZIP to your minecraft's versions folder. After this you must reload your minecraft launcher to make a new profile by changing the game directory to the extracted version folder and then changing the version to the modpack itself.
