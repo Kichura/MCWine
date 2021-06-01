@@ -67,11 +67,7 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 
 ### Found a bug/issue via MCWine (Mods only)?
 
-Please contact the original authors at github or their discord servers for more details instead of [me](https://github.com/Kichura) as i do NOT own any of the following mods as said above. I also am NOT responsible for any damages or broken mods that are mentioned above in the mods list, You can however choose to contact [me](https://github.com/Kichura) if you believe something is in error and requires a fix for it as soon as possible.
-
-### Where the name "MCWine" comes from
-
-The name "MCWine" is an inspired name from the linux software ["Wine"](https://github.com/wine-mirror/wine) where you can run your favorite windows applications using any older windows version you like on the linux environment without having to emulate them inside a virtual machine utility, Wine also keeps the performance intact thanks to it's compatibility layer; Allowing users to keep up their applications without losing any performance from their real hardware. Thous i chose the name "MCWine" for this entire modpack as a strong reference.
+Please contact the original authors at github or their discord servers for more details instead of me as i do NOT own any of the following mods as said above. I also am NOT responsible for any damages or broken mods that are mentioned above in the mods list, You can however choose to contact me if you believe something is in error and requires a fix for it as soon as possible.
 
 ### License
 
