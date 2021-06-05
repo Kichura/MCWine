@@ -4,10 +4,11 @@
    "weather_quality": "FAST",
    "enable_vignette": false,
    "enable_clouds": false,
-   "smooth_lighting": "HIGH"
+   "smooth_lighting": "OFF"
   },
   "advanced": {
-    "chunk_renderer_backend": "GL30",
+    "use_vertex_arrays": true,
+    "use_multidraw": true,
     "animate_only_visible_textures": true,
     "use_advanced_entity_culling": true,
     "use_particle_culling": true,
@@ -15,7 +16,6 @@
     "use_compact_vertex_format": false,
     "use_chunk_face_culling": true,
     "use_memory_intrinsics": true,
-    "disable_driver_blacklist": false,
-    "use_fast_random": true
+    "disable_driver_blacklist": false
   }
 }
