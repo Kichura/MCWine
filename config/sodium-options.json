@@ -8,7 +8,7 @@
   },
   "advanced": {
     "use_vertex_arrays": true,
-    "use_multidraw": true,
+    "use_multidraw": false,
     "animate_only_visible_textures": true,
     "use_advanced_entity_culling": true,
     "use_particle_culling": true,
