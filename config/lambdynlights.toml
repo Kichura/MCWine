@@ -14,4 +14,3 @@ mode = "fancy"
 	tnt = "off"
 	# Creepers will be brighter when ignited, May not be recommended to turn this on.
 	creeper = "off"
-

@@ -15,7 +15,7 @@ Download MCWine as ZIP by navigating to the "Code" button and then pressing "Dow
 
 ### Recommended Java Version
 
-It is recommended that you use [AdoptOpenJDK with HotSpot](https://adoptopenjdk.net/?variant=openjdk16&jvmVariant=hotspot) to allow minecraft to make use of the Z Garbage Collector. For JVM Arguments it is recommended that you use [these specific scripts](https://pastebin.com/raw/pSVi5zi2) as your arguments instead of default (You can change the RAM of ```-Xmx2G``` value from the pastebin if you want more RAM or less to be used, But depends on your computer's hardware) for better results as the Shenandoah garbage collector (ShenandoahGC) is considered to be memory-hungry in some conditions.
+It is recommended that you use the built-in Java 16 (For nightly builds, See the [AdoptOpenJDK 17](https://github.com/AdoptOpenJDK/openjdk17-binaries/releases) builds instead) to allow minecraft to make use of the Z Garbage Collector. For JVM Arguments it is recommended that you use [these specific scripts](https://pastebin.com/raw/pSVi5zi2) as your arguments instead of default (You can change the RAM of ```-Xmx2G``` value from the pastebin if you want more RAM or less to be used, But depends on your computer's hardware) for better results as the Shenandoah garbage collector (ShenandoahGC) is considered to be memory-hungry in some conditions.
 
 Although this should NOT be confused as this giving out any performance as this is mainly made to manage the garbage collection system for any possible improvement, don't use this if your current configuration is already good to go unless it is poorly maintained.
 
@@ -30,7 +30,6 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 ### The following mods are owned by (Using original names with URLs instead):
 
 - [Alternate-EntityCulling (Aka EntityCulling Fabric/Forge)](https://www.curseforge.com/minecraft/mc-mods/entityculling) - **tr9zw**,
-- [Audio-Management (Aka Audio Output)](https://www.curseforge.com/minecraft/mc-mods/audio-output) - **Maximumgame**,
 - [BrandPacket](https://www.curseforge.com/minecraft/mc-mods/brandpacket) - **liachmodded**,
 - [Dynamic-Lights (Aka LambDynamicLights)](https://modrinth.com/mod/lambdynamiclights) - **LambdAurora**,
 - [Fabric-API](https://modrinth.com/mod/fabric-api) - **sfPlayer1**, **modmuss50**,
@@ -42,27 +41,22 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 - [Horse-Stats (Aka Horse Stats Vanilla)](https://www.curseforge.com/minecraft/mc-mods/horsestatsvanilla) - **TeaJ4y**,
 - [LazyDFU](https://modrinth.com/mod/lazydfu) - **astei**,
 - [Lithium](https://modrinth.com/mod/lithium) - **CaffeineMC**,
-- [LowHealth-Warning (Aka Damage Tint)](https://www.curseforge.com/minecraft/mc-mods/damage-tint) - **DeadlyMC_**,
 - [NoFlashing-NightVision (Aka Night Vision flash be gone)](https://www.curseforge.com/minecraft/mc-mods/night-vision-flash-be-gone) - **AshIndigo**,
 - [Persist-Sneaking (Aka Sneaky Screens)](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens) - **haykam**,
-- [Phosphor](https://modrinth.com/mod/phosphor) - **CaffeineMC**,
+- [Starlight](https://github.com/Spottedleaf/Starlight) - **Spottedleaf**,
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric/tree/1.16.x/next) - **CaffeineMC**,
 - [Third-Person Maps](https://www.curseforge.com/minecraft/mc-mods/third-person-maps) - **Pepperoni__Jabroni__**,
 - [Tweakeroo](https://masa.dy.fi/mcmods/client_mods/?mcver=1.16.4&mod=tweakeroo) - **masady, CFGrafanaStats**,
-- [Vanilla-Branding (Aka Branding)](https://github.com/LoganDark/fabric-branding) - **LoganDark**,
 - [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) - **creeper12312332, KennyTVN**,
-- [Zoom (Aka Ok Zoomer)](https://modrinth.com/mod/ok-zoomer) - **boredomh1**,
 
 - Modpack creator of MCWine - [Kichura](https://github.com/Kichura/MCWine).
 
 ### Additional thanks to
 
 - FlashyReese for helping me create this entire readme document,
-- LoganDark for telling me how to [resolve](https://github.com/LoganDark/fabric-branding/issues/1) the version string issue for "vanilla" context in F3 screen,  
 - MrMangoHands for helping out with sharing the [lithium configuration codes](https://github.com/jellysquid3/lithium-fabric/blob/1.16.x/dev/src/main/java/me/jellysquid/mods/lithium/common/config/LithiumConfig.java),
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) & [TheMobCave](https://www.youtube.com/watch?v=9PYpUCo8TKQ) for making the "Default+" resource pack possible,
 - DragonEggBedrockBreaking for the [absorption heart fix](https://github.com/DragonEggBedrockBreaking/chat-up) to "Chat Up!",
-- [Z-8Bit](https://github.com/Z-8Bit) for suggesting a mod replacement for audio reloader,
 - [SalC1](https://salc1.com) & [thgabs](https://www.curseforge.com/minecraft/texture-packs/programmer-art-fix) for making the "Programmer Art+" resource pack possible.
 
 
