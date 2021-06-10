@@ -4,7 +4,7 @@
    "weather_quality": "FAST",
    "enable_vignette": false,
    "enable_clouds": false,
-   "smooth_lighting": "OFF"
+   "smooth_lighting": "HIGH"
   },
   "advanced": {
     "use_vertex_arrays": true,
