@@ -50,7 +50,9 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 - [Third-Person Maps](https://www.curseforge.com/minecraft/mc-mods/third-person-maps) - **Pepperoni__Jabroni__**,
 - [Tweakeroo](https://masa.dy.fi/mcmods/client_mods/?mcver=1.16.4&mod=tweakeroo) - **masady, CFGrafanaStats**,
 - [Vanilla-Branding (Aka Branding)](https://github.com/LoganDark/fabric-branding) - **LoganDark**,
+- [ViaBackwards](https://github.com/ViaVersion/ViaBackwards/tree/dev) - **KennyTVN**,
 - [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) - **creeper12312332, KennyTVN**,
+- [ViaRewind](https://github.com/ViaVersion/ViaRewind/tree/dev) - **KennyTVN**,
 - [Zoom (Aka Ok Zoomer)](https://modrinth.com/mod/ok-zoomer) - **boredomh1**,
 
 - Modpack creator of MCWine - [Kichura](https://github.com/Kichura/MCWine).

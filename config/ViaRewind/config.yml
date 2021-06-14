@@ -1,0 +1,6 @@
+#
+# This will adjust the configuration for 1.8.x and 1.7.x servers further.
+#
+cooldown-indicator: TITLE
+replace-adventure: true
+replace-particles: true

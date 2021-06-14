@@ -1,0 +1,7 @@
+#
+# This will adjust configurations for 1.9.x - 1.13.x servers further.
+#
+always-show-original-mob-name: true
+add-custom-enchants-into-lore: true
+add-teamcolor-to-prefix: true
+fix-1_13-face-player: true
