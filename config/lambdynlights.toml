@@ -1,5 +1,5 @@
 # Dyanmic lights configuration,
-# It is recommended you leave this mode set to fancy for best effects unless your game lags out or crashes with this mod, Then please remove this from your profile.
+# It is recommended you leave this mode set to fancy for best effects unless your game lags out or crashes with this mod, Then please change the config to your own satisfaction.
 mode = "fancy"
 
 # Light sources configuration, Can be modified if you wish to use your own choices.
