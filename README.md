@@ -64,8 +64,7 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 - LoganDark for telling me how to [resolve](https://github.com/LoganDark/fabric-branding/issues/1) the version string issue for "vanilla" context in F3 screen,  
 - MrMangoHands for helping out with sharing the [lithium configuration codes](https://github.com/jellysquid3/lithium-fabric/blob/1.16.x/dev/src/main/java/me/jellysquid/mods/lithium/common/config/LithiumConfig.java),
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) & [TheMobCave](https://www.youtube.com/watch?v=9PYpUCo8TKQ) for making the "Default+" resource pack possible,
-- DragonEggBedrockBreaking for the [absorption heart fix](https://github.com/DragonEggBedrockBreaking/chat-up) to "Chat Up!",
-- [Z-8Bit](https://github.com/Z-8Bit) for suggesting a mod replacement for audio reloader,
+- [Z-8Bit](https://github.com/Z-8Bit) for suggesting a mod replacement for audio reloader + giving a performance comparison for J16 + J17,
 - [SalC1](https://salc1.com) & [thgabs](https://www.curseforge.com/minecraft/texture-packs/programmer-art-fix) for making the "Programmer Art+" resource pack possible.
 
 
