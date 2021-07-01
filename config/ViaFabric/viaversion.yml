@@ -43,7 +43,8 @@ reduce-blockstorage-memory: false
 flowerstem-when-block-above: false
 vine-climb-fix: true
 ignore-long-1_16-channel-names: true
-forced-use-1_17-resource-pack: false
+forced-use-1_17-resource-pack: true
+resource-pack-1_17-prompt: This server requires the resource pack to be enabled in order to display other contents properly.
 #
 # ViaFabric patch (1.8+) configuration goes here.
 #
