@@ -15,7 +15,7 @@ Download MCWine as ZIP by navigating to the "Code" button and then pressing "Dow
 
 ### Recommended Java Version
 
-It is recommended that you use [AdoptOpenJDK with HotSpot](https://adoptopenjdk.net/?variant=openjdk16&jvmVariant=hotspot) to allow minecraft to make use of the Z Garbage Collector. For JVM Arguments it is recommended that you use [these specific scripts](https://pastebin.com/raw/0sxGeJ1N) as your arguments instead of default (You can change the RAM of ```-Xmx2G``` value from the pastebin if you want more RAM or less to be used, But depends on your computer's hardware) for better results as the Shenandoah garbage collector (ShenandoahGC) is considered to be memory-hungry in some conditions.
+It is recommended that you use [AdoptOpenJDK with HotSpot](https://adoptopenjdk.net/?variant=openjdk16&jvmVariant=hotspot) (For nightly builds, See the [AdoptOpenJDK 17](https://github.com/AdoptOpenJDK/openjdk17-binaries/releases) builds instead, although now requires javacheck.jar to be erased as seen in this [clip](https://streamable.com/i3voeu)) to allow minecraft to make use of the Z Garbage Collector. For JVM Arguments it is recommended that you use [these specific scripts](https://pastebin.com/raw/1vHX2YSC) as your arguments instead of default (You can change the RAM of ```-Xmx2G``` value from the pastebin if you want more RAM or less to be used, But depends on your computer's hardware) for better results as the Shenandoah garbage collector (ShenandoahGC) is considered to be memory-hungry in some conditions.
 
 Although this should NOT be confused as this giving out any performance as this is mainly made to manage the garbage collection system for any possible improvement, don't use this if your current configuration is already good to go unless it is poorly maintained.
 
@@ -64,8 +64,7 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 - LoganDark for telling me how to [resolve](https://github.com/LoganDark/fabric-branding/issues/1) the version string issue for "vanilla" context in F3 screen,  
 - MrMangoHands for helping out with sharing the [lithium configuration codes](https://github.com/jellysquid3/lithium-fabric/blob/1.16.x/dev/src/main/java/me/jellysquid/mods/lithium/common/config/LithiumConfig.java),
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) & [TheMobCave](https://www.youtube.com/watch?v=9PYpUCo8TKQ) for making the "Default+" resource pack possible,
-- DragonEggBedrockBreaking for the [absorption heart fix](https://github.com/DragonEggBedrockBreaking/chat-up) to "Chat Up!",
-- [Z-8Bit](https://github.com/Z-8Bit) for suggesting a mod replacement for audio reloader,
+- [Z-8Bit](https://github.com/Z-8Bit) for suggesting a mod replacement for audio reloader + giving a performance comparison for J16 + J17,
 - [SalC1](https://salc1.com) & [thgabs](https://www.curseforge.com/minecraft/texture-packs/programmer-art-fix) for making the "Programmer Art+" resource pack possible.
 
 
