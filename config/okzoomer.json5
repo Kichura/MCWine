@@ -37,6 +37,6 @@
 		"reset_zoom_with_mouse": false,
 		"unbind_conflicting_key": false,
 		"print_owo_on_start": false,
-		"hide_zoom_overlay": false
+		"hide_zoom_overlay": true
 	}
 }
