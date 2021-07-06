@@ -1,6 +1,6 @@
 {
   "id": "MCWine-Beta",
-  "inheritsFrom": "1.17",
+  "inheritsFrom": "1.17.1",
   "releaseTime": "2021-06-16",
   "time": "2021-06-16",
   "type": "release",
@@ -54,7 +54,7 @@
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "net.fabricmc:intermediary:1.17",
+      "name": "net.fabricmc:intermediary:1.17.1",
       "url": "https://maven.fabricmc.net/"
     },
     {
