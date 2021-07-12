@@ -1,11 +1,9 @@
 {
   "Fixes": {
-    "clientChunkEntityDupeFix": true,
     "elytraFix": true,
     "macHorizontalScroll": true,
     "profilerChartFix": true,
-    "ravagerClientBlockBreakFix": true,
-    "tileEntityUnloadOptimization": true
+    "ravagerClientBlockBreakFix": true
   },
   "Generic": {
     "clientPlacementRotation": false,
@@ -63,9 +61,11 @@
     "potionWarningThreshold": 600,
     "renderLimitItem": -1,
     "renderLimitXPOrb": -1,
+    "sculkSensorPulseLength": 40,
     "snapAimPitchStep": 12.5,
     "snapAimYawStep": 45.0,
     "structureBlockMaxSize": 128,
+    "toolSwitchableSlots": "1-9",
     "zoomFov": 30.0
   },
   "GenericHotkeys": {
@@ -552,7 +552,7 @@
   },
   "Internal": {
     "flySpeedPreset": 0,
-    "gammaValueOriginal": 0.5,
+    "gammaValueOriginal": 0.5023474178403756,
     "hotbarScrollCurrentRow": 3,
     "slimeBlockSlipperinessOriginal": 0.800000011920929,
     "snapAimLastYaw": 0.0
@@ -570,10 +570,9 @@
       "minecraft:command_block_minecart",
       "minecraft:debug_stick",
       "minecraft:suspicious_stew",
-      "minecraft:structure_block{BlockEntityTag:{mode:\"SAVE\"}}",
-      "minecraft:structure_block{BlockEntityTag:{mode:\"LOAD\"}}",
-      "minecraft:structure_block{BlockEntityTag:{mode:\"CORNER\"}}",
-      "minecraft:jigsaw"
+      "minecraft:jigsaw",
+      "minecraft:light",
+      "minecraft:sculk_sensor"
     ],
     "fastPlacementItemListType": "blacklist",
     "fastRightClickBlockListType": "blacklist",
@@ -760,7 +759,9 @@
     "disableBlockBreakingParticles": false,
     "disableDoubleTapSprint": false,
     "disableBossFog": true,
+    "disableChunkRendering": false,
     "disableClientEntityUpdates": false,
+    "disableClientLightUpdates": false,
     "disableDeadMobRendering": false,
     "disableDeadMobTargeting": true,
     "disableEntityRendering": false,
@@ -847,7 +848,31 @@
         "cancel": true
       }
     },
+    "disableChunkRendering": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
     "disableClientEntityUpdates": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "disableClientLightUpdates": {
       "keys": "",
       "settings": {
         "activate_on": "PRESS",
@@ -1214,6 +1239,7 @@
     "tweakRenderInvisibleEntities": false,
     "tweakRenderLimitEntities": true,
     "tweakRepairMode": false,
+    "tweakSculkPulseLength": true,
     "tweakShulkerBoxDisplay": false,
     "tweakSignCopy": false,
     "tweakSnapAim": false,
@@ -1997,6 +2023,18 @@
       }
     },
     "tweakRepairMode": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "tweakSculkPulseLength": {
       "keys": "",
       "settings": {
         "activate_on": "PRESS",
