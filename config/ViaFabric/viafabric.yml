@@ -12,9 +12,13 @@ client-side-force-disable:
 - '*.minemen.club'
 - lunar.gg
 - '*.lunar.gg'
-- pvp.land
-- play.wynncraft.com
+- wynncraft.com
+- '*.wynncraft.com'
 - minescape.me
+- '*.minescape.me'
+- pvp.land
+- potion.land
+- bedwarspractice.club
 #
 # Manages the version protocol for servers, Please keep in mind that the author of ViaFabric is NOT responsible for unexpected punishments,
 # based of this mod. If you happen to get banned with this then you're basically on your own entirely!
