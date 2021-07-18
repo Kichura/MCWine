@@ -5,3 +5,4 @@ always-show-original-mob-name: true
 add-custom-enchants-into-lore: true
 add-teamcolor-to-prefix: true
 fix-1_13-face-player: true
+handle-pings-as-inv-acknowledgements: true

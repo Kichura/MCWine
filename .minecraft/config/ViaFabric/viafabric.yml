@@ -4,6 +4,17 @@
 client-side-force-disable:
 - hypixel.net
 - '*.hypixel.net'
+- cubecraft.net
+- '*.cubecraft.net'
+- mineplex.com
+- '*.mineplex.com'
+- minemen.club
+- '*.minemen.club'
+- lunar.gg
+- '*.lunar.gg'
+- pvp.land
+- play.wynncraft.com
+- minescape.me
 #
 # Manages the version protocol for servers, Please keep in mind that the author of ViaFabric is NOT responsible for unexpected punishments,
 # based of this mod. If you happen to get banned with this then you're basically on your own entirely!
