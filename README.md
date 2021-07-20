@@ -59,11 +59,23 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 
 - FlashyReese for helping me create this entire readme document,
 - MrMangoHands for helping out with sharing the [lithium configuration codes](https://github.com/jellysquid3/lithium-fabric/blob/1.16.x/dev/src/main/java/me/jellysquid/mods/lithium/common/config/LithiumConfig.java),
-- [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) & [TheMobCave](https://www.youtube.com/watch?v=9PYpUCo8TKQ) & [TinyDaggsy](https://www.curseforge.com/minecraft/texture-packs/animated-furnaces) & [EpicCOAwesomeKid](https://www.curseforge.com/minecraft/texture-packs/corrected-mob-heads) & [funkiestcord67](https://www.curseforge.com/minecraft/texture-packs/repaired-enchanting) for making the "Default+" resource pack possible,
 - [Z-8Bit](https://github.com/Z-8Bit) for suggesting a mod replacement for audio reloader + giving a performance comparison for J16 + J17,
-- [SalC1](https://salc1.com) & [thgabs](https://www.curseforge.com/minecraft/texture-packs/programmer-art-fix) & [Dimbu_](https://www.curseforge.com/minecraft/texture-packs/programmer-plus) for making the "Programmer Art+" resource pack possible,
 - [robotkoer](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized) & [The ViaVersion Team](https://github.com/ViaVersion) for inspiring me to create this modpack from the ground-up.
 
+### Resource pack references (Default+):
+
+- [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) - Contains most of the tweaks,
+- [TheMobCave](https://www.youtube.com/watch?v=9PYpUCo8TKQ) - Replaces default rain,
+- [TinyDaggsy](https://www.curseforge.com/minecraft/texture-packs/animated-furnaces) - Re-Animates the furnaces,
+- [EpicCOAwesomeKid](https://www.curseforge.com/minecraft/texture-packs/corrected-mob-heads) - Move heads to camera for better view,
+- [funkiestcord67](https://www.curseforge.com/minecraft/texture-packs/repaired-enchanting) - Add further romanic for level 6 - 100,
+- [ダイヤ二ゲロウ](https://www.curseforge.com/minecraft/texture-packs/half-width-space-restoration) - Restores half-width spaces for japanese,
+- [flatjim_](https://www.curseforge.com/minecraft/texture-packs/gui-retextures) - Overhauls the HUD.
+
+### Resource pack references (Programmer Art+):
+- [SalC1](https://salc1.com) - Contains most of the tweaks,
+- [thgabs](https://www.curseforge.com/minecraft/texture-packs/programmer-art-fix) - Fixes some of the missing assets,
+- [Dimbu_](https://www.curseforge.com/minecraft/texture-packs/programmer-plus) - Make nether update & Caves and Cliffs textures programmer art-like.
 
 ### Found a bug/issue via MCWine (Mods only)?
 
