@@ -17,8 +17,18 @@ client-side-force-disable:
 - minescape.me
 - '*.minescape.me'
 - pvp.land
+- '*.pvp.land'
 - potion.land
+- '*.potion.land'
+- bridger.land
+- '*.bridger.land'
 - bedwarspractice.club
+- '*.bedwarspractice.club'
+- gommehd.net
+- '*.gommehd.net'
+- antiac.net
+- '*.antiac.net'
+
 #
 # Manages the version protocol for servers, Please keep in mind that the author of ViaFabric is NOT responsible for unexpected punishments,
 # based of this mod. If you happen to get banned with this then you're basically on your own entirely!
