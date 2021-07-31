@@ -48,7 +48,7 @@ resource-pack-1_17-prompt: This server requires the resource pack to be enabled 
 #
 # ViaFabric patch (1.8+) configuration goes here.
 #
-prevent-collision: true
+prevent-collision: false
 auto-team: false
 suppress-metadata-errors: true
 shield-blocking: true
