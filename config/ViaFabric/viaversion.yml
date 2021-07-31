@@ -31,7 +31,7 @@ piston-animation-patch: true
 chat-nbt-fix: true
 team-colour-fix: true
 disable-1_13-auto-complete: true
-1_13-tab-complete-delay: 0
+1_13-tab-complete-delay: 3
 fix-low-snow-collision: true
 fix-infested-block-breaking: true
 truncate-1_14-books: true
@@ -48,7 +48,7 @@ resource-pack-1_17-prompt: This server requires the resource pack to be enabled 
 #
 # ViaFabric patch (1.8+) configuration goes here.
 #
-prevent-collision: true
+prevent-collision: false
 auto-team: false
 suppress-metadata-errors: true
 shield-blocking: true

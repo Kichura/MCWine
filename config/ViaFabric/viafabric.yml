@@ -1,5 +1,6 @@
 #
-# Since hypixel uses it's own protocol system to support newer clients, It will be filtered out from tampering with versions.
+# Since these servers have either very strict anti-cheats or include their own protocol-compatibility system,
+# They will be blacklisted so that the user cannot try to tamper with ViaFabric just to join servers that way.
 #
 client-side-force-disable:
 - hypixel.net
