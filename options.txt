@@ -66,6 +66,7 @@ glDebugVerbosity:0
 skipMultiplayerWarning:false
 hideMatchedNames:true
 joinedFirstServer:false
+hideBundleTutorial:true
 syncChunkWrites:true
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
