@@ -1,0 +1,4 @@
+{ 
+	// Scales the third-person map to a proper size.
+	"forceMapScaling": 96
+}
