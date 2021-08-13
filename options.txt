@@ -102,6 +102,7 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_key.entityculling.toggle:key.keyboard.unknown
 key_key.okzoomer.zoom:key.keyboard.z
 soundCategory_master:1.0
 soundCategory_music:0.75
