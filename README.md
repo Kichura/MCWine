@@ -47,9 +47,11 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 - [LowHealth-Warning (Aka Damage Tint)](https://www.curseforge.com/minecraft/mc-mods/damage-tint) - **DeadlyMC_**,
 - [NoFlashing-NightVision (Aka Night Vision flash be gone)](https://www.curseforge.com/minecraft/mc-mods/night-vision-flash-be-gone) - **AshIndigo**,
 - [Persist-Sneaking (Aka Sneaky Screens)](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens) - **haykam**,
+- [Sodium](https://github.com/CaffeineMC/sodium-fabric/tree/1.16.x/next) - **CaffeineMC**,
 - [Starlight](https://github.com/Spottedleaf/Starlight) - **Spottedleaf**,
-- [Sodium](https://github.com/CaffeineMC/sodium-fabric/tree/1.17.x/dev) - **CaffeineMC**,
-- [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) - **masady, CFGrafanaStats**,
+- [Third-Person Maps](https://www.curseforge.com/minecraft/mc-mods/third-person-maps) - **Pepperoni__Jabroni__**,
+- [Tweakeroo](https://masa.dy.fi/mcmods/client_mods/?mcver=1.16.4&mod=tweakeroo) - **masady, CFGrafanaStats**,
+- [Vanilla-Branding (Aka Branding)](https://github.com/IMS212/fabric-branding) - **LoganDark, IMS212**,
 - [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) - **creeper12312332, KennyTVN**,
 - [Zoom (Aka Ok Zoomer)](https://modrinth.com/mod/ok-zoomer) - **boredomh1**,
 
