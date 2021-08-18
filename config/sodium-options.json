@@ -1,9 +1,8 @@
 {
   "quality": {
-    "cloud_quality": "FANCY",
     "weather_quality": "FAST",
-    "enable_vignette": false,
-    "enable_clouds": false
+    "leaves_quality": "FANCY",
+    "enable_vignette": false
   },
   "advanced": {
     "arena_memory_allocator": "ASYNC",
@@ -14,7 +13,7 @@
     "use_block_face_culling": true,
     "allow_direct_memory_access": true,
     "enable_memory_tracing": false,
-    "use_advanced_staging_buffers": true,
+    "use_advanced_staging_buffers": false,
     "max_pre_rendered_frames": 5
   },
   "notifications": {
