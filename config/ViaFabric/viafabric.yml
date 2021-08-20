@@ -32,7 +32,7 @@ client-side-force-disable:
 - antiac.net
 - '*.antiac.net'
 - brawl.com
-- *.brawl.com'
+- '*.brawl.com'
 - mcbrawl.com
 - '*.mcbrawl.com'
 - performium.net
