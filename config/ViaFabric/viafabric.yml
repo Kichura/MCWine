@@ -31,25 +31,25 @@ client-side-force-disable:
 - '*.mcplayhd.net'
 - antiac.net
 - '*.antiac.net'
-- 'brawl.com'
+- brawl.com
 - *.brawl.com'
-- 'mcbrawl.com'
+- mcbrawl.com
 - '*.mcbrawl.com'
-- 'mc.performium.net'
+- performium.net
 - '*.performium.net'
-- 'mc.havocmc.net'
+- havocmc.net
 - '*.havocmc.net'
-- 'mc.piratemc.com'
+- piratemc.com
 - '*.piratemc.com'
-- 'mc.imaginefun.net'
+- imaginefun.net
 - '*.imaginefun.net'
-- 'mc.autcraft.com'
+- autcraft.com
 - '*.autcraft.com'
-- 'mcmiddleearth.com'
+- mcmiddleearth.com
 - '*.mcmiddleearth.com'
-- 'lotc.co'
+- lotc.co
 - '*.lotc.co'
-- 'potterworldmc.com'
+- potterworldmc.com
 - '*.potterworldmc.com'
 #
 # Manages the version protocol for servers, Please keep in mind that the author of ViaFabric is NOT responsible for unexpected punishments,
