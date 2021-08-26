@@ -477,6 +477,18 @@
         "cancel": true
       }
     },
+    "sitDownNearbyPets": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
     "skipAllRendering": {
       "keys": "",
       "settings": {
@@ -490,6 +502,18 @@
       }
     },
     "skipWorldRendering": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "standUpNearbyPets": {
       "keys": "",
       "settings": {
         "activate_on": "PRESS",
@@ -537,6 +561,18 @@
         "cancel": true
       }
     },
+    "writeMapsAsImages": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
     "zoomActivate": {
       "keys": "",
       "settings": {
@@ -558,6 +594,11 @@
     "snapAimLastYaw": 0.0
   },
   "Lists": {
+    "blockBreakRestrictionListType": "none",
+    "blockBreakRestrictionBlackList": [
+      "minecraft:budding_amethyst"
+    ],
+    "blockBreakRestrictionWhiteList": [],
     "creativeExtraItems": [
       "minecraft:command_block",
       "minecraft:chain_command_block",
@@ -723,6 +764,13 @@
       "White Glass;1*minecraft:white_stained_glass;minecraft:plains;;minecraft:white_stained_glass",
       "Glass;1*minecraft:glass;minecraft:plains;;minecraft:glass"
     ],
+    "handRestockListType": "none",
+    "handRestockBlackList": [
+      "minecraft:bucket",
+      "minecraft:lava_bucket",
+      "minecraft:water_bucket"
+    ],
+    "handRestockWhiteList": [],
     "potionWarningBlackList": [
       "minecraft:hunger",
       "minecraft:mining_fatigue",
@@ -1181,6 +1229,7 @@
     "tweakAfterClicker": false,
     "tweakAimLock": false,
     "tweakAngelBlock": false,
+    "tweakBlockBreakRestriction": false,
     "tweakBlockReachOverride": false,
     "tweakBreakingGrid": false,
     "tweakBreakingRestriction": false,
@@ -1327,6 +1376,18 @@
       }
     },
     "tweakAngelBlock": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "tweakBlockBreakRestriction": {
       "keys": "",
       "settings": {
         "activate_on": "PRESS",
