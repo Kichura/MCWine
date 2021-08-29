@@ -5,13 +5,16 @@
     "enable_vignette": false
   },
   "advanced": {
+    "arena_memory_allocator": "SWAP",
     "animate_only_visible_textures": true,
     "use_entity_culling": true,
     "use_particle_culling": true,
     "use_fog_occlusion": true,
     "use_block_face_culling": true,
     "allow_direct_memory_access": true,
-    "enable_memory_tracing": false
+    "enable_memory_tracing": false,
+    "use_advanced_staging_buffers": false,
+    "max_pre_rendered_frames": 4
   },
   "notifications": {
     "hide_donation_button": true
