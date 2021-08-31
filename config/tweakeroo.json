@@ -9,7 +9,6 @@
     "clientPlacementRotation": false,
     "freeCameraPlayerInputs": false,
     "freeCameraPlayerMovement": false,
-    "lavaVisibilityOptifineCompat": true,
     "handRestockPre": false,
     "hangableEntityBypassInverse": true,
     "permanentSneakAllowInGUIs": true,
@@ -827,6 +826,7 @@
     "disableRainEffects": false,
     "disableRenderingScaffolding": false,
     "disableRenderDistanceFog": false,
+    "disableShulkerBoxTooltip": false,
     "disableSignGui": false,
     "disableSlimeBlockSlowdown": true,
     "disableTileEntityRendering": false,
@@ -1136,6 +1136,18 @@
         "cancel": true
       }
     },
+    "disableShulkerBoxTooltip": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
     "disableSignGui": {
       "keys": "",
       "settings": {
@@ -1229,8 +1241,8 @@
     "tweakAfterClicker": false,
     "tweakAimLock": false,
     "tweakAngelBlock": false,
-    "tweakBlockBreakRestriction": false,
     "tweakBlockReachOverride": false,
+    "tweakBlockTypeBreakRestriction": false,
     "tweakBreakingGrid": false,
     "tweakBreakingRestriction": false,
     "tweakChatBackgroundColor": true,
@@ -1387,7 +1399,7 @@
         "cancel": true
       }
     },
-    "tweakBlockBreakRestriction": {
+    "tweakBlockReachOverride": {
       "keys": "",
       "settings": {
         "activate_on": "PRESS",
@@ -1399,7 +1411,7 @@
         "cancel": true
       }
     },
-    "tweakBlockReachOverride": {
+    "tweakBlockTypeBreakRestriction": {
       "keys": "",
       "settings": {
         "activate_on": "PRESS",
