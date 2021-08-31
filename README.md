@@ -40,7 +40,7 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 - [Fix-ItemModels (Aka Item Model Fix)](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - **Pepper_Bell**,
 - [Fix-SkyColor (Aka Clear Skies)](https://www.curseforge.com/minecraft/mc-mods/clear-skies) - **grondagthebarbarian**,
 - [Fix-ToolTips (Aka ToolTipFix)](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) - **Kyrptonaught**,
-- [Hide-Score (Aka NoMoreScore)](https://modrinth.com/mod/nms) - **ExoPlant**,
+- [Hide-Score (Aka NoMoreScore)](https://github.com/ExoPlant/NoMoreScore) - **ExoPlant**,
 - [Horse-Stats (Aka Horse Stats Vanilla)](https://www.curseforge.com/minecraft/mc-mods/horsestatsvanilla) - **TeaJ4y**,
 - [Iris](https://github.com/IrisShaders/Iris) - **IrisShaders**,
 - [Krypton](https://modrinth.com/mod/krypton) - **astei**,
