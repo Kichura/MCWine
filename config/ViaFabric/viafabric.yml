@@ -52,8 +52,8 @@ client-side-force-disable:
 - potterworldmc.com
 - '*.potterworldmc.com'
 #
-# Manages the version protocol for servers, Please keep in mind that the author of ViaFabric is NOT responsible for unexpected punishments,
-# based of this mod. If you happen to get banned with this then you're basically on your own entirely!
+# Manages the version protocol for servers; Please keep in mind that the author of ViaFabric is NOT responsible for unexpected punishments,
+# If you happen to get banned with this then we can't do anything about it!
 #
 client-side-version: -2
 enable-client-side: true
