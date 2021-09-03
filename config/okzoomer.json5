@@ -2,7 +2,9 @@
 	"features": {
 	        //
 		// Controls the zooming modes,
-		// This should remain the same as provided unless you have to change this for a reason.
+		//
+		// By default in this pack; The mouse is slowed + zoom key held down so that aiming is easier, this includes making the zooming smooth.
+		// but this behavior can be modified if this is not satisifying for your personal needs.
 		//
 		"reduce_sensitivity": true,
 		"zoom_transition": "SMOOTH",
@@ -17,13 +19,13 @@
 	"values": {
 		//
 		// The values used for the zoom feature,
-		// We recommend not changing these values unless you have to change this for a reason.
+		//
+		// This controls the zooming system in general so that a proper zoom is set-up and ready for use,
+		// however this section uses the old zooming configuration as it is unmodified.
 		//
 		"zoom_divisor": 4.0,
 		"minimum_zoom_divisor": 1.0,
 		"maximum_zoom_divisor": 50.0,
-		"minimum_zoomed_f_o_v": 30.0,
-		"maximum_zoomed_f_o_v": 110.0,
 		"scroll_step": 1.0,
 		"lesser_scroll_step": 0.5,
 		"cinematic_multiplier": 4.0,
@@ -34,7 +36,9 @@
 	"tweaks": {
 		//
 		// Tweak utilities used for zooming feature,
-		// These should remain disabled at all costs.
+		//
+		// These are basically useless in general so all of them are disabled by default in this pack,
+		// but if you want to use one of them or another anyways, feel free to change these.
 		//
 		"reset_zoom_with_mouse": false,
 		"unbind_conflicting_key": false,
