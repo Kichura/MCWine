@@ -63,7 +63,7 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 ### Additional thanks to
 
 - FlashyReese for helping me create this entire readme document,
-- MrMangoHands for helping out with sharing the [lithium configuration codes](https://github.com/jellysquid3/lithium-fabric/blob/1.16.x/dev/src/main/java/me/jellysquid/mods/lithium/common/config/LithiumConfig.java),
+- MrMangoHands for helping out with sharing the [lithium configuration codes](https://github.com/CaffeineMC/lithium-fabric/blob/1.17.x/dev/src/main/java/me/jellysquid/mods/lithium/common/config/LithiumConfig.java),
 - [Z-8Bit](https://github.com/Z-8Bit) for suggesting a mod replacement for audio reloader + giving a performance comparison for J16 + J17,
 - [robotkoer](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized) & [The ViaVersion Team](https://github.com/ViaVersion) for inspiring me to create this modpack from the ground-up.
 
