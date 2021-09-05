@@ -1,9 +1,8 @@
-
 ![MCWine Icon](https://i.imgur.com/sykJqfG.png)
 # MCWine
 MCWine is a fabric-based modpack designed to bring better performance, brand new fixes and a compatibility system to allow players to connect to older servers out of the box.
 
-(This project may contain bugs via specific mods, If you are sensitive to these kinds of issues; Please use pure vanilla of minecraft instead)
+(This project may contain bugs via specific mods, If you are sensitive to these kinds of issues; Please don't use modpack unless you know any better)
 
 ### Installing this modpack ([Official/Vanilla Method](https://github.com/Kichura/MCWine/tree/Standard))
 
@@ -15,17 +14,27 @@ Download MCWine as ZIP by navigating to the "Code" button and then pressing "Dow
 
 ### Recommended Java Version
 
-It is recommended that you use the built-in Java 16 (For nightly builds, See the [OpenJDK 17](https://jdk.java.net/17) builds instead, although now requires javacheck.jar to be erased as seen in this [clip](https://streamable.com/i3voeu)) to allow minecraft to make use of the Z Garbage Collector (or upgrade the G1 Garbage Collector System). For JVM Arguments it is recommended that you use [these specific scripts](https://pastebin.com/raw/ay46r2SJ) as your arguments instead of default (You can change the RAM of ```-Xmx2G``` value from the pastebin if you want more RAM or less to be used, But depends on your computer's hardware) for better results as the Shenandoah garbage collector (ShenandoahGC) is considered to be memory-hungry in some conditions.
+It is recommended that you use the built-in Java 16 version to allow minecraft to make use of the latest java version. For nightly builds; See the [Java 17](https://jdk.java.net/17) builds instead, although now requires ```javacheck.jar``` to be deleted as seen in this [clip](https://streamable.com/i3voeu). (But if you use MultiMC instead then skip the ```javacheck.jar``` removal requirement)
 
-Although this should NOT be confused as this giving out any performance as this is mainly made to manage the garbage collection system for any possible improvement, don't use this if your current configuration is already good to go unless it is poorly maintained.
+For JVM Arguments; It is recommended that you use [one of these specific scripts](https://pastebin.com/raw/ay46r2SJ) from this pastebin as your JVM arguments instead of the defaults. (You can change the RAM of ```-Xmx2G``` value from the pastebin if you want more RAM or less to be used, But depends on your computer's hardware)
+
+*Although this should NOT be confused as this giving out any performance as this is mainly made to manage the garbage collection system for any possible improvement, don't use this if your current configuration is already good to go unless your current java instance runs poorly.*
 
 ### Alternate MCWine branch
 
-If you believe Sodium or ViaFabric or Phosphor does not work out properly on your computer, Then you can try to fall back to the [Alternate Branch](https://github.com/Kichura/MCWine/tree/Alternate) in order to make use of Canvas + MultiConnect + Starlight instead. The method of this branch should be identical like the Vanilla method, But if you use MultiMC then you can try this [Alternate MultiMC branch](https://github.com/Kichura/MCWine/tree/MultiMC-Alternate) instead.
+If you believe some mods don't work well properly on your computer via Standard/Lite, Then you can try to fall back to the [Alternate Branch](https://github.com/Kichura/MCWine/tree/Alternate) in order to make use of alternate mods instead. The installing method for this branch should be the same for standard, beta and lite, But if you use MultiMC then you can try this [Alternate-MultiMC branch](https://github.com/Kichura/MCWine/tree/MultiMC-Alternate) instead.
 
 ### Lite MCWine branch
 
-If you need to acquire a smaller version of this modpack, Then you can [try this branch](https://github.com/Kichura/MCWine/tree/Lite) out for a lite version (For the MultiMC version, [See this page instead](https://github.com/Kichura/MCWine/tree/MultiMC-Lite)).
+If you need to use a smaller version of this modpack, Then you can [try this branch](https://github.com/Kichura/MCWine/tree/Lite) out for the lite version (For the MultiMC version, [See this page instead](https://github.com/Kichura/MCWine/tree/MultiMC-Lite)).
+
+*This version will not have several fixes built-in to it but will try to help out the performance some.*
+
+### Beta MCWine branch
+
+If you want to take part of the bleeding edge version of MCWine then you can [try this branch out](https://github.com/Kichura/MCWine/tree/Beta) for the latest mod versions including MC's 1.17.x version instead of the previous one, However please note that this can contain more bugs/issues in this branch unlike the other branches for example.
+
+*For the MultiMC version, Please [see this page](https://github.com/Kichura/MCWine/tree/MultiMC-Beta) instead.*
 
 ### The following mods are owned by (Using original names with URLs instead):
 
@@ -88,7 +97,7 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 
 ### Found a bug/issue via MCWine (Mods only)?
 
-Please contact the original authors at github or their discord servers for more details instead of me as i do NOT own any of the following mods as said above. I also am NOT responsible for any damages or broken mods that are mentioned above in the mods list, You can however choose to contact me if you believe something is in error and requires a fix for it as soon as possible.
+Please contact the original authors at github or their specific social medias for more details instead of me as i do NOT own any of the following mods as said above. I also am NOT responsible for any damages or corruptions caused by one or more mods combined, You can however choose to contact me if you believe something is in error and requires a fix for it as soon as possible.
 
 ### License
 
