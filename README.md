@@ -27,6 +27,10 @@ If you believe Sodium or ViaFabric or Phosphor does not work out properly on you
 
 If you need to acquire a smaller version of this modpack, Then you can [try this branch](https://github.com/Kichura/MCWine/tree/Lite) out for a lite version (For the MultiMC version, [See this page instead](https://github.com/Kichura/MCWine/tree/MultiMC-Lite)).
 
+### Beta MCWine branch
+
+If you want to take part of the bleeding edge version of MCWine then you can [try this branch](https://github.com/Kichura/MCWine/tree/Beta) for the latest versions including MC's 1.17.x version instead of the previous one, However please note that this can contain more bugs/issues in this branch unlike standard for example.
+
 ### The following mods are owned by (Using original names with URLs instead):
 
 - [Alternate-EntityCulling (Aka EntityCulling Fabric/Forge)](https://www.curseforge.com/minecraft/mc-mods/entityculling) - **tr9zw**,
