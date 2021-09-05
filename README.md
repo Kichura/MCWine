@@ -75,7 +75,11 @@ If you need to acquire a smaller version of this modpack, Then you can [try this
 - [EpicCOAwesomeKid](https://www.curseforge.com/minecraft/texture-packs/corrected-mob-heads) - Move heads to camera for better view,
 - [funkiestcord67](https://www.curseforge.com/minecraft/texture-packs/repaired-enchanting) - Add further romanic for level 6 - 100,
 - [ダイヤ二ゲロウ](https://www.curseforge.com/minecraft/texture-packs/half-width-space-restoration) - Restores half-width spaces for japanese,
-- [flatjim_](https://www.curseforge.com/minecraft/texture-packs/gui-retextures) - Overhauls the HUD.
+- [flatjim_](https://www.curseforge.com/minecraft/texture-packs/gui-retextures) - Overhauls the HUD,
+- [dbrighthd](https://www.curseforge.com/minecraft/texture-packs/sea-grass-fix) - Makes tall sea-grass look better,
+- [ianruja](https://www.curseforge.com/minecraft/texture-packs/accurate-totem-of-undying) - Changes totem's arms to wings,
+- [RuMakslSa](https://www.curseforge.com/minecraft/texture-packs/improved-vines) - Patches vines from looking ugly,
+- [Lad_Flaver](https://www.curseforge.com/minecraft/texture-packs/rail-fix) - Patches rails to not be stretched anymore.
 
 ### Resource pack references (Programmer Art+):
 - [SalC1](https://salc1.com) - Contains most of the tweaks,
