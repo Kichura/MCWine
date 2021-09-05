@@ -28,9 +28,13 @@ If you believe some mods don't work well properly on your computer via Standard/
 
 If you need to use a smaller version of this modpack, Then you can [try this branch](https://github.com/Kichura/MCWine/tree/Lite) out for the lite version (For the MultiMC version, [See this page instead](https://github.com/Kichura/MCWine/tree/MultiMC-Lite)).
 
+*This version will not have several fixes built-in to it but will try to help out the performance some.*
+
 ### Beta MCWine branch
 
 If you want to take part of the bleeding edge version of MCWine then you can [try this branch out](https://github.com/Kichura/MCWine/tree/Beta) for the latest mod versions including MC's 1.17.x version instead of the previous one, However please note that this can contain more bugs/issues in this branch unlike the other branches for example.
+
+*For the MultiMC version, Please [see this page](https://github.com/Kichura/MCWine/tree/MultiMC-Beta) instead.*
 
 ### The following mods are owned by (Using original names with URLs instead):
 
