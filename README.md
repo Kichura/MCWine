@@ -54,6 +54,7 @@ If you want to take part of the bleeding edge version of MCWine then you can [tr
 - [Iris](https://github.com/IrisShaders/Iris) - **IrisShaders**,
 - [Krypton](https://modrinth.com/mod/krypton) - **astei**,
 - [LazyDFU](https://modrinth.com/mod/lazydfu) - **astei**,
+- [LazyLang (Aka lazy-language-loader)](https://github.com/ChachyDev/lazy-language-loader/tree/1.16.x/dev) - **ChachyDev**,
 - [Lithium](https://modrinth.com/mod/lithium) - **CaffeineMC**,
 - [LowHealth-Warning (Aka Damage Tint)](https://www.curseforge.com/minecraft/mc-mods/damage-tint) - **DeadlyMC_**,
 - [NoFlashing-NightVision (Aka Night Vision flash be gone)](https://www.curseforge.com/minecraft/mc-mods/night-vision-flash-be-gone) - **AshIndigo**,
