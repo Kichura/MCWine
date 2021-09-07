@@ -19,6 +19,7 @@
     "slotSyncWorkaround": false,
     "slotSyncWorkaroundAlways": false,
     "snapAimIndicator": false,
+    "snapAimOnlyCloseToAngle": false,
     "snapAimPitchOvershoot": false,
     "zoomAdjustMouseSensitivity": false,
     "breakingRestrictionMode": "line",
@@ -62,6 +63,8 @@
     "renderLimitXPOrb": -1,
     "sculkSensorPulseLength": 40,
     "snapAimPitchStep": 12.5,
+    "snapAimThresholdPitch": 1.5,
+    "snapAimThresholdYaw": 5.0,
     "snapAimYawStep": 45.0,
     "structureBlockMaxSize": 128,
     "toolSwitchableSlots": "1-9",
@@ -826,6 +829,7 @@
     "disableRainEffects": false,
     "disableRenderingScaffolding": false,
     "disableRenderDistanceFog": false,
+    "disableScoreboardRendering": true,
     "disableShulkerBoxTooltip": false,
     "disableSignGui": false,
     "disableSlimeBlockSlowdown": true,
@@ -1126,6 +1130,18 @@
     },
     "disableRenderDistanceFog": {
       "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "disableScoreboardRendering": {
+      "keys": "F4",
       "settings": {
         "activate_on": "PRESS",
         "context": "INGAME",
