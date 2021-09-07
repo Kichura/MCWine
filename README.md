@@ -49,6 +49,7 @@ If you want to take part of the bleeding edge version of MCWine then you can [tr
 - [Fix-ItemModels (Aka Item Model Fix)](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - **Pepper_Bell**,
 - [Fix-SkyColor (Aka Clear Skies)](https://www.curseforge.com/minecraft/mc-mods/clear-skies) - **grondagthebarbarian**,
 - [Fix-ToolTips (Aka ToolTipFix)](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) - **Kyrptonaught**,
+- [Fix-UnixChat (Aka Mc122477Fix)](https://modrinth.com/mod/mc122477fix) - **SizableShrimp**,
 - [Hide-Score (Aka NoMoreScore)](https://github.com/ExoPlant/NoMoreScore) - **ExoPlant**,
 - [Horse-Stats (Aka Horse Stats Vanilla)](https://www.curseforge.com/minecraft/mc-mods/horsestatsvanilla) - **TeaJ4y**,
 - [Iris](https://github.com/IrisShaders/Iris) - **IrisShaders**,
