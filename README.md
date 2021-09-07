@@ -52,6 +52,7 @@ If you want to take part of the bleeding edge version of MCWine then you can [tr
 - [Fix-UnixChat (Aka Mc122477Fix)](https://modrinth.com/mod/mc122477fix) - **SizableShrimp**,
 - [Hide-Score (Aka NoMoreScore)](https://github.com/ExoPlant/NoMoreScore) - **ExoPlant**,
 - [Horse-Stats (Aka Horse Stats Vanilla)](https://www.curseforge.com/minecraft/mc-mods/horsestatsvanilla) - **TeaJ4y**,
+- [Improve-HorseHUD (Aka Better Mount HUD)](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) - **Lortseam_**,
 - [Iris](https://github.com/IrisShaders/Iris) - **IrisShaders**,
 - [Krypton](https://modrinth.com/mod/krypton) - **astei**,
 - [LazyDFU](https://modrinth.com/mod/lazydfu) - **astei**,
