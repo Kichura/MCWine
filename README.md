@@ -83,7 +83,7 @@ If you want to take part of the bleeding edge version of MCWine then you can [tr
 
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) - Contains most of the tweaks,
 - [TheMobCave](https://www.youtube.com/watch?v=9PYpUCo8TKQ) - Replaces default rain,
-- [TinyDaggsy](https://www.curseforge.com/minecraft/texture-packs/animated-furnaces) - Re-Animates the furnaces,
+- [TinyDaggsy](https://pastebin.com/raw/xLie81Je) - Changes llama decoration, furnaces, shulker boxes, sign icons and coral block textures,
 - [EpicCOAwesomeKid](https://www.curseforge.com/minecraft/texture-packs/corrected-mob-heads) - Move heads to camera for better view,
 - [funkiestcord67](https://www.curseforge.com/minecraft/texture-packs/repaired-enchanting) - Add further romanic for level 6 - 100,
 - [ダイヤ二ゲロウ](https://www.curseforge.com/minecraft/texture-packs/half-width-space-restoration) - Restores half-width spaces for japanese,
@@ -91,7 +91,12 @@ If you want to take part of the bleeding edge version of MCWine then you can [tr
 - [ianruja](https://www.curseforge.com/minecraft/texture-packs/accurate-totem-of-undying) - Changes totem's arms to wings,
 - [dbrighthd](https://www.curseforge.com/minecraft/texture-packs/sea-grass-fix) - Patches sea tall-grass to not peek out of water,
 - [RuMakslSa](https://www.curseforge.com/minecraft/texture-packs/improved-vines) - Patches vines from looking ugly,
-- [Lad_Flaver](https://www.curseforge.com/minecraft/texture-packs/rail-fix) - Patches rails to not be stretched anymore.
+- [Lad_Flaver](https://www.curseforge.com/minecraft/texture-packs/rail-fix) - Patches rails to not be stretched anymore,
+- [liahim85](https://www.curseforge.com/minecraft/texture-packs/authentic-shadows) - Makes entity shadow accurate to MC's style,
+- [qkrehf2](https://www.curseforge.com/minecraft/texture-packs/bkt-better-korean-translation) - Makes korean more naturally,
+- [Bold_Muddy](https://www.curseforge.com/minecraft/texture-packs/amethyst-trident) - Makes trident amethyst-like,
+- [mr_ch0c0late1](https://www.curseforge.com/minecraft/texture-packs/blockstates) - Makes the age system more noticable,
+- [send4kolchak](https://www.curseforge.com/minecraft/texture-packs/sends-realistic-lighting) - Makes lighting more accurate for moody. (OF only)
 
 ### Resource pack references (Programmer Art+):
 - [SalC1](https://salc1.com) - Contains most of the tweaks,
