@@ -96,7 +96,8 @@ If you want to take part of the bleeding edge version of MCWine then you can [tr
 - [qkrehf2](https://www.curseforge.com/minecraft/texture-packs/bkt-better-korean-translation) - Makes korean more naturally,
 - [Bold_Muddy](https://www.curseforge.com/minecraft/texture-packs/amethyst-trident) - Makes trident amethyst-like,
 - [mr_ch0c0late1](https://www.curseforge.com/minecraft/texture-packs/blockstates) - Makes the age system more noticable,
-- [send4kolchak](https://www.curseforge.com/minecraft/texture-packs/sends-realistic-lighting) - Makes lighting more accurate for moody. (OF only)
+- [send4kolchak](https://www.curseforge.com/minecraft/texture-packs/sends-realistic-lighting) - Makes lighting more accurate for moody, (OF only)
+- [tild09](https://www.curseforge.com/minecraft/texture-packs/updated-witches) - Overhauls the witch model. (OF or CEM mod required)
 
 ### Resource pack references (Programmer Art+):
 - [SalC1](https://salc1.com) - Contains most of the tweaks,
