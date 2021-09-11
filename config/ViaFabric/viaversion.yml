@@ -17,8 +17,8 @@ block-protocols:
 - 107
 - 5
 - 4
-block-disconnect-msg: This protocol version cannot be used for this server.
-reload-disconnect-msg: This server has been reloaded, Please connect again.
+block-disconnect-msg: This version cannot be used for this server as it is not supported.
+reload-disconnect-msg: This server has been reloaded, Please connect back to the server again.
 suppress-conversion-warnings: true
 #
 # Watchdog-Related configuration goes here.
