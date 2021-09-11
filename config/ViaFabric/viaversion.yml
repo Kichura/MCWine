@@ -8,6 +8,13 @@ checkforupdates: false
 send-supported-versions: true
 block-protocols:
 - 393
+- 340
+- 338
+- 210
+- 110
+- 109
+- 108
+- 107
 - 5
 - 4
 block-disconnect-msg: This protocol version cannot be used for this server.
