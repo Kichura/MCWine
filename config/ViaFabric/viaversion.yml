@@ -67,7 +67,7 @@ bossbar-anti-flicker: false
 use-new-effect-indicator: true
 use-new-deathmessages: true
 item-cache: true
-replace-pistons: true
+replace-pistons: false
 replacement-piston-id: 0
 force-json-transform: true
 minimize-cooldown: true
