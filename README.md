@@ -16,7 +16,7 @@ Download MCWine as ZIP by navigating to the "Code" button and then pressing "Dow
 
 It is recommended that you use the built-in Java 16 version to allow minecraft to make use of the latest java version. For nightly builds; See the [Java 17](https://jdk.java.net/17) builds instead, although now requires ```javacheck.jar``` to be deleted as seen in this [clip](https://streamable.com/i3voeu). (But if you use MultiMC instead then skip the ```javacheck.jar``` removal requirement)
 
-For JVM Arguments; It is recommended that you use [one of these specific scripts](https://pastebin.com/raw/ay46r2SJ) from this pastebin as your JVM arguments instead of the defaults. (You can change the RAM of ```-Xmx2G``` value from the pastebin if you want more RAM or less to be used, But depends on your computer's hardware)
+For JVM Arguments; It is recommended that you use [one of these specific scripts](https://pastebin.com/raw/ameaszCH) from this pastebin as your JVM arguments instead of the defaults. (You can change the RAM of ```-Xmx2G``` value from the pastebin if you want more RAM or less to be used, But depends on your computer's hardware)
 
 *Although this should NOT be confused as this giving out any performance as this is mainly made to manage the garbage collection system for any possible improvement, don't use this if your current configuration is already good to go unless your current java instance runs poorly.*
 
