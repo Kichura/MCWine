@@ -69,6 +69,14 @@ use-new-deathmessages: true
 item-cache: true
 replace-pistons: false
 replacement-piston-id: 0
+chunk-border-fix: true
 force-json-transform: true
 minimize-cooldown: true
 left-handed-handling: true
+#
+# Specifies the vanilla world names so that specific clients can remember what worlds they actually are.
+#
+map-1_16-world-names:
+  overworld: minecraft:overworld
+  nether: minecraft:the_nether
+  end: minecraft:the_end
