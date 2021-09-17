@@ -22,19 +22,19 @@ For JVM Arguments; It is recommended that you use [one of these specific scripts
 
 ### Alternate MCWine branch
 
-If you believe some mods don't work well properly on your computer via Standard/Lite, Then you can try to fall back to the [Alternate Branch](https://github.com/Kichura/MCWine/archive/Alternate.zip) in order to make use of alternate mods instead, But if you use MultiMC then you can try this [MultiMC-Alternate branch](https://github.com/Kichura/MCWine/archive/MultiMC-Alternate.zip) instead.
+If you believe some mods don't work well properly on your computer via Standard/Lite, Then you can try to fall back to the [Alternate version](https://github.com/Kichura/MCWine/archive/Alternate.zip) in order to make use of alternate mods instead, But if you use MultiMC then you can try this [MultiMC-Alternate version](https://github.com/Kichura/MCWine/archive/MultiMC-Alternate.zip) instead.
 
 ### Lite MCWine branch
 
-If you need to use a smaller version of this modpack, Then you can [try this branch](https://github.com/Kichura/MCWine/archive/Lite.zip) out for the lite version (For the MultiMC version, [See this page instead](https://github.com/Kichura/MCWine/archive/MultiMC-Lite.zip)).
+If you need to use a smaller version of this modpack, Then you can [try this version](https://github.com/Kichura/MCWine/archive/Lite.zip) out for the lite version (For the MultiMC version, [See this version instead](https://github.com/Kichura/MCWine/archive/MultiMC-Lite.zip)).
 
 *This version will not have several fixes built-in to it but will try to help out the performance some.*
 
 ### Beta MCWine branch
 
-If you want to take part of the bleeding edge version of MCWine then you can [try this branch out](https://github.com/Kichura/MCWine/archive/Beta.zip) for the latest mod versions including MC's 1.17.x version instead of the previous one, However please note that this can contain more bugs/issues in this branch unlike the other branches for example.
+If you want to take part of the bleeding edge version of MCWine then you can [try this version out](https://github.com/Kichura/MCWine/archive/Beta.zip) for the latest mod versions including MC's 1.17.x version instead of the previous one, However please note that this can contain more bugs/issues in this branch unlike the other branches for example.
 
-*For the MultiMC version, Please [see this page](https://github.com/Kichura/MCWine/archive/MultiMC-Beta.zip) instead.*
+*For the MultiMC version, Please [see this version](https://github.com/Kichura/MCWine/archive/MultiMC-Beta.zip) instead.*
 
 ### The following mods are owned by (Using original names with URLs instead):
 
