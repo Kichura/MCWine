@@ -21,3 +21,5 @@
 README.md export-ignore
 LICENSE export-ignore
 .gitattributes export-ignore
+.github/ISSUE_TEMPLATE export-ignore
+.github export-ignore
