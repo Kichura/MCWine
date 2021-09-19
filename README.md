@@ -100,7 +100,10 @@ If you want to take part of the bleeding edge version of MCWine then you can [tr
 - [tild09](https://www.curseforge.com/minecraft/texture-packs/updated-witches) - Overhauls the witch model, (OF or CEM mod required)
 - [ICantThinkOfAUsername](https://www.planetminecraft.com/texture-pack/better-enchantment-names) - Add icons to enchantments,
 - [1Krista](https://www.planetminecraft.com/texture-pack/krista-s-better-door-v1-0) - Patches half-door from glitching out,
-- [OffLime](https://www.planetminecraft.com/texture-pack/caves-amp-cliffs-tweaks-main-release-version) - Enhance Raw Copper/Iron & Music discs.
+- [OffLime](https://www.planetminecraft.com/texture-pack/caves-amp-cliffs-tweaks-main-release-version) - Enhance Raw Copper/Iron & Music discs,
+- [rarysm](https://www.planetminecraft.com/texture-pack/fixed-terracotta) - Enhances the terracotta blocks to jappa-like types,
+- [MichiMine](https://www.planetminecraft.com/texture-pack/better-elytra-5295183) - Enhances the elytra texture,
+- [tienphuc2006](https://www.planetminecraft.com/texture-pack/jappa-better-amethyst-shard-minecraft-java) - Enhances the Amethyst Shard texture.
 
 ### Resource pack references (Programmer Art+):
 - [SalC1](https://salc1.com) - Contains most of the tweaks,
