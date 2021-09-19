@@ -84,8 +84,8 @@ If you want to take part of the bleeding edge version of MCWine then you can [tr
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) - Contains most of the tweaks,
 - [TheMobCave](https://www.youtube.com/watch?v=9PYpUCo8TKQ) - Replaces default rain,
 - [TinyDaggsy](https://pastebin.com/raw/xLie81Je) - Changes llama decoration, furnaces, shulker boxes, sign icons and coral block textures,
-- [EpicCOAwesomeKid](https://www.curseforge.com/minecraft/texture-packs/corrected-mob-heads) - Move heads to camera for better view,
-- [funkiestcord67](https://www.curseforge.com/minecraft/texture-packs/repaired-enchanting) - Add further romanic for level 6 - 100,
+- [EpicCOAwesomeKid](https://www.curseforge.com/minecraft/texture-packs/corrected-mob-heads) - Moves heads to camera for better view,
+- [funkiestcord67](https://www.curseforge.com/minecraft/texture-packs/repaired-enchanting) - Adds further romanic for level 6 - 100,
 - [ダイヤ二ゲロウ](https://www.curseforge.com/minecraft/texture-packs/half-width-space-restoration) - Restores half-width spaces for japanese,
 - [flatjim_](https://www.curseforge.com/minecraft/texture-packs/gui-retextures) - Overhauls the HUD,
 - [ianruja](https://www.curseforge.com/minecraft/texture-packs/accurate-totem-of-undying) - Changes totem's arms to wings,
@@ -98,9 +98,9 @@ If you want to take part of the bleeding edge version of MCWine then you can [tr
 - [mr_ch0c0late1](https://www.curseforge.com/minecraft/texture-packs/blockstates) - Makes the age system more noticable,
 - [send4kolchak](https://www.curseforge.com/minecraft/texture-packs/sends-realistic-lighting) - Makes lighting more accurate for moody, (OF only)
 - [tild09](https://www.curseforge.com/minecraft/texture-packs/updated-witches) - Overhauls the witch model, (OF or CEM mod required)
-- [ICantThinkOfAUsername](https://www.planetminecraft.com/texture-pack/better-enchantment-names) - Add icons to enchantments,
+- [ICantThinkOfAUsername](https://www.planetminecraft.com/texture-pack/better-enchantment-names) - Adds icons to enchantments,
 - [1Krista](https://www.planetminecraft.com/texture-pack/krista-s-better-door-v1-0) - Patches half-door from glitching out,
-- [OffLime](https://www.planetminecraft.com/texture-pack/caves-amp-cliffs-tweaks-main-release-version) - Enhance Raw Copper/Iron & Music discs,
+- [OffLime](https://www.planetminecraft.com/texture-pack/caves-amp-cliffs-tweaks-main-release-version) - Enhances Raw Copper/Iron & Music discs,
 - [rarysm](https://www.planetminecraft.com/texture-pack/fixed-terracotta) - Enhances the terracotta blocks to jappa-like types,
 - [MichiMine](https://www.planetminecraft.com/texture-pack/better-elytra-5295183) - Enhances the elytra texture,
 - [tienphuc2006](https://www.planetminecraft.com/texture-pack/jappa-better-amethyst-shard-minecraft-java) - Enhances the Amethyst Shard texture.
