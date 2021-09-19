@@ -97,7 +97,10 @@ If you want to take part of the bleeding edge version of MCWine then you can [tr
 - [Bold_Muddy](https://www.curseforge.com/minecraft/texture-packs/amethyst-trident) - Makes trident amethyst-like,
 - [mr_ch0c0late1](https://www.curseforge.com/minecraft/texture-packs/blockstates) - Makes the age system more noticable,
 - [send4kolchak](https://www.curseforge.com/minecraft/texture-packs/sends-realistic-lighting) - Makes lighting more accurate for moody, (OF only)
-- [tild09](https://www.curseforge.com/minecraft/texture-packs/updated-witches) - Overhauls the witch model. (OF or CEM mod required)
+- [tild09](https://www.curseforge.com/minecraft/texture-packs/updated-witches) - Overhauls the witch model, (OF or CEM mod required)
+- [ICantThinkOfAUsername](https://www.planetminecraft.com/texture-pack/better-enchantment-names) - Add icons to enchantments,
+- [1Krista](https://www.planetminecraft.com/texture-pack/krista-s-better-door-v1-0) - Patches half-door from glitching out,
+- [OffLime](https://www.planetminecraft.com/texture-pack/caves-amp-cliffs-tweaks-main-release-version) - Enhance Raw Copper/Iron & Music discs.
 
 ### Resource pack references (Programmer Art+):
 - [SalC1](https://salc1.com) - Contains most of the tweaks,
