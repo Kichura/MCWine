@@ -20,10 +20,6 @@ For JVM Arguments; It is recommended that you use [one of these specific scripts
 
 *Although this should NOT be confused as this giving out any performance as this is mainly made to manage the garbage collection system for any possible improvement, don't use this if your current configuration is already good to go unless your current java instance runs poorly.*
 
-### Alternate MCWine branch
-
-If you believe some mods don't work well properly on your computer via Standard/Lite, Then you can try to fall back to the [Alternate version](https://github.com/Kichura/MCWine/archive/Alternate.zip) in order to make use of alternate mods instead, But if you use MultiMC then you can try this [MultiMC-Alternate version](https://github.com/Kichura/MCWine/archive/MultiMC-Alternate.zip) instead.
-
 ### Lite MCWine branch
 
 If you need to use a smaller version of this modpack, Then you can [try this version](https://github.com/Kichura/MCWine/archive/Lite.zip) out for the lite version (For the MultiMC version, [See this version instead](https://github.com/Kichura/MCWine/archive/MultiMC-Lite.zip)).
