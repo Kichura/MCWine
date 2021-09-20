@@ -1,0 +1,8 @@
+# 
+# Patches specific bugs for ViaVersion. (This targets 1.9.x - 1.13.x clients)
+# 
+always-show-original-mob-name: true
+add-custom-enchants-into-lore: true
+add-teamcolor-to-prefix: false
+fix-1_13-face-player: true
+handle-pings-as-inv-acknowledgements: true
