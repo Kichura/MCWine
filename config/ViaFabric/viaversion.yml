@@ -6,6 +6,7 @@ checkforupdates: false
 # Core configuration goes here.
 #
 send-supported-versions: true
+block-versions: []
 block-protocols:
 - 393
 - 340
