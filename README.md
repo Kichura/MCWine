@@ -100,7 +100,16 @@ If you want to take part of the bleeding edge version of MCWine then you can [tr
 - [OffLime](https://www.planetminecraft.com/texture-pack/caves-amp-cliffs-tweaks-main-release-version) - Enhances Raw Copper/Iron & Music discs,
 - [rarysm](https://www.planetminecraft.com/texture-pack/fixed-terracotta) - Enhances the terracotta blocks to jappa-like types,
 - [MichiMine](https://www.planetminecraft.com/texture-pack/better-elytra-5295183) - Enhances the elytra texture,
-- [tienphuc2006](https://www.planetminecraft.com/texture-pack/jappa-better-amethyst-shard-minecraft-java) - Enhances the Amethyst Shard texture.
+- [tienphuc2006](https://www.planetminecraft.com/texture-pack/jappa-better-amethyst-shard-minecraft-java) - Enhances the Amethyst Shard texture,
+- [DJAruun](https://www.planetminecraft.com/texture-pack/black-blackstone-5223490) - Makes blackstone more accurate,
+- [6_28318530717958](https://pastebin.com/raw/X2jef1Dw) - Fixes amethyst buds, nether sprouts and makes target block visualized,
+- [OlPyd](https://www.planetminecraft.com/texture-pack/updated-rails-ladder-texture) - Updates rails to ladder to be jappa-like,
+- [DerpyBro](https://www.planetminecraft.com/texture-pack/better-piglin-brute-java-and-bedrock) - Makes piglin brutes enhanced looking,
+- [sadlittletree](https://pastebin.com/raw/rrH30URK) - Makes iron nugget & coal accurate and adds texture for debug stick,
+- [StormDragon77](https://www.planetminecraft.com/texture-pack/no-z-fighting) - Patches Z-Fighting on common blocks, (OF only)
+- [_GrandMagus_](https://www.planetminecraft.com/texture-pack/dripleaf-fix) - Makes small dripleaf look accurate,
+- [Delphi-](https://www.planetminecraft.com/texture-pack/crossbow-fix) - Removes the unwanted pixel from crossbow,
+- [Animun](https://www.planetminecraft.com/texture-pack/new-prismarine-bricks) - Makes standard prismarine brick enhanced.
 
 ### Resource pack references (Programmer Art+):
 - [SalC1](https://salc1.com) - Contains most of the tweaks,
