@@ -105,11 +105,18 @@ If you want to take part of the bleeding edge version of MCWine then you can [tr
 - [6_28318530717958](https://pastebin.com/raw/X2jef1Dw) - Fixes amethyst buds, nether sprouts and makes target block visualized,
 - [OlPyd](https://www.planetminecraft.com/texture-pack/updated-rails-ladder-texture) - Updates rails to ladder to be jappa-like,
 - [DerpyBro](https://www.planetminecraft.com/texture-pack/better-piglin-brute-java-and-bedrock) - Makes piglin brutes enhanced looking,
-- [sadlittletree](https://pastebin.com/raw/rrH30URK) - Makes iron nugget & coal accurate and adds texture for debug stick,
+- [sadlittletree](https://pastebin.com/raw/9fcyDM7d) - Makes iron nugget & coal accurate and adds texture for debug stick,
 - [StormDragon77](https://www.planetminecraft.com/texture-pack/no-z-fighting) - Patches Z-Fighting on common blocks, (OF only)
 - [_GrandMagus_](https://www.planetminecraft.com/texture-pack/dripleaf-fix) - Makes small dripleaf look accurate,
 - [Delphi-](https://www.planetminecraft.com/texture-pack/crossbow-fix) - Removes the unwanted pixel from crossbow,
-- [Animun](https://www.planetminecraft.com/texture-pack/new-prismarine-bricks) - Makes standard prismarine brick enhanced.
+- [Animun](https://www.planetminecraft.com/texture-pack/new-prismarine-bricks) - Makes standard prismarine brick enhanced,
+- [Bold Muddy](https://www.planetminecraft.com/texture-pack/earful-zombified-piglin) - Adds a second ear to zombified piglins, (OF only)
+- [Francielly](https://www.planetminecraft.com/texture-pack/big-dripleaf-fix) - Fixes the big dripleaf from clipping through,
+- [Chacky](https://www.planetminecraft.com/texture-pack/fixed-glow-berries-leaves) - Enhances glow berries,
+- [MasterCRAFT134](https://www.planetminecraft.com/texture-pack/piglin-left-arm-and-leg-fixed-texture) - Fixed piglin textures via arm and leg,
+- [Iceologer](https://www.planetminecraft.com/texture-pack/fixed-salmon-texture) - Enhances the salmon texture,
+- [NeraMinusMinus](https://www.planetminecraft.com/texture-pack/fixed-smooth-stone-java) - Enhances the smooth stone block,
+- [EachMenderKhai](https://www.planetminecraft.com/texture-pack/pointed-dripstone-item-fix) - Fixes dripstone in first-person.
 
 ### Resource pack references (Programmer Art+):
 - [SalC1](https://salc1.com) - Contains most of the tweaks,
