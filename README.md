@@ -116,7 +116,9 @@ If you want to take part of the bleeding edge version of MCWine then you can [tr
 - [MasterCRAFT134](https://www.planetminecraft.com/texture-pack/piglin-left-arm-and-leg-fixed-texture) - Fixed piglin textures via arm and leg,
 - [Iceologer](https://www.planetminecraft.com/texture-pack/fixed-salmon-texture) - Enhances the salmon texture,
 - [NeraMinusMinus](https://www.planetminecraft.com/texture-pack/fixed-smooth-stone-java) - Enhances the smooth stone block,
-- [EachMenderKhai](https://www.planetminecraft.com/texture-pack/pointed-dripstone-item-fix) - Fixes dripstone in first-person.
+- [EachMenderKhai](https://www.planetminecraft.com/texture-pack/pointed-dripstone-item-fix) - Fixes dripstone in first-person,
+- [iloveflareon](https://www.planetminecraft.com/texture-pack/jappa-square-barrels-1-15-1-16-1-17) - Fixes the opened barrel model,
+- [MiningPug](https://www.planetminecraft.com/texture-pack/truly-default) - Fixes most of broken textures.
 
 ### Resource pack references (Programmer Art+):
 - [SalC1](https://salc1.com) - Contains most of the tweaks,
