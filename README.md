@@ -80,7 +80,7 @@ If you want to take part of the bleeding edge version of MCWine then you can [tr
 
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) - Contains most of the tweaks,
 - [TheMobCave](https://www.youtube.com/watch?v=9PYpUCo8TKQ) - Replaces default rain,
-- [TinyDaggsy](https://pastebin.com/raw/xLie81Je) - Changes llama decoration, furnaces, shulker boxes, sign icons and coral block textures,
+- [TinyDaggsy](https://pastebin.com/raw/pKA6A8kd) - Changes llama decoration, furnaces, shulker boxes, sign icons and coral block textures,
 - [EpicCOAwesomeKid](https://www.curseforge.com/minecraft/texture-packs/corrected-mob-heads) - Moves heads to camera for better view,
 - [funkiestcord67](https://www.curseforge.com/minecraft/texture-packs/repaired-enchanting) - Adds further romanic for level 6 - 100,
 - [ダイヤ二ゲロウ](https://www.curseforge.com/minecraft/texture-packs/half-width-space-restoration) - Restores half-width spaces for japanese,
