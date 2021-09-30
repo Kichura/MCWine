@@ -121,9 +121,16 @@ If you want to take part of the bleeding edge version of MCWine then you can [tr
 - [MiningPug](https://www.planetminecraft.com/texture-pack/truly-default) - Fixes most of broken textures.
 
 ### Resource pack references (Programmer Art+):
+
 - [SalC1](https://salc1.com) - Contains most of the tweaks,
 - [thgabs](https://www.curseforge.com/minecraft/texture-packs/programmer-art-fix) - Fixes some of the missing assets,
-- [Dimbu_](https://www.curseforge.com/minecraft/texture-packs/programmer-plus) - Make nether update & Caves and Cliffs textures programmer art-like.
+- [Dimbu_](https://www.curseforge.com/minecraft/texture-packs/programmer-plus) - Make nether update & Caves and Cliffs textures programmer art-like,
+- [RufusDragon](https://www.planetminecraft.com/texture-pack/cod-to-fish-programmer-art) - Restore cod to fish,
+- [Reddit_Download_Account](https://www.planetminecraft.com/texture-pack/old-ore-textures) - Restore new ores back to old,
+- [Sencie](https://www.planetminecraft.com/texture-pack/old-lighting-amp-old-water) - Restore old lighting & water,
+- [IanR009](https://www.planetminecraft.com/texture-pack/old-boats-1-16-5) - Restore old boats and remove the shovels from them,
+- [Voidatron](https://www.planetminecraft.com/texture-pack/new-classic-villagers) - Restore old villagers,
+- [SwiggyOfficial](https://www.planetminecraft.com/texture-pack/the-og-minecraft) - Restore everything else back to programmer art style.
 
 ### Found a bug/issue via MCWine (Mods only)?
 
