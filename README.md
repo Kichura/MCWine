@@ -118,7 +118,8 @@ If you want to take part of the bleeding edge version of MCWine then you can [tr
 - [NeraMinusMinus](https://www.planetminecraft.com/texture-pack/fixed-smooth-stone-java) - Enhances the smooth stone block,
 - [EachMenderKhai](https://www.planetminecraft.com/texture-pack/pointed-dripstone-item-fix) - Fixes dripstone in first-person,
 - [iloveflareon](https://www.planetminecraft.com/texture-pack/jappa-square-barrels-1-15-1-16-1-17) - Fixes the opened barrel model,
-- [MiningPug](https://www.planetminecraft.com/texture-pack/truly-default) - Fixes most of broken textures.
+- [MiningPug](https://www.planetminecraft.com/texture-pack/truly-default) - Fixes most of broken textures,
+- [Pythagoras_314](https://www.planetminecraft.com/texture-pack/accurate-jappa-dirt) - Enhances the dirt block.
 
 ### Resource pack references (Programmer Art+):
 
