@@ -61,7 +61,7 @@ If you want to take part of the bleeding edge version of MCWine then you can [tr
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric/tree/1.16.x/next) - **CaffeineMC**,
 - [Starlight](https://github.com/Spottedleaf/Starlight) - **Spottedleaf**,
 - [Third-Person Maps](https://www.curseforge.com/minecraft/mc-mods/third-person-maps) - **Pepperoni__Jabroni__**,
-- [Tweakeroo](https://masa.dy.fi/mcmods/client_mods/?mcver=1.16.4&mod=tweakeroo) - **masady, CFGrafanaStats**,
+- [Tweakeroo](https://masa.dy.fi/mcmods/client_mods/?mcver=1.17.1&mod=tweakeroo) - **masady, CFGrafanaStats**,
 - [Vanilla-Branding (Aka Branding)](https://github.com/IMS212/fabric-branding) - **LoganDark, IMS212**,
 - [ViaBackwards](https://github.com/ViaVersion/ViaBackwards) - **KennyTVN**,
 - [ViaFabric](https://github.com/ViaVersion/ViaFabric) - **creeper12312332, KennyTVN**,
