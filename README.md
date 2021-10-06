@@ -35,6 +35,7 @@ If you want to take part of the bleeding edge version of MCWine then you can [tr
 ### The following mods are owned by (Using original names with URLs instead):
 
 - [Alternate-EntityCulling (Aka EntityCulling Fabric/Forge)](https://www.curseforge.com/minecraft/mc-mods/entityculling) - **tr9zw**,
+- [Anti-Hypixel-BL-Spam (Aka Shut, Badlion)](https://modrinth.com/mod/shut-badlion) - **tropheusj**,
 - [Audio-Management (Aka Audio Output)](https://www.curseforge.com/minecraft/mc-mods/audio-output) - **Maximumgame**,
 - [BrandPacket](https://www.curseforge.com/minecraft/mc-mods/brandpacket) - **liachmodded**,
 - [Dynamic-Lights (Aka LambDynamicLights)](https://modrinth.com/mod/lambdynamiclights) - **LambdAurora**,
@@ -44,6 +45,7 @@ If you want to take part of the bleeding edge version of MCWine then you can [tr
 - [Fix-ChatPosition (Aka Chat Up!)](https://www.curseforge.com/minecraft/mc-mods/chat-up) - **gnembon**,
 - [Fix-ItemModels (Aka Item Model Fix)](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - **Pepper_Bell**,
 - [Fix-SkyColor (Aka Clear Skies)](https://www.curseforge.com/minecraft/mc-mods/clear-skies) - **grondagthebarbarian**,
+- [Fix-Titles (Aka Title Fixer)](https://modrinth.com/mod/title-fixer) - **thegameratort**,
 - [Fix-ToolTips (Aka ToolTipFix)](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) - **Kyrptonaught**,
 - [Fix-UnixChat (Aka Mc122477Fix)](https://modrinth.com/mod/mc122477fix) - **SizableShrimp**,
 - [Hide-Score (Aka NoMoreScore)](https://github.com/ExoPlant/NoMoreScore) - **ExoPlant**,
@@ -54,6 +56,7 @@ If you want to take part of the bleeding edge version of MCWine then you can [tr
 - [LazyDFU](https://modrinth.com/mod/lazydfu) - **astei**,
 - [LazyLang (Aka lazy-language-loader)](https://github.com/ChachyDev/lazy-language-loader) - **ChachyDev**,
 - [Lithium](https://modrinth.com/mod/lithium) - **CaffeineMC**,
+- [Local-Entity-Distance (Aka Entity Distance)](https://modrinth.com/mod/entity-distance) - **capnkork**,
 - [LowHealth-Warning (Aka Damage Tint)](https://www.curseforge.com/minecraft/mc-mods/damage-tint) - **DeadlyMC_**,
 - [NoFlashing-NightVision (Aka Night Vision flash be gone)](https://www.curseforge.com/minecraft/mc-mods/night-vision-flash-be-gone) - **AshIndigo**,
 - [Persist-Sneaking (Aka Sneaky Screens)](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens) - **haykam**,
