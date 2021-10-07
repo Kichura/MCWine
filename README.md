@@ -82,7 +82,7 @@ If you want to take part of the bleeding edge version of MCWine then you can [tr
 ### Resource pack references (Default+):
 
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) - Contains most of the tweaks,
-- [TheMobCave](https://www.youtube.com/watch?v=9PYpUCo8TKQ) - Replaces default rain,
+- [TheMobCave](https://www.youtube.com/watch?v=9PYpUCo8TKQ) - Replaces rain sound effects,
 - [TinyDaggsy](https://pastebin.com/raw/pKA6A8kd) - Changes llama decoration, furnaces, shulker boxes, sign icons and coral block textures,
 - [EpicCOAwesomeKid](https://www.curseforge.com/minecraft/texture-packs/corrected-mob-heads) - Moves heads to camera for better view,
 - [funkiestcord67](https://www.curseforge.com/minecraft/texture-packs/repaired-enchanting) - Adds further romanic for level 6 - 100,
@@ -122,7 +122,9 @@ If you want to take part of the bleeding edge version of MCWine then you can [tr
 - [EachMenderKhai](https://www.planetminecraft.com/texture-pack/pointed-dripstone-item-fix) - Fixes dripstone in first-person,
 - [iloveflareon](https://www.planetminecraft.com/texture-pack/jappa-square-barrels-1-15-1-16-1-17) - Fixes the opened barrel model,
 - [MiningPug](https://www.planetminecraft.com/texture-pack/truly-default) - Fixes most of broken textures,
-- [Pythagoras_314](https://www.planetminecraft.com/texture-pack/accurate-jappa-dirt) - Enhances the dirt block.
+- [Pythagoras_314](https://www.planetminecraft.com/texture-pack/accurate-jappa-dirt) - Enhances the dirt block,
+- [henwiquegamesuwu](https://www.curseforge.com/minecraft/texture-packs/axolotls) - Adds variated axolotl buckets, (OF/CIT Resewn Only)
+- [TechDawg98](https://www.planetminecraft.com/texture-pack/simply-soft) - Replaces the rain & snow particles.
 
 ### Resource pack references (Programmer Art+):
 
