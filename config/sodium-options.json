@@ -5,7 +5,7 @@
     "enable_vignette": false
   },
   "advanced": {
-    "arena_memory_allocator": "SWAP",
+    "arena_memory_allocator": "ASYNC",
     "animate_only_visible_textures": true,
     "use_entity_culling": true,
     "use_particle_culling": true,
