@@ -15,7 +15,7 @@ snooperEnabled:false
 showSubtitles:false
 touchscreen:false
 fullscreen:false
-bobView:true
+bobView:false
 toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:true
@@ -63,7 +63,7 @@ tutorialStep:none
 mouseWheelSensitivity:0.5
 rawMouseInput:false
 glDebugVerbosity:0
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
 joinedFirstServer:false
 hideBundleTutorial:true
