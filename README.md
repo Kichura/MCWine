@@ -6,15 +6,15 @@ MCWine is a fabric-based modpack designed to bring better performance, brand new
 
 ### Installing this modpack (Official/Vanilla Method)
 
-Download MCWine as ZIP by [pressing this blue text instead of clicking "Code"](https://github.com/Kichura/MCWine/archive/Standard.zip). Then you will be required to drop the main folder (With folder containing it's files such as mods and whatnot) inside that ZIP to your minecraft's versions folder. After this you must reload your minecraft launcher to make a new profile by changing the game directory to the extracted version folder and then changing the version to the modpack itself.
+Download MCWine as ZIP by [pressing this blue text instead of clicking "Code"](https://github.com/Kichura/MCWine/archive/Beta.zip). Then you will be required to drop the main folder (With folder containing it's files such as mods and whatnot) inside that ZIP to your minecraft's versions folder. After this you must reload your minecraft launcher to make a new profile by changing the game directory to the extracted version folder and then changing the version to the modpack itself.
 
 ### Installing this modpack (MultiMC Method)
 
-Download MCWine as ZIP by [pressing this blue text instead of clicking "Code"](https://github.com/Kichura/MCWine/archive/MultiMC-Standard.zip). After this you must open up your MultiMC launcher -> Click on "Add Instance" and import the ZIP to your MultiMC instance and press OK to confirm the changes.
+Download MCWine as ZIP by [pressing this blue text instead of clicking "Code"](https://github.com/Kichura/MCWine/archive/MultiMC-Beta.zip). After this you must open up your MultiMC launcher -> Click on "Add Instance" and import the ZIP to your MultiMC instance and press OK to confirm the changes.
 
 ### Recommended Java Version
 
-It is recommended that you use [Java 17](https://jdk.java.net/17) to allow minecraft to make use of the latest java version, although now requires ```javacheck.jar``` to be deleted as seen in this [clip](https://streamable.com/i3voeu). (But if you use MultiMC instead then skip the ```javacheck.jar``` removal requirement)
+It is recommended that you use [Java 17](https://jdk.java.net/17) (For the nightly version, You can try [Java 18](https://jdk.java.net/18) instead) to allow minecraft to make use of the latest java version, although now requires ```javacheck.jar``` to be deleted as seen in this [clip](https://streamable.com/i3voeu). (But if you use MultiMC instead then skip the ```javacheck.jar``` removal requirement)
 
 For JVM Arguments; It is recommended that you use [one of these specific scripts](https://pastebin.com/raw/7ek6VmPB) from this pastebin as your JVM arguments instead of the defaults. (You can change the RAM of ```-Xmx2G``` value from the pastebin if you want more RAM or less to be used, But depends on your computer's hardware)
 
@@ -25,12 +25,6 @@ For JVM Arguments; It is recommended that you use [one of these specific scripts
 If you need to use a smaller version of this modpack, Then you can [try this version](https://github.com/Kichura/MCWine/archive/Lite.zip) out for the lite version (For the MultiMC version, [See this version instead](https://github.com/Kichura/MCWine/archive/MultiMC-Lite.zip)).
 
 *This version will not have several fixes built-in to it but will try to help out the performance some.*
-
-### Beta MCWine branch
-
-If you want to take part of the bleeding edge version of MCWine then you can [try this version out](https://github.com/Kichura/MCWine/archive/Beta.zip) for the latest mod versions including MC's 1.17.x version instead of the previous one, However please note that this can contain more bugs/issues in this branch unlike the other branches for example.
-
-*For the MultiMC version, Please [see this version](https://github.com/Kichura/MCWine/archive/MultiMC-Beta.zip) instead.*
 
 ### The following mods are owned by (Using original names with URLs instead):
 
