@@ -75,9 +75,42 @@ force-json-transform: true
 minimize-cooldown: true
 left-handed-handling: true
 #
-# Specifies the vanilla world names so that specific clients can remember what worlds they actually are.
+# Specifies the world names so that the client can remember what they actually are.
 #
 map-1_16-world-names:
-  overworld: minecraft:overworld
-  nether: minecraft:the_nether
+  atlantis: atlantis:atlantis
+  blended_world: world_blender:world_blender
+  bright_overworld: daylightdimension:daylight_dimension
+  bsr: bsr:bsr
+  bsr_orbit: bsr:overworld_orbit
+  bumblezone: the_bumblezone:the_bumblezone
+  cave_world: mining_dims:caving_dim
+  dark_dungeon: dimdoors:dungeon_pockets
+  dark_ocean: agape:europa_ocean
   end: minecraft:the_end
+  europa: agape:europa_surface
+  fraiya: lint:fraiya
+  ganymede: agape:ganymede
+  hunting_world: mining_dims:hunting_dim
+  io: agape:io
+  limbo: dimdoors:limbo
+  mercury: agape:mercury
+  mining_horizon: minershorizon:miners_horizon
+  mining_nether_world: mining_dims:nethering_dim
+  mining_world: mining_dims:mining_dim
+  moon: agape:moon_surface
+  nectere: hotm:nectere
+  nether: minecraft:the_nether
+  orbit: agape:overworld_orbit
+  overgrown: overgrowncities:overgrowth
+  overworld: minecraft:overworld
+  prehistoric: eymbra:prehistoric
+  red_planet: agape:red_planet
+  scale_vacuum: scalevacuum:scale_vacuum
+  simple_void: simplevoidworld:simplevoidworld
+  space: astromine:earth_space
+  starship: agape:starship_1
+  the_hallow: thehallow:spooky
+  the_private_room: dimdoors:personal_pockets
+  the_public_room: dimdoors:public_pockets
+  titan: agape:titan
