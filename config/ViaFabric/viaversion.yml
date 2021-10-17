@@ -34,6 +34,7 @@ reload-disconnect-msg: This server has been reloaded, Please connect back to the
 suppress-conversion-warnings: true
 #
 # Watchdog-Related configuration goes here,
+#
 # Since this is known for being annoying with a burning passion, the delay is increased by a long-shot unless
 # the server is in a cold state then feel free to modify this yourself.
 #
