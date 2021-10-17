@@ -1,5 +1,8 @@
 # 
-# Patches specific bugs for ViaVersion. (This targets 1.9.x - 1.13.x clients)
+# ViaBackwards patches for older versions go here,
+#
+# This will attempt to patch more details for older versions that do not match server's version,
+# and also enable the player to figure out what the translated mobs are and whatnot.
 # 
 always-show-original-mob-name: true
 add-custom-enchants-into-lore: true

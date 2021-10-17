@@ -3,26 +3,39 @@
 #
 checkforupdates: false
 #
-# Core configuration goes here.
+# Supported version ping configuration goes here.
 #
 send-supported-versions: true
-block-versions: []
-block-protocols:
-- 393
-- 340
-- 338
-- 210
-- 110
-- 109
-- 108
-- 107
-- 5
-- 4
+#
+# Versions we should not support for this client, there are multiple reasons why we do this:
+#
+# 1. The specific versions constantly create connection errors and fail to establish a proper connection,
+# 2. There are multiple bugs left-and-right that these versions have which causes inconsistent performance, issues with gameplay, etc.
+# 3. Support for these have been dropped since similar to hypixel's approach; hence the reason why we also follow along.
+#
+block-versions:
+- 1.7-1.7.5
+- 1.7.6-1.7.10
+- '1.9'
+- 1.9.1
+- 1.9.2
+- 1.9.3/4
+- 1.10.x
+- '1.13'
+- 1.13.1
+- 1.13.2
+block-protocols: []
+#
+# Messages that should be displayed to the player when disconnected by Via* itself,
+# This includes a switch if we want to debug conversions or not.
+#
 block-disconnect-msg: This version cannot be used for this server as it is not supported.
 reload-disconnect-msg: This server has been reloaded, Please connect back to the server again.
 suppress-conversion-warnings: true
 #
-# Watchdog-Related configuration goes here.
+# Watchdog-Related configuration goes here,
+# Since this is known for being annoying with a burning passion, the delay is increased by a long-shot unless
+# the server is in a cold state then feel free to modify this yourself.
 #
 max-pps: -1
 max-pps-kick-msg: Something went wrong with your connection!
@@ -31,7 +44,10 @@ tracking-warning-pps: 50000
 tracking-max-warnings: 500000
 tracking-max-kick-msg: Something went wrong with your connection!
 #
-# ViaFabric patch (1.9+) configuration goes here.
+# ViaFabric patches for 1.9.x go here,
+#
+# This contains a list of patches that are used to try and workaround problems that previous 1.9.x clients have been getting without them,
+# While this will not end up in a perfect shape, this will make an attempt on improving critical problems with specific clients.
 #
 hologram-patch: true
 hologram-y: -0.96
@@ -54,7 +70,10 @@ ignore-long-1_16-channel-names: true
 forced-use-1_17-resource-pack: true
 resource-pack-1_17-prompt: This server requires the resource pack to be enabled in order to display other contents properly.
 #
-# ViaFabric patch (1.8+) configuration goes here.
+# ViaFabric patch (1.8+) configuration goes here,
+#
+# This is a similarity to the 1.9.x patches but related to just 1.8.x and prior instead,
+# But we will use these patches along in case anything else is missing.
 #
 prevent-collision: false
 auto-team: false
