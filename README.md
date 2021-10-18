@@ -29,7 +29,6 @@ If you need to use a smaller version of this modpack, Then you can [try this ver
 ### The following mods are owned by (Using original names with URLs instead):
 
 - [Alternate-EntityCulling (Aka EntityCulling Fabric/Forge)](https://www.curseforge.com/minecraft/mc-mods/entityculling) - **tr9zw**,
-- [Anti-Hypixel-BL-Spam (Aka Shut, Badlion)](https://modrinth.com/mod/shut-badlion) - **tropheusj**,
 - [Audio-Management (Aka Audio Output)](https://www.curseforge.com/minecraft/mc-mods/audio-output) - **Maximumgame**,
 - [BrandPacket](https://www.curseforge.com/minecraft/mc-mods/brandpacket) - **liachmodded**,
 - [Dynamic-Lights (Aka LambDynamicLights)](https://modrinth.com/mod/lambdynamiclights) - **LambdAurora**,
@@ -47,6 +46,7 @@ If you need to use a smaller version of this modpack, Then you can [try this ver
 - [Improve-HorseHUD (Aka Better Mount HUD)](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) - **Lortseam_**,
 - [Iris](https://github.com/IrisShaders/Iris) - **IrisShaders**,
 - [Krypton](https://modrinth.com/mod/krypton) - **astei**,
+- [LAN-Configurator (Aka Lan Server Properties)](https://www.curseforge.com/minecraft/mc-mods/lan-server-properties) - **rikka0w0**,
 - [LazyDFU](https://modrinth.com/mod/lazydfu) - **astei**,
 - [LazyLang (Aka lazy-language-loader)](https://github.com/ChachyDev/lazy-language-loader) - **ChachyDev**,
 - [Lithium](https://modrinth.com/mod/lithium) - **CaffeineMC**,
