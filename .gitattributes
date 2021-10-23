@@ -1,32 +1,28 @@
 # Java related file extensions.
-*.java          text diff=java
-*.class         binary diff=java
-*.groovy        text diff=java
-*.scala         text diff=java
-*.gradle        text diff=java
-*.jar           binary diff=java
+*.java          linguist-language=java
+*.class         linguist-language=java
+*.groovy        linguist-language=java
+*.scala         linguist-language=java
+*.gradle        linguist-language=java
+*.jar           linguist-language=java
 
 # JavaScript related file extensions.
-*.json          text diff=javascript
-*.json5         text diff=javascript
-*.js            text diff=javascript
-*.mjs           text diff=javascript
-*.jsonld        text diff=javascript
-*.toml          text diff=javascript
-*.yml           text diff=javascript
+*.json          linguist-language=javascript
+*.json5         linguist-language=javascript
+*.js            linguist-language=javascript
+*.mjs           linguist-language=javascript
+*.jsonld        linguist-language=javascript
+*.toml          linguist-language=javascript
+*.yml           linguist-language=javascript
 
 # Kotlin related file extensions.
-*.kt            text diff=kotlin
-*.kts           text diff=kotlin
-*.gradle.kts    text diff=kotlin
+*.kt            linguist-language=kotlin
+*.kts           linguist-language=kotlin
+*.gradle.kts    linguist-language=kotlin
 
 # Document file extensions.
-*.doc      diff=astextplain
-*.docx     diff=astextplain
-*.pdf      diff=astextplain
-*.rtf      diff=astextplain
-*.md       text diff=markdown
-*.txt      text
+*.md       linguist-language=markdown
+*.txt      linguist-language=text
 
 # Image file extensions.
 *.bmp      binary
@@ -53,7 +49,6 @@ COPYRIGHT         text
 INSTALL           text
 LICENSE           text
 NEWS              text
-README            text
 TODO              text
 
 # Attempt to make these files not available upon cloning/download.
