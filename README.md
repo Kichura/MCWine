@@ -50,7 +50,6 @@ If you need to use a smaller version of this modpack, Then you can [try this ver
 - [LazyDFU](https://modrinth.com/mod/lazydfu) - **astei**,
 - [LazyLang (Aka lazy-language-loader)](https://github.com/ChachyDev/lazy-language-loader) - **ChachyDev**,
 - [Lithium](https://modrinth.com/mod/lithium) - **CaffeineMC**,
-- [Local-Entity-Distance (Aka Entity Distance)](https://modrinth.com/mod/entity-distance) - **capnkork**,
 - [LowHealth-Warning (Aka Damage Tint)](https://www.curseforge.com/minecraft/mc-mods/damage-tint) - **DeadlyMC_**,
 - [NoFlashing-NightVision (Aka Night Vision flash be gone)](https://www.curseforge.com/minecraft/mc-mods/night-vision-flash-be-gone) - **AshIndigo**,
 - [Persist-Sneaking (Aka Sneaky Screens)](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens) - **haykam**,
