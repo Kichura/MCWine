@@ -8,6 +8,7 @@ mode = "fancy"
 #
 # Light sources configuration, Can be modified if you wish to use your own preferences.
 #
+
 [light_sources]
         #
 	# Prevents torches and other entities from lighting up when submerged into water sources.
