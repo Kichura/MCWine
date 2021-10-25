@@ -1,6 +1,6 @@
 {
 	"features": {
-	        //
+	    //
 		// Controls the zooming modes,
 		//
 		// By default in this pack; The mouse is slowed + zoom key held down so that aiming is easier, this includes making the zooming smooth.
