@@ -117,7 +117,8 @@ If you need to use a smaller version of this modpack, Then you can [try this ver
 - [MiningPug](https://www.planetminecraft.com/texture-pack/truly-default) - Fixes most of broken textures,
 - [Pythagoras_314](https://www.planetminecraft.com/texture-pack/accurate-jappa-dirt) - Enhances the dirt block,
 - [henwiquegamesuwu](https://www.curseforge.com/minecraft/texture-packs/axolotls) - Adds variated axolotl buckets, (OF/CIT Resewn Only)
-- [TechDawg98](https://www.planetminecraft.com/texture-pack/simply-soft) - Replaces the rain & snow particles.
+- [TechDawg98](https://www.planetminecraft.com/texture-pack/simply-soft) - Replaces the rain & snow particles,
+- [IronDuchess](https://www.planetminecraft.com/texture-pack/chain-colored-iron-bars-java) - Makes the iron bars chain-like colored.
 
 ### Resource pack references (Programmer Art+):
 
