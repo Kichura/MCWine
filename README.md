@@ -54,7 +54,7 @@ If you need to use a smaller version of this modpack, Then you can [try this ver
 - [NoFlashing-NightVision (Aka Night Vision flash be gone)](https://www.curseforge.com/minecraft/mc-mods/night-vision-flash-be-gone) - **AshIndigo**,
 - [Persist-Sneaking (Aka Sneaky Screens)](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens) - **haykam**,
 - [Skip-ExperimentWarning (Aka Here Be No Dragons!)](https://modrinth.com/mod/here-be-no-dragons) - **kb1000**,
-- [Sodium](https://github.com/CaffeineMC/sodium-fabric/tree/1.16.x/next) - **CaffeineMC**,
+- [Sodium](https://github.com/IrisShaders/sodium-fabric/tree/1.17.x/iris) - **IrisShaders, CaffeineMC**,
 - [Starlight](https://github.com/Spottedleaf/Starlight) - **Spottedleaf**,
 - [Third-Person Maps](https://www.curseforge.com/minecraft/mc-mods/third-person-maps) - **Pepperoni__Jabroni__**,
 - [Tweakeroo](https://masa.dy.fi/mcmods/client_mods/?mcver=1.17.1&mod=tweakeroo) - **masady, CFGrafanaStats**,
