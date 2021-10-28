@@ -46,7 +46,7 @@ If you need to use a smaller version of this modpack, Then you can [try this ver
 - [Improve-HorseHUD (Aka Better Mount HUD)](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) - **Lortseam_**,
 - [Iris](https://github.com/IrisShaders/Iris) - **IrisShaders**,
 - [Krypton](https://modrinth.com/mod/krypton) - **astei**,
-- [LAN-Configurator (Aka Lan Server Properties)](https://www.curseforge.com/minecraft/mc-mods/lan-server-properties) - **rikka0w0**,
+- [LAN-Configurator (Aka mcwifipnp)](https://modrinth.com/mod/mcwifipnp) - **satxm**,
 - [LazyDFU](https://modrinth.com/mod/lazydfu) - **astei**,
 - [LazyLang (Aka lazy-language-loader)](https://github.com/ChachyDev/lazy-language-loader) - **ChachyDev**,
 - [Lithium](https://modrinth.com/mod/lithium) - **CaffeineMC**,
