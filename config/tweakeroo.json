@@ -590,7 +590,7 @@
   },
   "Internal": {
     "flySpeedPreset": 0,
-    "gammaValueOriginal": 0.5023474178403756,
+    "gammaValueOriginal": 0.5,
     "hotbarScrollCurrentRow": 3,
     "slimeBlockSlipperinessOriginal": 0.800000011920929,
     "snapAimLastYaw": 0.0
@@ -615,7 +615,8 @@
       "minecraft:suspicious_stew",
       "minecraft:jigsaw",
       "minecraft:light",
-      "minecraft:sculk_sensor"
+      "minecraft:sculk_sensor",
+      "minecraft:bundle"
     ],
     "fastPlacementItemListType": "blacklist",
     "fastRightClickBlockListType": "blacklist",
@@ -684,7 +685,8 @@
       "minecraft:brewing_stand",
       "minecraft:anvil",
       "minecraft:stonecutter",
-      "minecraft:lectern"
+      "minecraft:lectern",
+      "minecraft:bundle"
     ],
     "fastPlacementItemWhiteList": [],
     "fastRightClickBlockBlackList": [
@@ -750,7 +752,8 @@
       "minecraft:brewing_stand",
       "minecraft:anvil",
       "minecraft:stonecutter",
-      "minecraft:lectern"
+      "minecraft:lectern",
+      "minecraft:bundle"
     ],
     "fastRightClickBlockWhiteList": [],
     "fastRightClickBlackList": [
