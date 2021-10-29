@@ -87,7 +87,7 @@ If you need to use a smaller version of this modpack, Then you can [try this ver
 - [Lad_Flaver](https://www.curseforge.com/minecraft/texture-packs/rail-fix) - Patches rails to not be stretched anymore,
 - [liahim85](https://www.curseforge.com/minecraft/texture-packs/authentic-shadows) - Makes entity shadow accurate to MC's style,
 - [qkrehf2](https://www.curseforge.com/minecraft/texture-packs/bkt-better-korean-translation) - Makes korean more naturally,
-- [Bold_Muddy](https://www.curseforge.com/minecraft/texture-packs/amethyst-trident) - Makes trident amethyst-like,
+- [Bold_Muddy](https://pastebin.com/raw/Yxv363u7) - Makes trident amethyst-like, Adds second ear for zombified piglin, animated sculker sensor,
 - [mr_ch0c0late1](https://www.curseforge.com/minecraft/texture-packs/blockstates) - Makes the age system more noticable,
 - [send4kolchak](https://www.curseforge.com/minecraft/texture-packs/sends-realistic-lighting) - Makes lighting more accurate for moody, (OF only)
 - [tild09](https://www.curseforge.com/minecraft/texture-packs/updated-witches) - Overhauls the witch model, (OF or CEM mod required)
@@ -103,10 +103,9 @@ If you need to use a smaller version of this modpack, Then you can [try this ver
 - [DerpyBro](https://www.planetminecraft.com/texture-pack/better-piglin-brute-java-and-bedrock) - Makes piglin brutes enhanced looking,
 - [sadlittletree](https://pastebin.com/raw/9fcyDM7d) - Makes iron nugget & coal accurate and adds texture for debug stick,
 - [StormDragon77](https://www.planetminecraft.com/texture-pack/no-z-fighting) - Patches Z-Fighting on common blocks, (OF only)
-- [_GrandMagus_](https://www.planetminecraft.com/texture-pack/dripleaf-fix) - Makes small dripleaf look accurate,
+- [GrandMagus](https://www.planetminecraft.com/texture-pack/dripleaf-fix) - Makes small dripleaf look accurate,
 - [Delphi-](https://www.planetminecraft.com/texture-pack/crossbow-fix) - Removes the unwanted pixel from crossbow,
 - [Animun](https://www.planetminecraft.com/texture-pack/new-prismarine-bricks) - Makes standard prismarine brick enhanced,
-- [Bold Muddy](https://www.planetminecraft.com/texture-pack/earful-zombified-piglin) - Adds a second ear to zombified piglins, (OF only)
 - [Francielly](https://www.planetminecraft.com/texture-pack/big-dripleaf-fix) - Fixes the big dripleaf from clipping through,
 - [Chacky](https://www.planetminecraft.com/texture-pack/fixed-glow-berries-leaves) - Enhances glow berries,
 - [MasterCRAFT134](https://www.planetminecraft.com/texture-pack/piglin-left-arm-and-leg-fixed-texture) - Fixed piglin textures via arm and leg,
@@ -119,7 +118,6 @@ If you need to use a smaller version of this modpack, Then you can [try this ver
 - [henwiquegamesuwu](https://www.curseforge.com/minecraft/texture-packs/axolotls) - Adds variated axolotl buckets, (OF/CIT Resewn Only)
 - [TechDawg98](https://www.planetminecraft.com/texture-pack/simply-soft) - Replaces the rain & snow particles,
 - [IronDuchess](https://www.planetminecraft.com/texture-pack/chain-colored-iron-bars-java) - Makes the iron bars chain-like colored,
-- [Bold_Muddy](https://www.curseforge.com/minecraft/texture-packs/better-sculk-sensor) - Animates the Sculk Sensor,
 - [Gameations](https://www.planetminecraft.com/texture-pack/no-tint) - Removes the ugly tints from textures,
 - [ArmouredMonkey](https://www.planetminecraft.com/texture-pack/variated-dead-bushes) - Makes dead bushes variated.
 
