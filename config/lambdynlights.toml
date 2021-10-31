@@ -10,7 +10,7 @@ mode = "fancy"
 #
 
 [light_sources]
-        #
+    #
 	# Prevents torches and other entities from lighting up when submerged into water sources.
 	#
 	water_sensitive_check = true

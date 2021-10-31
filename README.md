@@ -103,7 +103,7 @@ If you need to use a smaller version of this modpack, Then you can [try this ver
 - [DerpyBro](https://www.planetminecraft.com/texture-pack/better-piglin-brute-java-and-bedrock) - Makes piglin brutes enhanced looking,
 - [sadlittletree](https://pastebin.com/raw/9fcyDM7d) - Makes iron nugget & coal accurate and adds texture for debug stick,
 - [StormDragon77](https://www.planetminecraft.com/texture-pack/no-z-fighting) - Patches Z-Fighting on common blocks, (OF only)
-- [GrandMagus](https://www.planetminecraft.com/texture-pack/dripleaf-fix) - Makes small dripleaf look accurate,
+- [_GrandMagus_](https://www.planetminecraft.com/texture-pack/dripleaf-fix) - Makes small dripleaf look accurate,
 - [Delphi-](https://www.planetminecraft.com/texture-pack/crossbow-fix) - Removes the unwanted pixel from crossbow,
 - [Animun](https://www.planetminecraft.com/texture-pack/new-prismarine-bricks) - Makes standard prismarine brick enhanced,
 - [Francielly](https://www.planetminecraft.com/texture-pack/big-dripleaf-fix) - Fixes the big dripleaf from clipping through,

@@ -1,15 +1,12 @@
 {
-  "configVersion": 3,
+  "configVersion": 2,
   "renderNametagsThroughWalls": true,
   "blockEntityWhitelist": [
-    "minecraft:beacon"
+    "minecraft:beacon",
+    "minecraft:firework_rocket"
   ],
   "tracingDistance": 128,
   "debugMode": false,
   "sleepDelay": 10,
-  "hitboxLimit": 50,
-  "tickCulling": true,
-  "tickCullingWhitelist": [
-    "minecraft:firework_rocket"
-  ]
+  "hitboxLimit": 50
 }
