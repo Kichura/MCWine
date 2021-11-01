@@ -31,6 +31,7 @@ If you need to use a smaller version of this modpack, Then you can [try this ver
 - [Alternate-EntityCulling (Aka EntityCulling Fabric/Forge)](https://www.curseforge.com/minecraft/mc-mods/entityculling) - **tr9zw**,
 - [Audio-Management (Aka Audio Output)](https://www.curseforge.com/minecraft/mc-mods/audio-output) - **Maximumgame**,
 - [BrandPacket](https://www.curseforge.com/minecraft/mc-mods/brandpacket) - **liachmodded**,
+- [Detailed-Crashes (Aka Not Enough Crashes)](https://modrinth.com/mod/notenoughcrashes) - **natanfudge**,
 - [Dynamic-Lights (Aka LambDynamicLights)](https://modrinth.com/mod/lambdynamiclights) - **LambdAurora**,
 - [Fabric-API](https://modrinth.com/mod/fabric-api) - **sfPlayer1**, **modmuss50**,
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) - **malte0811**,
