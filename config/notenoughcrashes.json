@@ -1,6 +1,6 @@
 {
   "disableReturnToMainMenu": false,
-  "deobfuscateStackTrace": true,
+  "deobfuscateStackTrace": false,
   "catchInitializationCrashes": true,
   "debugModIdentification": false,
   "forceCrashScreen": false,
