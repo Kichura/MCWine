@@ -42,7 +42,7 @@ If you need to use a smaller version of this modpack, Then you can [try this ver
 - [Fix-Titles (Aka Title Fixer)](https://modrinth.com/mod/title-fixer) - **thegameratort**,
 - [Fix-ToolTips (Aka ToolTipFix)](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) - **Kyrptonaught**,
 - [Fix-UnixChat (Aka Mc122477Fix)](https://modrinth.com/mod/mc122477fix) - **SizableShrimp**,
-- [Hide-Score (Aka NoMoreScore)](https://github.com/ExoPlant/NoMoreScore) - **ExoPlant**,
+- [NoMoreScore](https://github.com/ExoPlant/NoMoreScore) - **ExoPlant**,
 - [Horse-Stats (Aka Horse Stats Vanilla)](https://www.curseforge.com/minecraft/mc-mods/horsestatsvanilla) - **TeaJ4y**,
 - [Improve-HorseHUD (Aka Better Mount HUD)](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) - **Lortseam_**,
 - [Iris](https://github.com/IrisShaders/Iris) - **IrisShaders**,
