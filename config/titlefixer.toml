@@ -1,0 +1,13 @@
+#
+# Sets the configuration for the titles when displayed on screen,
+# These should only be modified in case something is in error.
+#
+
+titleAlwaysFitsScreen = true
+scoreboardMode = "OVERLAY"
+scoreboardFadeSpeed = 0
+scoreboardHideMinAlpha = 0
+titleMarginLeft = 8
+titleMarginRight = 8
+preferredTitleScale = 4.0
+preferredSubtitleScale = 2.0

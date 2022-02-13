@@ -1,0 +1,215 @@
+#
+# Dyanmic lights configuration,
+# It is recommended you leave this mode set to fancy for best effects unless your game's framerate becomes unstable.
+#
+
+mode = "fancy"
+
+#
+# Light sources configuration, Can be modified if you wish to use your own preferences.
+#
+
+[light_sources]
+
+    #
+    # Prevents torches and other entities from lighting up when submerged into water sources.
+    #
+    
+    water_sensitive_check = true
+    
+    #
+    # Should block entities light up?
+    #
+    
+    block_entities = false
+    
+    #
+    # Should entities light up?
+    #
+    
+    entities = false
+    
+    #
+    # If enabled, Make TNT light up during igniting effect.
+    #
+    
+    tnt = "off"
+    
+    #
+    # If enabled, Make creepers light up during igniting effect.
+    #
+    
+    creeper = "off"
+
+    [light_sources.settings]
+    
+        [light_sources.settings.block_entities]
+
+        #
+        # What block entities to toggle in order to be used in dynamic lights,
+        # A portion of these don't need dynamic lights to be used anyways so they will be filtered.
+        #
+        # Unless you have an resource pack enabled that supports these then enable the specific ones.
+        #
+
+        [light_sources.settings.block_entities.minecraft]
+
+        bed = false
+        furnace = true
+        dropper = false
+        daylight_detector = false
+        sign = false
+        jukebox = false
+        brewing_stand = true
+        sculk_sensor = false
+        conduit = false
+        beehive = false
+        dispenser = false
+        smoker = true
+        lectern = false
+        skull = false
+        campfire = true
+        barrel = false
+        chest = false
+        piston = false
+        end_portal = true
+        shulker_box = false
+        enchanting_table = false
+        banner = false
+        structure_block = false
+        ender_chest = true
+        bell = false
+        end_gateway = true
+        comparator = false
+        beacon = true
+        command_block = false
+        jigsaw = false
+        hopper = false
+        mob_spawner = false
+        trapped_chest = false
+        blast_furnace = true
+
+        [light_sources.settings.entities]
+
+        #
+        # What entities to toggle in order to be used in dynamic lights,
+        # Similar to the block entity switches above except it's about the non-block entities instead.
+        #
+        # The resource pack rule applies here aswell by the way.
+        #
+
+        [light_sources.settings.entities.minecraft]
+        
+        zombie_horse = false
+        axolotl = false
+        egg = false
+        zoglin = false
+        spawner_minecart = false
+        llama = false
+        mule = false
+        bat = false
+        husk = false
+        experience_bottle = true
+        rabbit = false
+        firework_rocket = true
+        silverfish = false
+        giant = false
+        drowned = true
+        item = false
+        goat = false
+        horse = false
+        vindicator = false
+        minecart = false
+        spectral_arrow = true
+        llama_spit = false
+        mooshroom = false
+        glow_item_frame = true
+        snowball = false
+        tnt = true
+        parrot = false
+        creeper = true
+        lightning_bolt = true
+        ravager = false
+        evoker_fangs = false
+        chest_minecart = false
+        tropical_fish = false
+        slime = false
+        pillager = false
+        area_effect_cloud = false
+        blaze = true
+        piglin = false
+        endermite = true
+        end_crystal = true
+        ender_pearl = true
+        zombie = false
+        guardian = true
+        fireball = true
+        illusioner = false
+        eye_of_ender = true
+        wither_skull = false
+        wolf = false
+        tnt_minecart = false
+        zombie_villager = false
+        elder_guardian = true
+        boat = false
+        small_fireball = true
+        strider = false
+        cave_spider = true
+        cod = false
+        snow_golem = false
+        witch = true
+        spider = true
+        command_block_minecart = false
+        panda = false
+        bee = false
+        arrow = false
+        cow = false
+        magma_cube = true
+        pig = false
+        skeleton = false
+        hoglin = false
+        armor_stand = false
+        experience_orb = true
+        dolphin = false
+        stray = true
+        shulker = true
+        turtle = false
+        salmon = false
+        vex = false
+        wandering_trader = true
+        wither_skeleton = false
+        piglin_brute = false
+        ocelot = false
+        furnace_minecart = false
+        item_frame = false
+        phantom = true
+        ender_dragon = true
+        leash_knot = false
+        marker = false
+        evoker = false
+        glow_squid = true
+        shulker_bullet = true
+        squid = false
+        enderman = true
+        dragon_fireball = false
+        chicken = false
+        trader_llama = true
+        donkey = false
+        fox = false
+        iron_golem = false
+        zombified_piglin = false
+        cat = false
+        ghast = false
+        sheep = false
+        player = true
+        pufferfish = false
+        potion = true
+        trident = true
+        villager = true
+        skeleton_horse = false
+        fishing_bobber = false
+        polar_bear = false
+        hopper_minecart = false
+        falling_block = false
+        painting = true
+        wither = true

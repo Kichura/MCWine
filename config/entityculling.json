@@ -1,0 +1,18 @@
+{
+  "configVersion": 5,
+  "renderNametagsThroughWalls": true,
+  "blockEntityWhitelist": [
+    "minecraft:beacon"
+  ],
+  "tracingDistance": 128,
+  "debugMode": false,
+  "sleepDelay": 10,
+  "hitboxLimit": 50,
+  "skipMarkerArmorStands": true,
+  "tickCulling": true,
+  "tickCullingWhitelist": [
+    "minecraft:boat",
+    "minecraft:firework_rocket"
+  ],
+  "disableF3": true
+}

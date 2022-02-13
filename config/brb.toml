@@ -1,0 +1,26 @@
+#
+# Modifies the recipe book system to make it better,
+# A portion of settings are disabled such as "unlockAll" to avoid causing problems.
+#
+
+enableBook = true
+enablePinning = true
+settingsButton = false
+darkMode = false
+keepCentered = true
+
+[newRecipes]
+unlockAll = false
+enableBounce = true
+
+[instantCraft]
+instantCraft = false
+showButton = false
+
+[alternativeRecipes]
+onHover = true
+noGrouped = false
+
+[scrolling]
+enableScrolling = true
+scrollAround = false

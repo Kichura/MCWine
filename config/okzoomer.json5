@@ -1,0 +1,53 @@
+{
+    "features": {
+                //
+                // Controls the zooming modes,
+                //
+                // By default in this pack; The mouse is slowed + zoom key held down so that aiming is easier, this includes making the zooming smooth.
+                // but this behavior can be modified if this is not satisifying for your personal needs.
+                //
+                "cinematic_camera": "OFF",
+                "reduce_sensitivity": true,
+                "zoom_transition": "SMOOTH",
+                "zoom_mode": "HOLD",
+                //
+                // Controls the binding system for zoom.
+                //
+                "zoom_scrolling": true,
+                "extra_keybinds": false,
+                "zoom_overlay": "OFF"
+      },
+      "values": {
+                //
+                // The values used for the zoom feature,
+                //
+                // This controls the zooming system in general so that a proper zoom is set-up and ready for use,
+                // however this section uses the old zooming configuration as it is unmodified.
+                //
+                "zoom_divisor": 4.0,
+                "minimum_zoom_divisor": 1.0,
+                "maximum_zoom_divisor": 50.0,
+                "minimum_zoomed_f_o_v": 30.0,
+                "maximum_zoomed_f_o_v": 110.0,
+                "scroll_step": 1.0,
+                "lesser_scroll_step": 0.5,
+                "smooth_multiplier": 0.75,
+                "cinematic_multiplier": 4.0,
+                "minimum_linear_step": 0.125,
+                "maximum_linear_step": 0.25
+      },
+      "tweaks": {
+                //
+                // Tweak utilities used for zooming feature,
+                //
+                // These are basically useless in general so all of them are disabled by default in this pack,
+                // but if you want to use one of them or another anyways, feel free to change these.
+                //
+                "reset_zoom_with_mouse": false,
+                "unbind_conflicting_key": false,
+                "use_spyglass_texture": false,
+                "use_spyglass_sounds": false,
+                "show_restriction_toasts": false,
+                "print_owo_on_start": false
+      }
+}

@@ -1,0 +1,23 @@
+{
+  "disableReturnToMainMenu": false,
+  "deobfuscateStackTrace": false,
+  "catchInitializationCrashes": true,
+  "debugModIdentification": false,
+  "forceCrashScreen": false,
+  "crashLimit": 30,
+  "crashlogUpload": {
+    "destination": "HASTEBIN",
+    "hasteUrl": "https://hastebin.com/",
+    "bytebinUrl": "https://bytebin.lucko.me/",
+    "gist": {
+      "accessToken": "",
+      "unlisted": false
+    },
+    "pastebin": {
+      "uploadKey": "",
+      "privacy": "PUBLIC",
+      "expiry": "NEVER"
+    },
+    "customUserAgent": ""
+  }
+}
