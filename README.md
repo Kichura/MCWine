@@ -77,7 +77,7 @@ It is recommended that you use [one of these specific scripts](https://pastebin.
 - [FlashyReese](https://github.com/FlashyReese) for helping me create this entire readme document,
 - [MrMangoHands](https://github.com/mrmangohands) for helping out with sharing the [lithium configuration codes](https://github.com/CaffeineMC/lithium-fabric/blob/1.17.x/dev/src/main/java/me/jellysquid/mods/lithium/common/config/LithiumConfig.java),
 - [Z-8Bit](https://github.com/Z-8Bit) for suggesting a mod replacement for audio reloader + giving a performance comparison for J16 + J17,
-- [robotkoer](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized), [The ViaVersion Team](https://github.com/ViaVersion), [The ProtocolSupport Team](https://github.com/ProtocolSupport/ProtocolSupport) & [The WineHQ Team](https://www.winehq.org) for inspiring me to create this modpack from the ground-up.
+- [robotkoer](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized), [The ViaVersion Team](https://viaversion.com), [The ProtocolSupport Team](https://protocol.support) & [The WineHQ Team](https://www.winehq.org) for inspiring me to create this modpack from the ground-up.
 
 ## Resource pack credits (Default+)
 
@@ -153,4 +153,4 @@ I also am **NOT** responsible for any damages or corruptions caused by one or mo
 
 ## License
 
-MCWine is licensed under GNU GPLv3, a free and open-source license. For more information, please see the [license file](https://github.com/Kichura/MCWine/blob/Beta/LICENSE).
+MCWine is licensed under MIT, a free and open-source license. For more information, please see the [license file](https://github.com/Kichura/MCWine/blob/Beta/LICENSE).
