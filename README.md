@@ -5,7 +5,7 @@ MCWine is a fabric-based modpack designed to bring better performance, brand new
 
 ## Installing this modpack (Official/Vanilla Method)
 
-1. [**Click here to download the beta version**](https://github.com/Kichura/MCWine/archive/refs/heads/Beta.zip) - [**or try out the lite version**](https://github.com/Kichura/MCWine/archive/refs/heads/Lite.zip),
+1. [**Click here to download the beta version**](https://github.com/Kichura/MCWine/archive/refs/heads/Beta.zip)
 2. Open your Minecraft folder,
 3. Open the zip file you have downloaded from step one,
 4. Copy the MCWine-XXXX folder from ZIP to .minecraft/versions folder, if asked - replace the files,
@@ -18,7 +18,7 @@ MCWine is a fabric-based modpack designed to bring better performance, brand new
 
 ## Installing this modpack (MultiMC Method)
 
-1. [**Click here to download the beta version**](https://github.com/Kichura/MCWine/archive/refs/heads/MultiMC-Beta.zip) - [**or try out the lite version**](https://github.com/Kichura/MCWine/archive/refs/heads/MultiMC-Lite.zip),
+1. [**Click here to download the beta version**](https://github.com/Kichura/MCWine/archive/refs/heads/MultiMC-Beta.zip)
 2. Drag the ZIP into the MultiMC window,
 3. Make sure the installed instance has Java 17 or greater installed.
 
