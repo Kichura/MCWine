@@ -3,8 +3,6 @@
 
 MCWine is a fabric-based modpack designed to bring better performance, brand new fixes, more accessibility and a compatibility system to allow players to connect to newer & older servers out of the box.
 
-***(This project may likely contain bugs via specific mods, If you are sensitive to these kinds of issues; Please don't use this modpack unless you know any better!)***
-
 ## Installing this modpack (Official/Vanilla Method)
 
 1. [**Click here to download the beta version**](https://github.com/Kichura/MCWine/archive/refs/heads/Beta.zip) - [**or try out the lite version**](https://github.com/Kichura/MCWine/archive/refs/heads/Lite.zip),
@@ -145,11 +143,12 @@ It is recommended that you use [one of these specific scripts](https://pastebin.
 - [nappabutterfinger](https://www.planetminecraft.com/texture-pack/162old-food-textures-resource-pack) - Restores food items to their old variants,
 - [ic22487](https://www.planetminecraft.com/texture-pack/programmer-art-ultimate-1-17) - Make multiple 1.17/1.18 textures programmer art-like.
 
-## Found a bug/issue via MCWine (Mods only)?
+## Disclaimers
 
-Please contact the original authors at GitHub or their specific sources for more details instead of me as i do NOT own any of the following mods as said above. 
-
-I also am **NOT** responsible for any damages or corruptions caused by one or more mods combined, You can however choose to contact me if you believe something is in error and requires a fix for it as soon as possible.
+1. It cannot be guaranteed that ViaFabric + ViaBackwards are allowed on specific servers as they can possibly cause problems with anti-cheat plugins,
+2. I do not take any responsibility for any issues caused by this pack - Any action you do is completely on your own,
+3. This modpack does not ship with mod menu as most configurations for each mod have been pre-baked. but you can install it regardless,
+4. Some mods will possibly contain bugs that can break this client - If you are sensitive to these issues; You can disable the specific mods to play without them.
 
 ## License
 
