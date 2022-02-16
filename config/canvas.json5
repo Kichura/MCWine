@@ -1,0 +1,86 @@
+{
+	//
+	// Pipeline configuration for Canvas goes here,
+	//
+	// This sets the renderer mode to the specific shader that Canvas should make use of,
+	// For the best option; we will be using the basic mode as it is vanilla-like and should not cause any performance impacts,
+	// However, it also allows us to determine on how the basic mode should work which in example should be trying to patch smooth lighting.
+	//
+	// For the internal pipeline configuration, See the file "canvas_pipeline_options.json5" for this matter.
+	//
+	"pipelineId": "canvas:pipelines/canvas_basic.json5",
+	"blendFluidColors": true,
+	"wavyGrass": false,
+	"disableVignette": true,
+	"semiFlatLighting": true,
+	"lightSmoothing": true,
+	//
+	// Tweaking configuration for Canvas goes here,
+	//
+	// This is where we tell Canvas on what tweaks to use to make the renderer run better in some scenarios,
+	// Usually this should try and make FPS improved by a little bit or a ton which is the main goal for optimization.
+	//
+	// Although this will depend on what will work on which hardware components since this can easily vary for mostly everyone.
+	//
+	"preventDepthFighting": true,
+	"clampExteriorVertices": true,
+	"fixLuminousBlockShading": true,
+	"advancedTerrainCulling": true,
+	"terrainSetupOffThread": true,
+	"cullEntityRender": true,
+	"greedyRenderThread": true,
+	"forceJmxModelLoading": true,
+	"reduceResolutionOnMac": true,
+	"cullParticles": true,
+	"steadyDebugScreen": true,
+	"disableUnseenSpriteAnimation": true,
+	"groupAnimatedSprites": true,
+	"cullBackfacingTerrain": true,
+	//
+	// Troubleshooting configuration for Canvas goes here,
+	//
+	// These should only be changed in case something goes wrong with canvas and causes client to crash entirely,
+	// Unless there is no issue with it then these should remain unmodified for now.
+	//
+	"safeNativeMemoryAllocation": false,
+	"staticFrustumPadding": 10,
+	"dynamicFrustumPadding": 20,
+	"enableNearOccluders": false,
+	"useCombinedThreadPool": false,
+	"transferBufferMode": "AUTO",
+	//
+	// Allows shader sources including vanilla to be pre-processed,
+	//
+	// This is enabled by default in order to workaround issues where chunks will not render properly in some GPUs,
+	// However if you feel like this does not work then you can try changing this in-game.
+	//
+	"preprocessShaderSource": true,
+	//
+	// Debugging configuration for Canvas goes here,
+	//
+	// Mostly all of these are disabled as they are not meant to be used by normal users,
+	// but if you need to do diagnosis or require shaders to be investigated then feel free to make use of these.
+	//
+	"shaderDebug": false,
+	"conciseErrors": false,
+	"logMachineInfo": false,
+	"logGlStateChanges": false,
+	"debugNativeMemoryAllocation": false,
+	"debugOcclusionRaster": false,
+	"debugOcclusionBoxes": false,
+	"renderWhiteGlassAsOccluder": false,
+	"traceOcclusionEdgeCases": false,
+	"enableBufferDebug": false,
+	"enableLifeCycleDebug": false,
+	"logMissingUniforms": false,
+	"logMaterials": false,
+	"logRenderLagSpikes": false,
+	"renderLagSpikeFps": 30,
+	"displayRenderProfiler": false,
+	"profilerDisplayMode": "CPU",
+	"profilerDetailLevel": 0,
+	"profilerOverlayScale": 0.5,
+	"debugSpriteAtlas": false,
+	"traceTextureLoad": false,
+	"enablePerformanceTrace": false
+}

@@ -38,6 +38,7 @@ It is recommended that you use [one of these specific scripts](https://pastebin.
 
 - [Alternate-EntityCulling (Aka EntityCulling Fabric/Forge)](https://www.curseforge.com/minecraft/mc-mods/entityculling) - **tr9zw**,
 - [BrandPacket](https://www.curseforge.com/minecraft/mc-mods/brandpacket) - **liach**,
+- [Canvas](https://github.com/vram-guild/canvas) - **grondag**,
 - [Compacted-Chat (Aka CompactChat)](https://modrinth.com/mod/compactchat) - **cbyrne**,
 - [Detailed-Crashes (Aka Not Enough Crashes)](https://modrinth.com/mod/notenoughcrashes) - **natanfudge**,
 - [Dynamic-Lights (Aka LambDynamicLights)](https://modrinth.com/mod/lambdynamiclights) - **LambdAurora**,
@@ -62,7 +63,6 @@ It is recommended that you use [one of these specific scripts](https://pastebin.
 - [NoFlashing-NightVision (Aka Night Vision flash be gone)](https://www.curseforge.com/minecraft/mc-mods/night-vision-flash-be-gone) - **AshIndigo**,
 - [NoMoreScore](https://github.com/ExoPlant/NoMoreScore) - **ExoPlant**,
 - [Persist-Sneaking (Aka Sneaky Screens)](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens) - **haykam**,
-- [Sodium](https://github.com/CaffeineMC/sodium-fabric/tree/1.18.x/next) - **CaffeineMC**,
 - [Starlight](https://github.com/Spottedleaf/Starlight) - **Spottedleaf**,
 - [ThirdPerson-Maps](https://www.curseforge.com/minecraft/mc-mods/third-person-maps) - **Pepperoni__Jabroni__**,
 - [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) - **masady**,
