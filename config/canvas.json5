@@ -26,7 +26,6 @@
 	"clampExteriorVertices": true,
 	"fixLuminousBlockShading": true,
 	"advancedTerrainCulling": true,
-	"terrainSetupOffThread": true,
 	"cullEntityRender": true,
 	"greedyRenderThread": true,
 	"forceJmxModelLoading": true,
@@ -42,6 +41,7 @@
 	// These should only be changed in case something goes wrong with canvas and causes client to crash entirely,
 	// Unless there is no issue with it then these should remain unmodified for now.
 	//
+	"terrainSetupOffThread": false,
 	"safeNativeMemoryAllocation": false,
 	"staticFrustumPadding": 10,
 	"dynamicFrustumPadding": 20,
