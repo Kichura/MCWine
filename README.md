@@ -38,7 +38,7 @@ It is recommended that you use [one of these specific scripts](https://pastebin.
 
 - [Alternate-EntityCulling (Aka EntityCulling Fabric/Forge)](https://www.curseforge.com/minecraft/mc-mods/entityculling) - **tr9zw**,
 - [BrandPacket](https://www.curseforge.com/minecraft/mc-mods/brandpacket) - **liach**,
-- [Canvas](https://github.com/vram-guild/canvas) - **grondag**,
+- [Canvas-Renderer](https://github.com/vram-guild/canvas) - **grondag**,
 - [Compacted-Chat (Aka CompactChat)](https://modrinth.com/mod/compactchat) - **cbyrne**,
 - [Detailed-Crashes (Aka Not Enough Crashes)](https://modrinth.com/mod/notenoughcrashes) - **natanfudge**,
 - [Dynamic-Lights (Aka LambDynamicLights)](https://modrinth.com/mod/lambdynamiclights) - **LambdAurora**,
