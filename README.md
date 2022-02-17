@@ -152,4 +152,4 @@ It is recommended that you use [one of these specific scripts](https://pastebin.
 
 ## License
 
-MCWine is licensed under MIT, a free and open-source license. For more information, please see the [license file](https://github.com/Kichura/MCWine/blob/Beta/LICENSE).
+MCWine is licensed under MIT, a free and open-source license. For more information, please see the [license file](https://github.com/Kichura/MCWine/blob/Dev/LICENSE).
