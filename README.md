@@ -134,7 +134,8 @@ It is recommended that you use [one of these specific scripts](https://pastebin.
 - [Cubeoidal](https://www.planetminecraft.com/texture-pack/randomly-rotated-moss) - Rotates moss blocks randomly,
 - [BigDiegoMC](https://www.planetminecraft.com/texture-pack/better-fast-leaves) – Improves the leaves for fast graphics,
 - [Echonix](https://www.planetminecraft.com/texture-pack/mc-164001-transparent-textures-bug-fix-see-through-paintings-beds-amp-shields) – Fixes transparency bugs,
-- [Legofelix55](https://www.planetminecraft.com/texture-pack/age-25-cave-vines) – Renders flowers when cave vines have aged to 25.
+- [Legofelix55](https://www.planetminecraft.com/texture-pack/age-25-cave-vines) – Renders flowers when cave vines have aged to 25,
+- [Hecco](https://www.planetminecraft.com/texture-pack/dapper-copper) - Dappifies copper.
 
 ## Resource pack credits (Programmer Art+)
 
