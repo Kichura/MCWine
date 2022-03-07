@@ -15,7 +15,8 @@
                 //
                 "zoom_scrolling": true,
                 "extra_keybinds": false,
-                "zoom_overlay": "OFF"
+                "zoom_overlay": "OFF",
+                "spyglass_dependency": "REPLACE_ZOOM"
       },
       "values": {
                 //
