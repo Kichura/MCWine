@@ -38,7 +38,6 @@ It is recommended that you use [one of these specific scripts](https://pastebin.
 
 - [Alternate-EntityCulling (Aka EntityCulling Fabric/Forge)](https://www.curseforge.com/minecraft/mc-mods/entityculling) - **tr9zw**,
 - [BrandPacket](https://www.curseforge.com/minecraft/mc-mods/brandpacket) - **liach**,
-- [Canvas-Renderer](https://github.com/vram-guild/canvas) - **grondag**,
 - [Compacted-Chat (Aka CompactChat)](https://modrinth.com/mod/compactchat) - **cbyrne**,
 - [Detailed-Crashes (Aka Not Enough Crashes)](https://modrinth.com/mod/notenoughcrashes) - **natanfudge**,
 - [Dynamic-Lights (Aka LambDynamicLights)](https://modrinth.com/mod/lambdynamiclights) - **LambdAurora**,
@@ -53,6 +52,7 @@ It is recommended that you use [one of these specific scripts](https://pastebin.
 - [Fix-Titles (Aka Title Fixer)](https://modrinth.com/mod/title-fixer) - **thegameratort**,
 - [Fix-ToolTips (Aka ToolTipFix)](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) - **Kyrptonaught**,
 - [Horse-Stats (Aka Horse Stats Vanilla)](https://modrinth.com/mod/horsestatsvanilla) - **d4rkm0nkey**,
+- [Iris](https://github.com/IrisShaders/Iris/tree/1.18.2) - **IrisShaders**,
 - [Improved-RecipeBook (Aka Better Recipe Book)](https://modrinth.com/mod/brb) - **marshmallow**,
 - [Krypton](https://modrinth.com/mod/krypton) - **astei**,
 - [LAN-Configurator (Aka Custom LAN)](https://modrinth.com/mod/custom-lan) - **DimiDimit**,
@@ -63,6 +63,7 @@ It is recommended that you use [one of these specific scripts](https://pastebin.
 - [NoFlashing-NightVision (Aka Night Vision flash be gone)](https://www.curseforge.com/minecraft/mc-mods/night-vision-flash-be-gone) - **AshIndigo**,
 - [NoMoreScore](https://github.com/ExoPlant/NoMoreScore) - **ExoPlant**,
 - [Persist-Sneaking (Aka Sneaky Screens)](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens) - **haykam**,
+- [Sodium](https://github.com/CaffeineMC/sodium-fabric/tree/1.18.x/dev) - **CaffeineMC**,
 - [Starlight](https://github.com/Spottedleaf/Starlight) - **Spottedleaf**,
 - [ThirdPerson-Maps](https://www.curseforge.com/minecraft/mc-mods/third-person-maps) - **Pepperoni__Jabroni__**,
 - [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) - **masady**,

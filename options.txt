@@ -1,4 +1,5 @@
-version:2865
+version:2975
+previousLang:
 autoJump:false
 autoSuggestions:true
 chatColors:true
@@ -11,7 +12,6 @@ discrete_mouse_scroll:false
 invertYMouse:false
 realmsNotifications:false
 reducedDebugInfo:false
-snooperEnabled:false
 showSubtitles:false
 touchscreen:false
 fullscreen:false
@@ -68,6 +68,7 @@ mouseWheelSensitivity:0.5
 rawMouseInput:false
 glDebugVerbosity:0
 skipMultiplayerWarning:true
+skipRealms32bitWarning:true
 hideMatchedNames:true
 joinedFirstServer:true
 hideBundleTutorial:true
