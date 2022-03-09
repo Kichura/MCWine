@@ -110,13 +110,7 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.canvas.debug_toggle:key.keyboard.unknown
-key_key.canvas.debug_prev:key.keyboard.unknown
-key_key.canvas.debug_next:key.keyboard.unknown
-key_key.canvas.recompile:key.keyboard.unknown
-key_key.canvas.flawless_toggle:key.keyboard.unknown
-key_key.canvas.profiler_toggle:key.keyboard.unknown
-key_key.okzoomer.zoom:key.keyboard.z
+key_key.logical_zoom.zoom:key.keyboard.z
 soundCategory_master:1.0
 soundCategory_music:0.325
 soundCategory_record:0.165

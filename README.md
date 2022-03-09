@@ -69,7 +69,7 @@ It is recommended that you use [one of these specific scripts](https://pastebin.
 - [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) - **masady**,
 - [ViaBackwards](https://github.com/ViaVersion/ViaBackwards) - **ViaVersion**,
 - [ViaFabric](https://github.com/ViaVersion/ViaFabric) - **ViaVersion**,
-- [Zoom (Aka Ok Zoomer)](https://modrinth.com/mod/ok-zoomer) - **EnnuiL**.
+- [Zoom (Aka Logical Zoom)](https://www.curseforge.com/minecraft/mc-mods/logical-zoom) - **LogicalGeekBoy**.
 
 ## Additional thanks to
 
