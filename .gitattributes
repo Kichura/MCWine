@@ -2,34 +2,34 @@
 # Java/script related file extensions.
 #
 
-*.jar           binary
-*.json          linguist-language=json
-*.json5         linguist-language=javascript
-*.js            linguist-language=javascript
-*.mjs           linguist-language=javascript
-*.jsonld        linguist-language=json
-*.toml          linguist-language=toml
-*.yml           linguist-language=yaml
+*.json          linguist-detectable=true
+*.json5         linguist-detectable=true
+*.js            linguist-detectable=true
+*.mjs           linguist-detectable=true
+*.jsonld        linguist-detectable=true
+*.toml          linguist-detectable=true
+*.yml           linguist-detectable=true
 
 #
 # Kotlin related file extensions.
 #
 
-*.kt            linguist-language=kotlin
-*.kts           linguist-language=kotlin
-*.gradle.kts    linguist-language=kotlin
+*.kt            linguist-detectable=true
+*.kts           linguist-detectable=true
+*.gradle.kts    linguist-detectable=true
 
 #
 # Document file extensions.
 #
 
-*.md       linguist-language=markdown
-*.txt      text
+*.md       linguist-detectable=true
+*.txt      linguist-detectable=true
 
 #
 # Binary file extensions.
 #
 
+*.jar      binary
 *.bmp      binary
 *.png      binary
 *.jpg      binary
