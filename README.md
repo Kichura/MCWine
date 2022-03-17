@@ -42,6 +42,7 @@ It is recommended that you use [one of these specific scripts](https://pastebin.
 - [Detailed-Crashes (Aka Not Enough Crashes)](https://modrinth.com/mod/notenoughcrashes) - **natanfudge**,
 - [Dynamic-Lights (Aka LambDynamicLights)](https://modrinth.com/mod/lambdynamiclights) - **LambdAurora**,
 - [Fabric-API](https://modrinth.com/mod/fabric-api) - **modruss50**, **sfPlayer1**,
+- [FCLS (Aka kennytvs-epic-force-close-loading-screen-mod-for-fabric)](https://github.com/kennytv/kennytvs-epic-force-close-loading-screen-mod-for-fabric) - **kennytv**,
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) - **malte0811**,
 - [Fix-Advancements (Aka Advancements Debug)](https://www.curseforge.com/minecraft/mc-mods/advancements-debug) - **thetechnici4n**,
 - [Fix-Annoyances (Aka TieFix)](https://modrinth.com/mod/tiefix) - **j-tai**,
