@@ -137,7 +137,8 @@ It is recommended that you use [one of these specific scripts](https://pastebin.
 - [BigDiegoMC](https://www.planetminecraft.com/texture-pack/better-fast-leaves) – Improves the leaves for fast graphics,
 - [Echonix](https://www.planetminecraft.com/texture-pack/mc-164001-transparent-textures-bug-fix-see-through-paintings-beds-amp-shields) – Fixes transparency bugs,
 - [Legofelix55](https://www.planetminecraft.com/texture-pack/age-25-cave-vines) – Renders flowers when cave vines have aged to 25,
-- [Hecco](https://www.planetminecraft.com/texture-pack/dapper-copper) - Dappifies copper.
+- [Hecco](https://www.planetminecraft.com/texture-pack/dapper-copper) - Dappifies copper,
+- [To0pa](https://www.planetminecraft.com/texture-pack/uniform-tadpole-bucket) - Makes tadpole bucket consistent with other fish buckets.
 
 ## Resource pack credits (Programmer Art+)
 
