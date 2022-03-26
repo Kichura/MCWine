@@ -63,6 +63,7 @@ It is recommended that you use [one of these specific scripts](https://pastebin.
 - [LowHealth-Warning (Aka Damage Tint)](https://modrinth.com/mod/damage-tint) - **Deadly**,
 - [NoFlashing-NightVision (Aka Night Vision flash be gone)](https://www.curseforge.com/minecraft/mc-mods/night-vision-flash-be-gone) - **AshIndigo**,
 - [NoMoreScore](https://github.com/ExoPlant/NoMoreScore) - **ExoPlant**,
+- [No Telemetry](https://modrinth.com/mod/no-telemetry) - **kb1000**,
 - [Persist-Sneaking (Aka Sneaky Screens)](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens) - **haykam**,
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric/tree/1.18.x/dev) - **CaffeineMC**,
 - [Starlight](https://github.com/Spottedleaf/Starlight) - **Spottedleaf**,
