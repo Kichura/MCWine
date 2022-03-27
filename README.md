@@ -133,7 +133,7 @@ It is recommended that you use [one of these specific scripts](https://pastebin.
 - [Chubins -VE](https://www.planetminecraft.com/texture-pack/crimson-nylium-top-fix-4831213) - Makes crimson nylium not peek out netherrack from top,
 - [Reijvi](https://www.planetminecraft.com/texture-pack/creeper-reimaged) - Completely redos the creeper texture + painting,
 - [androidbuster-VE](https://www.planetminecraft.com/texture-pack/better-netherite-leggings) - Gives the netherite leggings item a new look,
-- [Cubeoidal](https://www.planetminecraft.com/texture-pack/randomly-rotated-moss) - Rotates moss blocks randomly,
+- [Cubeoidal](https://pastebin.com/raw/Y1Mm3ieY) - Rotates moss blocks randomly, Randomize colored spore blossoms and enhance sculk-related materials,
 - [BigDiegoMC](https://www.planetminecraft.com/texture-pack/better-fast-leaves) – Improves the leaves for fast graphics,
 - [Echonix](https://www.planetminecraft.com/texture-pack/mc-164001-transparent-textures-bug-fix-see-through-paintings-beds-amp-shields) – Fixes transparency bugs,
 - [Legofelix55](https://www.planetminecraft.com/texture-pack/age-25-cave-vines) – Renders flowers when cave vines have aged to 25,
