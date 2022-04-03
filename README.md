@@ -26,11 +26,11 @@ MCWine is a fabric-based modpack designed to bring better performance, brand new
 
 It is recommended that you use [Java 18](https://jdk.java.net/18) to allow minecraft to make use of the latest java version.
 
-*Although now requires ```javacheck.jar``` to be deleted as seen in this [clip](https://streamable.com/i3voeu). (But if you use MultiMC instead then skip the ```javacheck.jar``` removal requirement)*
+*Although now requires ```javacheck.jar``` to be deleted as reported in [MC-18306](https://bugs.mojang.com/browse/MCL-18306). (But if you use MultiMC instead then skip the ```javacheck.jar``` removal requirement)*
 
 ## JVM Arguments (Optional)
 
-It is recommended that you use [one of these specific scripts](https://pastebin.com/raw/wZrDGjFs) from this pastebin as your JVM arguments instead of the defaults. 
+It is recommended that you use [one of these specific scripts](https://github.com/Kichura/MCWine/tree/Dev/sources/jvm_arguments.md) as your JVM arguments instead of the defaults.
 
 *(You can change the ```-Xmx2G``` including ```-Xms2G``` value from the pastebin in order to manage the game RAM on how much to use for Minecraft, But depends on your computer's hardware; Both of those are not needed in MultiMC however as it uses it's own configurators for that)*
 
@@ -38,7 +38,7 @@ It is recommended that you use [one of these specific scripts](https://pastebin.
 
 Please [check this page](https://github.com/Kichura/MCWine/tree/Dev/sources/mods_used.md) for a whole list of mods that have been used for this modpack,
 
-for the resource pack list, It can be found [in this page](https://github.com/Kichura/MCWine/tree/Dev/sources/resources_used.md) instead.
+For the resource pack list, It can be found [in this page](https://github.com/Kichura/MCWine/tree/Dev/sources/resources_used.md) instead.
 
 ## Special thanks to
 
