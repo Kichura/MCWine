@@ -27,4 +27,4 @@
 
 [Krusic's ZGC tuning blog](https://krusic22.com/2020/03/25/higher-performance-crafting-using-jdk11-and-zgc),
 
-[FroggeMC's ZGC Repository](https://github.com/FroggeMC/MC-Java-Flags).
+[FroggeMC's ZGC repository](https://github.com/FroggeMC/MC-Java-Flags).
