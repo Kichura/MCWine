@@ -95,6 +95,9 @@ TODO export-ignore
 .gitlab/service_desk_templates export-ignore
 .gitlab/.gitlab-webide.yml export-ignore
 .gitlab/CODEOWNERS export-ignore
+sources export-ignore
+sources/mods_used.md export-ignore
+sources/sources_list.md export-ignore
 
 #
 # Packwiz stuff - We don't need this for ZIP.
