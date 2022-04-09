@@ -57,7 +57,12 @@
 - [Echonix](https://www.planetminecraft.com/texture-pack/mc-164001-transparent-textures-bug-fix-see-through-paintings-beds-amp-shields) – Fixes transparency bugs,
 - [Legofelix55](https://www.planetminecraft.com/texture-pack/age-25-cave-vines) – Renders flowers when cave vines have aged to 25,
 - [Hecco](https://www.planetminecraft.com/texture-pack/dapper-copper) - Dappifies copper,
-- [To0pa](https://www.planetminecraft.com/texture-pack/uniform-tadpole-bucket) - Makes tadpole bucket consistent with other fish buckets.
+- [To0pa](https://www.planetminecraft.com/texture-pack/uniform-tadpole-bucket) - Makes tadpole bucket consistent with other fish buckets,
+- [IcarusIsBestGirl](https://www.planetminecraft.com/texture-pack/dark-warden-java-edition) - Makes the warden twice as dark,
+- [JoeEnderman](https://www.planetminecraft.com/texture-pack/frog-fix-bedrock-and-java) - Fixes frogs so that their colors match real life ones,
+- [Hecco](https://www.planetminecraft.com/texture-pack/new-allays) - Enhances the look of allay,
+- [SweatyYeti](https://www.planetminecraft.com/texture-pack/muddier-mud) - Makes mud look brown instead of gray,
+- [PencilVoid](https://www.planetminecraft.com/texture-pack/echo-shard-redraw) - Enhances the look of Echo Shards.
 
 ## Resource pack credits (Programmer Art+)
 
