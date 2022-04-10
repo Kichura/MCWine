@@ -1,4 +1,13 @@
 #
+# Manages the version protocol for servers; Please keep in mind that the author of ViaFabric is NOT responsible for unexpected punishments,
+# If you happen to get banned with this then we can't do anything about it!
+#
+
+client-side-version: -2
+enable-client-side: true
+hide-button: false
+
+#
 # Since these servers have either very strict anti-cheats or include their own protocol-compatibility system,
 # They will be blacklisted so that the user cannot try to tamper with ViaFabric just to join servers that way.
 #
@@ -52,12 +61,3 @@ client-side-force-disable:
 - '*.lotc.co'
 - potterworldmc.com
 - '*.potterworldmc.com'
-
-#
-# Manages the version protocol for servers; Please keep in mind that the author of ViaFabric is NOT responsible for unexpected punishments,
-# If you happen to get banned with this then we can't do anything about it!
-#
-
-client-side-version: -2
-enable-client-side: true
-hide-button: false
