@@ -2,6 +2,7 @@
   "version": 0,
   "debug": false,
   "mc2071_fix": false,
+  "mc12829_fix": true,
   "mc62997_fix": true,
   "mc89242_fix": true,
   "mc122477_fix": true,
