@@ -62,7 +62,9 @@
 - [JoeEnderman](https://www.planetminecraft.com/texture-pack/frog-fix-bedrock-and-java) - Fixes frogs so that their colors match real life ones,
 - [Hecco](https://www.planetminecraft.com/texture-pack/new-allays) - Enhances the look of allay,
 - [SweatyYeti](https://www.planetminecraft.com/texture-pack/muddier-mud) - Makes mud look brown instead of gray,
-- [PencilVoid](https://www.planetminecraft.com/texture-pack/echo-shard-redraw) - Enhances the look of Echo Shards.
+- [PencilVoid](https://www.planetminecraft.com/texture-pack/echo-shard-redraw) - Enhances the look of Echo Shards,
+- [glitchy256](https://www.curseforge.com/minecraft/texture-packs/classic-handhelds) - Restores the 1.8.x handhelds,
+- [DapperLoosh](https://pastebin.com/raw/JN5RqFP1) - Adds colorful alliums & orchids.
 
 ## Resource pack credits (Programmer Art+)
 
