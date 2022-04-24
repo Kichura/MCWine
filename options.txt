@@ -34,7 +34,7 @@ maxFps:120
 difficulty:1
 graphicsMode:0
 ao:2
-prioritizeChunkUpdates:2
+prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:false
 resourcePacks:["vanilla","file/Default+.zip","Fabric Mods"]
