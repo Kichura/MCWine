@@ -13,7 +13,7 @@ MCWine is a fabric-based modpack designed to bring better performance, brand new
 6. Create a new installation instance by heading to "Installations" and choosing the + icon,
 7. Choose the version "MCWine-XXXX" from versions list which should be on the top,
 8. Change the game directory from default to .minecraft/versions/MCWine-XXXX folder,
-9. Make sure the new instance has java 16 or greater selected from the "more options" page,
+9. Make sure the new instance has java 17 or greater selected from the "more options" page,
 10. Save the instance and attempt to run the instance.
 
 ## Installing this modpack (MultiMC Method)
