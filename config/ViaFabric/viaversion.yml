@@ -18,6 +18,7 @@ send-supported-versions: true
 # 3. Support for these have been dropped since similar to hypixel's approach; hence the reason why we also follow along.
 #
 
+block-protocols: []
 block-versions:
 - 1.7-1.7.5
 - 1.7.6-1.7.10
@@ -31,7 +32,6 @@ block-versions:
 - '1.13'
 - 1.13.1
 - 1.13.2
-block-protocols: []
 
 #
 # Messages that should be displayed to the player when disconnected by Via* itself,
@@ -63,27 +63,27 @@ tracking-max-kick-msg: Something went wrong with your connection!
 # While this will not end up in a perfect shape, this will make an attempt on improving critical problems with specific clients.
 #
 
+1_13-tab-complete-delay: 3
+cache-1_17-light: true
+chat-nbt-fix: true
+disable-1_13-auto-complete: true
+fix-1_14-health-nan: true
+fix-infested-block-breaking: true
+fix-low-snow-collision: true
+fix-non-full-blocklight: true
+flowerstem-when-block-above: false
+forced-use-1_17-resource-pack: true
 hologram-patch: true
 hologram-y: -0.96
-piston-animation-patch: true
-chat-nbt-fix: true
-team-colour-fix: true
-disable-1_13-auto-complete: true
-1_13-tab-complete-delay: 3
-fix-low-snow-collision: true
-fix-infested-block-breaking: true
-truncate-1_14-books: true
-fix-non-full-blocklight: true
-fix-1_14-health-nan: true
-use-1_15-instant-respawn: false
-serverside-blockconnections: true
-reduce-blockstorage-memory: false
-flowerstem-when-block-above: false
-vine-climb-fix: true
 ignore-long-1_16-channel-names: true
-forced-use-1_17-resource-pack: true
+piston-animation-patch: true
+reduce-blockstorage-memory: false
 resource-pack-1_17-prompt: This server requires the resource pack to be enabled in order to display other contents properly.
-cache-1_17-light: true
+serverside-blockconnections: true
+team-colour-fix: true
+truncate-1_14-books: true
+use-1_15-instant-respawn: false
+vine-climb-fix: true
 
 #
 # ViaFabric patch (1.8+) configuration goes here,
@@ -92,24 +92,24 @@ cache-1_17-light: true
 # But we will use these patches along in case anything else is missing.
 #
 
-prevent-collision: false
 auto-team: false
-suppress-metadata-errors: true
-shield-blocking: true
-no-delay-shield-blocking: false
-show-shield-when-sword-in-hand: true
-simulate-pt: true
-bossbar-patch: true
 bossbar-anti-flicker: false
-use-new-effect-indicator: true
-use-new-deathmessages: true
-item-cache: true
-replace-pistons: false
-replacement-piston-id: 0
+bossbar-patch: true
 chunk-border-fix: true
 force-json-transform: true
-minimize-cooldown: true
+item-cache: true
 left-handed-handling: true
+minimize-cooldown: true
+no-delay-shield-blocking: false
+prevent-collision: false
+replace-pistons: false
+replacement-piston-id: 0
+shield-blocking: true
+show-shield-when-sword-in-hand: true
+simulate-pt: true
+suppress-metadata-errors: true
+use-new-deathmessages: true
+use-new-effect-indicator: true
 
 #
 # Specifies the world names so that the client can remember what they actually are.

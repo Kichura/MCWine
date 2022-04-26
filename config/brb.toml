@@ -3,22 +3,22 @@
 # A portion of settings are disabled such as "unlockAll" to avoid causing problems.
 #
 
-enablePinning = true
 darkMode = false
+enableBook = true
+enablePinning = true
 keepCentered = true
 settingsButton = false
-enableBook = true
 
 [newRecipes]
-unlockAll = false
 enableBounce = true
+unlockAll = false
 
 [instantCraft]
 showButton = false
 
 [alternativeRecipes]
-onHover = true
 noGrouped = false
+onHover = true
 
 [scrolling]
 enableScrolling = true
