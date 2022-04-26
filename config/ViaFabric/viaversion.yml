@@ -51,10 +51,10 @@ suppress-conversion-warnings: true
 
 max-pps: -1
 max-pps-kick-msg: Something went wrong with your connection!
-tracking-period: -1
-tracking-warning-pps: 50000
 tracking-max-warnings: 500000
 tracking-max-kick-msg: Something went wrong with your connection!
+tracking-period: -1
+tracking-warning-pps: 50000
 
 #
 # ViaFabric patches for 1.9.x go here,
