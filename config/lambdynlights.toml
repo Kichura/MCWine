@@ -12,34 +12,34 @@ mode = "fancy"
 [light_sources]
 
     #
+    # Should block entities light up?
+    #
+
+    block_entities = false
+
+    #
+    # If enabled, Make creepers light up during igniting effect.
+    #
+
+    creeper = "off"
+
+    #
+    # Should entities light up?
+    #
+
+    entities = false
+
+    #
+    # If enabled, Make TNT light up during igniting effect.
+    #
+
+    tnt = "off"
+
+    #
     # Prevents torches and other entities from lighting up when submerged into water sources.
     #
     
     water_sensitive_check = true
-    
-    #
-    # Should block entities light up?
-    #
-    
-    block_entities = false
-    
-    #
-    # Should entities light up?
-    #
-    
-    entities = false
-    
-    #
-    # If enabled, Make TNT light up during igniting effect.
-    #
-    
-    tnt = "off"
-    
-    #
-    # If enabled, Make creepers light up during igniting effect.
-    #
-    
-    creeper = "off"
 
     [light_sources.settings]
     
@@ -54,40 +54,40 @@ mode = "fancy"
 
         [light_sources.settings.block_entities.minecraft]
 
-        bed = false
-        furnace = true
-        dropper = false
-        daylight_detector = false
-        sign = false
-        jukebox = false
-        brewing_stand = true
-        sculk_sensor = false
-        conduit = false
-        beehive = false
-        dispenser = false
-        smoker = true
-        lectern = false
-        skull = false
-        campfire = true
-        barrel = false
-        chest = false
-        piston = false
-        end_portal = true
-        shulker_box = false
-        enchanting_table = false
         banner = false
-        structure_block = false
-        ender_chest = true
-        bell = false
-        end_gateway = true
-        comparator = false
+        barrel = false
         beacon = true
-        command_block = false
-        jigsaw = false
-        hopper = false
-        mob_spawner = false
-        trapped_chest = false
+        bed = false
+        beehive = false
+        bell = false
         blast_furnace = true
+        brewing_stand = true
+        campfire = true
+        chest = false
+        command_block = false
+        comparator = false
+        conduit = false
+        daylight_detector = false
+        dispenser = false
+        dropper = false
+        enchanting_table = false
+        end_gateway = true
+        end_portal = true
+        ender_chest = true
+        furnace = true
+        hopper = false
+        jigsaw = false
+        jukebox = false
+        lectern = false
+        mob_spawner = false
+        piston = false
+        sculk_sensor = false
+        shulker_box = false
+        sign = false
+        skull = false
+        smoker = true
+        structure_block = false
+        trapped_chest = false
 
         [light_sources.settings.entities]
 
@@ -100,116 +100,116 @@ mode = "fancy"
 
         [light_sources.settings.entities.minecraft]
         
-        zombie_horse = false
-        axolotl = false
-        egg = false
-        zoglin = false
-        spawner_minecart = false
-        llama = false
-        mule = false
-        bat = false
-        husk = false
-        experience_bottle = true
-        rabbit = false
-        firework_rocket = true
-        silverfish = false
-        giant = false
-        drowned = true
-        item = false
-        goat = false
-        horse = false
-        vindicator = false
-        minecart = false
-        spectral_arrow = true
-        llama_spit = false
-        mooshroom = false
-        glow_item_frame = true
-        snowball = false
-        tnt = true
-        parrot = false
-        creeper = true
-        lightning_bolt = true
-        ravager = false
-        evoker_fangs = false
-        chest_minecart = false
-        tropical_fish = false
-        slime = false
-        pillager = false
         area_effect_cloud = false
+        armor_stand = false
+        arrow = false
+        axolotl = false
+        bat = false
+        bee = false
         blaze = true
-        piglin = false
-        endermite = true
+        boat = false
+        cat = false
+        cave_spider = true
+        chest_minecart = false
+        chicken = false
+        cod = false
+        command_block_minecart = false
+        cow = false
+        creeper = true
+        dolphin = false
+        donkey = false
+        dragon_fireball = false
+        drowned = true
+        egg = false
+        elder_guardian = true
         end_crystal = true
+        ender_dragon = true
         ender_pearl = true
-        zombie = false
-        guardian = true
-        fireball = true
-        illusioner = false
+        enderman = true
+        endermite = true
+        evoker = false
+        evoker_fangs = false
+        experience_bottle = true
+        experience_orb = true
         eye_of_ender = true
+        falling_block = false
+        fireball = true
+        firework_rocket = true
+        fishing_bobber = false
+        fox = false
+        furnace_minecart = false
+        ghast = false
+        giant = false
+        glow_item_frame = false
+        glow_squid = true
+        goat = false
+        guardian = true
+        hoglin = false
+        hopper_minecart = false
+        horse = false
+        husk = false
+        illusioner = false
+        iron_golem = false
+        item = false
+        item_frame = false
+        leash_knot = false
+        lightning_bolt = true
+        llama = false
+        llama_spit = false
+        magma_cube = true
+        marker = false
+        minecart = false
+        mooshroom = false
+        mule = false
+        ocelot = false
+        painting = true
+        panda = false
+        parrot = false
+        phantom = true
+        pig = false
+        piglin = false
+        piglin_brute = false
+        pillager = false
+        player = true
+        polar_bear = false
+        potion = true
+        pufferfish = false
+        rabbit = false
+        ravager = false
+        salmon = false
+        sheep = false
+        shulker = true
+        shulker_bullet = true
+        silverfish = false
+        skeleton = false
+        skeleton_horse = false
+        slime = false
+        small_fireball = true
+        snow_golem = false
+        snowball = false
+        spawner_minecart = false
+        spectral_arrow = true
+        spider = true
+        squid = false
+        stray = true
+        strider = false
+        tnt = true
+        tnt_minecart = false
+        trader_llama = true
+        trident = true
+        tropical_fish = false
+        turtle = false
+        vex = false
+        villager = true
+        vindicator = false
+        wandering_trader = true
+        witch = true
+        wither = true
+        wither_skeleton = false
         wither_skull = false
         wolf = false
-        tnt_minecart = false
+        zoglin = false
+        zombie = false
+        zombie_horse = false
         zombie_villager = false
-        elder_guardian = true
-        boat = false
-        small_fireball = true
-        strider = false
-        cave_spider = true
-        cod = false
-        snow_golem = false
-        witch = true
-        spider = true
-        command_block_minecart = false
-        panda = false
-        bee = false
-        arrow = false
-        cow = false
-        magma_cube = true
-        pig = false
-        skeleton = false
-        hoglin = false
-        armor_stand = false
-        experience_orb = true
-        dolphin = false
-        stray = true
-        shulker = true
-        turtle = false
-        salmon = false
-        vex = false
-        wandering_trader = true
-        wither_skeleton = false
-        piglin_brute = false
-        ocelot = false
-        furnace_minecart = false
-        item_frame = false
-        phantom = true
-        ender_dragon = true
-        leash_knot = false
-        marker = false
-        evoker = false
-        glow_squid = true
-        shulker_bullet = true
-        squid = false
-        enderman = true
-        dragon_fireball = false
-        chicken = false
-        trader_llama = true
-        donkey = false
-        fox = false
-        iron_golem = false
         zombified_piglin = false
-        cat = false
-        ghast = false
-        sheep = false
-        player = true
-        pufferfish = false
-        potion = true
-        trident = true
-        villager = true
-        skeleton_horse = false
-        fishing_bobber = false
-        polar_bear = false
-        hopper_minecart = false
-        falling_block = false
-        painting = true
-        wither = true
