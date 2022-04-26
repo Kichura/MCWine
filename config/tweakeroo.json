@@ -226,7 +226,7 @@
     "blockTypeBreakRestrictionWhiteList": [],
     "creativeExtraItems": [
       "minecraft:barrier",
-      "minecraft:bundle"
+      "minecraft:bundle",
       "minecraft:chain_command_block",
       "minecraft:command_block",
       "minecraft:command_block_minecart",
@@ -239,7 +239,7 @@
       "minecraft:spawner",
       "minecraft:structure_block",
       "minecraft:structure_void",
-      "minecraft:suspicious_stew",
+      "minecraft:suspicious_stew"
     ],
     "entityTypeAttackRestrictionListType": "blacklist",
     "entityTypeAttackRestrictionBlackList": [
