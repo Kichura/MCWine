@@ -9,7 +9,6 @@
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) - **malte0811**,
 - [Fix-Advancements (Aka Advancements Debug)](https://www.curseforge.com/minecraft/mc-mods/advancements-debug) - **thetechnici4n**,
 - [Fix-Annoyances (Aka TieFix)](https://modrinth.com/mod/tiefix) - **j-tai**,
-- [Fix-ChatLag (Aka Chat lag fix)](https://modrinth.com/mod/chat-lag-fix) - **adryd**,
 - [Fix-ChatPosition (Aka Chat Up!)](https://www.curseforge.com/minecraft/mc-mods/chat-up) - **gnembon**,
 - [Fix-ItemModels (Aka Item Model Fix)](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - **Pepper_Bell**,
 - [Fix-SkyColor (Aka Clear Skies)](https://www.curseforge.com/minecraft/mc-mods/clear-skies) - **grondag**,
