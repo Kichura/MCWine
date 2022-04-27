@@ -64,7 +64,10 @@
 - [SweatyYeti](https://www.planetminecraft.com/texture-pack/muddier-mud) - Makes mud look brown instead of gray,
 - [PencilVoid](https://www.planetminecraft.com/texture-pack/echo-shard-redraw) - Enhances the look of Echo Shards,
 - [glitchy256](https://www.curseforge.com/minecraft/texture-packs/classic-handhelds) - Restores the 1.8.x handhelds,
-- [DapperLoosh](https://pastebin.com/raw/JN5RqFP1) - Adds colorful alliums & orchids.
+- [DapperLoosh](https://pastebin.com/raw/JN5RqFP1) - Adds colorful alliums & orchids,
+- [Ratz_Borkopf](https://www.planetminecraft.com/texture-pack/echo-shard-divining-rod) - Converts recovery compass into echo rod,
+- [LunaByte](https://www.planetminecraft.com/texture-pack/voxilla-better-spider-eyes) - Makes spider eyes jappaified,
+- [Intermet179](https://www.planetminecraft.com/texture-pack/music-disc-5-to-eleven) - Converts music disc 5 -> eleven.
 
 ## Resource pack credits (Programmer Art+)
 
