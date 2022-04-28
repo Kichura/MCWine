@@ -29,6 +29,7 @@
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric/tree/1.18.x/dev) - **CaffeineMC**,
 - [Starlight](https://github.com/Spottedleaf/Starlight) - **Spottedleaf**,
 - [ThirdPerson-Maps](https://www.curseforge.com/minecraft/mc-mods/third-person-maps) - **Pepperoni__Jabroni__**,
+- [Title-Screen-Credits (Aka Main Menu Credits)](https://github.com/Fabulously-Optimized/main-menu-credits) - **Fabulously-Optimized**,
 - [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) - **masady**,
 - [ViaBackwards](https://github.com/ViaVersion/ViaBackwards) - **ViaVersion**,
 - [ViaFabric](https://github.com/ViaVersion/ViaFabric) - **ViaVersion**,
