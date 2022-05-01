@@ -36,7 +36,7 @@
 - [Chacky](https://www.planetminecraft.com/texture-pack/fixed-glow-berries-leaves) - Enhances glow berries,
 - [MasterCRAFT134](https://www.planetminecraft.com/texture-pack/piglin-left-arm-and-leg-fixed-texture) - Fixed piglin textures via arm and leg,
 - [Iceologer](https://www.planetminecraft.com/texture-pack/fixed-salmon-texture) - Enhances the salmon texture,
-- [NeraMinusMinus](https://www.planetminecraft.com/texture-pack/fixed-smooth-stone-java) - Enhances the smooth stone block,
+- [NeraMinusMinus](https://pastebin.com/raw/gSaRnYfh) - Enhances the smooth stone block and makes light gray glass panes visible in GUIs,
 - [EachMenderKhai](https://www.planetminecraft.com/texture-pack/pointed-dripstone-item-fix) - Fixes dripstone in first-person,
 - [iloveflareon](https://www.planetminecraft.com/texture-pack/jappa-square-barrels-1-15-1-16-1-17) - Fixes the opened barrel model,
 - [MiningPug](https://www.planetminecraft.com/texture-pack/truly-default) - Fixes most of broken textures,
@@ -58,7 +58,7 @@
 - [Legofelix55](https://www.planetminecraft.com/texture-pack/age-25-cave-vines) – Renders flowers when cave vines have aged to 25,
 - [Hecco](https://www.planetminecraft.com/texture-pack/dapper-copper) - Dappifies copper,
 - [To0pa](https://www.planetminecraft.com/texture-pack/uniform-tadpole-bucket) - Makes tadpole bucket consistent with other fish buckets,
-- [IcarusIsBestGirl](https://www.planetminecraft.com/texture-pack/dark-warden-java-edition) - Makes the warden twice as dark,
+- [IcarusIsBestGirl](https://pastebin.com/raw/arCVZfwS) - Makes the warden twice as dark and uppercases music disc names,
 - [JoeEnderman](https://www.planetminecraft.com/texture-pack/frog-fix-bedrock-and-java) - Fixes frogs so that their colors match real life ones,
 - [Hecco](https://www.planetminecraft.com/texture-pack/new-allays) - Enhances the look of allay,
 - [SweatyYeti](https://www.planetminecraft.com/texture-pack/muddier-mud) - Makes mud look brown instead of gray,
@@ -66,8 +66,11 @@
 - [glitchy256](https://www.curseforge.com/minecraft/texture-packs/classic-handhelds) - Restores the 1.8.x handhelds,
 - [DapperLoosh](https://pastebin.com/raw/JN5RqFP1) - Adds colorful alliums & orchids,
 - [Ratz_Borkopf](https://www.planetminecraft.com/texture-pack/echo-shard-divining-rod) - Converts recovery compass into echo rod,
-- [LunaByte](https://www.planetminecraft.com/texture-pack/voxilla-better-spider-eyes) - Makes spider eyes jappaified,
-- [Intermet179](https://www.planetminecraft.com/texture-pack/music-disc-5-to-eleven) - Converts music disc 5 -> eleven.
+- [LunaByte](https://pastebin.com/raw/CpJm493R) - Makes spider eyes + quartz items jappaified,
+- [Intermet179](https://www.planetminecraft.com/texture-pack/music-disc-5-to-eleven) - Converts music disc 5 -> eleven,
+- [JMHMirror](https://www.planetminecraft.com/texture-pack/shield-arm-strap-fix) - Fixes the shield strap for armor stands + players,
+- [i used the wrong email](https://www.planetminecraft.com/texture-pack/dry-savanna-grass) - Makes savanna biomes dry-looking,
+- [Manual XXVI](https://www.planetminecraft.com/texture-pack/xxvi-s-consistent-chest-boats-no-more-yellow-chests) - Makes chest boats look consistent.
 
 ## Resource pack credits (Programmer Art+)
 
