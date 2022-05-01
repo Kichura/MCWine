@@ -38,8 +38,8 @@ block-versions:
 # This includes a switch if we want to debug conversions or not.
 #
 
-block-disconnect-msg: This version cannot be used for this server as it is not supported.
-reload-disconnect-msg: This server has been reloaded, Please connect back to the server again.
+block-disconnect-msg: §cThis version cannot be used for this server as it is not supported.
+reload-disconnect-msg: §6This server has been reloaded, Please connect back to the server again.
 suppress-conversion-warnings: true
 
 #
@@ -50,9 +50,9 @@ suppress-conversion-warnings: true
 #
 
 max-pps: -1
-max-pps-kick-msg: Something went wrong with your connection!
+max-pps-kick-msg: §cSomething went wrong with your connection!
 tracking-max-warnings: 500000
-tracking-max-kick-msg: Something went wrong with your connection!
+tracking-max-kick-msg: §cSomething went wrong with your connection!
 tracking-period: -1
 tracking-warning-pps: 50000
 
@@ -78,7 +78,7 @@ hologram-y: -0.96
 ignore-long-1_16-channel-names: true
 piston-animation-patch: true
 reduce-blockstorage-memory: false
-resource-pack-1_17-prompt: This server requires the resource pack to be enabled in order to display other contents properly.
+resource-pack-1_17-prompt: §9This server requires the resource pack to be enabled in order to display other contents properly.
 serverside-blockconnections: true
 team-colour-fix: true
 truncate-1_14-books: true
