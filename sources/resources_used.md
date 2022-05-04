@@ -70,7 +70,8 @@
 - [Intermet179](https://www.planetminecraft.com/texture-pack/music-disc-5-to-eleven) - Converts music disc 5 -> eleven,
 - [JMHMirror](https://www.planetminecraft.com/texture-pack/shield-arm-strap-fix) - Fixes the shield strap for armor stands + players,
 - [i used the wrong email](https://www.planetminecraft.com/texture-pack/dry-savanna-grass) - Makes savanna biomes dry-looking,
-- [Manual XXVI](https://www.planetminecraft.com/texture-pack/xxvi-s-consistent-chest-boats-no-more-yellow-chests) - Makes chest boats look consistent.
+- [Manuel XXVI](https://pastebin.com/raw/01q6XnQv) - Makes chest boats look consistent and makes sculk shriekers easily to notice from block states,
+- [Francrack](https://www.planetminecraft.com/texture-pack/perfectly-connected-sculk-shrieker-top-with-the-sides) - Corrects the top sides for sculk shriekers.
 
 ## Resource pack credits (Programmer Art+)
 
