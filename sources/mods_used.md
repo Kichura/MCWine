@@ -30,6 +30,7 @@
 - [Starlight](https://github.com/Spottedleaf/Starlight) - **Spottedleaf**,
 - [ThirdPerson-Maps](https://www.curseforge.com/minecraft/mc-mods/third-person-maps) - **Pepperoni__Jabroni__**,
 - [Title-Screen-Credits (Aka Main Menu Credits)](https://github.com/Fabulously-Optimized/main-menu-credits) - **Fabulously-Optimized**,
+- [ToolTips-Scroller (Aka Tooltip-Scroll-Fabric)](https://github.com/turtletowerz/Tooltip-Scroll-Fabric/tree/1.18) - **turtletowerz**,
 - [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) - **masady**,
 - [ViaBackwards](https://github.com/ViaVersion/ViaBackwards) - **ViaVersion**,
 - [ViaFabric](https://github.com/ViaVersion/ViaFabric) - **ViaVersion**,
