@@ -112,43 +112,88 @@ use-new-deathmessages: true
 use-new-effect-indicator: true
 
 #
-# Specifies the world names so that the client can remember what they actually are.
+# World-Name translator configuration goes here,
+#
+# This is where we can specify the source's origin name and have it translated as the one we want,
+# This may conflict with other world names that use similar friendly names but usually shouldn't happen on purpose.
 #
 
 map-1_16-world-names:
   atlantis: atlantis:atlantis
+  bahh: hundredone_dimensions:bahh
   blended_world: world_blender:world_blender
   bright_overworld: daylightdimension:daylight_dimension
   bsr: bsr:bsr
   bsr_orbit: bsr:overworld_orbit
   bumblezone: the_bumblezone:the_bumblezone
+  candy_world: betterswords:candy_dimension
   cave_world: mining_dims:caving_dim
+  crystal_world: palpexs_live:crystaldimsnion
+  dark_caverns: dark_caverns:dark_caverns
   dark_dungeon: dimdoors:dungeon_pockets
+  dark_nether: better_nether_update:darkdimension
   dark_ocean: agape:europa_ocean
+  eggcellent: the_eggcellent_mod:eggcellent_dimension
+  ele_land: eleworld:eleland
+  emprus: the_emprus_max:emprus
   end: minecraft:the_end
   europa: agape:europa_surface
+  flying_death: palpexs_live:flyingdeath
   fraiya: lint:fraiya
   ganymede: agape:ganymede
+  glar_lands: glarlands:glarlands
+  heaven: heaven:heaven
+  herobrines_home: utopiacraft:herobrine_dimension
   hunting_world: mining_dims:hunting_dim
   io: agape:io
+  iron_world: hundredone_dimensions:irondimension
+  lane: revsdimensionmod:lane_dimension
   limbo: dimdoors:limbo
+  magnificent_lands: realmofmagnis:magnificent_lands
+  meatopia: pork:meatopia
+  mechanical: mechanical_mobs:god_dimension
+  mechanical_forest: mechanical_mobs:mechanical_forest
+  mechanical_slimes: mechanical_mobs:slime_dimension
+  mechanical_world: mechanical_mobs:mechanical_world
   mercury: agape:mercury
+  mining_end: mining_dimention:endminingdimension
   mining_horizon: minershorizon:miners_horizon
   mining_nether_world: mining_dims:nethering_dim
   mining_world: mining_dims:mining_dim
+  molsh: mushroommill:molsh
   moon: agape:moon_surface
+  mushy: mushroommill:mushy
+  mutt: mushroommill:mutt
+  mystic: oretacular:mystic_dimension
   nectere: hotm:nectere
   nether: minecraft:the_nether
+  niccdsf: aywen_binggings_:niccdsf
   orbit: agape:overworld_orbit
+  ore_land: eleworld:oreland
   overgrown: overgrowncities:overgrowth
   overworld: minecraft:overworld
+  paridise_islands: moron_mobs:paridise_islands
+  popcorn_world: betterswords:popcorn_dimension
+  purple_land: purple_land:purple_dimension
   prehistoric: eymbra:prehistoric
+  radioactive: lukerosmod:radioactive_dimension
   red_planet: agape:red_planet
   scale_vacuum: scalevacuum:scale_vacuum
   simple_void: simplevoidworld:simplevoidworld
+  sky_lands: revsdimensionmod:sky_lands_dimenson
   space: astromine:earth_space
+  spiderian: oretactular:spiderian_dimension
   starship: agape:starship_1
+  stoney_world: hundredone_dimensions:stonedimension
+  sweet_and_savory: betterswords:sweet_and_savory_dimension
+  the_abyss: moron_mobs:abyss
+  the_forest: liminals:the_forest
   the_hallow: thehallow:spooky
+  the_mines: liminals:the_mines
+  the_laboratory: createlab:laboratory
+  the_parallax: nitramod:the_parallax
   the_private_room: dimdoors:personal_pockets
   the_public_room: dimdoors:public_pockets
   titan: agape:titan
+  under_void: divine_faith:undervoid
+  utopia: utopiacraft:utopiadimension
