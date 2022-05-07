@@ -120,7 +120,6 @@ use-new-effect-indicator: true
 
 map-1_16-world-names:
   atlantis: atlantis:atlantis
-  bahh: hundredone_dimensions:bahh
   blended_world: world_blender:world_blender
   bright_overworld: daylightdimension:daylight_dimension
   bsr: bsr:bsr
@@ -146,7 +145,6 @@ map-1_16-world-names:
   herobrines_home: utopiacraft:herobrine_dimension
   hunting_world: mining_dims:hunting_dim
   io: agape:io
-  iron_world: hundredone_dimensions:irondimension
   lane: revsdimensionmod:lane_dimension
   limbo: dimdoors:limbo
   magnificent_lands: realmofmagnis:magnificent_lands
@@ -184,7 +182,6 @@ map-1_16-world-names:
   space: astromine:earth_space
   spiderian: oretactular:spiderian_dimension
   starship: agape:starship_1
-  stoney_world: hundredone_dimensions:stonedimension
   sweet_and_savory: betterswords:sweet_and_savory_dimension
   the_abyss: moron_mobs:abyss
   the_forest: liminals:the_forest
