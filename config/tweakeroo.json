@@ -10,7 +10,7 @@
     "fastLeftClickAllowTools": false,
     "fastPlacementRememberOrientation": false,
     "freeCameraPlayerInputs": false,
-    "freeCameraPlayerMovement": true,
+    "freeCameraPlayerMovement": false,
     "handRestockPre": false,
     "hangableEntityBypassInverse": true,
     "itemUsePacketCheckBypass": true,

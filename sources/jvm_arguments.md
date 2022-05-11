@@ -18,7 +18,7 @@
 
 1. For the heavy G1 Garbage Collector JVM script to work; Java 8 or newer is required, The -Xms and -Xmx parts can be modified to your own personal likings in case the Java RAM is insufficient,
 
-2. For the heavy Z Garbage Collector JVM script to work; Java 11 or newer is required instead.
+2. For the heavy Z Garbage Collector JVM script to work; Java 14 or newer is required instead.
 
 
 ## Sources used for the scripts:
