@@ -12,7 +12,7 @@
 - [RuMakslSa](https://www.curseforge.com/minecraft/texture-packs/improved-vines) - Patches vines from looking ugly,
 - [Lad_Flaver](https://www.curseforge.com/minecraft/texture-packs/rail-fix) - Patches rails to not be stretched anymore,
 - [liahim85](https://www.curseforge.com/minecraft/texture-packs/authentic-shadows) - Makes entity shadow accurate to MC's style,
-- [qkrehf2](https://www.curseforge.com/minecraft/texture-packs/bkt-better-korean-translation) - Makes korean more naturally,
+- [qkrehf2](https://www.curseforge.com/minecraft/texture-packs/bkt-better-korean-translation) - Makes korean betterly translated,
 - [Bold_Muddy](https://pastebin.com/raw/WYk8wEN1) - Adds second ear for zombified piglin and animated sculker sensor,
 - [mr_ch0c0late1](https://www.curseforge.com/minecraft/texture-packs/blockstates) - Makes the age system more noticable,
 - [send4kolchak](https://www.curseforge.com/minecraft/texture-packs/sends-realistic-lighting) - Makes lighting more accurate for moody, (OF only)
