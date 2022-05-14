@@ -105,7 +105,7 @@ realmsNotifications:false
 reducedDebugInfo:false
 renderClouds:false
 renderDistance:8
-resourcePacks:["vanilla","file/Default+.zip","Fabric Mods"]
+resourcePacks:["Fabric Mods","midnightcontrols/bedrock","vanilla","file/Default+.zip"]
 screenEffectScale:0.0
 showAutosaveIndicator:false
 showSubtitles:false
