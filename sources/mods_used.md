@@ -23,6 +23,7 @@
 - [LazyLang (Aka Language Reload)](https://modrinth.com/mod/language-reload) - **Jerozgen**,
 - [Lithium](https://github.com/CaffeineMC/lithium-fabric/tree/1.18.x/dev) - **CaffeineMC**,
 - [LowHealth-Warning (Aka Damage Tint)](https://modrinth.com/mod/damage-tint) - **Deadly**,
+- [MidnightControls](https://modrinth.com/mod/midnightcontrols) - **Motschen, LambdAurora**,
 - [NoFlashing-NightVision (Aka Night Vision flash be gone)](https://www.curseforge.com/minecraft/mc-mods/night-vision-flash-be-gone) - **AshIndigo**,
 - [NoMoreScore](https://github.com/ExoPlant/NoMoreScore) - **ExoPlant**,
 - [Persist-Sneaking (Aka Sneaky Screens)](https://www.curseforge.com/minecraft/mc-mods/sneaky-screens) - **haykam**,
@@ -36,4 +37,4 @@
 - [ViaFabric](https://github.com/ViaVersion/ViaFabric) - **ViaVersion**,
 - [Zoom (Aka Logical Zoom)](https://www.curseforge.com/minecraft/mc-mods/logical-zoom) - **LogicalGeekBoy**.
 
-*(This list is subject to change - If a mod fails to boot this client then refer to the 4th disclaimer comment)*
+*(This list is subject to change - If a mod fails to boot this client then refer to the 4th disclaimer comment in main repository page)*
