@@ -54,6 +54,10 @@ For the resource pack list, It can be found [in this page](https://github.com/Ki
 3. This modpack does not ship with mod menu as most configurations for each mod have been pre-baked. but you can install it regardless,
 4. Some mods will possibly contain bugs that can break this client - If you are sensitive to these issues; You can disable the specific mods to play without them.
 
+## Modrinth Version
+
+This modpack is available on modrinth as a lightweight version, but will not ship with all the mods included in this repository; If you wanna check it out anyways then [click here.](https://modrinth.com/modpack/mcwine)
+
 ## License
 
 MCWine is licensed under MIT, a free and open-source license. For more information, please see the [license file](https://github.com/Kichura/MCWine/blob/Dev/LICENSE).
