@@ -58,7 +58,7 @@
 - [Legofelix55](https://www.planetminecraft.com/texture-pack/age-25-cave-vines) – Renders flowers when cave vines have aged to 25,
 - [Hecco](https://www.planetminecraft.com/texture-pack/dapper-copper) - Dappifies copper,
 - [To0pa](https://www.planetminecraft.com/texture-pack/uniform-tadpole-bucket) - Makes tadpole bucket consistent with other fish buckets,
-- [IcarusIsBestGirl](https://pastebin.com/raw/3kEehMqT) - Makes the warden twice as dark and uppercases music disc names,
+- [IcarusIsBestGirl](https://pastebin.com/raw/3kEehMqT) - Makes the warden twice as dark, uppercases music disc names and etc,
 - [JoeEnderman](https://www.planetminecraft.com/texture-pack/frog-fix-bedrock-and-java) - Fixes frogs so that their colors match real life ones,
 - [Hecco](https://www.planetminecraft.com/texture-pack/new-allays) - Enhances the look of allay,
 - [SweatyYeti](https://www.planetminecraft.com/texture-pack/muddier-mud) - Makes mud look brown instead of gray,
