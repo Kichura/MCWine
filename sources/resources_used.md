@@ -72,7 +72,10 @@
 - [i used the wrong email](https://www.planetminecraft.com/texture-pack/dry-savanna-grass) - Makes savanna biomes dry-looking,
 - [Manuel XXVI](https://pastebin.com/raw/01q6XnQv) - Makes chest boats look consistent and makes sculk shriekers easily to notice from block states,
 - [Francrack](https://www.planetminecraft.com/texture-pack/perfectly-connected-sculk-shrieker-top-with-the-sides) - Corrects the top sides for sculk shriekers,
-- [ThePsychoEspeon](https://www.planetminecraft.com/texture-pack/fixed-spruce-trapdoor) - Fixes spruce trapdoors from looking weird.
+- [ThePsychoEspeon](https://www.planetminecraft.com/texture-pack/fixed-spruce-trapdoor) - Fixes spruce trapdoors from looking weird,
+- [GalacticAnimations](https://www.planetminecraft.com/texture-pack/better-frog-eggs) - Makes frog eggs look better,
+- [Heeco](https://www.planetminecraft.com/texture-pack/riper-propagules) - Makes mangrove propagules look more ripe,
+- [valesde_valley](https://www.planetminecraft.com/texture-pack/tweaked-smithing-table) - Tweaks the smithing table to look more accurate.
 
 ## Resource pack credits (Programmer Art+)
 
