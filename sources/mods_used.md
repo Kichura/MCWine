@@ -1,4 +1,4 @@
-## Mods used for this pack
+## Mods Used For This Pack
 
 - [Alternate-EntityCulling (Aka EntityCulling Fabric/Forge)](https://www.curseforge.com/minecraft/mc-mods/entityculling) - **tr9zw**,
 - [Dark Graph](https://modrinth.com/mod/dark-graph) - **EcoBuilder13**,

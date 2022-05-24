@@ -1,4 +1,4 @@
-## Resource pack credits (Default+)
+## Resource Pack Credits (Default+)
 
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) - Contains most of the tweaks,
 - [TheMobCave](https://www.youtube.com/watch?v=9PYpUCo8TKQ) - Replaces rain sound effects,
@@ -79,7 +79,7 @@
 - [Coleyoly](https://www.planetminecraft.com/texture-pack/cyan-glazed-terracotta-revisited) - Enhances the cyan glazed terracotta block,
 - [Firecrackled](https://www.youtube.com/firecrackled) - For giving me permission to use her server's world as the new panorama.
 
-## Resource pack credits (Programmer Art+)
+## Resource Pack Credits (Programmer Art+)
 
 - [SalC1](https://salc1.com) - Contains most of the tweaks,
 - [thgabs](https://www.curseforge.com/minecraft/texture-packs/programmer-art-fix) - Fixes some of the missing assets,

@@ -21,7 +21,7 @@
 2. For the heavy Z Garbage Collector JVM script to work; Java 14 or newer is required instead.
 
 
-## Sources used for the scripts:
+## Sources Fsed For The Scripts:
 
 [Aikar's G1GC tuning blog](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft),
 
