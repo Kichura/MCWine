@@ -3,7 +3,7 @@
 
 MCWine is a fabric-based modpack designed to bring better performance, brand new fixes, more accessibility and a compatibility system to allow players to connect to newer & older servers out of the box.
 
-## Installing this modpack (Official/Vanilla Method)
+## Installing This Modpack (Official/Vanilla Method)
 
 1. [**Click here to download the development version,**](https://github.com/Kichura/MCWine/archive/refs/heads/Dev.zip)
 2. Open your Minecraft folder,
@@ -16,7 +16,7 @@ MCWine is a fabric-based modpack designed to bring better performance, brand new
 9. Make sure the new instance has java 17 or greater selected from the "more options" page,
 10. Save the instance and attempt to run the instance.
 
-## Installing this modpack (MultiMC Method)
+## Installing This Modpack (MultiMC Method)
 
 1. [**Click here to download the development version,**](https://github.com/Kichura/MCWine/archive/refs/heads/MultiMC-Dev.zip)
 2. Drag the ZIP into the MultiMC window,
@@ -34,13 +34,13 @@ It is recommended that you use [one of these specific scripts](https://github.co
 
 *(You can change the ```-Xmx2G``` including ```-Xms2G``` value from the pastebin in order to manage the game RAM on how much to use for Minecraft, But depends on your computer's hardware; Both of those are not needed in MultiMC however as it uses it's own configurators for that)*
 
-## Mods + Resource Pack assets used for this pack
+## Mods + Resource Pack Assets Used For This Pack
 
 Please [check this page](https://github.com/Kichura/MCWine/tree/Dev/sources/mods_used.md) for a whole list of mods that have been used for this modpack,
 
 For the resource pack list, It can be found [in this page](https://github.com/Kichura/MCWine/tree/Dev/sources/resources_used.md) instead.
 
-## Special thanks to
+## Special Thanks To
 
 - [FlashyReese](https://github.com/FlashyReese) for helping me create this entire readme document,
 - [MrMangoHands](https://github.com/mrmangohands) for helping out with sharing the [lithium configuration codes](https://github.com/CaffeineMC/lithium-fabric/blob/1.18.x/dev/src/main/java/me/jellysquid/mods/lithium/common/config/LithiumConfig.java),
