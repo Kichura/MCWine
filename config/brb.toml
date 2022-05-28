@@ -17,7 +17,7 @@ unlockAll = false
 showButton = false
 
 [alternativeRecipes]
-noGrouped = false
+noGrouped = true
 onHover = true
 
 [scrolling]
