@@ -10,7 +10,7 @@
 - [Fix-Annoyances (Aka TieFix)](https://modrinth.com/mod/tiefix) - **j-tai**,
 - [Fix-ChatPosition (Aka Chat Up!)](https://github.com/gnembon/chat-up) - **gnembon**,
 - [Fix-ItemModels (Aka Item Model Fix)](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - **Pepper_Bell**,
-- [Fix-SkyColor (Aka Clear Skies)](https://www.curseforge.com/minecraft/mc-mods/clear-skies) - **grondag**,
+- [Fix-SkyColor (Aka Clear Skies)](https://github.com/grondag/clear-skies) - **grondag**,
 - [Fix-Titles (Aka Title Fixer)](https://modrinth.com/mod/title-fixer) - **thegameratort**,
 - [Fix-ToolTips (Aka ToolTipFix)](https://github.com/PepperCode1/Item-Model-Fix) - **Kyrptonaught**,
 - [Horse-Stats (Aka Horse Stats Vanilla)](https://modrinth.com/mod/horsestatsvanilla) - **d4rkm0nkey**,
