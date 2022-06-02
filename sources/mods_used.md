@@ -10,6 +10,7 @@
 - [Fix-Advancements (Aka Advancements Debug)](https://github.com/Technici4n/advancements-debug) - **thetechnici4n**,
 - [Fix-Annoyances (Aka TieFix)](https://modrinth.com/mod/tiefix) - **j-tai**,
 - [Fix-ChatPosition (Aka Chat Up!)](https://github.com/gnembon/chat-up) - **gnembon**,
+- [Fix-ChunkLags (Aka ForgetMeChunk)](https://modrinth.com/mod/forgetmechunk) - **BreadLoaf**,
 - [Fix-ItemModels (Aka Item Model Fix)](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - **Pepper_Bell**,
 - [Fix-SkyColor (Aka Clear Skies)](https://github.com/grondag/clear-skies) - **grondag**,
 - [Fix-Titles (Aka Title Fixer)](https://modrinth.com/mod/title-fixer) - **thegameratort**,
