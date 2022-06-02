@@ -41,4 +41,4 @@
 
 [FroggeMC's ZGC repository](https://github.com/FroggeMC/MC-Java-Flags/tree/zgc),
 
-[FroggeMC's ShenandoahGC repository](https://github.com/FroggeMC/MC-Java-Flags/tree/shenandoah)
+[FroggeMC's ShenandoahGC repository](https://github.com/FroggeMC/MC-Java-Flags/tree/shenandoah).
