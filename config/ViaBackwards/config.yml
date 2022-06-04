@@ -11,3 +11,9 @@ add-teamcolor-to-prefix: false
 fix-1_13-face-player: true
 fix-formatted-inventory-titles: true
 handle-pings-as-inv-acknowledgements: true
+chat-types:
+  chat.type.text: <%s> %s
+  chat.type.announcement: '[%s] %s'
+  commands.message.display.incoming: '%s whispers to you: %s'
+  chat.type.team.text: '%s <%s> %s'
+  chat.type.emote: '* %s %s'
