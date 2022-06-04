@@ -77,7 +77,8 @@
 - [Heeco](https://www.planetminecraft.com/texture-pack/riper-propagules) - Makes mangrove propagules look more ripe,
 - [valesde_valley](https://www.planetminecraft.com/texture-pack/tweaked-smithing-table) - Tweaks the smithing table to look more accurate,
 - [Coleyoly](https://www.planetminecraft.com/texture-pack/cyan-glazed-terracotta-revisited) - Enhances the cyan glazed terracotta block,
-- [Firecrackled](https://www.youtube.com/firecrackled) - For giving me permission to use her server's world as the new panorama.
+- [Firecrackled](https://www.youtube.com/firecrackled) - For giving me permission to use her server's world as the new panorama,
+- [Amaro_Lunatico](https://www.planetminecraft.com/texture-pack/consistent-leads-texture-packs) - Makes leads look consistent.
 
 ## Resource Pack Credits (Programmer Art+)
 
