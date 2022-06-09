@@ -1,7 +1,6 @@
 ## Mods Used For This Pack
 
 - [Alternate-EntityCulling (Aka EntityCulling Fabric/Forge)](https://modrinth.com/mod/entityculling) - **tr9zw**,
-- [Better-Biome-Blend](https://github.com/FionaTheMortal/Better-Biome-Blend/tree/1.18.2-fabric) - **FionaTheMortal**,
 - [Dark Graph](https://modrinth.com/mod/dark-graph) - **EcoBuilder13**,
 - [Dynamic-Lights (Aka LambDynamicLights)](https://modrinth.com/mod/lambdynamiclights) - **LambdAurora**,
 - [Fabric-API](https://modrinth.com/mod/fabric-api) - **modruss50**, **sfPlayer1**,
