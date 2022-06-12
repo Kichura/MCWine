@@ -24,7 +24,7 @@ MCWine is a fabric-based modpack designed to bring better performance, brand new
 
 ## Updating Java Version (Optional)
 
-It is recommended that you use [Java 19](https://jdk.java.net/19) to allow minecraft to make use of the latest java version.
+It is recommended that you use [Java 18](https://bell-sw.com/pages/downloads/#/java-18-current) to allow minecraft to make use of the latest java version.
 
 *Although now requires ```javacheck.jar``` to be deleted as reported in [MCL-18306](https://bugs.mojang.com/browse/MCL-18306). (But if you use MultiMC instead then skip the ```javacheck.jar``` removal requirement)*
 
