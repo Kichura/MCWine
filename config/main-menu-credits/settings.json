@@ -6,7 +6,7 @@
     },
     "url": {
       "comment": "Where user should be sent to using their default web browser when text has been interacted.",
-      "value": "https://github.com/Kichura/MCWine/tree/Dev"
+      "value": "https://github.com/Kichura/MCWine/tree/1.19.x"
     }
   }
 }

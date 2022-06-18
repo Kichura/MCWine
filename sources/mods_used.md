@@ -29,7 +29,6 @@
 - [Persist-Sneaking (Aka Sneaky Screens)](https://github.com/haykam821/Sneaky-Screens) - **haykam**,
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric/tree/1.18.x/dev) - **CaffeineMC**,
 - [Starlight](https://github.com/Spottedleaf/Starlight) - **Spottedleaf**,
-- [ThirdPerson-Maps](https://github.com/Pepperoni-Jabroni/ThirdPersonMaps) - **Pepperoni__Jabroni__**,
 - [Title-Screen-Credits (Aka Main Menu Credits)](https://github.com/Fabulously-Optimized/main-menu-credits) - **Fabulously-Optimized**,
 - [ToolTips-Scroller (Aka Scrollable Tooltips)](https://modrinth.com/mod/scrollable-tooltips) - **ADON15c**,
 - [Tweakeroo](https://github.com/maruohon/tweakeroo) - **masady**,

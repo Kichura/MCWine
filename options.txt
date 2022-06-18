@@ -15,18 +15,21 @@ chatLineSpacing:0.0
 chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
+chatPreview:true
 chatScale:1.0
 chatVisibility:0
 chatWidth:1.0
 darkMojangStudiosBackground:true
+darknessEffectScale:0.0
 difficulty:1
+directionalAudio:true
 discrete_mouse_scroll:false
 enableVsync:false
 entityDistanceScaling:0.5
 entityShadows:true
 forceUnicodeFont:false
 fov:0.0
-fovEffectScale:0.22762161
+fovEffectScale:0.05
 fullscreen:false
 gamma:0.5
 glDebugVerbosity:0
@@ -70,6 +73,7 @@ key_key.midnightcontrols.look_down:key.keyboard.down
 key_key.midnightcontrols.look_left:key.keyboard.left
 key_key.midnightcontrols.look_right:key.keyboard.right
 key_key.midnightcontrols.look_up:key.keyboard.up
+key_key.logical_zoom.zoom:key.keyboard.z
 key_key.pickItem:key.mouse.middle
 key_key.playerlist:key.keyboard.tab
 key_key.right:key.keyboard.d
@@ -85,7 +89,7 @@ key_key.togglePerspective:key.keyboard.f5
 key_key.use:key.mouse.right
 lang:en_us
 lastServer:
-mainHand:right
+mainHand:"right"
 maxFps:120
 mipmapLevels:0
 modelPart_cape:true
@@ -98,6 +102,7 @@ modelPart_right_sleeve:true
 mouseSensitivity:0.5
 mouseWheelSensitivity:0.5
 narrator:0
+onlyShowSecureChat:false
 overrideHeight:0
 overrideWidth:0
 particles:1
@@ -109,7 +114,7 @@ realmsNotifications:false
 reducedDebugInfo:false
 renderClouds:false
 renderDistance:8
-resourcePacks:["Fabric Mods","midnightcontrols/bedrock","vanilla","file/Default+.zip"]
+resourcePacks:["Fabric Mods","vanilla","file/Default+.zip"]
 screenEffectScale:0.0
 showAutosaveIndicator:false
 showSubtitles:false
@@ -126,7 +131,7 @@ soundCategory_player:1.0
 soundCategory_record:0.165
 soundCategory_voice:0.0
 soundCategory_weather:0.50
-soundDevice:
+soundDevice:""
 syncChunkWrites:true
 textBackgroundOpacity:0.75
 toggleCrouch:false
@@ -134,4 +139,4 @@ toggleSprint:false
 touchscreen:false
 tutorialStep:none
 useNativeTransport:true
-version:2975
+version:3105

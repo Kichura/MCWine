@@ -16,10 +16,10 @@
   "invertRightXAxis": false,
   "leftDeadZone": 0.25,
   "maxAnalogValues": [
-    1,
-    1,
-    1,
-    1
+    1.0,
+    1.0,
+    1.0,
+    1.0
   ],
   "mouseScreens": [
     "me.jellysquid.mods.sodium.client.gui",
