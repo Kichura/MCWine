@@ -31,7 +31,6 @@
 - [Starlight](https://github.com/Spottedleaf/Starlight) - **Spottedleaf**,
 - [Title-Screen-Credits (Aka Main Menu Credits)](https://github.com/Fabulously-Optimized/main-menu-credits) - **Fabulously-Optimized**,
 - [ToolTips-Scroller (Aka Scrollable Tooltips)](https://modrinth.com/mod/scrollable-tooltips) - **ADON15c**,
-- [Tweakeroo](https://github.com/maruohon/tweakeroo) - **masady**,
 - [ViaBackwards](https://github.com/ViaVersion/ViaBackwards) - **ViaVersion**,
 - [ViaFabric](https://github.com/ViaVersion/ViaFabric) - **ViaVersion**,
 - [Zoom (Aka Logical Zoom)](https://github.com/LogicalGeekBoy/logical_zoom) - **LogicalGeekBoy**.
