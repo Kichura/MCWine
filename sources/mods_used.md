@@ -24,6 +24,7 @@
 - [Lithium](https://github.com/CaffeineMC/lithium-fabric/tree/1.18.x/dev) - **CaffeineMC**,
 - [LowHealth-Warning (Aka Damage Tint)](https://modrinth.com/mod/damage-tint) - **Deadly**,
 - [MidnightControls](https://modrinth.com/mod/midnightcontrols) - **Motschen, LambdAurora**,
+- [No Chat Reports](https://modrinth.com/mod/no-chat-reports) - **Aizistral**,
 - [NoFlashing-NightVision (Aka Night Vision flash be gone)](https://github.com/AshIndigo/NightVisionFlashBegone) - **AshIndigo**,
 - [NoMoreScore](https://github.com/ExoPlant/NoMoreScore) - **ExoPlant**,
 - [Persist-Sneaking (Aka Sneaky Screens)](https://github.com/haykam821/Sneaky-Screens) - **haykam**,
