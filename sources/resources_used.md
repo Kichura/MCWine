@@ -78,7 +78,8 @@
 - [valesde_valley](https://www.planetminecraft.com/texture-pack/tweaked-smithing-table) - Tweaks the smithing table to look more accurate,
 - [Coleyoly](https://www.planetminecraft.com/texture-pack/cyan-glazed-terracotta-revisited) - Enhances the cyan glazed terracotta block,
 - [Firecrackled](https://www.youtube.com/firecrackled) - For giving me permission to use her server's world as the new panorama,
-- [Amaro_Lunatico](https://www.planetminecraft.com/texture-pack/consistent-leads-texture-packs) - Makes leads look consistent.
+- [Amaro_Lunatico](https://www.planetminecraft.com/texture-pack/consistent-leads-texture-packs) - Makes leads look consistent,
+- [ImXR24](https://www.planetminecraft.com/texture-pack/xrs-retextured-mangrove-wood) - Makes mangrove look more pretty.
 
 ## Resource Pack Credits (Programmer Art+)
 
