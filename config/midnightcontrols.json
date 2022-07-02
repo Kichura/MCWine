@@ -7,13 +7,14 @@
   "controlsMode": "DEFAULT",
   "debug": false,
   "DEFAULT_MAX_VALUE": 1,
+  "doubleTapToSprint": false,
   "fastBlockPlacing": false,
   "flyDrifting": true,
   "horizontalReacharound": false,
   "hudEnable": true,
   "hudSide": "LEFT",
-  "invertRightYAxis": false,
   "invertRightXAxis": false,
+  "invertRightYAxis": false,
   "leftDeadZone": 0.25,
   "maxAnalogValues": [
     1.0,
@@ -30,7 +31,7 @@
     "net.minecraft.class_457",
     "net.minecraft.class_408"
   ],
-  "mouseSpeed": 7,
+  "mouseSpeed": 7.0,
   "reacharoundOutlineColor": [
     255,
     255,
@@ -45,5 +46,6 @@
   "verticalFlyDrifting": true,
   "verticalReacharound": false,
   "virtualMouse": false,
-  "virtualMouseSkin": "DEFAULT_DARK"
+  "virtualMouseSkin": "DEFAULT_DARK",
+  "yAxisRotationSpeed": 12.0
 }
