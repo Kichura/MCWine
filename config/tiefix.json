@@ -1,7 +1,7 @@
 {
   "version": 0,
   "debug": false,
-  "mc2071_fix": false,
+  "mc2071_fix": true,
   "mc4490_fix": true,
   "mc12829_fix": true,
   "mc62997_fix": true,
