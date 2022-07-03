@@ -77,7 +77,8 @@
 - [Firecrackled](https://www.youtube.com/firecrackled) - For giving me permission to use her server's world as the new panorama,
 - [Amaro_Lunatico](https://www.planetminecraft.com/texture-pack/consistent-leads-texture-packs) - Makes leads look consistent,
 - [ImXR24](https://www.planetminecraft.com/texture-pack/xrs-retextured-mangrove-wood) - Makes mangrove look more pretty,
-- [AnnouncerF](https://www.planetminecraft.com/texture-pack/1-19-goat-horns-optifine-cit-resewn-required) - Gives specific textures for each goat horn.
+- [AnnouncerF](https://www.planetminecraft.com/texture-pack/1-19-goat-horns-optifine-cit-resewn-required) - Gives specific textures for each goat horn,
+- [DiamondIsntHere](https://www.planetminecraft.com/texture-pack/technoblade-pigs-5630640) - Adds technoblade as renamed pig.
 
 ## Resource Pack Credits (Programmer Art+)
 
