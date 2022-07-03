@@ -76,7 +76,8 @@
 - [valesde_valley](https://www.planetminecraft.com/texture-pack/tweaked-smithing-table) - Tweaks the smithing table to look more accurate,
 - [Firecrackled](https://www.youtube.com/firecrackled) - For giving me permission to use her server's world as the new panorama,
 - [Amaro_Lunatico](https://www.planetminecraft.com/texture-pack/consistent-leads-texture-packs) - Makes leads look consistent,
-- [ImXR24](https://www.planetminecraft.com/texture-pack/xrs-retextured-mangrove-wood) - Makes mangrove look more pretty.
+- [ImXR24](https://www.planetminecraft.com/texture-pack/xrs-retextured-mangrove-wood) - Makes mangrove look more pretty,
+- [AnnouncerF](https://www.planetminecraft.com/texture-pack/1-19-goat-horns-optifine-cit-resewn-required) - Gives specific textures for each goat horn.
 
 ## Resource Pack Credits (Programmer Art+)
 
