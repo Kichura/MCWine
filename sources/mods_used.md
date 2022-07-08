@@ -31,6 +31,7 @@
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric/tree/1.18.x/dev) - **CaffeineMC**,
 - [Starlight](https://github.com/Spottedleaf/Starlight) - **Spottedleaf**,
 - [ToolTips-Scroller (Aka Scrollable Tooltips)](https://modrinth.com/mod/scrollable-tooltips) - **ADON15c**,
+- [Tweakeroo](https://github.com/maruohon/tweakeroo) - **masady**,
 - [ViaBackwards](https://github.com/ViaVersion/ViaBackwards) - **ViaVersion**,
 - [ViaFabric](https://github.com/ViaVersion/ViaFabric) - **ViaVersion**,
 - [Zoom (Aka Logical Zoom)](https://github.com/LogicalGeekBoy/logical_zoom) - **LogicalGeekBoy**.
