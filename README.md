@@ -16,23 +16,23 @@ MCWine is a fabric-based modpack designed to bring better performance, brand new
 9. Make sure the new instance has java 17 or greater selected from the "more options" page,
 10. Save the instance and attempt to run the instance.
 
-## Installing This Modpack (MultiMC Method)
+## Installing This Modpack (PolyMC Method)
 
-1. [**Click here to download the development version,**](https://github.com/Kichura/MCWine/archive/refs/heads/MultiMC-Dev.zip)
-2. Drag the ZIP into the MultiMC window,
+1. [**Click here to download the development version,**](https://github.com/Kichura/MCWine/archive/refs/heads/PolyMC-Dev.zip)
+2. Drag the ZIP into the PolyMC window,
 3. Make sure the installed instance has Java 17 or greater installed.
 
 ## Updating Java Version (Optional)
 
 It is recommended that you use [Java 18](https://bell-sw.com/pages/downloads/#/java-18-current) to allow minecraft to make use of the latest java version.
 
-*Although now requires ```javacheck.jar``` to be deleted as reported in [MCL-18306](https://bugs.mojang.com/browse/MCL-18306). (But if you use MultiMC instead then skip the ```javacheck.jar``` removal requirement)*
+*Although now requires ```javacheck.jar``` to be deleted as reported in [MCL-18306](https://bugs.mojang.com/browse/MCL-18306). (But if you use PolyMC instead then skip the ```javacheck.jar``` removal requirement)*
 
 ## JVM Arguments (Optional)
 
 It is recommended that you use [one of these specific scripts](https://github.com/Kichura/MCWine/tree/Dev/sources/jvm_arguments.md) as your JVM arguments instead of the defaults.
 
-*(You can change the ```-Xmx2G``` including ```-Xms2G``` value from the pastebin in order to manage the game RAM on how much to use for Minecraft, But depends on your computer's hardware; Both of those are not needed in MultiMC however as it uses it's own configurators for that)*
+*(You can change the ```-Xmx2G``` including ```-Xms2G``` value from the pastebin in order to manage the game RAM on how much to use for Minecraft, But depends on your computer's hardware; Both of those are not needed in PolyMC however as it uses it's own configurators for that)*
 
 ## Mods + Resource Pack Assets Used For This Pack
 
