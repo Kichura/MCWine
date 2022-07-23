@@ -1,0 +1,51 @@
+{
+  "analogMovement": true,
+  "autoSwitchMode": false,
+  "BINDINGS": {},
+  "controllerID": 0,
+  "controllerType": "STEAM_DECK",
+  "controlsMode": "DEFAULT",
+  "debug": false,
+  "DEFAULT_MAX_VALUE": 1,
+  "doubleTapToSprint": false,
+  "fastBlockPlacing": false,
+  "flyDrifting": true,
+  "horizontalReacharound": false,
+  "hudEnable": true,
+  "hudSide": "LEFT",
+  "invertRightXAxis": false,
+  "invertRightYAxis": false,
+  "leftDeadZone": 0.25,
+  "maxAnalogValues": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "mouseScreens": [
+    "me.jellysquid.mods.sodium.client.gui",
+    "net.coderbot.iris.gui",
+    "net.minecraft.client.gui.screen.advancement",
+    "net.minecraft.client.gui.screen.pack.PackScreen",
+    "net.minecraft.class_5375",
+    "net.minecraft.class_457",
+    "net.minecraft.class_408"
+  ],
+  "mouseSpeed": 7.0,
+  "reacharoundOutlineColor": [
+    255,
+    255,
+    255,
+    102
+  ],
+  "rightDeadZone": 0.25,
+  "rotationSpeed": 10,
+  "secondControllerID": -1,
+  "shouldRenderReacharoundOutline": false,
+  "unfocusedInput": true,
+  "verticalFlyDrifting": true,
+  "verticalReacharound": false,
+  "virtualMouse": false,
+  "virtualMouseSkin": "DEFAULT_DARK",
+  "yAxisRotationSpeed": 12.0
+}

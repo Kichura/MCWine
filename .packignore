@@ -1,0 +1,16 @@
+.minecraft/config/ViaFabric/viafabric.yml
+.minecraft/config/iris.properties
+.minecraft/config/lambdynlights.toml
+.minecraft/config/sodium-options.json
+.minecraft/coremods
+.minecraft/options.txt
+.minecraft/realms_persistence.json
+.minecraft/saves
+.minecraft/screenshots
+.minecraft/server-resource-packs
+.minecraft/shaderpacks
+.minecraft/texturepacks
+.minecraft/servers.dat
+.minecraft/servers.dat_old
+.minecraft/shaderpacks
+.minecraft/usercache.json
