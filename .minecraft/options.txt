@@ -15,7 +15,7 @@ chatLineSpacing:0.0
 chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
-chatPreview:true
+chatPreview:0
 chatScale:1.0
 chatVisibility:0
 chatWidth:1.0
@@ -139,4 +139,4 @@ toggleSprint:false
 touchscreen:false
 tutorialStep:none
 useNativeTransport:true
-version:3105
+version:3117
