@@ -8,7 +8,6 @@
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) - **malte0811**,
 - [Fix-Advancements (Aka Advancements Debug)](https://github.com/Technici4n/advancements-debug) - **thetechnici4n**,
 - [Fix-Annoyances (Aka TieFix)](https://modrinth.com/mod/tiefix) - **j-tai**,
-- [Fix-ChatPosition (Aka Chat Up!)](https://github.com/gnembon/chat-up) - **gnembon**,
 - [Fix-ChunkLags (Aka ForgetMeChunk)](https://modrinth.com/mod/forgetmechunk) - **BreadLoaf**,
 - [Fix-ItemModels (Aka Item Model Fix)](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - **Pepper_Bell**,
 - [Fix-SkyColor (Aka Clear Skies)](https://github.com/grondag/clear-skies) - **grondag**,
@@ -22,12 +21,11 @@
 - [LazyDFU](https://modrinth.com/mod/lazydfu) - **astei**,
 - [LazyLang (Aka Language Reload)](https://modrinth.com/mod/language-reload) - **Jerozgen**,
 - [Lithium](https://github.com/CaffeineMC/lithium-fabric/tree/1.18.x/dev) - **CaffeineMC**,
-- [LowHealth-Warning (Aka Damage Tint)](https://modrinth.com/mod/damage-tint) - **Deadly**,
 - [MidnightControls](https://modrinth.com/mod/midnightcontrols) - **Motschen, LambdAurora**,
 - [NoFlashing-NightVision (Aka Night Vision flash be gone)](https://github.com/AshIndigo/NightVisionFlashBegone) - **AshIndigo**,
 - [NoMoreScore](https://github.com/ExoPlant/NoMoreScore) - **ExoPlant**,
 - [Persist-Sneaking (Aka Sneaky Screens)](https://github.com/haykam821/Sneaky-Screens) - **haykam**,
-- [Sodium](https://github.com/CaffeineMC/sodium-fabric/tree/1.18.x/dev) - **CaffeineMC**,
+- [Sodium](https://github.com/CaffeineMC/sodium-fabric/tree/1.19.x/dev) - **CaffeineMC**,
 - [Starlight](https://github.com/Spottedleaf/Starlight) - **Spottedleaf**,
 - [ToolTips-Scroller (Aka Scrollable Tooltips)](https://modrinth.com/mod/scrollable-tooltips) - **ADON15c**,
 - [Tweakeroo](https://github.com/maruohon/tweakeroo) - **masady**,
@@ -36,4 +34,3 @@
 - [Zoom (Aka Logical Zoom)](https://github.com/LogicalGeekBoy/logical_zoom) - **LogicalGeekBoy**.
 
 *(This list is subject to change - If a mod fails to boot this client then refer to the 4th disclaimer comment in main repository page)*
-

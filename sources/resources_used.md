@@ -89,4 +89,3 @@
 - [ic22487](https://www.planetminecraft.com/texture-pack/programmer-art-ultimate-1-17) - Make multiple 1.17/1.18 textures programmer art-like.
 
 *(This list is subject to change - If you do not want to use any of the two resource packs then you can disable them in the resource packs configuration page in-game)*
-

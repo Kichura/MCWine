@@ -49,7 +49,7 @@
     "flySpeedPreset2": 0.064,
     "flySpeedPreset3": 0.128,
     "flySpeedPreset4": 0.32,
-    "gammaOverrideValue": 16,
+    "gammaOverrideValue": 16.0,
     "handRestockPreThreshold": 6,
     "hotbarSlotCycleMax": 2,
     "hotbarSlotRandomizerMax": 5,
@@ -71,12 +71,12 @@
     "sculkSensorPulseLength": 40,
     "snapAimPitchStep": 12.5,
     "snapAimThresholdPitch": 1.5,
-    "snapAimThresholdYaw": 5,
-    "snapAimYawStep": 45,
+    "snapAimThresholdYaw": 5.0,
+    "snapAimYawStep": 45.0,
     "structureBlockMaxSize": 128,
     "toolSwitchableSlots": "1-9",
     "toolSwitchIgnoredSlots": "",
-    "zoomFov": 30
+    "zoomFov": 30.0
   },
   "GenericHotkeys": {
     "accurateBlockPlacementInto": {
@@ -217,7 +217,7 @@
     "gammaValueOriginal": 0.5,
     "hotbarScrollCurrentRow": 3,
     "slimeBlockSlipperinessOriginal": 0.800000011920929,
-    "snapAimLastYaw": 0
+    "snapAimLastYaw": 0.0
   },
   "Lists": {
     "blockTypeBreakRestrictionListType": "blacklist",
@@ -249,9 +249,9 @@
     ],
     "entityTypeAttackRestrictionWhiteList": [],
     "entityWeaponMapping": [
-      "<default> => minecraft:diamond_sword, minecraft:golden_sword, minecraft:iron_sword, minecraft:netherite_sword, minecraft:stone_sword, minecraft:wooden_sword",
-      "minecraft:end_crystal, minecraft:item_frame, minecraft:glow_item_frame, minecraft:leash_knot => <ignore>",
-      "minecraft:minecart, minecraft:chest_minecart, minecraft:furnace_minecart, minecraft:hopper_minecart, minecraft:hopper_minecart, minecraft:spawner_minecart, minecraft:tnt_minecart, minecraft:boat=> minecraft:diamond_axe, minecraft:golden_axe, minecraft:iron_axe, minecraft:netherite_axe, minecraft:stone_axe, minecraft:wooden_axe"
+      "\u003cdefault\u003e \u003d\u003e minecraft:diamond_sword, minecraft:golden_sword, minecraft:iron_sword, minecraft:netherite_sword, minecraft:stone_sword, minecraft:wooden_sword",
+      "minecraft:end_crystal, minecraft:item_frame, minecraft:glow_item_frame, minecraft:leash_knot \u003d\u003e \u003cignore\u003e",
+      "minecraft:minecart, minecraft:chest_minecart, minecraft:furnace_minecart, minecraft:hopper_minecart, minecraft:hopper_minecart, minecraft:spawner_minecart, minecraft:tnt_minecart, minecraft:boat\u003d\u003e minecraft:diamond_axe, minecraft:golden_axe, minecraft:iron_axe, minecraft:netherite_axe, minecraft:stone_axe, minecraft:wooden_axe"
     ],
     "fastPlacementItemListType": "blacklist",
     "fastRightClickBlockListType": "blacklist",
@@ -521,6 +521,12 @@
         "keys": ""
       }
     },
+    "disableBossBar": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "disableBossFog": {
       "enabled": false,
       "hotkey": {
@@ -757,6 +763,9 @@
     "disableDoubleTapSprint": {
       "keys": ""
     },
+    "disableBossBar": {
+      "keys": ""
+    },
     "disableBossFog": {
       "keys": ""
     },
@@ -880,7 +889,6 @@
     "tweakChatTimestamp": false,
     "tweakCommandBlockExtraFields": true,
     "tweakCreativeExtraItems": true,
-    "tweakCustomFlatPresets": false,
     "tweakCustomFlyDeceleration": false,
     "tweakElytraCamera": false,
     "tweakEntityTypeAttackRestriction": false,
@@ -984,9 +992,6 @@
       "keys": ""
     },
     "tweakCreativeExtraItems": {
-      "keys": ""
-    },
-    "tweakCustomFlatPresets": {
       "keys": ""
     },
     "tweakCustomFlyDeceleration": {
