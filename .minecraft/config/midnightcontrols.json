@@ -42,6 +42,7 @@
   "rotationSpeed": 10,
   "secondControllerID": -1,
   "shouldRenderReacharoundOutline": false,
+  "triggerFix": true,
   "unfocusedInput": true,
   "verticalFlyDrifting": true,
   "verticalReacharound": false,
