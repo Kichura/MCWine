@@ -8,6 +8,7 @@
   "debug": false,
   "DEFAULT_MAX_VALUE": 1,
   "doubleTapToSprint": false,
+  "enableHints": false,
   "fastBlockPlacing": false,
   "flyDrifting": true,
   "horizontalReacharound": false,
