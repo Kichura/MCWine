@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "overrides": {
+    "viafabric": {
+      "+depends": {
+         "fabric": ">=0.59.0+1.19.2",
+         "viabackwards": ">=4.4.2-SNAPSHOT",
+         "viaversion": ">=4.4.2-SNAPSHOT"
+      },
+      "+recommends": {
+         "mcwine": "latest"
+      },
+      "+suggests": {
+         "lazydfu": ">=0.1.3"
+      },
+      "+conflicts": {
+         "optifabric": "*"
+      }
+    }
+  }
+}
