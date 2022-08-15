@@ -15,7 +15,7 @@ send-supported-versions: true
 #
 # 1. The specific versions constantly create connection errors and fail to establish a proper connection.
 # 2. There are multiple bugs left-and-right that these versions have which causes inconsistent performance, issues with gameplay, etc.
-# 3. Support for these have been dropped since similar to hypixel's approach; hence the reason why we also follow along.
+# 3. Support for these have been longly dropped similar to hypixel's approach back in febuary 2nd 2022; hence this was followed along.
 #
 
 block-protocols: []
