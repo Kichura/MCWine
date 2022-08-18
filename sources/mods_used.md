@@ -7,6 +7,7 @@
 - [FCLS (Aka kennytvs-epic-force-close-loading-screen-mod-for-fabric)](https://github.com/kennytv/kennytvs-epic-force-close-loading-screen-mod-for-fabric) - **kennytv**,
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) - **malte0811**,
 - [Fix-Advancements (Aka Advancements Debug)](https://github.com/Technici4n/advancements-debug) - **thetechnici4n**,
+- [Fix-ChatPosition (Aka Chat Up!)](https://github.com/gnembon/chat-up) - **gnembon**,
 - [Fix-ChunkLags (Aka ForgetMeChunk)](https://modrinth.com/mod/forgetmechunk) - **BreadLoaf**,
 - [Fix-ItemModels (Aka Item Model Fix)](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - **Pepper_Bell**,
 - [Fix-SkyColor (Aka Clear Skies)](https://github.com/grondag/clear-skies) - **grondag**,
