@@ -1,0 +1,17 @@
+#
+# Geyser permissions go here,
+#
+# This is where we can assign the permissions to bedrock players without having to include an
+# additional permissions system such as LuckPerms and instead can be disabled by commenting them.
+#
+
+commands:
+  - help
+  - advancements
+  - statistics
+  - settings
+  - offhand
+  - list
+#  - reload
+#  - version
+#  - dump
