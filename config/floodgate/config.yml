@@ -1,0 +1,38 @@
+#
+# Floodgate configuration goes here,
+#
+# Here we can set up the bedrock accounting system when the java account requirement is disabled,
+# However since this is very likely already good-looking, This shouldn't be really touched unless required to.
+#
+
+#
+# Main floodgate configuration goes here.
+#
+username-prefix: "."
+replace-spaces: true
+disconnect:
+  invalid-key: §cYour connection appears to not work, Please try again later.
+  invalid-arguments-length: §cExpected §f{} §carguments, got §f{}§c. Has Geyser been updated recently?
+key-file-name: key.pem
+#
+# Player link configuration goes here,
+#
+# Since bedrock players would certainly never use this;
+# This will be remain disabled as this is considered useless for bedrock gameplay.
+#
+player-link:
+  enabled: false
+  require-link: false
+  enable-own-linking: false
+  allowed: false
+  link-code-timeout: 360
+  type: sqlite
+  enable-global-linking: false
+#
+# Debugging configuration goes here.
+#
+default-locale: en_US
+config-version: 3
+metrics:
+  enabled: false
+  uuid: ${metrics.uuid}

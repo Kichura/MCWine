@@ -1,0 +1,12 @@
+#
+# ViaRewind patches for older versions go here,
+#
+# This is reserved towards version 1.7.x and 1.8.x respectively where certain things need special treatments,
+# By default this is done to indicate the 1.9.x+ PvP cooldown system aswell such as fixes to books for example.
+#
+
+cooldown-indicator: TITLE
+max-book-page-length: 3500
+max-book-pages: 50
+replace-adventure: true
+replace-particles: true
