@@ -78,6 +78,7 @@ xbox-achievements-enabled: false
 config-version: 4
 debug-mode: false
 default-locale: en_us
+notify-on-new-bedrock-update: false
 metrics:
   enabled: false
   uuid: generateduuid
