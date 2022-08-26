@@ -40,6 +40,7 @@ enable-proxy-connections: false
 floodgate-key-file: key.pem
 forward-player-ping: true
 legacy-ping-passthrough: false
+log-player-ip-addresses: false
 mtu: 1400
 passthrough-motd: true
 passthrough-player-counts: true
