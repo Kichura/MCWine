@@ -24,6 +24,7 @@
 - [LazyLang (Aka Language Reload)](https://modrinth.com/mod/language-reload) - **Jerozgen**,
 - [Lithium](https://github.com/CaffeineMC/lithium-fabric/tree/1.18.x/dev) - **CaffeineMC**,
 - [MidnightControls](https://modrinth.com/mod/midnightcontrols) - **Motschen, LambdAurora**,
+- [No Chat Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) - **Aizistral-Studios**,
 - [NoFlashing-NightVision (Aka Night Vision flash be gone)](https://github.com/AshIndigo/NightVisionFlashBegone) - **AshIndigo**,
 - [NoMoreScore](https://github.com/ExoPlant/NoMoreScore) - **ExoPlant**,
 - [Persist-Sneaking (Aka Sneaky Screens)](https://github.com/haykam821/Sneaky-Screens) - **haykam**,
