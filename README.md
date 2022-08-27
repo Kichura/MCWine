@@ -7,7 +7,7 @@ MCWine is a fabric-based modpack designed to bring better performance, brand new
 
 1. [**Click here to download the development version,**](https://github.com/Kichura/MCWine/archive/refs/heads/Dev.zip)
 2. Open your Minecraft folder,
-3. Open the zip file you have downloaded from step one,
+3. Open the ZIP file you have downloaded from step one,
 4. Copy the MCWine-XXXX folder from ZIP to .minecraft/versions folder, if asked - replace the files,
 5. Restart your minecraft launcher,
 6. Create a new installation instance by heading to "Installations" and choosing the + icon,
