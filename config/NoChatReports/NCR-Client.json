@@ -1,8 +1,5 @@
 {
-  "demandOnClient": true,
   "demandOnServer": false,
-  "enableDebugLog": false,
-  "convertToGameMessage": true,
   "showServerSafety": false,
   "hideRedChatIndicators": true,
   "hideYellowChatIndicators": true,
@@ -12,5 +9,8 @@
   "disableTelemetry": true,
   "showReloadButton": false,
   "whitelistAllServers": false,
+  "verifiedIconEnabled": false,
+  "verifiedIconOffsetX": 0,
+  "verifiedIconOffsetY": 0,
   "whitelistedServers": []
 }
