@@ -79,7 +79,8 @@
 - [ImXR24](https://www.planetminecraft.com/texture-pack/xrs-retextured-mangrove-wood) - Makes mangrove look more pretty,
 - [AnnouncerF](https://www.planetminecraft.com/texture-pack/1-19-goat-horns-optifine-cit-resewn-required) - Gives specific textures for each goat horn,
 - [DiamondIsntHere](https://www.planetminecraft.com/texture-pack/technoblade-pigs-5630640) - Adds technoblade as renamed pig,
-- [PixelPeter](https://www.planetminecraft.com/texture-pack/betterfroglights) - Enhances froglight block textures.
+- [PixelPeter](https://www.planetminecraft.com/texture-pack/betterfroglights) - Enhances froglight block textures,
+- [DartCat25](https://www.planetminecraft.com/texture-pack/prettier-tint) - Improves tinting on leather armor and potion overlay.
 
 ## Resource Pack Credits (Programmer Art+)
 
