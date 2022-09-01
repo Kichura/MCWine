@@ -67,7 +67,7 @@ custom-skull-render-distance: 8
 disable-bedrock-scaffolding: true
 emote-offhand-workaround: "disabled"
 force-resource-packs: false
-max-players: 8
+max-players: 20
 max-visible-custom-skills: 128
 scoreboard-packet-threshold: 60
 show-cooldown: title
