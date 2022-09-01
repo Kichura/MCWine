@@ -1,0 +1,10 @@
+{
+  "lan_settings": {
+    "game_mode": "SURVIVAL",
+    "online_mode": true,
+    "pvp_enabled": true,
+    "port": 25565,
+    "max_players": 20,
+    "motd": "&9Another Minecraft Server"
+  }
+}
