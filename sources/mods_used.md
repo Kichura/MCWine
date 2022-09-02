@@ -13,8 +13,6 @@
 - [Fix-SkyColor (Aka Clear Skies)](https://github.com/grondag/clear-skies) - **grondag**,
 - [Fix-Titles (Aka Title Fixer)](https://modrinth.com/mod/title-fixer) - **thegameratort**,
 - [Fix-ToolTips (Aka ToolTipFix)](https://github.com/PepperCode1/Item-Model-Fix) - **Kyrptonaught**,
-- [Floodgate](https://github.com/GeyserMC/Floodgate) - **GeyserMC**,
-- [Geyser](https://github.com/GeyserMC/Geyser) - **GeyserMC**,
 - [Horse-Stats (Aka Horse Stats Vanilla)](https://modrinth.com/mod/horsestatsvanilla) - **d4rkm0nkey**,
 - [Improved-RecipeBook (Aka Better Recipe Book)](https://modrinth.com/mod/brb) - **marshmallow**,
 - [Iris](https://github.com/IrisShaders/Iris/tree/1.18.2) - **IrisShaders**,
