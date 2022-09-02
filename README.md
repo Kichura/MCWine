@@ -1,4 +1,4 @@
-![MCWine Icon](https://i.imgur.com/sykJqfG.png)
+﻿![MCWine Icon](https://i.imgur.com/sykJqfG.png)
 # MCWine
 
 MCWine is a fabric-based modpack designed to bring better performance, brand new fixes, more accessibility and a compatibility system to allow players to connect to newer & older servers out of the box.
@@ -50,10 +50,9 @@ For the resource pack list, It can be found [in this page](https://github.com/Ki
 ## Disclaimers
 
 1. It cannot be guaranteed that ViaFabric + ViaBackwards are allowed on specific servers as they can possibly cause problems with anti-cheat plugins,
-2. When publishing LAN worlds with specific port, Geyser at this time must be re-configured to meet the same port as provided by the world owner,
-3. I do not take any responsibility for any issues caused by this pack - Any action you do is completely on your own,
-4. This modpack does not ship with mod menu as most configurations for each mod have been pre-baked. but you can install it regardless,
-5. Some mods will possibly contain bugs that can break this client - If you are sensitive to these issues; You can disable the specific mods to play without them.
+2. I do not take any responsibility for any issues caused by this pack - Any action you do is completely on your own,
+3. This modpack does not ship with mod menu as most configurations for each mod have been pre-baked. but you can install it regardless,
+4. Some mods will possibly contain bugs that can break this client - If you are sensitive to these issues; You can disable the specific mods to play without them.
 
 ## Modrinth Version
 

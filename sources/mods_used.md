@@ -36,4 +36,4 @@
 - [ViaRewind](https://github.com/ViaVersion/ViaRewind) - **ViaVersion**,
 - [Zoom (Aka Logical Zoom)](https://github.com/LogicalGeekBoy/logical_zoom) - **LogicalGeekBoy**.
 
-*(This list is subject to change - If a mod fails to boot this client then refer to the 5th disclaimer comment in main repository page)*
+*(This list is subject to change - If a mod fails to boot this client then refer to the 4th disclaimer comment in main repository page)*
