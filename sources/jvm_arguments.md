@@ -28,7 +28,7 @@
 
 2. For the Z Garbage Collector JVM script to work; Java 14 or newer is required instead,
 
-3. For the Shenandoah Garbage Collector JVM script to work; Java 15 or newer is required instead, *(Doesn't support oracle's latest JDK builds)*
+3. For the Shenandoah Garbage Collector JVM script to work; Java 15 or newer is required instead, *(Doesn't support any JDK variants by Oracle)*
 
 4. The -Xms and -Xmx parts can be modified to your own personal likings in case the Java RAM is insufficient.
 
