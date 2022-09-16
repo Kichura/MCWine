@@ -8,8 +8,10 @@
   "alwaysHideReportButton": true,
   "disableTelemetry": true,
   "showReloadButton": false,
-  "whitelistAllServers": false,
+  "whitelistAllServers": true,
   "verifiedIconEnabled": false,
+  "showNCRButton": false,
+  "enableMod": true,
   "verifiedIconOffsetX": 0,
   "verifiedIconOffsetY": 0,
   "whitelistedServers": []
