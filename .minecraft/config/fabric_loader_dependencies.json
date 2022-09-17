@@ -4,8 +4,8 @@
     "viafabric": {
       "+depends": {
          "fabric-api": ">=0.60.0+1.19.2",
-         "viabackwards": ">=4.4.2-SNAPSHOT",
-         "viaversion": ">=4.4.2-SNAPSHOT"
+         "viabackwards": ">=4.4.2",
+         "viaversion": ">=4.4.2"
       },
       "+recommends": {
          "mcwine": "latest"
@@ -14,7 +14,8 @@
          "lazydfu": ">=0.1.3"
       },
       "+conflicts": {
-         "optifabric": "*"
+         "optifabric": "*",
+         "optifine": "*"
       }
     }
   }
