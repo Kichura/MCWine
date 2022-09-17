@@ -14,7 +14,8 @@
          "lazydfu": ">=0.1.3"
       },
       "+conflicts": {
-         "optifabric": "*"
+         "optifabric": "*",
+         "optifine": "*"
       }
     }
   }
