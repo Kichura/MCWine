@@ -12,7 +12,9 @@
   "verifiedIconEnabled": false,
   "showNCRButton": false,
   "enableMod": true,
+  "enableChatEncryption": true,
+  "chatEncryptionKey": "",
+  "chatEncryptionAlgorithm": "AES+Base64",
   "verifiedIconOffsetX": 0,
-  "verifiedIconOffsetY": 0,
-  "whitelistedServers": []
+  "verifiedIconOffsetY": 0
 }
