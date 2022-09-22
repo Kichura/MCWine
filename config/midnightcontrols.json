@@ -1,8 +1,9 @@
 {
+  "BINDINGS": {},
   "analogMovement": true,
   "autoSwitchMode": false,
-  "BINDINGS": {},
-  "controllerID": 0.0,
+  "configVersion": 1,
+  "controllerID": 0,
   "controllerType": "STEAM_DECK",
   "controlsMode": "DEFAULT",
   "debug": false,
@@ -13,6 +14,9 @@
   "horizontalReacharound": false,
   "hudEnable": true,
   "hudSide": "LEFT",
+  "ignoredUnboundKeys": [
+    "inventorytabs.key.next_tab"
+  ],
   "invertRightXAxis": false,
   "invertRightYAxis": false,
   "leftDeadZone": 0.25,
@@ -23,13 +27,18 @@
     1.0
   ],
   "mouseScreens": [
+    "dev.emi.emi.screen",
+    "hardcorequesting.client.interfaces.EditTrackerScreen",
+    "hardcorequesting.client.interfaces.GuiQuestBook",
+    "hardcorequesting.client.interfaces.GuiReward",
+    "me.flashyreese.mods.reeses_sodium_options.client.gui",
     "me.jellysquid.mods.sodium.client.gui",
     "net.coderbot.iris.gui",
-    "net.minecraft.client.gui.screen.advancement",
-    "net.minecraft.client.gui.screen.pack.PackScreen",
-    "net.minecraft.class_5375",
+    "net.minecraft.class_408",
     "net.minecraft.class_457",
-    "net.minecraft.class_408"
+    "net.minecraft.class_5375",
+    "net.minecraft.client.gui.screen.advancement",
+    "net.minecraft.client.gui.screen.pack.PackScreen"
   ],
   "mouseSpeed": 7.0,
   "reacharoundOutlineColorAlpha": 102,
@@ -37,7 +46,7 @@
   "rightDeadZone": 0.25,
   "ringBindings": [],
   "rotationSpeed": 10.0,
-  "secondControllerID": -1.0,
+  "secondControllerID": -1,
   "shortcutInControls": true,
   "shouldRenderReacharoundOutline": false,
   "triggerFix": true,
