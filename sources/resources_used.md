@@ -74,14 +74,15 @@
 - [ThePsychoEspeon](https://www.planetminecraft.com/texture-pack/fixed-spruce-trapdoor) - Fixes spruce trapdoors from looking weird,
 - [GalacticAnimations](https://www.planetminecraft.com/texture-pack/better-frog-eggs) - Makes frog eggs look better,
 - [valesde_valley](https://www.planetminecraft.com/texture-pack/tweaked-smithing-table) - Tweaks the smithing table to look more accurate,
-- [Firecrackled](https://www.youtube.com/firecrackled) - For giving me permission to use her server's world as the new panorama,
+- [Firecrackled](https://www.youtube.com/firecrackled) - For giving me permission to use her server's season 1 world as the panorama,
 - [Amaro_Lunatico](https://www.planetminecraft.com/texture-pack/consistent-leads-texture-packs) - Makes leads look consistent,
 - [ImXR24](https://www.planetminecraft.com/texture-pack/xrs-retextured-mangrove-wood) - Makes mangrove look more pretty,
 - [AnnouncerF](https://www.planetminecraft.com/texture-pack/1-19-goat-horns-optifine-cit-resewn-required) - Gives specific textures for each goat horn,
 - [DiamondIsntHere](https://www.planetminecraft.com/texture-pack/technoblade-pigs-5630640) - Adds technoblade as renamed pig,
 - [PixelPeter](https://www.planetminecraft.com/texture-pack/betterfroglights) - Enhances froglight block textures,
 - [DartCat25](https://www.planetminecraft.com/texture-pack/prettier-tint) - Improves tinting on leather armor and potion overlay,
-- [DevDyna](https://www.curseforge.com/minecraft/texture-packs/fixsculk) - Animates the sculk block.
+- [DevDyna](https://www.curseforge.com/minecraft/texture-packs/fixsculk) - Animates the sculk block,
+- [carriecare](https://www.planetminecraft.com/texture-pack/adjusted-acacia) - Adjusts the acacia textures.
 
 ## Resource Pack Credits (Programmer Art+)
 
