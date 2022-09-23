@@ -6,7 +6,7 @@
   "encryptionPassphrase": "",
   "algorithmName": "AES/CFB8+Base64",
   "encryptableCommands": [
-    "me:0"
+    "me:0",
     "msg:1",
     "tell:1",
     "w:1"
