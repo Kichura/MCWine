@@ -12,9 +12,6 @@
   "verifiedIconEnabled": false,
   "showNCRButton": false,
   "enableMod": true,
-  "enableChatEncryption": false,
-  "chatEncryptionKey": "",
-  "chatEncryptionAlgorithm": "AES+Base64",
   "verifiedIconOffsetX": 0,
   "verifiedIconOffsetY": 0
 }
