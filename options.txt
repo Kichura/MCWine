@@ -29,7 +29,7 @@ entityDistanceScaling:0.5
 entityShadows:true
 forceUnicodeFont:false
 fov:0.0
-fovEffectScale:0.05
+fovEffectScale:0.050
 fullscreen:false
 gamma:0.5
 glDebugVerbosity:0
@@ -101,8 +101,8 @@ modelPart_left_pants_leg:true
 modelPart_left_sleeve:true
 modelPart_right_pants_leg:true
 modelPart_right_sleeve:true
-mouseSensitivity:0.5
-mouseWheelSensitivity:0.5
+mouseSensitivity:1.0
+mouseWheelSensitivity:1.0
 narrator:0
 onlyShowSecureChat:false
 overrideHeight:0
