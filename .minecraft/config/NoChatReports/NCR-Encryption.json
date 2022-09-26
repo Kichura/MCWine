@@ -2,6 +2,7 @@
   "skipWarning": true,
   "enableEncryption": false,
   "encryptPublic": true,
+  "showEncryptionButton": false,
   "encryptionKey": "",
   "encryptionPassphrase": "",
   "algorithmName": "AES/CFB8+Base64",
