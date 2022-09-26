@@ -134,7 +134,7 @@ soundCategory_record:0.165
 soundCategory_voice:0.0
 soundCategory_weather:0.50
 soundDevice:""
-syncChunkWrites:true
+syncChunkWrites:false
 textBackgroundOpacity:0.75
 toggleCrouch:false
 toggleSprint:false
