@@ -43,7 +43,6 @@ hideServerAddress:true
 incompatibleResourcePacks:[]
 invertYMouse:false
 joinedFirstServer:true
-key_blanket-client-tweaks.keys.rotateMinecartKey:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
