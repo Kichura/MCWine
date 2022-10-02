@@ -82,13 +82,15 @@
 - [PixelPeter](https://www.planetminecraft.com/texture-pack/betterfroglights) - Enhances froglight block textures,
 - [DartCat25](https://www.planetminecraft.com/texture-pack/prettier-tint) - Improves tinting on leather armor and potion overlay,
 - [DevDyna](https://www.curseforge.com/minecraft/texture-packs/fixsculk) - Animates the sculk block,
-- [carriecare](https://www.planetminecraft.com/texture-pack/adjusted-acacia) - Adjusts the acacia textures.
+- [carriecare](https://www.planetminecraft.com/texture-pack/adjusted-acacia) - Adjusts the acacia textures,
+- [DeadbushCarrot](https://www.planetminecraft.com/texture-pack/fixed-diamond-armor) - Fixes the diamond chestplate model.
 
 ## Resource Pack Credits (Programmer Art+)
 
 - [SalC1](https://salc1.com) - Contains most of the tweaks,
 - [thgabs](https://www.curseforge.com/minecraft/texture-packs/programmer-art-fix) - Fixes some of the missing assets,
 - [nappabutterfinger](https://www.planetminecraft.com/texture-pack/162old-food-textures-resource-pack) - Restores food items to their old variants,
-- [ic22487](https://www.planetminecraft.com/texture-pack/programmer-art-ultimate-1-17) - Make multiple 1.17/1.18 textures programmer art-like.
+- [ic22487](https://www.planetminecraft.com/texture-pack/programmer-art-ultimate-1-17) - Make multiple 1.17/1.18 textures programmer art-like,
+- [DeadbushCarrot](https://www.planetminecraft.com/texture-pack/fixed-diamond-armor-programer-art) - Fixes the diamond chestplate model on programmer art.
 
 *(This list is subject to change - If you do not want to use any of the two resource packs then you can disable them in the resource packs configuration page in-game)*
