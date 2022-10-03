@@ -100,7 +100,7 @@ modelPart_left_pants_leg:true
 modelPart_left_sleeve:true
 modelPart_right_pants_leg:true
 modelPart_right_sleeve:true
-mouseSensitivity:1.0
+mouseSensitivity:0.5
 mouseWheelSensitivity:1.0
 narrator:0
 onlyShowSecureChat:false
