@@ -1,8 +1,8 @@
 {
   "id": "MCWine-Dev",
   "inheritsFrom": "1.19.2",
-  "releaseTime": "2022-08-16",
-  "time": "2022-08-16",
+  "releaseTime": "2022-10-03",
+  "time": "2022-10-03",
   "type": "release",
   "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
   "arguments": {
@@ -26,23 +26,23 @@
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.ow2.asm:asm:9.3",
+      "name": "org.ow2.asm:asm:9.4",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.ow2.asm:asm-analysis:9.3",
+      "name": "org.ow2.asm:asm-analysis:9.4",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.ow2.asm:asm-commons:9.3",
+      "name": "org.ow2.asm:asm-commons:9.4",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.ow2.asm:asm-tree:9.3",
+      "name": "org.ow2.asm:asm-tree:9.4",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.ow2.asm:asm-util:9.3",
+      "name": "org.ow2.asm:asm-util:9.4",
       "url": "https://maven.fabricmc.net/"
     },
     {
