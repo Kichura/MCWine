@@ -18,7 +18,7 @@
 - [send4kolchak](https://www.curseforge.com/minecraft/texture-packs/sends-realistic-lighting) - Makes lighting more accurate for moody, (OF only)
 - [tild09](https://www.curseforge.com/minecraft/texture-packs/updated-witches) - Overhauls the witch model, (OF or CEM mod required)
 - [ICantThinkOfAUsername](https://www.planetminecraft.com/texture-pack/better-enchantment-names) - Adds icons to enchantments,
-- [1Krista](https://www.planetminecraft.com/texture-pack/krista-s-better-door-v1-0) - Patches half-door from glitching out,
+- [1Krista](https://pastebin.com/raw/Ep7yXMtV) - Patches half-doors and cobblestone walls from glitching out,
 - [OffLime](https://www.planetminecraft.com/texture-pack/caves-amp-cliffs-tweaks-main-release-version) - Enhances Raw Copper/Iron & Music discs,
 - [rarysm](https://www.planetminecraft.com/texture-pack/fixed-terracotta) - Enhances the terracotta blocks to jappa-like types,
 - [MichiMine](https://www.planetminecraft.com/texture-pack/better-elytra-5295183) - Enhances the elytra texture,
