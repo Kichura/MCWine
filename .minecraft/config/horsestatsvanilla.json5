@@ -1,17 +1,13 @@
 {
-
 	//
 	// Switches to use when viewing horse-related inventories.
 	//
-
 	"enableTooltip": true,
 	"showMaxMin": true,
 	"useColors": true,
-
 	//
 	// Values to use when viewing horse-related inventories.
 	//
-
 	"badHorseHeartsValue": 20.0,
 	"badHorseJumpValue": 2.5,
 	"badHorseSpeedValue": 7.0,
@@ -20,11 +16,9 @@
 	"goodHorseJumpValue": 4.0,
 	"goodHorseSpeedValue": 11.0,
 	"goodStrengthValue": 9.0,
-
 	//
 	// Colors to display when viewing horse-related inventories.
 	//
-	
 	"badColor": {
 		"red": 255,
 		"green": 0,
