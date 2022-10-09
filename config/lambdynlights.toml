@@ -2,58 +2,43 @@
 # Dyanmic lights configuration,
 # It is recommended you leave this mode set to fancy for best effects unless your game's framerate becomes unstable.
 #
-
 mode = "fancy"
-
 #
 # Light sources configuration, Can be modified if you wish to use your own preferences.
 #
-
 [light_sources]
-
     #
     # Should block entities light up?
     #
-
     block_entities = false
-
     #
     # If enabled, Make creepers light up during igniting effect.
     #
-
     creeper = "off"
-
     #
     # Should entities light up?
     #
-
     entities = false
-
     #
     # If enabled, Make TNT light up during igniting effect.
     #
-
     tnt = "off"
-
     #
     # Prevents torches and other entities from lighting up when submerged into water sources.
     #
-    
     water_sensitive_check = true
-
+    #
+    # Light sources configuration goes here.
+    #
     [light_sources.settings]
-    
         [light_sources.settings.block_entities]
-
         #
         # What block entities to toggle in order to be used in dynamic lights,
         # A portion of these don't need dynamic lights to be used anyways so they will be filtered.
         #
         # Unless you have an resource pack enabled that supports these then enable the specific ones.
         #
-
         [light_sources.settings.block_entities.minecraft]
-
         banner = false
         barrel = false
         beacon = true
@@ -90,18 +75,14 @@ mode = "fancy"
         smoker = true
         structure_block = false
         trapped_chest = false
-
         [light_sources.settings.entities]
-
         #
         # What entities to toggle in order to be used in dynamic lights,
         # Similar to the block entity switches above except it's about the non-block entities instead.
         #
         # The resource pack rule applies here aswell by the way.
         #
-
         [light_sources.settings.entities.minecraft]
-        
         allay = true
         area_effect_cloud = false
         armor_stand = false
