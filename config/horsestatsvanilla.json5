@@ -2,7 +2,6 @@
 	//
 	// Switches to use when viewing horse-related inventories.
 	//
-
 	"enableTooltip": true,
 	"showMaxMin": true,
 	"useColors": true,
