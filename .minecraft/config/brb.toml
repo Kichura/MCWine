@@ -2,7 +2,6 @@
 # Modifies the recipe book system to make it better,
 # A portion of settings are disabled such as "unlockAll" to avoid causing problems.
 #
-
 darkMode = false
 enableBook = true
 enablePinning = true
