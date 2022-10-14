@@ -1,15 +1,15 @@
 {
-  "skipWarning": true,
+  "algorithmName": "AES/CFB8+Base64",
   "enableEncryption": false,
   "encryptPublic": true,
-  "showEncryptionButton": false,
-  "encryptionKey": "",
-  "encryptionPassphrase": "",
-  "algorithmName": "AES/CFB8+Base64",
   "encryptableCommands": [
     "me:0",
     "msg:1",
     "tell:1",
     "w:1"
-  ]
+  ],
+  "encryptionKey": "",
+  "encryptionPassphrase": "",
+  "showEncryptionButton": false,
+  "skipWarning": true
 }
