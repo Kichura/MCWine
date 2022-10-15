@@ -1,6 +1,7 @@
 ## Resource Pack Credits (Default+)
 
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) - Contains most of the tweaks,
+- [Kichura (That is me!)](https://github.com/Kichura) - Fixing third-party textures / pack scripts,
 - [TheMobCave](https://www.youtube.com/watch?v=9PYpUCo8TKQ) - Replaces rain sound effects,
 - [TinyDaggsy](https://pastebin.com/raw/1F1w69V3) - Changes llama decoration, furnaces, shulker boxes, signs, coral blocks, etc,
 - [EpicCOAwesomeKid](https://www.curseforge.com/minecraft/texture-packs/corrected-mob-heads) - Moves heads to camera for better view,
@@ -63,7 +64,7 @@
 - [SweatyYeti](https://www.planetminecraft.com/texture-pack/muddier-mud) - Makes mud look brown instead of gray,
 - [PencilVoid](https://www.planetminecraft.com/texture-pack/echo-shard-redraw) - Enhances the look of Echo Shards,
 - [glitchy256](https://www.curseforge.com/minecraft/texture-packs/classic-handhelds) - Restores the 1.8.x handhelds,
-- [DapperLoosh](https://pastebin.com/raw/JN5RqFP1) - Adds colorful alliums & orchids,
+- [DapperLoosh](https://pastebin.com/raw/uRe65Dwt) - Adds colorful alliums, orchids and makes red sand actually red,
 - [Ratz_Borkopf](https://www.planetminecraft.com/texture-pack/echo-shard-divining-rod) - Converts recovery compass into echo rod,
 - [LunaByte](https://pastebin.com/raw/CpJm493R) - Makes spider eyes + quartz items jappaified,
 - [Intermet179](https://www.planetminecraft.com/texture-pack/music-disc-5-to-eleven) - Converts music disc 5 -> eleven,
@@ -83,7 +84,8 @@
 - [DartCat25](https://www.planetminecraft.com/texture-pack/prettier-tint) - Improves tinting on leather armor and potion overlay,
 - [DevDyna](https://www.curseforge.com/minecraft/texture-packs/fixsculk) - Animates the sculk block,
 - [carriecare](https://www.planetminecraft.com/texture-pack/adjusted-acacia) - Adjusts the acacia textures,
-- [DeadbushCarrot](https://www.planetminecraft.com/texture-pack/fixed-diamond-armor) - Fixes the diamond chestplate model.
+- [DeadbushCarrot](https://www.planetminecraft.com/texture-pack/fixed-diamond-armor) - Fixes the diamond chestplate model,
+- [cornbread_alphanumeric](https://www.curseforge.com/minecraft/texture-packs/cornbreads-music-fixer) - Fixes soundtrack so that they play properly in actual order.
 
 ## Resource Pack Credits (Programmer Art+)
 
