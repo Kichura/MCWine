@@ -16,10 +16,10 @@ MCWine is a fabric-based modpack designed to bring better performance, brand new
 9. Make sure the new instance has java 17 or greater selected from the "more options" page,
 10. Save the instance and attempt to run the instance.
 
-## Installing This Modpack (PolyMC Method)
+## Installing This Modpack (MultiMC Method)
 
-1. [**Click here to download the development version,**](https://github.com/Kichura/MCWine/archive/refs/heads/PolyMC-Dev.zip)
-2. Drag the ZIP into the PolyMC window,
+1. [**Click here to download the development version,**](https://github.com/Kichura/MCWine/archive/refs/heads/MultiMC-Dev.zip)
+2. Drag the ZIP into the MultiMC window,
 3. Make sure the installed instance has Java 17 or greater installed.
 
 ## Updating Java Version (Optional)
