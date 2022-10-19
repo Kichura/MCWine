@@ -38,7 +38,7 @@
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "net.fabricmc:fabric-loader:0.14.9",
+            "name": "net.fabricmc:fabric-loader:0.14.10",
             "url": "https://maven.fabricmc.net"
         }
     ],
@@ -52,5 +52,5 @@
     ],
     "type": "release",
     "uid": "net.fabricmc.fabric-loader",
-    "version": "0.14.9"
+    "version": "0.14.10"
 }
