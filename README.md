@@ -60,4 +60,4 @@ This modpack is available on modrinth as a lightweight version, but will not shi
 
 ## License
 
-MCWine is licensed under MIT, a free and open-source license. For more information, please see the [license file](https://github.com/Kichura/MCWine/blob/Dev/LICENSE).
+MCWine is licensed under MIT, a free and open-source license. For more information, please see the [license file.](https://github.com/Kichura/MCWine/blob/Dev/LICENSE)
