@@ -4,7 +4,7 @@
 - [Dark Graph](https://modrinth.com/mod/dark-graph) - **EcoBuilder13**,
 - [Dynamic-Lights (Aka LambDynamicLights)](https://modrinth.com/mod/lambdynamiclights) - **LambdAurora**,
 - [Fabric-API](https://modrinth.com/mod/fabric-api) - **modruss50**, **sfPlayer1**,
-- [FCLS (Aka kennytvs-epic-force-close-loading-screen-mod-for-fabric)](https://github.com/kennytv/kennytvs-epic-force-close-loading-screen-mod-for-fabric) - **kennytv**,
+- [Fastload](https://modrinth.com/mod/fastload) - **FluffyBumblebees**,
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) - **malte0811**,
 - [Fix-Advancements (Aka Advancements Debug)](https://github.com/Technici4n/advancements-debug) - **thetechnici4n**,
 - [Fix-ChatPosition (Aka Chat Up!)](https://github.com/gnembon/chat-up) - **gnembon**,
