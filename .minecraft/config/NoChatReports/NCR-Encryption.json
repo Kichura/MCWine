@@ -11,5 +11,6 @@
   "encryptionKey": "",
   "encryptionPassphrase": "",
   "showEncryptionButton": false,
+  "showEncryptionIndicators": false,
   "skipWarning": true
 }
