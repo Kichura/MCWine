@@ -1,10 +1,15 @@
 {
   "BINDING": {},
   "analogMovement": true,
+  "arrowScreens": [
+    "net.minecraft.class_408"
+  ],
   "autoSwitchMode": false,
   "configVersion": 1,
   "controllerBindingProfiles": {},
   "controllerID": 0.0,
+  "controllerToggleSneak": true,
+  "controllerToggleSprint": true,
   "controllerType": "STEAM_DECK",
   "controlsMode": "DEFAULT",
   "debug": false,
@@ -56,5 +61,8 @@
   "verticalReacharound": false,
   "virtualMouse": false,
   "virtualMouseSkin": "DEFAULT_DARK",
+  "wasdScreens": [
+    "com.ultreon.devices.core.Laptop"
+  ],
   "yAxisRotationSpeed": 12.0
 }
