@@ -56,11 +56,11 @@ tracking-warning-pps: 18000
 cache-1_17-light: true
 chat-nbt-fix: true
 chat-types-1_19:
-  "chat.type.text": "<%s> %s"
-  "chat.type.announcement": "[%s] %s"
-  "commands.message.display.incoming": "%s whispers to you: %s"
-  "chat.type.team.text": "%s <%s> %s"
-  "chat.type.emote": "* %s %s"
+  chat.type.announcement: "[%s] %s"
+  chat.type.emote: "* %s %s"
+  chat.type.team.text: "%s <%s> %s"
+  chat.type.text: "<%s> %s"
+  commands.message.display.incoming: "%s whispers to you: %s"
 disable-1_13-auto-complete: true
 fix-1_14-health-nan: true
 fix-infested-block-breaking: true
