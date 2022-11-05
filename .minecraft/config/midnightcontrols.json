@@ -51,7 +51,7 @@
   "reacharoundOutlineColorHex": "#ffffff",
   "rightDeadZone": 0.25,
   "ringBindings": [],
-  "rotationSpeed": 10.0,
+  "rotationSpeed": 12.0,
   "secondControllerID": -1.0,
   "shortcutInControls": true,
   "shouldRenderReacharoundOutline": false,
