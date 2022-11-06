@@ -2,6 +2,7 @@
 
 - [Alternate-EntityCulling (Aka EntityCulling Fabric/Forge)](https://modrinth.com/mod/entityculling) - **tr9zw**,
 - [Dark Graph](https://modrinth.com/mod/dark-graph) - **EcoBuilder13**,
+- [Dynamic-FPS](https://modrinth.com/mod/dynamic-fps) - **juliand665**,
 - [Dynamic-Lights (Aka LambDynamicLights)](https://modrinth.com/mod/lambdynamiclights) - **LambdAurora**,
 - [Fabric-API](https://modrinth.com/mod/fabric-api) - **modruss50**, **sfPlayer1**,
 - [Fastload](https://modrinth.com/mod/fastload) - **FluffyBumblebees**,
