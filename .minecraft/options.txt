@@ -52,6 +52,8 @@ key_key.back:key.keyboard.s
 key_key.chat:key.keyboard.t
 key_key.command:key.keyboard.slash
 key_key.drop:key.keyboard.q
+key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
+key_key.dynamicfps.toggle_forced:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.forward:key.keyboard.w
 key_key.fullscreen:key.keyboard.f11
