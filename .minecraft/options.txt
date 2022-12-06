@@ -76,7 +76,6 @@ key_key.midnightcontrols.look_left:key.keyboard.left
 key_key.midnightcontrols.look_right:key.keyboard.right
 key_key.midnightcontrols.look_up:key.keyboard.up
 key_key.midnightcontrols.ring:key.keyboard.unknown
-key_key.logical_zoom.zoom:key.keyboard.z
 key_key.pickItem:key.mouse.middle
 key_key.playerlist:key.keyboard.tab
 key_key.right:key.keyboard.d
