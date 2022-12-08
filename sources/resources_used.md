@@ -70,7 +70,7 @@
 - [Intermet179](https://www.planetminecraft.com/texture-pack/music-disc-5-to-eleven) - Converts music disc 5 -> eleven,
 - [JMHMirror](https://www.planetminecraft.com/texture-pack/shield-arm-strap-fix) - Fixes the shield strap for armor stands + players,
 - [i_used_the_wrong_email](https://www.planetminecraft.com/texture-pack/dry-savanna-grass) - Makes savanna biomes dry-looking,
-- [Manuel XXVI](https://pastebin.com/raw/7nNyn1Mg) - Makes chest boats look consistent and makes sculk shriekers easily to notice from block states and more,
+- [Manuel XXVI](https://pastebin.com/raw/UPVXNDmq) - Makes chest boats look consistent and makes sculk shriekers easily to notice from block states and more,
 - [Francrack](https://www.planetminecraft.com/texture-pack/perfectly-connected-sculk-shrieker-top-with-the-sides) - Corrects the top sides for sculk shriekers,
 - [ThePsychoEspeon](https://www.planetminecraft.com/texture-pack/fixed-spruce-trapdoor) - Fixes spruce trapdoors from looking weird,
 - [GalacticAnimations](https://www.planetminecraft.com/texture-pack/better-frog-eggs) - Makes frog eggs look better,
