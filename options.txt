@@ -1,4 +1,4 @@
-advancedItemTooltips:false
+advancedItemTooltips:true
 allowServerListing:false
 ao:2
 attackIndicator:1
