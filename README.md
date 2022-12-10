@@ -7,20 +7,20 @@ MCWine is a fabric-based modpack designed to bring better performance, brand new
 
 1. [**Click here to download the development version,**](https://github.com/Kichura/MCWine/archive/refs/heads/Dev.zip)
 2. Open your Minecraft folder,
-3. Open the ZIP file you have downloaded from step one,
-4. Copy the MCWine-XXXX folder from ZIP to .minecraft/versions folder, if asked - replace the files,
+3. Open the ZIP-archive you have downloaded from step one,
+4. Extract the MCWine-Dev folder from the ZIP-archive to .minecraft/versions folder, if asked - replace the files,
 5. Restart your minecraft launcher,
-6. Create a new installation instance by heading to "Installations" and choosing the + icon,
-7. Choose the version "MCWine-XXXX" from versions list which should be on the top,
-8. Change the game directory from default to .minecraft/versions/MCWine-XXXX folder,
-9. Make sure the new instance has java 17 or greater selected from the "more options" page,
+6. Create a new installation instance by heading to "Installations" and choosing the **+** icon,
+7. Choose the version "MCWine-Dev" from versions list which should be on the top,
+8. Change the game directory from default to .minecraft/versions/MCWine-Dev folder,
+9. Make sure the new instance has Java 17 or greater selected from the "more options" page,
 10. Save the instance and attempt to run the instance.
 
 ## Installing This Modpack (MultiMC Method)
 
 1. [**Click here to download the development version,**](https://github.com/Kichura/MCWine/archive/refs/heads/MultiMC-Dev.zip)
-2. Drag the ZIP into the MultiMC window,
-3. Make sure the installed instance has Java 17 or greater installed.
+2. Drag the ZIP-archive to MultiMC window; and hit OK in the window that pops up,
+3. Double-click that version you just created to launch the modpack.
 
 ## Updating Java Version (Optional)
 
