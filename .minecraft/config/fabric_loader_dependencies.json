@@ -3,9 +3,9 @@
   "overrides": {
     "viafabric": {
       "+depends": {
-         "fabric-api": ">=0.64.0+1.19.2",
-         "viabackwards": ">=4.4.3",
-         "viaversion": ">=4.4.3"
+         "fabric-api": ">=0.69.0+1.19.2",
+         "viabackwards": ">=4.5.1",
+         "viaversion": ">=4.5.1"
       },
       "+recommends": {
          "mcwine": "latest"
