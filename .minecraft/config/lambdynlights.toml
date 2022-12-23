@@ -21,6 +21,11 @@ mode = "fancy"
     #
     entities = false
     #
+    # If enabled, Allow dynamic lights to work whilst in first person,
+    # This may cause issues with shaders so best to keep that in mind.
+    #
+    self = true
+    #
     # If enabled, Make TNT light up during igniting effect.
     #
     tnt = "off"
