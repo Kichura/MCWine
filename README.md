@@ -50,9 +50,10 @@ For the resource pack list, It can be found [in this page](https://github.com/Ki
 ## Disclaimers
 
 1. It cannot be guaranteed that ViaFabric + ViaBackwards + ViaRewind are allowed on specific servers as they can possibly cause problems with anti-cheat plugins,
-2. I do not take any responsibility for any issues caused by this pack - Any action you do is completely on your own,
-3. This modpack does not ship with mod menu as most configurations for each mod have been pre-baked. but you can install it regardless,
-4. Some mods will possibly contain bugs that can break this client - If you are sensitive to these issues; You can disable the specific mods to play without them.
+2. Due to technical limitations with the "enforce-secure-profile" feature from 1.19.1+ servers at this time - This will cause ViaFabric to fail on those servers,
+3. I do not take any responsibility for any issues caused by this pack - Any action you do is completely on your own,
+4. This modpack does not ship with mod menu as most configurations for each mod have been pre-baked. but you can install it regardless,
+5. Some mods will possibly contain bugs that can break this client - If you are sensitive to these issues; You can disable the specific mods to play without them.
 
 ## Modrinth Version
 
