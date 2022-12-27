@@ -43,7 +43,7 @@ For the resource pack list, It can be found [in this page](https://github.com/Ki
 ## Special Thanks To
 
 - [FlashyReese](https://github.com/FlashyReese) for helping me create this entire readme document,
-- [MrMangoHands](https://github.com/mrmangohands) for helping out with sharing the [lithium configuration codes](https://github.com/CaffeineMC/lithium-fabric/blob/1.19.x/dev/src/main/java/me/jellysquid/mods/lithium/common/config/LithiumConfig.java),
+- [MrMangoHands](https://github.com/mrmangohands) for helping out with sharing the [lithium configuration codes](https://github.com/CaffeineMC/lithium-fabric/blob/1.19.x/dev/lithium-mixin-config.md),
 - [Julienraptor01](https://github.com/Julienraptor01) for suggesting a mod replacement that improves ToolTips-Scroller mod,
 - [robotkoer](https://modrinth.com/modpack/fabulously-optimized), [The ViaVersion Team](https://github.com/ViaVersion/ViaVersion), [The ProtocolSupport Team](https://github.com/ProtocolSupport/ProtocolSupport) & [The WineHQ Team](https://www.winehq.org) for inspiring me to create this modpack from the ground-up.
 
