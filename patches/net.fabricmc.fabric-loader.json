@@ -39,7 +39,7 @@
         },
         {
             "name": "net.fabricmc:fabric-loader:0.14.12",
-            "url": "https://maven.fabricmc.net"
+            "url": "https://maven.fabricmc.net/"
         }
     ],
     "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
