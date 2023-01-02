@@ -88,6 +88,10 @@ key_key.spectatorOutlines:key.keyboard.unknown
 key_key.sprint:key.keyboard.left.shift
 key_key.swapOffhand:key.keyboard.f
 key_key.togglePerspective:key.keyboard.f5
+key_key.tooltipscroll.horizontal:key.keyboard.unknown
+key_key.tooltipscroll.moveDown:key.keyboard.page.down
+key_key.tooltipscroll.moveUp:key.keyboard.page.up
+key_key.tooltipscroll.reset:key.keyboard.unknown
 key_key.use:key.mouse.right
 lang:en_us
 lastServer:
