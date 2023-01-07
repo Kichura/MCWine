@@ -25,6 +25,7 @@
   ],
   "invertRightXAxis": false,
   "invertRightYAxis": false,
+  "joystickAsMouse": false,
   "leftDeadZone": 0.25,
   "maxAnalogValues": [
     1.0,
@@ -47,6 +48,7 @@
     "net.minecraft.client.gui.screen.pack.PackScreen"
   ],
   "mouseSpeed": 7.0,
+  "moveChat": false,
   "reacharoundOutlineColorAlpha": 102,
   "reacharoundOutlineColorHex": "#ffffff",
   "rightDeadZone": 0.25,

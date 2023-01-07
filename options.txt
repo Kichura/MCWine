@@ -1,6 +1,6 @@
 advancedItemTooltips:true
 allowServerListing:false
-ao:2
+ao:true
 attackIndicator:1
 autoJump:false
 autoSuggestions:true
@@ -15,13 +15,11 @@ chatLineSpacing:0.0
 chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
-chatPreview:0
 chatScale:1.0
 chatVisibility:0
 chatWidth:1.0
 darkMojangStudiosBackground:true
 darknessEffectScale:0.0
-difficulty:1
 directionalAudio:true
 discrete_mouse_scroll:false
 enableVsync:false
@@ -109,11 +107,12 @@ mouseSensitivity:0.5
 mouseWheelSensitivity:1.0
 narrator:0
 onlyShowSecureChat:false
+operatorItemsTab:true
 overrideHeight:0
 overrideWidth:0
+panoramaScrollSpeed:0.5
 particles:1
 pauseOnLostFocus:true
-previousLang:
 prioritizeChunkUpdates:0
 rawMouseInput:false
 realmsNotifications:false
@@ -139,6 +138,7 @@ soundCategory_voice:0.0
 soundCategory_weather:0.50
 soundDevice:""
 syncChunkWrites:false
+telemetryOptInExtra:false
 textBackgroundOpacity:0.75
 toggleCrouch:false
 toggleSprint:false
