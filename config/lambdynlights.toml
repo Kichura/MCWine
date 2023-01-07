@@ -19,11 +19,11 @@ mode = "fancy"
 	# Should entities light up?
 	#
 	entities = false
-    #
-    # If enabled, Allow dynamic lights to work whilst in first person,
-    # This may cause issues with shaders so best to keep that in mind.
-    #
-    self = true
+        #
+        # If enabled, Allow dynamic lights to work whilst in first person,
+        # This may cause issues with shaders so best to keep that in mind.
+        #
+        self = true
 	#
 	# If enabled, Make TNT light up during igniting effect.
 	#
@@ -31,7 +31,7 @@ mode = "fancy"
 	#
 	# Prevents torches and other entities from lighting up when submerged into water sources.
 	#
-	water_sensitive_check = false
+	water_sensitive_check = true
     #
     # Light sources configuration goes here.
     #
