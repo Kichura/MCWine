@@ -3,7 +3,7 @@
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) - Contains most of the tweaks,
 - [Kichura (That is me!)](https://github.com/Kichura) - Fixing third-party textures / pack scripts,
 - [TheMobCave](https://www.youtube.com/watch?v=9PYpUCo8TKQ) - Replaces rain sound effects,
-- [TinyDaggsy](https://pastebin.com/raw/1F1w69V3) - Changes llama decoration, furnaces, shulker boxes, signs, coral blocks, etc,
+- [TinyDaggsy](https://pastebin.com/raw/CrTZCDCc) - Changes llama decoration, furnaces, shulker boxes, signs, coral blocks, etc,
 - [EpicCOAwesomeKid](https://www.curseforge.com/minecraft/texture-packs/corrected-mob-heads) - Moves heads to camera for better view,
 - [funkiestcord67](https://www.curseforge.com/minecraft/texture-packs/repaired-enchanting) - Adds further romanic for level 6 - 100,
 - [ダイヤ二ゲロウ](https://www.curseforge.com/minecraft/texture-packs/half-width-space-restoration) - Restores half-width spaces for japanese,
@@ -87,7 +87,8 @@
 - [DeadbushCarrot](https://www.planetminecraft.com/texture-pack/fixed-diamond-armor) - Fixes the diamond chestplate model,
 - [cornbread_alphanumeric](https://www.curseforge.com/minecraft/texture-packs/cornbreads-music-fixer) - Fixes soundtrack so that they play properly in actual order,
 - [Haikis](https://www.curseforge.com/minecraft/texture-packs/low-on-fire) - Lowers fire animation whilst in first person,
-- [blank3times](https://www.planetminecraft.com/texture-pack/consistent-bamboo-wood) - Makes bamboo wood consistent.
+- [blank3times](https://www.planetminecraft.com/texture-pack/consistent-bamboo-wood) - Makes bamboo wood consistent,
+- [ic22487](https://www.planetminecraft.com/texture-pack/better-hanging-signs) - Makes the hanging signs look better.
 
 ## Resource Pack Credits (Programmer Art+)
 
