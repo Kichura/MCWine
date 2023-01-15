@@ -86,7 +86,8 @@
 - [carriecare](https://www.planetminecraft.com/texture-pack/adjusted-acacia) - Adjusts the acacia textures,
 - [DeadbushCarrot](https://www.planetminecraft.com/texture-pack/fixed-diamond-armor) - Fixes the diamond chestplate model,
 - [cornbread_alphanumeric](https://www.curseforge.com/minecraft/texture-packs/cornbreads-music-fixer) - Fixes soundtrack so that they play properly in actual order,
-- [Haikis](https://www.curseforge.com/minecraft/texture-packs/low-on-fire) - Lowers fire animation whilst in first person.
+- [Haikis](https://www.curseforge.com/minecraft/texture-packs/low-on-fire) - Lowers fire animation whilst in first person,
+- [blank3times](https://www.planetminecraft.com/texture-pack/consistent-bamboo-wood) - Makes bamboo wood consistent.
 
 ## Resource Pack Credits (Programmer Art+)
 
