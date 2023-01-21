@@ -88,7 +88,8 @@
 - [cornbread_alphanumeric](https://www.curseforge.com/minecraft/texture-packs/cornbreads-music-fixer) - Fixes soundtrack so that they play properly in actual order,
 - [Haikis](https://www.curseforge.com/minecraft/texture-packs/low-on-fire) - Lowers fire animation whilst in first person,
 - [blank3times](https://www.planetminecraft.com/texture-pack/consistent-bamboo-wood) - Makes bamboo wood consistent,
-- [ic22487](https://www.planetminecraft.com/texture-pack/better-hanging-signs) - Makes the hanging signs look better.
+- [ic22487](https://www.planetminecraft.com/texture-pack/better-hanging-signs) - Makes the hanging signs look better,
+- [jogurciQ](https://www.planetminecraft.com/texture-pack/jog-s-spawn-eggs) - Redesigns the spawn eggs.
 
 ## Resource Pack Credits (Programmer Art+)
 
