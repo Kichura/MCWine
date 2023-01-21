@@ -6,6 +6,7 @@
 - [Dynamic-Lights (Aka LambDynamicLights)](https://modrinth.com/mod/lambdynamiclights) - **LambdAurora**,
 - [Fabric-API](https://modrinth.com/mod/fabric-api) - **modruss50**, **sfPlayer1**,
 - [FastLoad](https://modrinth.com/mod/fastload) - **FluffyBumblebees**, **JoostMSoftware**, **AbdElAziz**,
+- [FastQuit](https://modrinth.com/mod/fastquit) - **KingContaria**,
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) - **malte0811**,
 - [Fix-Advancements (Aka Advancements Debug)](https://github.com/Technici4n/advancements-debug) - **thetechnici4n**,
 - [Fix-ChatPosition (Aka Chat Up!)](https://github.com/gnembon/chat-up) - **gnembon**,
