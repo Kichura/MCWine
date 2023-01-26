@@ -1,6 +1,6 @@
 {
   "alwaysHideReportButton": true,
-  "defaultSigningMode": "PROMPT",
+  "defaultSigningMode": "ON_DEMAND",
   "demandOnServer": false,
   "disableTelemetry": true,
   "enableMod": true,
