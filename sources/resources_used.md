@@ -83,7 +83,7 @@
 - [PixelPeter](https://www.planetminecraft.com/texture-pack/betterfroglights) - Enhances froglight block textures,
 - [DartCat25](https://www.planetminecraft.com/texture-pack/prettier-tint) - Improves tinting on leather armor and potion overlay,
 - [DevDyna](https://www.curseforge.com/minecraft/texture-packs/fixsculk) - Animates the sculk block,
-- [carriecare](https://pastebin.com/raw/2JVUKnqm) - Adjusts the acacia textures,
+- [carriecare](https://pastebin.com/raw/2JVUKnqm) - Adjusts the acacia textures and modernizes creeper + enderman,
 - [DeadbushCarrot](https://www.planetminecraft.com/texture-pack/fixed-diamond-armor) - Fixes the diamond chestplate model,
 - [cornbread_alphanumeric](https://www.curseforge.com/minecraft/texture-packs/cornbreads-music-fixer) - Fixes soundtrack so that they play properly in actual order,
 - [Haikis](https://www.curseforge.com/minecraft/texture-packs/low-on-fire) - Lowers fire animation whilst in first person,
