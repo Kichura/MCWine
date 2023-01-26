@@ -6,7 +6,7 @@
   "enableMod": true,
   "hideInsecureMessageIndicators": true,
   "hideModifiedMessageIndicators": true,
-  "hideSigningRequestMessage": false,
+  "hideSigningRequestMessage": true,
   "hideSystemMessageIndicators": true,
   "hideWarningToast": true,
   "removeTelemetryButton": true,
