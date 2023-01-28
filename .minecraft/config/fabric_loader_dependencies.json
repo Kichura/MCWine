@@ -11,7 +11,8 @@
          "mcwine": "latest"
       },
       "+suggests": {
-         "lazydfu": ">=0.1.3"
+         "lazydfu": ">=0.1.3",
+         "nochatreports": "*"
       },
       "+conflicts": {
          "optifabric": "*",
