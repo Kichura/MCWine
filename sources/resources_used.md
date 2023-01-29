@@ -51,7 +51,7 @@
 - [NeraW](https://www.planetminecraft.com/texture-pack/consistent-mossy-blocks-java) - Makes mossy-related blocks consistent,
 - [natzival](https://www.planetminecraft.com/texture-pack/progressive-anchors) - Makes top area of respawn anchor look nicer,
 - [Chubins -VE](https://www.planetminecraft.com/texture-pack/crimson-nylium-top-fix-4831213) - Makes crimson nylium not peek out netherrack from top,
-- [Reijvi](https://www.planetminecraft.com/texture-pack/creeper-reimaged) - Completely redos the creeper texture + painting,
+- [Reijvi](https://www.planetminecraft.com/texture-pack/creeper-reimaged) - Completely redos the creeper painting,
 - [androidbuster-VE](https://www.planetminecraft.com/texture-pack/better-netherite-leggings) - Gives the netherite leggings item a new look,
 - [Cubeoidal](https://pastebin.com/raw/Y1Mm3ieY) - Rotates moss blocks randomly, Randomize colored spore blossoms and enhance sculk-related materials,
 - [BigDiegoMC](https://www.planetminecraft.com/texture-pack/better-fast-leaves) – Improves the leaves for fast graphics,
