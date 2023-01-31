@@ -41,6 +41,6 @@
 
 [Krusic's ZGC tuning blog](https://krusic22.com/2020/03/25/higher-performance-crafting-using-jdk11-and-zgc),
 
-[FroggeMC's ZGC repository](https://github.com/FroggeMC/MC-Java-Flags/tree/zgc),
+[FroggeMC's ZGC repository](https://github.com/cyberpwnn/MC-Java-Flags/blob/5795d0f6fb6486848157e543c0c5db0a595e0328/README.md),
 
-[FroggeMC's ShenandoahGC repository](https://github.com/FroggeMC/MC-Java-Flags/tree/shenandoah).
+[FroggeMC's ShenandoahGC repository](https://github.com/cyberpwnn/MC-Java-Flags/blob/5795d0f6fb6486848157e543c0c5db0a595e0328/README.md).
