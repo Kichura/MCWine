@@ -75,6 +75,7 @@ piston-animation-patch: true
 reduce-blockstorage-memory: false
 resource-pack-1_17-prompt: §9This server requires the resource pack to be enabled in order to display other contents properly.
 serverside-blockconnections: true
+armor-toggle-fix: true
 team-colour-fix: true
 truncate-1_14-books: true
 use-1_15-instant-respawn: false
