@@ -15,8 +15,7 @@
     "chunk_builder_threads": 1,
     "use_block_face_culling": true,
     "use_entity_culling": true,
-    "use_fog_occlusion": true,
-    "use_particle_culling": true
+    "use_fog_occlusion": true
   },
   "quality": {
     "enable_vignette": false,
