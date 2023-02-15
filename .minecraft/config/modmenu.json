@@ -1,0 +1,19 @@
+{
+  "compact_list": true,
+  "count_children": false,
+  "count_hidden_mods": false,
+  "count_libraries": false,
+  "easter_eggs": false,
+  "hidden_mods": [],
+  "hide_badges": true,
+  "hide_config_buttons": false,
+  "hide_mod_credits": false,
+  "hide_mod_license": false,
+  "hide_mod_links": false,
+  "mod_count_location": "none",
+  "modify_game_menu": true,
+  "modify_title_screen": true,
+  "mods_button_style": "icon",
+  "show_libraries": false,
+  "sorting": "ascending"
+}
