@@ -6,7 +6,7 @@
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "net.fabricmc:sponge-mixin:0.11.4+mixin.0.8.5",
+            "name": "net.fabricmc:sponge-mixin:0.12.1+mixin.0.8.5",
             "url": "https://maven.fabricmc.net/"
         },
         {
@@ -44,7 +44,7 @@
     ],
     "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
     "name": "Fabric Loader",
-    "releaseTime": "2023-02-04T13:56:00+00:00",
+    "releaseTime": "2023-02-16T15:35:00+00:00",
     "requires": [
         {
             "uid": "net.fabricmc.intermediary"
