@@ -22,6 +22,10 @@
   "sleepDelay": 10,
   "tickCulling": true,
   "tickCullingWhitelist": [
+    "create:carriage_contraption",
+    "create:contraption",
+    "create:gantry_contraption",
+    "create:stationary_contraption",
     "minecraft:boat",
     "minecraft:firework_rocket"
   ],
