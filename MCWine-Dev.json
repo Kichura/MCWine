@@ -1,8 +1,8 @@
 {
   "id": "MCWine-Dev",
   "inheritsFrom": "1.19.3",
-  "releaseTime": "2023-02-16",
-  "time": "2023-02-16",
+  "releaseTime": "2023-02-18",
+  "time": "2023-02-18",
   "type": "release",
   "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
   "arguments": {
@@ -14,7 +14,7 @@
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "net.fabricmc:sponge-mixin:0.12.1+mixin.0.8.5",
+      "name": "net.fabricmc:sponge-mixin:0.12.3+mixin.0.8.5",
       "url": "https://maven.fabricmc.net/"
     },
     {
