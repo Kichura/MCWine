@@ -1,4 +1,5 @@
 .minecraft/config/ViaFabric/viafabric.yml
+.minecraft/config/customlan.json
 .minecraft/config/iris.properties
 .minecraft/config/lambdynlights.toml
 .minecraft/config/midnightcontrols.json
