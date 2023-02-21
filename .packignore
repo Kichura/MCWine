@@ -1,7 +1,9 @@
 .minecraft/config/ViaFabric/viafabric.yml
 .minecraft/config/iris.properties
 .minecraft/config/lambdynlights.toml
+.minecraft/config/midnightcontrols.json
 .minecraft/config/sodium-options.json
+.minecraft/config/tweakeroo.json
 .minecraft/coremods
 .minecraft/options.txt
 .minecraft/realms_persistence.json
