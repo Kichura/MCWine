@@ -91,7 +91,8 @@
 - [jogurciQ](https://www.planetminecraft.com/texture-pack/jog-s-spawn-eggs) - Redesigns the spawn eggs,
 - [Sr_Paulo___](https://www.curseforge.com/minecraft/texture-packs/sr_paulo-better-spyglass) - Improves the spyglass,
 - [Eianex](https://www.curseforge.com/minecraft/texture-packs/haybale-aesthetic) - Makes the hay bale look aesthetic,
-- [IcyCrystal](https://www.planetminecraft.com/texture-pack/cherry-upgrade) - Makes cherry wood look more aesthetic.
+- [IcyCrystal](https://www.planetminecraft.com/texture-pack/cherry-upgrade) - Makes cherry wood look more aesthetic,
+- [MiauMattiMC](https://www.planetminecraft.com/texture-pack/clean-smithing-templates-je-texture-pack) - Corrects the smithing templates to actual ones.
 
 ## Resource Pack Credits (Programmer Art+)
 
