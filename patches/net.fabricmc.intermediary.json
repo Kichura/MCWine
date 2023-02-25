@@ -3,7 +3,7 @@
     "libraries": [
         {
             "name": "net.fabricmc:intermediary:1.19.3",
-            "url": "https://maven.fabricmc.net"
+            "url": "https://maven.fabricmc.net/"
         }
     ],
     "name": "Intermediary Mappings",
