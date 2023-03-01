@@ -13,7 +13,7 @@
   "controllerType": "STEAM_DECK",
   "controlsMode": "DEFAULT",
   "debug": false,
-  "doubleTapToSprint": false,
+  "doubleTapToSprint": true,
   "enableHints": false,
   "fastBlockPlacing": false,
   "flyDrifting": true,
