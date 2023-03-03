@@ -18,9 +18,7 @@
 
 3. For the Shenandoah Garbage Collector JVM script to work; Java 15 or newer is required instead, *(Doesn't support any JDK variants by Oracle)*
 
-4. The -Xms and -Xmx parts can be modified to your own personal likings in case the Java RAM is insufficient,
-
-5. The -XX:MaxPermSize part can be modified in case the default PermGen causes issues.
+4. The -Xms and -Xmx parts can be modified to your own personal likings in case the Java RAM is insufficient.
 
 
 ## Sources Used For The Scripts:
