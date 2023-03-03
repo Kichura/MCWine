@@ -32,7 +32,7 @@ It is recommended that you use [Java 19 (Lite JDK)](https://bell-sw.com/pages/do
 
 It is recommended that you use [one of these specific scripts](https://github.com/Kichura/MCWine/tree/MultiMC-Dev/sources/jvm_arguments.md) as your JVM arguments instead of the defaults.
 
-*(You can change the ```-Xmx2G``` including ```-Xms2G``` value from the pastebin in order to manage the game RAM on how much to use for Minecraft, But depends on your computer's hardware; Both of those are not needed in MultiMC however as it uses it's own configurators for that)*
+*(You can change the ```-Xmx3G``` including ```-Xms3G``` value from the list itself in order to manage the game RAM on how much to use for Minecraft, But depends on your computer's hardware; Both of those are not needed in MultiMC however as it uses it's own configurators for that)*
 
 ## Mods + Resource Pack Assets Used For This Pack
 
