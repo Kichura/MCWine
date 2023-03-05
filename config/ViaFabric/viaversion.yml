@@ -35,10 +35,10 @@ block-disconnect-msg: §cThis version cannot be used for this server as it is no
 reload-disconnect-msg: §6This server has been reloaded, Please connect back to the server again.
 suppress-conversion-warnings: true
 #
-# Watchdog-Related configuration goes here,
+# Packet limitation configuration goes here,
 #
-# Since this is known for being annoying with a burning passion, the delay is increased by a long-shot unless
-# the server is in a cold state then feel free to modify this yourself.
+# This manages the packet limitation system in order to kick people with go over the threshold,
+# However because this was later merged into Paper 1.17.1 and newer, this is considered pointless to have.
 #
 max-pps: -1
 max-pps-kick-msg: §cSomething went wrong with your connection!
@@ -47,7 +47,7 @@ tracking-max-kick-msg: §cSomething went wrong with your connection!
 tracking-period: -1
 tracking-warning-pps: 18000
 #
-# ViaFabric patches for 1.9.x go here,
+# ViaFabric patches for 1.9.x - 1.19.x go here,
 #
 # This contains a list of patches that are used to try and workaround problems that previous 1.9.x clients have been getting without them,
 # While this will not end up in a perfect shape, this will make an attempt on improving critical problems with specific clients.
@@ -83,8 +83,8 @@ vine-climb-fix: true
 #
 # ViaFabric patch (1.8+) configuration goes here,
 #
-# This is a similarity to the 1.9.x patches but related to just 1.8.x and prior instead,
-# But we will use these patches along in case anything else is missing.
+# This is a similarity to the 1.9.x - 1.19.x patches but related to just 1.8.x and prior instead,
+# But we will use these patches along in case anything else goes wrong.
 #
 auto-team: false
 bossbar-anti-flicker: false
