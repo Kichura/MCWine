@@ -46,7 +46,20 @@
             "cachedVersion": "0.14.17",
             "uid": "net.fabricmc.fabric-loader",
             "version": "0.14.17"
+        },
+        {
+            "cachedName": "Apache Log4j",
+            "cachedVersion": "2.20.0",
+            "cachedVolatile": true,
+            "uid": "org.apache.logging.log4j",
+            "version": "2.20.0"
+        },
+        {
+            "cachedName": "SLF4J",
+            "cachedVersion": "2.0.6",
+            "cachedVolatile": true,
+            "uid": "org.slf4j",
+            "version": "2.0.6"
         }
-    ],
-    "formatVersion": 1
+    ]
 }
