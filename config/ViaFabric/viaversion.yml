@@ -2,7 +2,7 @@
 # ViaVersion configuration goes here,
 #
 # This allows the entire compatibility system to be re-configured in most cases when
-# viaversion is involved in older servers and requires translations towards newer clients,
+# viaversion is involved in older servers and require translation towards newer clients,
 # but can also work out with certain older clients where other modes are absolutely necessary.
 #
 # References to every config detail can be discovered here:
