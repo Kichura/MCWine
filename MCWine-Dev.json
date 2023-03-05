@@ -1,13 +1,19 @@
 {
   "id": "MCWine-Dev",
   "inheritsFrom": "1.19.3",
-  "releaseTime": "2023-02-25",
-  "time": "2023-02-25",
+  "releaseTime": "2023-03-05",
+  "time": "2023-03-05",
   "type": "release",
   "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
   "arguments": {
     "game": []
   },
+  "javaVersion": {
+    "component": "java-runtime-gamma",
+    "majorVersion": 17
+  },
+  "complianceLevel": 1,
+  "minimiumLauncherVersion": 21,
   "libraries": [
     {
       "name": "net.fabricmc:tiny-mappings-parser:0.3.0+build.17",
@@ -52,6 +58,50 @@
     {
       "name": "net.fabricmc:fabric-loader:0.14.17",
       "url": "https://maven.fabricmc.net/"
+    },
+    {
+      "downloads": {
+        "artifact": {
+         "path": "org/slf4j/slf4j-api/2.0.6/slf4j-api-2.0.6.jar",
+         "sha1": "88c40d8b4f33326f19a7d3c0aaf2c7e8721d4953",
+         "size": 62531,
+         "url": "https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.6/slf4j-api-2.0.6.jar"
+        }
+      },
+      "name": "org.slf4j:slf4j-api:2.0.6"
+    },
+    {
+      "downloads": {
+        "artifact": {
+         "path": "org/apache/logging/log4j/log4j-api/2.20.0/log4j-api-2.20.0.jar",
+         "sha1": "1fe6082e660daf07c689a89c94dc0f49c26b44bb",
+         "size": 313296,
+         "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.20.0/log4j-api-2.20.0.jar"
+        }
+      },
+      "name": "org.apache.logging.log4j:log4j-api:2.20.0"
+    },
+    {
+      "downloads": {
+        "artifact": {
+         "path": "org/apache/logging/log4j/log4j-core/2.20.0/log4j-core-2.20.0.jar",
+         "sha1": "eb2a9a47b1396e00b5eee1264296729a70565cc0",
+         "size": 1847550,
+         "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.20.0/log4j-core-2.20.0.jar"
+        }
+      },
+      "name": "org.apache.logging.log4j:log4j-core:2.20.0"
+    },
+    {
+      "downloads": {
+        "artifact": {
+         "path": "org/apache/logging/log4j/log4j-slf4j-impl/2.20.0/log4j-slf4j-impl-2.20.0.jar",
+         "sha1": "155c8b9bbdac91d8461d9a403a646e6bd0d365d8",
+         "size": 26430,
+         "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-slf4j2-impl/2.20.0/log4j-slf4j2-impl-2.20.0.jar"
+        }
+      },
+      "name": "org.apache.logging.log4j:log4j-slf4j2-impl:2.20.0"
     }
   ]
 }
