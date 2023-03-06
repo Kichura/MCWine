@@ -11,7 +11,7 @@ MCWine is a fabric-based modpack designed to bring better performance, brand new
 4. Extract the MCWine-Dev folder from the ZIP-archive to .minecraft/versions folder, if asked - replace the files,
 5. Restart your minecraft launcher,
 6. Create a new installation instance by heading to "Installations" and choosing the **+** icon,
-7. Choose the version "MCWine-Dev" from versions list which should be on the top,
+7. Choose the version "release MCWine-Dev" from versions list which should be on the top,
 8. Change the game directory from default to .minecraft/versions/MCWine-Dev folder,
 9. Make sure the new instance has Java 17 or greater selected from the "more options" page,
 10. Save the instance and attempt to run the instance.
