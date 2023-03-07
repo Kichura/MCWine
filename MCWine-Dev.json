@@ -185,7 +185,7 @@
         {
           "action": "allow",
           "os": {
-            "name": "osx"
+            "name": "macos"
           }
         }
       ]
@@ -204,7 +204,7 @@
         {
           "action": "allow",
           "os": {
-            "name": "osx"
+            "name": "macos"
           }
         }
       ]
@@ -348,7 +348,7 @@
         {
           "action": "allow",
           "os": {
-            "name": "osx"
+            "name": "macos"
           }
         }
       ]
@@ -367,7 +367,7 @@
         {
           "action": "allow",
           "os": {
-            "name": "osx"
+            "name": "macos"
           }
         }
       ]
@@ -511,7 +511,7 @@
         {
           "action": "allow",
           "os": {
-            "name": "osx"
+            "name": "macos"
           }
         }
       ]
@@ -530,7 +530,7 @@
         {
           "action": "allow",
           "os": {
-            "name": "osx"
+            "name": "macos"
           }
         }
       ]
@@ -674,7 +674,7 @@
         {
           "action": "allow",
           "os": {
-            "name": "osx"
+            "name": "macos"
           }
         }
       ]
@@ -693,7 +693,7 @@
         {
           "action": "allow",
           "os": {
-            "name": "osx"
+            "name": "macos"
           }
         }
       ]
@@ -837,7 +837,7 @@
         {
           "action": "allow",
           "os": {
-            "name": "osx"
+            "name": "macos"
           }
         }
       ]
@@ -856,7 +856,7 @@
         {
           "action": "allow",
           "os": {
-            "name": "osx"
+            "name": "macos"
           }
         }
       ]
@@ -1000,7 +1000,7 @@
         {
           "action": "allow",
           "os": {
-            "name": "osx"
+            "name": "macos"
           }
         }
       ]
@@ -1019,7 +1019,7 @@
         {
           "action": "allow",
           "os": {
-            "name": "osx"
+            "name": "macos"
           }
         }
       ]
@@ -1163,7 +1163,7 @@
         {
           "action": "allow",
           "os": {
-            "name": "osx"
+            "name": "macos"
           }
         }
       ]
@@ -1182,7 +1182,7 @@
         {
           "action": "allow",
           "os": {
-            "name": "osx"
+            "name": "macos"
           }
         }
       ]
@@ -1269,7 +1269,7 @@
         {
           "action": "allow",
           "os": {
-            "name": "osx"
+            "name": "macos"
           }
         }
       ]
@@ -1288,7 +1288,7 @@
         {
           "action": "allow",
           "os": {
-            "name": "osx"
+            "name": "macos"
           }
         }
       ]
@@ -1375,7 +1375,7 @@
         {
           "action": "allow",
           "os": {
-            "name": "osx"
+            "name": "macos"
           }
         }
       ]
@@ -1394,7 +1394,7 @@
         {
           "action": "allow",
           "os": {
-            "name": "osx"
+            "name": "macos"
           }
         }
       ]
@@ -1538,7 +1538,7 @@
         {
           "action": "allow",
           "os": {
-            "name": "osx"
+            "name": "macos"
           }
         }
       ]
@@ -1557,7 +1557,7 @@
         {
           "action": "allow",
           "os": {
-            "name": "osx"
+            "name": "macos"
           }
         }
       ]
