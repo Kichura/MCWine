@@ -54,6 +54,8 @@ client-side-force-disable:
 - '*.potion.land'
 - potterworldmc.com
 - '*.potterworldmc.com'
+- pvplegacy.net
+- '*.pvplegacy.net'
 - pvp.land
 - '*.pvp.land'
 - wynncraft.com
