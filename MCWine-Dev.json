@@ -1,8 +1,8 @@
 {
   "id": "MCWine-Dev",
   "inheritsFrom": "1.19.3",
-  "releaseTime": "2023-03-07",
-  "time": "2023-03-07",
+  "releaseTime": "2023-03-17",
+  "time": "2023-03-17",
   "type": "release",
   "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
   "arguments": {
@@ -62,13 +62,13 @@
     {
       "downloads": {
         "artifact": {
-         "path": "org/slf4j/slf4j-api/2.0.6/slf4j-api-2.0.6.jar",
-         "sha1": "88c40d8b4f33326f19a7d3c0aaf2c7e8721d4953",
-         "size": 62531,
-         "url": "https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.6/slf4j-api-2.0.6.jar"
+         "path": "org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar",
+         "sha1": "41eb7184ea9d556f23e18b5cb99cad1f8581fc00",
+         "size": 63635,
+         "url": "https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar"
         }
       },
-      "name": "org.slf4j:slf4j-api:2.0.6"
+      "name": "org.slf4j:slf4j-api:2.0.7"
     },
     {
       "downloads": {
