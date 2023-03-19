@@ -23,7 +23,7 @@
 
 ## Sources Used For The Scripts:
 
-[Aikar's G1GC tuning blog](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft),
+[Paper's G1GC documentation](https://docs.papermc.io/paper/aikars-flags),
 
 [Krusic's ZGC tuning blog](https://krusic22.com/2020/03/25/higher-performance-crafting-using-jdk11-and-zgc),
 
