@@ -1,7 +1,7 @@
 ## Resource Pack Credits (Default+)
 
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) - Contains most of the tweaks,
-- [Kichura (That is me!)](https://github.com/Kichura) - Fixing third-party textures / pack scripts,
+- [Kichura (That is me!)](https://github.com/Kichura) - Fixes third-party textures / pack scripts,
 - [TheMobCave](https://www.youtube.com/watch?v=9PYpUCo8TKQ) - Replaces rain sound effects,
 - [TinyDaggsy](https://pastebin.com/raw/DVfVa2VM) - Changes llama decoration, furnaces, shulker boxes, signs, coral blocks, etc,
 - [EpicCOAwesomeKid](https://www.curseforge.com/minecraft/texture-packs/corrected-mob-heads) - Moves heads to camera for better view,
@@ -89,10 +89,10 @@
 - [blank3times](https://www.planetminecraft.com/texture-pack/consistent-bamboo-wood) - Makes bamboo wood consistent,
 - [ic22487](https://www.planetminecraft.com/texture-pack/better-hanging-signs) - Makes the hanging signs look better,
 - [jogurciQ](https://www.planetminecraft.com/texture-pack/jog-s-spawn-eggs) - Redesigns the spawn eggs,
-- [Sr_Paulo___](https://www.curseforge.com/minecraft/texture-packs/sr_paulo-better-spyglass) - Improves the spyglass,
+- [Sr_Paulo___](https://www.curseforge.com/min´ecraft/texture-packs/sr_paulo-better-spyglass) - Improves the spyglass,
 - [Eianex](https://www.curseforge.com/minecraft/texture-packs/haybale-aesthetic) - Makes the hay bale look aesthetic,
-- [IcyCrystal](https://www.planetminecraft.com/texture-pack/cherry-upgrade) - Makes cherry wood look more aesthetic,
-- [MiauMattiMC](https://www.planetminecraft.com/texture-pack/clean-smithing-templates-je-texture-pack) - Corrects the smithing templates to actual ones.
+- [MiauMattiMC](https://www.planetminecraft.com/texture-pack/clean-smithing-templates-je-texture-pack) - Corrects the smithing templates to actual ones,
+- [PixelBrush](https://www.planetminecraft.com/texture-pack/pixel-s-modified-cherry) - Modifies the cherry blocks to be realistic.
 
 ## Resource Pack Credits (Programmer Art+)
 
@@ -100,6 +100,14 @@
 - [thgabs](https://www.curseforge.com/minecraft/texture-packs/programmer-art-fix) - Fixes some of the missing assets,
 - [nappabutterfinger](https://www.planetminecraft.com/texture-pack/162old-food-textures-resource-pack) - Restores food items to their old variants,
 - [ic22487](https://www.planetminecraft.com/texture-pack/programmer-art-ultimate-1-17) - Make multiple 1.17/1.18 textures programmer art-like,
-- [DeadbushCarrot](https://www.planetminecraft.com/texture-pack/fixed-diamond-armor-programer-art) - Fixes the diamond chestplate model on programmer art.
+- [DeadbushCarrot](https://www.planetminecraft.com/texture-pack/fixed-diamond-armor-programer-art) - Fixes the diamond chestplate model on programmer art,
+- [blank3times](https://www.planetminecraft.com/texture-pack/cherry-blossom-programmer-art) - Implements cherry blocks to programmer art.
+
+## Resource Pack Credits (High Contrast+)
+
+- [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) - Changes the panorama to the end,
+- [Hobbit Falcon](https://www.planetminecraft.com/texture-pack/more-high-contrast-ui) - Modifies every other UI to be high contrasted,
+- [Lizter](https://www.curseforge.com/minecraft/texture-packs/higher-contrast) - Implements icon to pack,
+- [Kichura (That is me!)](https://github.com/Kichura) - Fixes third-party textures and polishing tiny details.
 
 *(This list is subject to change - If you do not want to use any of the two resource packs then you can disable them in the resource packs configuration page in-game)*

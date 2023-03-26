@@ -18,6 +18,7 @@ chatOpacity:1.0
 chatScale:1.0
 chatVisibility:0
 chatWidth:1.0
+damageTiltStrength:0.25
 darkMojangStudiosBackground:true
 darknessEffectScale:0.0
 directionalAudio:true
@@ -31,6 +32,8 @@ fovEffectScale:0.050
 fullscreen:false
 gamma:0.5
 glDebugVerbosity:0
+glintSpeed:0.5
+glintStrength:0.75
 graphicsMode:0
 guiScale:0
 heldItemTooltips:true
@@ -38,6 +41,7 @@ hideBundleTutorial:true
 hideLightningFlashes:true
 hideMatchedNames:true
 hideServerAddress:true
+highContrast:false
 incompatibleResourcePacks:[]
 invertYMouse:false
 joinedFirstServer:true
@@ -106,6 +110,8 @@ modelPart_right_sleeve:true
 mouseSensitivity:0.5
 mouseWheelSensitivity:1.0
 narrator:0
+notificationDisplayTime:0.5
+onboardAccessibility:false
 onlyShowSecureChat:false
 operatorItemsTab:true
 overrideHeight:0
@@ -117,7 +123,7 @@ prioritizeChunkUpdates:0
 rawMouseInput:false
 realmsNotifications:false
 reducedDebugInfo:false
-renderClouds:false
+renderClouds:"false"
 renderDistance:8
 resourcePacks:["Fabric Mods","vanilla","file/Default+.zip"]
 screenEffectScale:0.0
@@ -145,4 +151,4 @@ toggleSprint:false
 touchscreen:false
 tutorialStep:none
 useNativeTransport:true
-version:3120
+version:3337
