@@ -61,5 +61,6 @@
             "uid": "org.slf4j",
             "version": "2.0.7"
         }
-    ]
+    ],
+    "formatVersion": 1
 }
