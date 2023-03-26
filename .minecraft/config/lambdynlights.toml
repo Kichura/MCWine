@@ -8,34 +8,35 @@ mode = "fancy"
 #
 [light_sources]
 	#
+	# Prevents torches and other entities from lighting up when submerged into water sources.
+	#
+	water_sensitive_check = true
+	#
 	# Should block entities light up?
 	#
 	block_entities = false
 	#
-	# If enabled, Make creepers light up during igniting effect.
-	#
-	creeper = "off"
-	#
 	# Should entities light up?
 	#
 	entities = false
-        #
-        # If enabled, Allow dynamic lights to work whilst in first person,
-        # This may cause issues with shaders so best to keep that in mind.
-        #
-        self = true
+	#
+	# If enabled, Allow dynamic lights to work whilst in first person,
+	# This may cause issues with shaders so best to keep that in mind.
+	#
+	self = true
 	#
 	# If enabled, Make TNT light up during igniting effect.
 	#
 	tnt = "off"
 	#
-	# Prevents torches and other entities from lighting up when submerged into water sources.
+	# If enabled, Make creepers light up during igniting effect.
 	#
-	water_sensitive_check = true
-    #
-    # Light sources configuration goes here.
-    #
+	creeper = "off"
+	#
+	# Light sources configuration goes here.
+	#
 	[light_sources.settings]
+
 		[light_sources.settings.block_entities]
 			#
 			# What block entities to toggle in order to be used in dynamic lights,
@@ -59,6 +60,7 @@ mode = "fancy"
 				comparator = false
 				conduit = false
 				daylight_detector = false
+				decorated_pot = true
 				dispenser = false
 				dropper = false
 				enchanting_table = false
@@ -81,7 +83,9 @@ mode = "fancy"
 				skull = false
 				smoker = true
 				structure_block = false
+				suspicious_sand = true
 				trapped_chest = false
+
 		[light_sources.settings.entities]
 			#
 			# What entities to toggle in order to be used in dynamic lights,
@@ -98,6 +102,7 @@ mode = "fancy"
 				bat = false
 				bee = false
 				blaze = true
+				block_display = false
 				boat = false
 				camel = false
 				cat = false
@@ -143,8 +148,10 @@ mode = "fancy"
 				horse = false
 				husk = false
 				illusioner = false
+				interaction = false
 				iron_golem = false
 				item = false
+				item_display = false
 				item_frame = false
 				leash_knot = false
 				lightning_bolt = true
@@ -179,6 +186,7 @@ mode = "fancy"
 				skeleton_horse = false
 				slime = false
 				small_fireball = true
+				sniffer = false
 				snow_golem = false
 				snowball = false
 				spawner_minecart = false
@@ -188,6 +196,7 @@ mode = "fancy"
 				stray = true
 				strider = false
 				tadpole = false
+				text_display = true
 				tnt = false
 				tnt_minecart = false
 				trader_llama = false
@@ -209,6 +218,7 @@ mode = "fancy"
 				zombie_horse = false
 				zombie_villager = false
 				zombified_piglin = false
+
 			[light_sources.settings.entities.paradise_lost]
 				aerbunny = false
 				moa = false
