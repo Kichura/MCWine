@@ -60,7 +60,7 @@ mode = "fancy"
 				comparator = false
 				conduit = false
 				daylight_detector = false
-				decorated_pot = true
+				decorated_pot = false
 				dispenser = false
 				dropper = false
 				enchanting_table = false
@@ -83,7 +83,7 @@ mode = "fancy"
 				skull = false
 				smoker = true
 				structure_block = false
-				suspicious_sand = true
+				suspicious_sand = false
 				trapped_chest = false
 
 		[light_sources.settings.entities]
