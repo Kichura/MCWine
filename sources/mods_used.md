@@ -26,6 +26,8 @@
 - [No Chat Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) - **Aizistral-Studios**,
 - [NoFlashing-NightVision (Aka Night Vision flash be gone)](https://github.com/AshIndigo/NightVisionFlashBegone) - **AshIndigo**,
 - [NoMoreScore](https://github.com/Ecorous/NoMoreScore) - **Ecorous**,
+- [Old-Potions](https://modrinth.com/mod/oldpotions) - **Abbie**,
+- [Old-World-Menu](https://modrinth.com/mod/oldworldmenu) - **RaderRMT**,
 - [Scrollable-Tooltips (Aka Tooltip Scroll)](https://modrinth.com/mod/tooltip-scroll) - **Provismet**,
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric/tree/1.19.3/dev) - **CaffeineMC**,
 - [Starlight](https://github.com/Spottedleaf/Starlight) - **Spottedleaf**,
