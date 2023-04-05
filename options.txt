@@ -125,7 +125,7 @@ realmsNotifications:false
 reducedDebugInfo:false
 renderClouds:"false"
 renderDistance:8
-resourcePacks:["Fabric Mods","vanilla","file/Default+.zip"]
+resourcePacks:["fabric","vanilla","file/Default+.zip"]
 screenEffectScale:0.0
 showAutosaveIndicator:false
 showSubtitles:false
