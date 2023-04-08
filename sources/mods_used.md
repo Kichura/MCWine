@@ -31,7 +31,6 @@
 - [Scrollable-Tooltips (Aka Tooltip Scroll)](https://modrinth.com/mod/tooltip-scroll) - **Provismet**,
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric/tree/1.19.3/dev) - **CaffeineMC**,
 - [Starlight](https://github.com/Spottedleaf/Starlight) - **Spottedleaf**,
-- [Thorium](https://github.com/PotassiumMC/thorium) - **PotassiumMC**,
 - [Tweakeroo](https://github.com/maruohon/tweakeroo) - **masady**,
 - [ViaBackwards](https://github.com/ViaVersion/ViaBackwards) - **ViaVersion**,
 - [ViaFabric](https://github.com/ViaVersion/ViaFabric) - **ViaVersion**,
