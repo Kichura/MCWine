@@ -30,23 +30,23 @@ It is recommended that you use [Java 20 (Lite JDK)](https://bell-sw.com/pages/do
 
 ## JVM Arguments (Optional)
 
-It is recommended that you use [one of these specific scripts](https://github.com/Kichura/MCWine/tree/MultiMC-Dev/sources/jvm_arguments.md) as your JVM arguments instead of the defaults.
+It is recommended that you use [one of these specific scripts](https://github.com/Kichura/MCWine/tree/Dev/sources/jvm_arguments.md) as your JVM arguments instead of the defaults.
 
 *(You can change the ```-Xmx3G``` including ```-Xms3G``` value from the list itself in order to manage the game RAM on how much to use for Minecraft, But depends on your computer's hardware; Both of those are not needed in MultiMC however as it uses it's own configurators for that)*
 
 ## Mods + Resource Pack Assets Used For This Pack
 
-Please [check this page](https://github.com/Kichura/MCWine/tree/MultiMC-Dev/sources/mods_used.md) for a whole list of mods that have been used for this modpack,
+Please [check this page](https://github.com/Kichura/MCWine/tree/Dev/sources/mods_used.md) for a whole list of mods that have been used for this modpack,
 
-For the resource pack list, It can be found [in this page](https://github.com/Kichura/MCWine/tree/MultiMC-Dev/sources/resources_used.md) instead.
+For the resource pack list, It can be found [in this page](https://github.com/Kichura/MCWine/tree/Dev/sources/resources_used.md) instead.
 
 ## Special Thanks To
 
 - [FlashyReese](https://github.com/FlashyReese) for helping me create this entire readme document,
 - [MrMangoHands](https://github.com/mrmangohands) for helping out with sharing the [lithium configuration codes](https://github.com/CaffeineMC/lithium-fabric/blob/1.19.x/dev/lithium-mixin-config.md),
 - [Julienraptor01](https://github.com/Julienraptor01) for suggesting a mod replacement that improves ToolTips-Scroller mod,
-- [robotkoer](https://modrinth.com/modpack/fabulously-optimized), [The ViaVersion Team](https://github.com/ViaVersion/ViaVersion), [The ProtocolSupport Team](https://github.com/ProtocolSupport/ProtocolSupport) & [The WineHQ Team](https://www.winehq.org) for inspiring me to create this modpack from the ground-up,
-- [The modpack testers](https://pastebin.com/raw/40yr5bWG) who helped making the modpack better as much as possible.
+- [The ViaVersion Team](https://github.com/ViaVersion/ViaVersion), [The ProtocolSupport Team](https://github.com/ProtocolSupport/ProtocolSupport) & [The WineHQ Team](https://www.winehq.org) for inspiring me to create this modpack from the ground-up,
+- [The modpack testers](https://pastebin.com/raw/RUpTKxRL) who helped making the modpack better as much as possible.
 
 ## Disclaimers
 
@@ -62,4 +62,4 @@ This modpack is available on modrinth as a lightweight version, but will not shi
 
 ## License
 
-MCWine is licensed under MIT, a free and open-source license. For more information, please see the [license file.](https://github.com/Kichura/MCWine/blob/MultiMC-Dev/LICENSE)
+MCWine is licensed under MIT, a free and open-source license. For more information, please see the [license file.](https://github.com/Kichura/MCWine/blob/Dev/LICENSE)
