@@ -54,7 +54,8 @@ For the resource pack list, It can be found [in this page](https://github.com/Ki
 2. Due to technical limitations with the "enforce-secure-profile" feature from 1.19.1+ servers at this time; This will cause ViaFabric to malfunction with those servers,
 3. I do not take any responsibility for any issues caused by this pack - Any action you do is completely on your own,
 4. This modpack does not ship with mod menu as most configurations for each mod have been pre-baked. but you can install it regardless,
-5. Some mods will possibly contain bugs that can break this client - If you are sensitive to these issues; You can disable the specific mods to play without them.
+5. Some mods will possibly contain bugs that can break this client - If you are sensitive to these issues; You can disable the specific mods to play without them,
+6. This modpack requires the use of OpenGL 3.3 or higher but if you wish to try and unlock this on your Older GPU, [Learn more here](https://gist.github.com/Kichura/9fa44010d8ed9e5733d258292e327001).
 
 ## Modrinth Version
 
