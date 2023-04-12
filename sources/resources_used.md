@@ -10,7 +10,6 @@
 - [flatjim_](https://www.curseforge.com/minecraft/texture-packs/gui-retextures) - Overhauls the HUD,
 - [ianruja](https://www.curseforge.com/minecraft/texture-packs/accurate-totem-of-undying) - Changes totem's arms to wings,
 - [dbrighthd](https://www.curseforge.com/minecraft/texture-packs/sea-grass-fix) - Patches sea tall-grass to not peek out of water,
-- [RuMakslSa](https://www.curseforge.com/minecraft/texture-packs/improved-vines) - Patches vines from looking ugly,
 - [Lad_Flaver](https://www.curseforge.com/minecraft/texture-packs/rail-fix) - Patches rails to not be stretched anymore,
 - [liahim85](https://www.curseforge.com/minecraft/texture-packs/authentic-shadows) - Makes entity shadow accurate to MC's style,
 - [qkrehf2](https://www.curseforge.com/minecraft/texture-packs/bkt-better-korean-translation) - Makes korean betterly translated,
