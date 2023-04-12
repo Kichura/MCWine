@@ -99,7 +99,7 @@ lang:en_us
 lastServer:
 mainHand:"right"
 maxFps:120
-mipmapLevels:0
+mipmapLevels:2
 modelPart_cape:true
 modelPart_hat:true
 modelPart_jacket:true
