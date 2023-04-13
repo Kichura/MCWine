@@ -124,9 +124,13 @@ use-new-effect-indicator: true
 # This may conflict with other world names that use similar friendly names but usually shouldn't happen on purpose.
 #
 map-1_16-world-names:
+  abydos: sgjourney:abydos
+  abyss: aoa3:abyss
   atlantis: atlantis:atlantis
   aether: aether:aether
+  apalachia: divinerpg:apalachia
   apollo_moon: apollo:moon
+  arcana: divinerpg:arcana
   astra_earthorbit: ad_astra:earth_orbit
   astra_glacio: ad_astra:glacio
   astra_glacioorbit: ad_astra:glacio_orbit
@@ -139,44 +143,82 @@ map-1_16-world-names:
   astra_venus: ad_astra:venus
   astra_venusorbit: ad_astra:venusorbit
   backrooms: backrooms:level_0
+  barathos: aoa3:barathos
   beyond_mercury: beyond_earth:mercury
   beyond_moon: beyond_earth:moon
   blended_world: world_blender:world_blender
+  boil: jitl:boil
+  bowsers_kingdom: super_block_world:bowsers_kingdom
   bright_overworld: daylightdimension:daylight_dimension
   bsr: bsr:bsr
   bsr_orbit: bsr:overworld_orbit
   bumblezone: the_bumblezone:the_bumblezone
+  candyland: aoa3:candyland
   candy_world: betterswords:candy_dimension
   cave_world: mining_dims:caving_dim
   ceilands: ceilands:the_ceilands
+  celeve: aoa3:celeve
+  chulak: sgjourney:chulak
+  cloudia: jitl:cloudia
+  corba: jitl:corba
+  creeponia: aoa3:creeponia
+  crystevia: aoa3:crystevia
   crystal_world: palpexs_live:crystaldimsnion
+  damnation: liroth:damnation
   dark_caverns: dark_caverns:dark_caverns
   dark_dungeon: dimdoors:dungeon_pockets
   dark_nether: better_nether_update:darkdimension
   dark_ocean: agape:europa_ocean
+  deeplands: aoa3:deeplands
   deep_dark: paradisemod:deep_dark
+  depths: jitl:depths
+  devastated_plains: liroth:devastated_plains
+  dustopia: aoa3:dustopia
   earth_orbit: beyond_earth:earth_orbit
+  eden: divinerpg:eden
   eggcellent: the_eggcellent_mod:eggcellent_dimension
   ele_land: eleworld:eleland
   elysium: paradisemod:elysium
   emprus: the_emprus_max:emprus
   end: minecraft:the_end
+  euca: jitl:euca
   europa: agape:europa_surface
+  everbright: blue_skies:everbright
+  everdawn: blue_skies:everdawn
+  exotel: better_minecraft:exotel
+  fishing_dimension: lobby:fishing_dimension
   flying_death: palpexs_live:flyingdeath
   forgotten_forest: forgotten_forest:forgotten_forest
   fraiya: lint:fraiya
+  frozen: jitl:frozen
   galactic_moon: galacticraft:moon
+  gaming_dimension: lobby:gaming_dimension
   ganymede: agape:ganymede
   glacio: beyond_earth:glacio
   glacio_orbit: beyond_earth:glacio_orbit
   glar_lands: glarlands:glarlands
+  greckon: aoa3:greckon
+  haven: aoa3:haven
   heaven: heaven:heaven
+  heaven_2: heaven:sky
   herobrines_home: utopiacraft:herobrine_dimension
   hunting_world: mining_dims:hunting_dim
+  iceika: divinerpg:iceika
   io: agape:io
+  iromine: aoa3:iromine
+  isle_of_dregs: jerrysmod:isle_of_dregs
+  jalsphire_plains: liroth:jalsphire_plains
+  jantiros_escape: liroth:jantiros_escape_dimension
   lane: revsdimensionmod:lane_dimension
+  lantea: sgjourney:lantea
+  lborean: aoa3:lborean
+  lelyetia: aoa3:lelyetia
   limbo: dimdoors:limbo
+  liroth: liroth:liroth_dimension
+  lobby_dimension: lobby:lobby_dimension
+  lost_city: lostcities:lostcity
   lost_paradise: paradise_lost:paradise_lost
+  lunalus: aoa3:lunalus
   magnificent_lands: realmofmagnis:magnificent_lands
   mars: beyond_earth:mars
   mars_orbit: beyond_earth:mars_orbit
@@ -188,6 +230,8 @@ map-1_16-world-names:
   mercury: agape:mercury
   mercury_orbit: beyond_earth:mercury_orbit
   midnight: forgotten_forest:midnight
+  mining_dimension: mining_dimension:mining
+  mining_dimension_2: lobby:mining_dimension
   mining_end: mining_dimention:endminingdimension
   mining_horizon: minershorizon:miners_horizon
   mining_nether_world: mining_dims:nethering_dim
@@ -195,31 +239,42 @@ map-1_16-world-names:
   molsh: mushroommill:molsh
   moon: agape:moon_surface
   moon_orbit: beyond_earth:moon_orbit
+  mortum: divinerpg:mortum
+  mushroom_kingdom: super_block_world:mushroom_kingdom
   mushy: mushroommill:mushy
   mutt: mushroommill:mutt
+  mysterium: aoa3:mysterium
   mystic: oretacular:mystic_dimension
   nectere: hotm:nectere
   nether: minecraft:the_nether
   niccdsf: aywen_binggings_:niccdsf
+  nowhere: aoa3:nowhere
   orbit: agape:overworld_orbit
   ore_land: eleworld:oreland
+  origin: dimensional_expansion:origin
   overgrown: overgrowncities:overgrowth
   overworld: minecraft:overworld
   overworld_core: paradisemod:overworld_core
   paridise_islands: moron_mobs:paridise_islands
   popcorn_world: betterswords:popcorn_dimension
   purple_land: purple_land:purple_dimension
+  precasia: aoa3:precasia
   prehistoric: eymbra:prehistoric
   radioactive: lukerosmod:radioactive_dimension
   red_planet: agape:red_planet
+  runandor: aoa3:runandor
   scale_vacuum: scalevacuum:scale_vacuum
+  sculk_depths: sculk_depths:sculk_depthsdim
+  shyrelands: aoa3:shyrelands
   simple_void: simplevoidworld:simplevoidworld
   sky_lands: revsdimensionmod:sky_lands_dimenson
   space: astromine:earth_space
   spiderian: oretactular:spiderian_dimension
   starship: agape:starship_1
   sweet_and_savory: betterswords:sweet_and_savory_dimension
+  terrania: jitl:terrania
   the_abyss: moron_mobs:abyss
+  the_dungeon: dimdungeons:dungeon_dimension
   the_forest: liminals:the_forest
   the_hallow: thehallow:spooky
   the_mines: liminals:the_mines
@@ -229,7 +284,12 @@ map-1_16-world-names:
   the_public_room: dimdoors:public_pockets
   titan: agape:titan
   tropics: tropicraft:tropics
+  twilight_forest: twilightforest:twilight_forest
   under_void: divine_faith:undervoid
   utopia: utopiacraft:utopiadimension
   venus: beyond_earth:venus
   venus_orbit: beyond_earth:venus_orbit
+  vethea: divinerpg:vethea
+  wildwood: divinerpg:wildwood
+  void_dimension: lobby:void_dimension
+  vox_ponds: aoa3:vox_ponds
