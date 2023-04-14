@@ -73,7 +73,6 @@
 - [ThePsychoEspeon](https://www.planetminecraft.com/texture-pack/fixed-spruce-trapdoor) - Fixes spruce trapdoors from looking weird,
 - [GalacticAnimations](https://www.planetminecraft.com/texture-pack/better-frog-eggs) - Makes frog eggs look better,
 - [valesde_valley](https://www.planetminecraft.com/texture-pack/tweaked-smithing-table) - Tweaks the smithing table to look more accurate,
-- [Firecrackled](https://www.youtube.com/firecrackled) - For giving me permission to use her server's season 1 world as the panorama,
 - [Amaro_Lunatico](https://www.planetminecraft.com/texture-pack/consistent-leads-texture-packs) - Makes leads look consistent,
 - [ImXR24](https://www.planetminecraft.com/texture-pack/xrs-retextured-mangrove-wood) - Makes mangrove look more pretty,
 - [AnnouncerF](https://www.planetminecraft.com/texture-pack/1-19-goat-horns-optifine-cit-resewn-required) - Gives specific textures for each goat horn,
@@ -91,7 +90,8 @@
 - [Sr_Paulo___](https://www.curseforge.com/min´ecraft/texture-packs/sr_paulo-better-spyglass) - Improves the spyglass,
 - [Eianex](https://www.curseforge.com/minecraft/texture-packs/haybale-aesthetic) - Makes the hay bale look aesthetic,
 - [MiauMattiMC](https://www.planetminecraft.com/texture-pack/clean-smithing-templates-je-texture-pack) - Corrects the smithing templates to actual ones,
-- [PixelBrush](https://www.planetminecraft.com/texture-pack/pixel-s-modified-cherry) - Modifies the cherry blocks to be realistic.
+- [PixelBrush](https://www.planetminecraft.com/texture-pack/pixel-s-modified-cherry) - Modifies the cherry blocks to be realistic,
+- [DareSea_](https://www.planetminecraft.com/project/alls-fae-cove) - Map used for panorama.
 
 ## Resource Pack Credits (Programmer Art+)
 
