@@ -44,9 +44,9 @@ For the resource pack list, It can be found [in this page](https://github.com/Ki
 
 - [FlashyReese](https://github.com/FlashyReese) for helping me create this entire readme document,
 - [MrMangoHands](https://github.com/mrmangohands) for helping out with sharing the [lithium configuration codes](https://github.com/CaffeineMC/lithium-fabric/blob/1.19.x/dev/lithium-mixin-config.md),
-- [Julienraptor01](https://github.com/Julienraptor01) for suggesting a mod replacement that improves ToolTips-Scroller mod,
+- [Julienraptor01](https://github.com/Julienraptor01) and [ImZxhir](https://github.com/Imzxhir) for suggesting mod replacements and other improvements,
 - [The ViaVersion Team](https://github.com/ViaVersion/ViaVersion), [The ProtocolSupport Team](https://github.com/ProtocolSupport/ProtocolSupport) & [The WineHQ Team](https://www.winehq.org) for inspiring me to create this modpack from the ground-up,
-- [The modpack testers](https://pastebin.com/raw/RUpTKxRL) who helped making the modpack better as much as possible.
+- [The modpack testers](https://pastebin.com/raw/QknQpyZ0) who helped making the modpack better as much as possible.
 
 ## Disclaimers
 
