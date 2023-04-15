@@ -2,6 +2,6 @@
   "addQueryData": false,
   "convertToGameMessage": true,
   "demandOnClient": false,
-  "demandOnClientMessage": "This server expected No Chat Reports mod to be installed but it does not appear that you have it.",
+  "demandOnClientMessage": "This server expected the No Chat Reports mod to be installed but it does not appear that you have it.",
   "enableDebugLog": false
 }
