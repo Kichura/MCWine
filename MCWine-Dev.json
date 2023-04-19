@@ -1,17 +1,20 @@
 {
   "id": "MCWine-Dev",
   "inheritsFrom": "1.19.4",
-  "releaseTime": "2023-04-01",
-  "time": "2023-04-01",
+  "releaseTime": "2023-04-19",
+  "time": "2023-04-19",
   "type": "release",
   "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
+  "logging": {},
   "arguments": {
-    "game": []
+    "game": [],
+    "jvm": []
   },
   "javaVersion": {
     "component": "java-runtime-gamma",
     "majorVersion": 17
   },
+  "assets": "3",
   "complianceLevel": 1,
   "minimiumLauncherVersion": 21,
   "libraries": [
