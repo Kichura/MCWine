@@ -80,6 +80,10 @@ key_key.midnightcontrols.look_up:key.keyboard.up
 key_key.midnightcontrols.ring:key.keyboard.unknown
 key_key.pickItem:key.mouse.middle
 key_key.playerlist:key.keyboard.tab
+key_key.raised.hud.down:key.keyboard.unknown
+key_key.raised.hud.up:key.keyboard.unknown
+key_key.raised.chat.down:key.keyboard.unknown
+key_key.raised.chat.up:key.keyboard.unknown
 key_key.right:key.keyboard.d
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.screenshot:key.keyboard.f12
