@@ -16,10 +16,10 @@ MCWine is a fabric-based modpack designed to bring better performance, brand new
 9. Make sure the new instance has Java 17 or greater selected from the "more options" page,
 10. Save the instance and attempt to run the instance.
 
-## Installing This Modpack (MultiMC Method)
+## Installing This Modpack (Prism Launcher Method)
 
-1. [**Click here to download the development version,**](https://github.com/Kichura/MCWine/archive/refs/heads/MultiMC-Dev.zip)
-2. Drag the ZIP-archive to MultiMC window; and hit OK in the window that pops up,
+1. [**Click here to download the development version,**](https://github.com/Kichura/MCWine/archive/refs/heads/PrismMC-Dev.zip)
+2. Drag the ZIP-archive to Prism Launcher window; and hit OK in the window that pops up,
 3. Double-click that version you just created to launch the modpack.
 
 ## Updating Java Version (Optional)
@@ -30,15 +30,15 @@ It is recommended that you use [Java 20 (Lite JDK)](https://bell-sw.com/pages/do
 
 ## JVM Arguments (Optional)
 
-It is recommended that you use [one of these specific scripts](https://github.com/Kichura/MCWine/tree/Dev/sources/jvm_arguments.md) as your JVM arguments instead of the defaults.
+It is recommended that you use [one of these specific scripts](https://github.com/Kichura/MCWine/tree/PrismMC-Dev/sources/jvm_arguments.md) as your JVM arguments instead of the defaults.
 
 *(You can change the ```-Xmx3G``` including ```-Xms3G``` value from the list itself in order to manage the game RAM on how much to use for Minecraft, But depends on your computer's hardware; Both of those are not needed in MultiMC however as it uses it's own configurators for that)*
 
 ## Mods + Resource Pack Assets Used For This Pack
 
-Please [check this page](https://github.com/Kichura/MCWine/tree/Dev/sources/mods_used.md) for a whole list of mods that have been used for this modpack,
+Please [check this page](https://github.com/Kichura/MCWine/tree/PrismMC-Dev/sources/mods_used.md) for a whole list of mods that have been used for this modpack,
 
-For the resource pack list, It can be found [in this page](https://github.com/Kichura/MCWine/tree/Dev/sources/resources_used.md) instead.
+For the resource pack list, It can be found [in this page](https://github.com/Kichura/MCWine/tree/PrismMC-Dev/sources/resources_used.md) instead.
 
 ## Special Thanks To
 
@@ -63,4 +63,4 @@ This modpack is available on modrinth as a lightweight version, but will not shi
 
 ## License
 
-MCWine is licensed under MIT, a free and open-source license. For more information, please see the [license file.](https://github.com/Kichura/MCWine/blob/Dev/LICENSE)
+MCWine is licensed under MIT, a free and open-source license. For more information, please see the [license file.](https://github.com/Kichura/MCWine/blob/PrismMC-Dev/LICENSE)

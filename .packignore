@@ -5,14 +5,12 @@
 .minecraft/config/midnightcontrols.json
 .minecraft/config/sodium-options.json
 .minecraft/config/tweakeroo.json
-.minecraft/coremods
 .minecraft/options.txt
 .minecraft/realms_persistence.json
 .minecraft/saves
 .minecraft/screenshots
 .minecraft/server-resource-packs
 .minecraft/shaderpacks
-.minecraft/texturepacks
 .minecraft/servers.dat
 .minecraft/servers.dat_old
 .minecraft/shaderpacks
