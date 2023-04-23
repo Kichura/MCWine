@@ -16,17 +16,17 @@ MCWine is a fabric-based modpack designed to bring better performance, brand new
 9. Make sure the new instance has Java 17 or greater selected from the "more options" page,
 10. Save the instance and attempt to run the instance.
 
-## Installing This Modpack (MultiMC Method)
+## Installing This Modpack (Prism Launcher Method)
 
-1. [**Click here to download the development version,**](https://github.com/Kichura/MCWine/archive/refs/heads/MultiMC-Dev.zip)
-2. Drag the ZIP-archive to MultiMC window; and hit OK in the window that pops up,
+1. [**Click here to download the development version,**](https://github.com/Kichura/MCWine/archive/refs/heads/PrismMC-Dev.zip)
+2. Drag the ZIP-archive to Prism Launcher window; and hit OK in the window that pops up,
 3. Double-click that version you just created to launch the modpack.
 
 ## Updating Java Version (Optional)
 
 It is recommended that you use [Java 20 (Lite JDK)](https://bell-sw.com/pages/downloads) to allow minecraft to make use of the latest java version.
 
-*Although now requires ```javacheck.jar``` to be deleted as reported in [MCL-18306](https://bugs.mojang.com/browse/MCL-18306). (But if you use MultiMC instead then skip the ```javacheck.jar``` removal requirement)*
+*Although now requires ```javacheck.jar``` to be deleted as reported in [MCL-18306](https://bugs.mojang.com/browse/MCL-18306). (But if you use PrismMC instead then skip the ```javacheck.jar``` removal requirement)*
 
 ## JVM Arguments (Optional)
 
