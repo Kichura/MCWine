@@ -91,7 +91,8 @@
 - [Eianex](https://www.curseforge.com/minecraft/texture-packs/haybale-aesthetic) - Makes the hay bale look aesthetic,
 - [MiauMattiMC](https://www.planetminecraft.com/texture-pack/clean-smithing-templates-je-texture-pack) - Corrects the smithing templates to actual ones,
 - [PixelBrush](https://www.planetminecraft.com/texture-pack/pixel-s-modified-cherry) - Modifies the cherry blocks to be realistic,
-- [DareSea_](https://www.planetminecraft.com/project/alls-fae-cove) - Map used for panorama.
+- [DareSea_](https://www.planetminecraft.com/project/alls-fae-cove) - Map used for panorama,
+- [robotkoer](https://modrinth.com/resourcepack/chat-reporting-helper) - Making the chat reporting system less complicated to read.
 
 ## Resource Pack Credits (Programmer Art+)
 
@@ -100,13 +101,15 @@
 - [nappabutterfinger](https://www.planetminecraft.com/texture-pack/162old-food-textures-resource-pack) - Restores food items to their old variants,
 - [ic22487](https://www.planetminecraft.com/texture-pack/programmer-art-ultimate-1-17) - Make multiple 1.17/1.18 textures programmer art-like,
 - [DeadbushCarrot](https://www.planetminecraft.com/texture-pack/fixed-diamond-armor-programer-art) - Fixes the diamond chestplate model on programmer art,
-- [blank3times](https://www.planetminecraft.com/texture-pack/cherry-blossom-programmer-art) - Implements cherry blocks to programmer art.
+- [blank3times](https://www.planetminecraft.com/texture-pack/cherry-blossom-programmer-art) - Implements cherry blocks to programmer art,
+- [robotkoer](https://modrinth.com/resourcepack/chat-reporting-helper) - Making the chat reporting system less complicated to read.
 
 ## Resource Pack Credits (High Contrast+)
 
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) - Changes the panorama to the end,
 - [Hobbit Falcon](https://www.planetminecraft.com/texture-pack/more-high-contrast-ui) - Modifies every other UI to be high contrasted,
 - [Lizter](https://www.curseforge.com/minecraft/texture-packs/higher-contrast) - Implements icon to pack,
-- [Kichura (That is me!)](https://github.com/Kichura) - Fixes third-party textures and polishing tiny details.
+- [Kichura (That is me!)](https://github.com/Kichura) - Fixes third-party textures and polishing tiny details,
+- [robotkoer](https://modrinth.com/resourcepack/chat-reporting-helper) - Making the chat reporting system less complicated to read.
 
 *(This list is subject to change - If you do not want to use any of the two resource packs then you can disable them in the resource packs configuration page in-game)*
