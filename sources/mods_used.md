@@ -7,6 +7,7 @@
 - [Dynamic Lights (Aka LambDynamicLights)](https://modrinth.com/mod/lambdynamiclights) - **LambdAurora**,
 - [EmuNO](https://modrinth.com/mod/emuno) - **ryanccn**,
 - [Fast Quit](https://modrinth.com/mod/fastquit) - **KingContaria**,
+- [FCLS (Aka kennytvs-epic-force-close-loading-screen-mod-for-fabric)](https://modrinth.com/mod/forcecloseworldloadingscreen) - **kennytv**,
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) - **malte0811**,
 - [Fix Advancements (Aka Advancements Debug)](https://github.com/Technici4n/advancements-debug) - **thetechnici4n**,
 - [Fix ChatPosition (Aka Chat Up!)](https://github.com/gnembon/chat-up) - **gnembon**,
