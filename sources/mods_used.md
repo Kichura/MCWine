@@ -6,7 +6,6 @@
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) - **juliand665**,
 - [Dynamic Lights (Aka LambDynamicLights)](https://modrinth.com/mod/lambdynamiclights) - **LambdAurora**,
 - [EmuNO](https://modrinth.com/mod/emuno) - **ryanccn**,
-- [Fast Load](https://modrinth.com/mod/fastload) - **AbdElAziz**, **kennytv**, **JoostMSoftware**, **StockiesLad**, **VidTu**,
 - [Fast Quit](https://modrinth.com/mod/fastquit) - **KingContaria**,
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) - **malte0811**,
 - [Fix Advancements (Aka Advancements Debug)](https://github.com/Technici4n/advancements-debug) - **thetechnici4n**,
