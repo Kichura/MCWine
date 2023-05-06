@@ -11,7 +11,7 @@
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) - **malte0811**,
 - [Fix ChatPosition (Aka Chat Up!)](https://github.com/gnembon/chat-up) - **gnembon**,
 - [Fix Chunk Lags (Aka ForgetMeChunk)](https://modrinth.com/mod/forgetmechunk) - **BreadLoaf**,
-- [Fix Item Models (Aka Item Model Fix)](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - **Pepper_Bell**,
+- [Fix Item Models (Aka Item Model Fix)](https://www.modrinth.com/minecraft/mod/item-model-fix) - **Pepper_Bell**,
 - [Fix Sky Colors (Aka Clear Skies)](https://github.com/grondag/clear-skies) - **grondag**,
 - [Fix Sounds (Aka Volume Fix)](https://modrinth.com/mod/volume-fix) - **Roundaround**,
 - [Fix Titles (Aka Title Fixer)](https://modrinth.com/mod/title-fixer) - **thegameratort**,
