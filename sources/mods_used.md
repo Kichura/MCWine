@@ -22,7 +22,7 @@
 - [Krypton](https://modrinth.com/mod/krypton) - **astei**,
 - [LAN Configurator (Aka Custom LAN)](https://modrinth.com/mod/custom-lan) - **DimiDimit**,
 - [LazyLang (Aka Language Reload)](https://modrinth.com/mod/language-reload) - **Jerozgen**,
-- [Lithium](https://github.com/CaffeineMC/lithium-fabric/tree/1.19.x/dev) - **2No2Name**, **JellySquid**,
+- [Lithium](https://github.com/CaffeineMC/lithium-fabric/tree/develop) - **2No2Name**, **JellySquid**,
 - [Midnight Controls](https://modrinth.com/mod/midnightcontrols) - **Motschen**, **LambdAurora**,
 - [No Chat Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) - **Aizistral**,
 - [No Flashing Night Vision (Aka Night Vision flash be gone)](https://github.com/AshIndigo/NightVisionFlashBegone) - **AshIndigo**,
