@@ -3,6 +3,7 @@
 - [Alternate Entity Culling (Aka EntityCulling Fabric/Forge)](https://modrinth.com/mod/entityculling) - **tr9zw**,
 - [Ctrl Q](https://modrinth.com/mod/ctrl-q) - **Mrredstone5230**,
 - [Dark Graph](https://modrinth.com/mod/dark-graph) - **EcoBuilder13**,
+- [DCWA (Aka Disable Custom Worlds Advice)](https://modrinth.com/mod/dcwa) - **rdvdev2**,
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) - **juliand665**,
 - [Dynamic Lights (Aka LambDynamicLights)](https://modrinth.com/mod/lambdynamiclights) - **LambdAurora**,
 - [EmuNO](https://modrinth.com/mod/emuno) - **ryanccn**,
