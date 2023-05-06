@@ -1,21 +1,62 @@
 {
   "version": 1,
   "overrides": {
-    "viafabric": {
+    "fabricloader": {
       "+depends": {
-         "fabric-api": ">=0.80.0+1.19.4",
-         "viabackwards": ">=4.6.1",
-         "viaversion": ">=4.6.2"
-      },
-      "+recommends": {
-         "mcwine": "latest"
+        "fabricloader": ">=0.14.19",
+        "fabric-api": ">=0.80.0+1.19.4",
+        "fabric-language-kotlin": ">=1.9.4+kotlin.1.8.21"
       },
       "+suggests": {
-         "nochatreports": "*"
+        "cloth-config": ">=10.0.96"
+      }
+    },
+    "fastquit": {
+      "-recommends": {
+        "modmenu": "IGNORED"
+      }
+    },
+    "itemmodelfix": {
+      "-recommends": {
+        "modmenu": "IGNORED"
+      }
+    },
+    "lambdynlights": {
+      "-recommends": {
+        "modmenu": "IGNORED"
+      }
+    },
+    "languagereload": {
+      "-suggests": {
+        "modmenu": "IGNORED"
+      }
+    },
+    "midnightcontrols": {
+      "-recommends": {
+        "modmenu": "IGNORED"
+      }
+    },
+    "minecraft": {
+      "+depends": {
+        "java": ">=17"
+      },
+      "+recommends": {
+        "MCWine": "latest"
       },
       "+breaks": {
-         "optifabric": "*",
-         "optifine": "*"
+        "canvas": "*",
+        "optifabric": "*",
+        "optifine": "*"
+      }
+    },
+    "viafabric": {
+      "+depends": {
+        "viabackwards": ">=4.6.1",
+        "viaversion": ">=4.6.2"
+      },
+      "+suggests": {
+        "nochatreports": "*",
+        "viarewind": ">=2.0.3"
       }
     }
   }
