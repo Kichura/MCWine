@@ -60,6 +60,20 @@
             "cachedVolatile": true,
             "uid": "org.slf4j",
             "version": "2.0.7"
+        },
+        {
+            "cachedName": "Netty",
+            "cachedVersion": "4.1.92.Final",
+            "cachedVolatile": true,
+            "uid": "io.netty",
+            "version": "4.1.92.Final"
+        },
+        {
+            "cachedName": "Oshi",
+            "cachedVersion": "6.4.2",
+            "cachedVolatile": true,
+            "uid": "com.github.oshi",
+            "version": "6.4.2"
         }
     ],
     "formatVersion": 1
