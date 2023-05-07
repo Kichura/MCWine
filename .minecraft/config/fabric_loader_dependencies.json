@@ -57,6 +57,10 @@
       "+suggests": {
         "nochatreports": "*",
         "viarewind": ">=2.0.3"
+      },
+      "+breaks": {
+        "essential-container": "*",
+        "essential-loader": "*"
       }
     }
   }
