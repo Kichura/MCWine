@@ -92,7 +92,8 @@
 - [MiauMattiMC](https://www.planetminecraft.com/texture-pack/clean-smithing-templates-je-texture-pack) - Corrects the smithing templates to actual ones,
 - [PixelBrush](https://www.planetminecraft.com/texture-pack/pixel-s-modified-cherry) - Modifies the cherry blocks to be realistic,
 - [DareSea_](https://www.planetminecraft.com/project/alls-fae-cove) - Map used for panorama,
-- [robotkoer](https://modrinth.com/resourcepack/chat-reporting-helper) - Makes the chat reporting system less complicated to read.
+- [robotkoer](https://modrinth.com/resourcepack/chat-reporting-helper) - Makes the chat reporting system less complicated to read,
+- [Cleora](https://pastebin.com/raw/A6QGinfJ) - Modernizes all default skins.
 
 ## Resource Pack Credits (Programmer Art+)
 
@@ -110,6 +111,7 @@
 - [Hobbit Falcon](https://www.planetminecraft.com/texture-pack/more-high-contrast-ui) - Modifies every other UI to be high contrasted,
 - [Lizter](https://www.curseforge.com/minecraft/texture-packs/higher-contrast) - Implements icon to pack,
 - [Kichura (That is me!)](https://github.com/Kichura) - Fixes third-party textures and polishing tiny details,
-- [robotkoer](https://modrinth.com/resourcepack/chat-reporting-helper) - Makes the chat reporting system less complicated to read.
+- [robotkoer](https://modrinth.com/resourcepack/chat-reporting-helper) - Makes the chat reporting system less complicated to read,
+- [Cleora](https://pastebin.com/raw/A6QGinfJ) - Modernizes all default skins.
 
 *(This list is subject to change - If you do not want to use any of the two resource packs then you can disable them in the resource packs configuration page in-game)*
