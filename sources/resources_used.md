@@ -97,13 +97,14 @@
 
 ## Resource Pack Credits (Programmer Art+)
 
-- [SalC1](https://salc1.com) - Contains most of the tweaks,
+- [Crackers0106](https://www.planetminecraft.com/minecraft/texture-pack/programmer-art) - Base used for own Programmer Art+ variant,
+- [SalC1](https://salc1.com) - Changes sounds back to the old ones and includes other PA restorations,
 - [thgabs](https://www.curseforge.com/minecraft/texture-packs/programmer-art-fix) - Fixes some of the missing assets,
 - [nappabutterfinger](https://www.planetminecraft.com/texture-pack/162old-food-textures-resource-pack) - Restores food items to their old variants,
-- [ic22487](https://www.planetminecraft.com/texture-pack/programmer-art-ultimate-1-17) - Make multiple 1.17/1.18 textures programmer art-like,
 - [DeadbushCarrot](https://www.planetminecraft.com/texture-pack/fixed-diamond-armor-programer-art) - Fixes the diamond chestplate model on programmer art,
 - [blank3times](https://www.planetminecraft.com/texture-pack/cherry-blossom-programmer-art) - Implements cherry blocks to programmer art,
-- [robotkoer](https://modrinth.com/resourcepack/chat-reporting-helper) - Makes the chat reporting system less complicated to read.
+- [robotkoer](https://modrinth.com/resourcepack/chat-reporting-helper) - Makes the chat reporting system less complicated to read,
+- [glitchy256](https://www.curseforge.com/minecraft/texture-packs/classic-handhelds) - Restores the 1.8.x handhelds.
 
 ## Resource Pack Credits (High Contrast+)
 
