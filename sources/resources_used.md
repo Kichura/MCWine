@@ -93,7 +93,9 @@
 - [PixelBrush](https://www.planetminecraft.com/texture-pack/pixel-s-modified-cherry) - Modifies the cherry blocks to be realistic,
 - [DareSea_](https://www.planetminecraft.com/project/alls-fae-cove) - Map used for panorama,
 - [robotkoer](https://modrinth.com/resourcepack/chat-reporting-helper) - Makes the chat reporting system less complicated to read,
-- [Cleora](https://pastebin.com/raw/A6QGinfJ) - Modernizes all default skins.
+- [Cleora](https://pastebin.com/raw/A6QGinfJ) - Modernizes all default skins,
+- [MannyQUESO](https://www.planetminecraft.com/texture-pack/improved-daylight-sensor) - Improves the day & night sensors,
+- [Hippopotamoss](https://www.planetminecraft.com/texture-pack/coarse-dirt-hanging-roots) - Makes the hanging roots match the coarse dirt design.
 
 ## Resource Pack Credits (Programmer Art+)
 
