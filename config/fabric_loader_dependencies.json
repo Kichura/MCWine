@@ -44,7 +44,7 @@
         "MCWine": "latest"
       },
       "+breaks": {
-        "c2me": "*"
+        "c2me": "*",
         "canvas": "*",
         "optifabric": "*",
         "optifine": "*",
