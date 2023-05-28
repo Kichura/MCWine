@@ -44,9 +44,11 @@
         "MCWine": "latest"
       },
       "+breaks": {
+        "c2me": "*"
         "canvas": "*",
         "optifabric": "*",
-        "optifine": "*"
+        "optifine": "*",
+        "smoothboot": "*"
       }
     },
     "viafabric": {
