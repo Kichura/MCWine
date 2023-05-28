@@ -25,6 +25,7 @@
 - [LazyLang (Aka Language Reload)](https://modrinth.com/mod/language-reload) - **Jerozgen**,
 - [Lithium](https://github.com/CaffeineMC/lithium-fabric/tree/develop) - **2No2Name**, **JellySquid**,
 - [Midnight Controls](https://modrinth.com/mod/midnightcontrols) - **Motschen**, **LambdAurora**,
+- [ModernFix](https://modrinth.com/mod/modernfix) - **embeddedt**,
 - [No Chat Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) - **Aizistral**,
 - [No Flashing Night Vision (Aka Night Vision flash be gone)](https://github.com/AshIndigo/NightVisionFlashBegone) - **AshIndigo**,
 - [NoMoreScore](https://github.com/Ecorous/NoMoreScore) - **Ecorous**,
