@@ -20,7 +20,6 @@
 - [Horse Stats (Aka Horse Stats Vanilla)](https://modrinth.com/mod/horsestatsvanilla) - **d4rkm0nkey**,
 - [Improved Horse HUD (Aka Better Mount HUD)](https://modrinth.com/mod/better-mount-hud) - **Lortseam**,
 - [Iris](https://github.com/IrisShaders/Iris) - **coderbot**, **FoundationGames**, **IMS212**, **Justsnoopy30**,
-- [Krypton](https://modrinth.com/mod/krypton) - **astei**,
 - [LAN Configurator (Aka Custom LAN)](https://modrinth.com/mod/custom-lan) - **DimiDimit**,
 - [LazyLang (Aka Language Reload)](https://modrinth.com/mod/language-reload) - **Jerozgen**,
 - [Lithium](https://github.com/CaffeineMC/lithium-fabric/tree/develop) - **2No2Name**, **JellySquid**,
