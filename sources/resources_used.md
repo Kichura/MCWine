@@ -95,7 +95,8 @@
 - [robotkoer](https://modrinth.com/resourcepack/chat-reporting-helper) - Makes the chat reporting system less complicated to read,
 - [Cleora](https://pastebin.com/raw/A6QGinfJ) - Modernizes all default skins,
 - [MannyQUESO](https://www.planetminecraft.com/texture-pack/improved-daylight-sensor) - Improves the day & night sensors,
-- [Hippopotamoss](https://www.planetminecraft.com/texture-pack/coarse-dirt-hanging-roots) - Makes the hanging roots match the coarse dirt design.
+- [Hippopotamoss](https://www.planetminecraft.com/texture-pack/coarse-dirt-hanging-roots) - Makes the hanging roots match the coarse dirt design,
+- [CountXD](https://www.planetminecraft.com/texture-pack/glowing-armor-trims-5933760) - Makes the armor trims glow. (OF or EMF mod required)
 
 ## Resource Pack Credits (Programmer Art+)
 
