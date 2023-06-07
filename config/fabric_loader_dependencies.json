@@ -3,8 +3,8 @@
   "overrides": {
     "fabricloader": {
       "+depends": {
-        "fabricloader": ">=0.14.20",
-        "fabric-api": ">=0.81.1+1.19.4",
+        "fabricloader": ">=0.14.21",
+        "fabric-api": ">=0.83.0+1.19.4",
         "fabric-language-kotlin": ">=1.9.4+kotlin.1.8.21"
       },
       "+suggests": {
@@ -53,8 +53,8 @@
     },
     "viafabric": {
       "+depends": {
-        "viabackwards": ">=4.6.1",
-        "viaversion": ">=4.6.2"
+        "viabackwards": ">=4.7.0",
+        "viaversion": ">=4.7.0"
       },
       "+suggests": {
         "nochatreports": "*",
