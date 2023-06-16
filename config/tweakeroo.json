@@ -710,7 +710,7 @@
     "disableScoreboardRendering": {
       "enabled": true,
       "hotkey": {
-        "keys": "F3,X"
+        "keys": "F7"
       }
     },
     "disableShulkerBoxTooltip": {
@@ -878,7 +878,7 @@
       "keys": ""
     },
     "disableScoreboardRendering": {
-      "keys": "F4"
+      "keys": "F7"
     },
     "disableShulkerBoxTooltip": {
       "keys": ""
