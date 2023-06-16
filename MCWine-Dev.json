@@ -14,7 +14,7 @@
     "component": "java-runtime-gamma",
     "majorVersion": 17
   },
-  "assets": "3",
+  "assets": "5",
   "complianceLevel": 1,
   "minimiumLauncherVersion": 21,
   "libraries": [
