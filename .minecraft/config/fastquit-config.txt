@@ -8,3 +8,4 @@ backgroundPriority: 3
 renderSavingScreen: false
 showSavingTime: 0
 showToasts: false
+version: 2.2.0

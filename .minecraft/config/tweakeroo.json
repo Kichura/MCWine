@@ -14,6 +14,7 @@
     "chatBackgroundColor": "#80000000",
     "chatTimeFormat": "[HH:mm]",
     "clientPlacementRotation": false,
+    "customInventoryGuiScale": 4,
     "elytraCameraIndicator": "with_key",
     "entityTypeAttackRestrictionWarn": "message",
     "fastBlockPlacementCount": 2,
@@ -730,6 +731,12 @@
         "keys": ""
       }
     },
+    "disableSkyDarkness": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "disableSlimeBlockSlowdown": {
       "enabled": true,
       "hotkey": {
@@ -882,6 +889,9 @@
     "disableSignGui": {
       "keys": ""
     },
+    "disableSkyDarkness": {
+      "keys": ""
+    },
     "disableSlimeBlockSlowdown": {
       "keys": ""
     },
@@ -917,8 +927,8 @@
     "tweakChatPersistentText": true,
     "tweakChatTimestamp": false,
     "tweakCommandBlockExtraFields": true,
-    "tweakCreativeExtraItems": false,
     "tweakCustomFlyDeceleration": false,
+    "tweakCustomInventoryScreenScale": false,
     "tweakElytraCamera": false,
     "tweakEntityTypeAttackRestriction": false,
     "tweakEmptyShulkerBoxesStack": false,
@@ -1020,10 +1030,10 @@
     "tweakCommandBlockExtraFields": {
       "keys": ""
     },
-    "tweakCreativeExtraItems": {
+    "tweakCustomFlyDeceleration": {
       "keys": ""
     },
-    "tweakCustomFlyDeceleration": {
+    "tweakCustomInventoryScreenScale": {
       "keys": ""
     },
     "tweakElytraCamera": {

@@ -2,20 +2,20 @@
     "formatVersion": 1,
     "libraries": [
         {
-            "name": "net.fabricmc:intermediary:1.19.4",
-            "url": "https://maven.fabricmc.net/"
+            "name": "net.fabricmc:intermediary:1.20.1",
+            "url": "https://maven.fabricmc.net"
         }
     ],
     "name": "Intermediary Mappings",
-    "releaseTime": "2023-03-14",
+    "releaseTime": "2023-06-12",
     "requires": [
         {
-            "equals": "1.19.4",
+            "equals": "1.20.1",
             "uid": "net.minecraft"
         }
     ],
     "type": "release",
     "uid": "net.fabricmc.intermediary",
-    "version": "1.19.4",
+    "version": "1.20.1",
     "volatile": true
 }
