@@ -36,7 +36,6 @@ glintSpeed:0.5
 glintStrength:0.75
 graphicsMode:0
 guiScale:4
-heldItemTooltips:true
 hideBundleTutorial:true
 hideLightningFlashes:true
 hideMatchedNames:true
@@ -155,4 +154,4 @@ toggleSprint:false
 touchscreen:false
 tutorialStep:none
 useNativeTransport:true
-version:3337
+version:3463

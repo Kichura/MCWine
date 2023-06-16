@@ -17,6 +17,7 @@
   "enableHints": false,
   "fastBlockPlacing": false,
   "flyDrifting": true,
+  "hideNormalMouse": false,
   "horizontalReacharound": false,
   "hudEnable": true,
   "hudSide": "LEFT",
