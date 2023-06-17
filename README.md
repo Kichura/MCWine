@@ -29,21 +29,21 @@ It is recommended that you use [Java 20 (Lite JDK)](https://bell-sw.com/pages/do
 
 ## JVM Arguments (Optional)
 
-It is recommended that you use [one of these specific scripts](https://github.com/Kichura/MCWine/tree/PrismMC-Dev/sources/jvm_arguments.md) as your JVM arguments instead of the defaults.
+It is recommended that you use [one of these specific scripts](https://github.com/Kichura/MCWine/tree/Dev/sources/jvm_arguments.md) as your JVM arguments instead of the defaults.
 
 *(You can change the ```-Xmx3G``` including ```-Xms3G``` value from the list itself in order to manage the game RAM on how much to use for Minecraft, But depends on your computer's hardware; Both of those are not needed in Prism Launcher however as it uses it's own configurators for that)*
 
 ## Mods + Resource Pack Assets Used For This Pack
 
-Please [check this page](https://github.com/Kichura/MCWine/tree/PrismMC-Dev/sources/mods_used.md) for a whole list of mods that have been used for this modpack,
+Please [check this page](https://github.com/Kichura/MCWine/tree/Dev/sources/mods_used.md) for a whole list of mods that have been used for this modpack,
 
-For the resource pack list, It can be found [in this page](https://github.com/Kichura/MCWine/tree/PrismMC-Dev/sources/resources_used.md) instead.
+For the resource pack list, It can be found [in this page](https://github.com/Kichura/MCWine/tree/Dev/sources/resources_used.md) instead.
 
 ## Special Thanks To
 
 - [FlashyReese](https://github.com/FlashyReese) for helping me create this entire readme document,
 - [MrMangoHands](https://github.com/mrmangohands) for helping out with sharing the [lithium configuration codes](https://github.com/CaffeineMC/lithium-fabric/blob/develop/lithium-mixin-config.md),
-- [Julienraptor01](https://github.com/Julienraptor01) and [ImZxhir](https://github.com/Imzxhir) for suggesting mod replacements and other improvements,
+- [Julienraptor01](https://github.com/Julienraptor01), [ImZxhir](https://github.com/Imzxhir) and [Braxlin](https://github.com/Braxlin) for suggesting mod replacements and other improvements,
 - [The ViaVersion Team](https://github.com/ViaVersion/ViaVersion) & [The WineHQ Team](https://www.winehq.org) for inspiring me to create this modpack from the ground-up,
 - [The modpack testers](https://pastebin.com/raw/QknQpyZ0) who helped making the modpack better as much as possible,
 - [triphora](https://github.com/triphora) for assisting me with publishing MCWine to modrinth.
@@ -63,4 +63,4 @@ This modpack is available on modrinth as a lightweight version, but will not shi
 
 ## License
 
-MCWine is licensed under MIT, a free and open-source license. For more information, please see the [license file.](https://github.com/Kichura/MCWine/blob/PrismMC-Dev/LICENSE)
+MCWine is licensed under MIT, a free and open-source license. For more information, please see the [license file.](https://github.com/Kichura/MCWine/blob/Dev/LICENSE)
