@@ -14,8 +14,8 @@
     {
       "downloads": {
           "artifact": {
-              "sha1": "eec248b26f16e888688e5bb37b7eeda76b78d2f7",
-              "size": 306563,
+              "sha1": "c70ef20ca338558147887df60f46341bc47f6900",
+              "size": 344670,
               "url": "https://repo1.maven.org/maven2/io/netty/netty-codec/4.1.94.Final/netty-codec-4.1.94.Final.jar"
           }
       },
