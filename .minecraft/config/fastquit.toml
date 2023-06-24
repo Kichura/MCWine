@@ -1,3 +1,9 @@
+#
+# FastQuit configuration goes here,
+#
+# This will tell FastQuit not to show the saving toast everytime worlds are closed down,
+# but also gives background priority to it for proper catch-ups.
+#
 allowMultipleServers = false
 backgroundPriority = 2
 renderSavingScreen = false
