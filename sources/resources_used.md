@@ -89,7 +89,6 @@
 - [jogurciQ](https://www.planetminecraft.com/texture-pack/jog-s-spawn-eggs) - Redesigns the spawn eggs,
 - [Sr_Paulo___](https://www.curseforge.com/min´ecraft/texture-packs/sr_paulo-better-spyglass) - Improves the spyglass,
 - [Eianex](https://www.curseforge.com/minecraft/texture-packs/haybale-aesthetic) - Makes the hay bale look aesthetic,
-- [MiauMattiMC](https://www.planetminecraft.com/texture-pack/clean-smithing-templates-je-texture-pack) - Corrects the smithing templates to actual ones,
 - [PixelBrush](https://www.planetminecraft.com/texture-pack/pixel-s-modified-cherry) - Modifies the cherry blocks to be realistic,
 - [DareSea_](https://www.planetminecraft.com/project/alls-fae-cove) - Map used for panorama,
 - [robotkoer](https://modrinth.com/resourcepack/chat-reporting-helper) - Makes the chat reporting system less complicated to read,
