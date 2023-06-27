@@ -1,0 +1,74 @@
+{
+  "animation_settings": {
+    "animation": true,
+    "block_animations": true,
+    "fire": true,
+    "lava": true,
+    "portal": true,
+    "sculk_sensor": true,
+    "water": true
+  },
+  "detail_settings": {
+    "biome_colors": true,
+    "rain_snow": true,
+    "sky": true,
+    "sky_colors": true,
+    "stars": true,
+    "sun_moon": true
+  },
+  "extra_settings": {
+    "advancement_toast": true,
+    "cloud_height": 200,
+    "instant_sneak": false,
+    "overlay_corner": "TOP_LEFT",
+    "prevent_shaders": false,
+    "recipe_toast": false,
+    "reduce_resolution_on_mac": false,
+    "show_coords": false,
+    "show_f_p_s_extended": true,
+    "show_fps": false,
+    "steady_debug_hud": true,
+    "steady_debug_hud_refresh_rate": 3,
+    "system_toast": true,
+    "text_contrast": "SHADOW",
+    "toasts": true,
+    "tutorial_toast": false,
+    "use_adaptive_sync": true
+  },
+  "notification_settings": {
+    "hide_r_s_o_recommendation": true
+  },
+  "particle_settings": {
+    "block_break": true,
+    "block_breaking": true,
+    "other": {},
+    "particles": true,
+    "rain_splash": true
+  },
+  "render_settings": {
+    "dimensionFogDistance": {
+      "minecraft:overworld": 10,
+      "minecraft:the_end": 10,
+      "minecraft:the_nether": 10
+    },
+    "armor_stand": true,
+    "beacon_beam": true,
+    "enchanting_table_book": true,
+    "fog_distance": 0,
+    "fog_start": 100,
+    "item_frame": true,
+    "item_frame_name_tag": true,
+    "light_updates": true,
+    "multi_dimension_fog_control": true,
+    "painting": true,
+    "piston": true,
+    "player_name_tag": true,
+    "use_linear_flat_color_blender": false
+  },
+  "super_secret_settings": {
+    "fetch_sodium_crowdin_translations": false,
+    "fetch_sodium_extra_crowdin_translations": false,
+    "sodium_crowdin_project_identifier": "sodium-fabric",
+    "sodium_extra_crowdin_project_identifier": "sodium-extra"
+  }
+}
