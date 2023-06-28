@@ -112,7 +112,7 @@
 ## Resource Pack Credits (High Contrast+)
 
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) - Changes the panorama to the end,
-- [Hobbit Falcon](https://www.planetminecraft.com/texture-pack/more-high-contrast-ui) - Modifies every other UI to be high contrasted,
+- [RubricalChain25](https://www.curseforge.com/minecraft/texture-packs/better-high-contrast) - Modifies every other UI to be high contrasted,
 - [Lizter](https://www.curseforge.com/minecraft/texture-packs/higher-contrast) - Implements icon to pack,
 - [Kichura (That is me!)](https://github.com/Kichura) - Fixes third-party textures and polishing tiny details,
 - [robotkoer](https://modrinth.com/resourcepack/chat-reporting-helper) - Makes the chat reporting system less complicated to read,
