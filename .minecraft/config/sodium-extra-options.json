@@ -33,7 +33,7 @@
     "text_contrast": "SHADOW",
     "toasts": true,
     "tutorial_toast": false,
-    "use_adaptive_sync": true
+    "use_adaptive_sync": false
   },
   "notification_settings": {
     "hide_r_s_o_recommendation": true
