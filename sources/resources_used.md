@@ -5,7 +5,7 @@
 - [TheMobCave](https://www.youtube.com/watch?v=9PYpUCo8TKQ) - Replaces rain sound effects,
 - [TinyDaggsy](https://pastebin.com/raw/DVfVa2VM) - Changes llama decoration, furnaces, shulker boxes, signs, coral blocks, etc,
 - [EpicOOF](https://modrinth.com/resourcepack/corrected-mob-heads) - Moves heads to camera for better view,
-- [funkiestcord67](https://www.curseforge.com/minecraft/texture-packs/repaired-enchanting) - Adds further romanic for level 6 - 100,
+- [Twixxi](https://www.modrinth.com/resourcepack/large-roman-numerals) - Adds further romanic for level 0 - 255,
 - [ダイヤ二ゲロウ](https://www.curseforge.com/minecraft/texture-packs/half-width-space-restoration) - Restores half-width spaces for japanese,
 - [flatjim_](https://www.curseforge.com/minecraft/texture-packs/gui-retextures) - Overhauls the HUD,
 - [ianruja](https://www.curseforge.com/minecraft/texture-packs/accurate-totem-of-undying) - Changes totem's arms to wings,
