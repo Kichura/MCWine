@@ -46,7 +46,6 @@
       "+breaks": {
         "c2me": "*",
         "canvas": "*",
-        "krypton": "*",
         "optifabric": "*",
         "optifine": "*",
         "smoothboot": "*"
