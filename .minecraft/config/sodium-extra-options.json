@@ -47,9 +47,9 @@
   },
   "render_settings": {
     "dimensionFogDistance": {
-      "minecraft:overworld": 10,
-      "minecraft:the_end": 10,
-      "minecraft:the_nether": 10
+      "minecraft:overworld": 12,
+      "minecraft:the_end": 12,
+      "minecraft:the_nether": 12
     },
     "armor_stand": true,
     "beacon_beam": true,
