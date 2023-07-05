@@ -28,7 +28,7 @@
     "show_f_p_s_extended": true,
     "show_fps": false,
     "steady_debug_hud": true,
-    "steady_debug_hud_refresh_rate": 3,
+    "steady_debug_hud_refresh_interval": 3,
     "system_toast": true,
     "text_contrast": "SHADOW",
     "toasts": true,
