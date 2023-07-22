@@ -2,6 +2,7 @@
 
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) - Contains most of the tweaks,
 - [Kichura (That is me!)](https://github.com/Kichura) - Fixes third-party textures / pack scripts,
+- [GamingMike21](https://twitch.tv/gaming_mike21) - Helping with updating textures such as sniffer spawn egg,
 - [TheMobCave](https://www.youtube.com/watch?v=9PYpUCo8TKQ) - Replaces rain sound effects,
 - [TinyDaggsy](https://pastebin.com/raw/DVfVa2VM) - Changes llama decoration, furnaces, shulker boxes, signs, coral blocks, etc,
 - [EpicOOF](https://modrinth.com/resourcepack/corrected-mob-heads) - Moves heads to camera for better view,
@@ -74,7 +75,6 @@
 - [GalacticAnimations](https://www.planetminecraft.com/texture-pack/better-frog-eggs) - Makes frog eggs look better,
 - [valesde_valley](https://www.planetminecraft.com/texture-pack/tweaked-smithing-table) - Tweaks the smithing table to look more accurate,
 - [Amaro_Lunatico](https://www.planetminecraft.com/texture-pack/consistent-leads-texture-packs) - Makes leads look consistent,
-- [ImXR24](https://www.planetminecraft.com/texture-pack/xrs-retextured-mangrove-wood) - Makes mangrove look more pretty,
 - [AnnouncerF](https://www.planetminecraft.com/texture-pack/1-19-goat-horns-optifine-cit-resewn-required) - Gives specific textures for each goat horn,
 - [DiamondIsntHere](https://www.planetminecraft.com/texture-pack/technoblade-pigs-5630640) - Adds technoblade as renamed pig,
 - [PixelPeter](https://www.planetminecraft.com/texture-pack/betterfroglights) - Enhances froglight block textures,
