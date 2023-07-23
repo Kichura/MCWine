@@ -27,4 +27,5 @@ The following table of modified keybinds can be seen here:
 | Open Tweakeroo Config       | Not Bound | F3+SLASH    |
 | Toggle Scoreboard           | Not Bound | F7          |
 
-Other keybinds such as `List Players` *(for example)* are not shown as they were never modified by this modpack.
+*Other keybinds such as `List Players` (for example) are not shown as they were never modified by this modpack,\
+The tweakeroo keybinds are not available in the Modrinth version as the mod is not present there.*
