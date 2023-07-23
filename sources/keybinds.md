@@ -24,5 +24,7 @@ The following table of modified keybinds can be seen here:
 | Toggle Zoom                 | C         | Z           |
 | Reload Shaders              | R         | Not Bound   |
 | Shaderpack Selection Screen | O         | Not Bound   |
+| Open Tweakeroo Config       | Not Bound | F3+SLASH    |
+| Toggle Scoreboard           | Not Bound | F7          |
 
 Other keybinds such as `List Players` *(for example)* are not shown as they were never modified by this modpack.
