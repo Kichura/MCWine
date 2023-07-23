@@ -21,7 +21,7 @@ The following table of modified keybinds can be seen here:
 | Toggle Cinematic Camera     | Not Bound | F8          |
 | Toggle Fullscreen           | F11       | Not Bound   |
 | Toggle Perspective          | F5        | P           |
-| Toggle Zoom                 | C         | Z           |
+| Zoom                        | C         | Z           |
 | Reload Shaders              | R         | Not Bound   |
 | Shaderpack Selection Screen | O         | Not Bound   |
 | Open Tweakeroo Config       | Not Bound | F3+SLASH    |
