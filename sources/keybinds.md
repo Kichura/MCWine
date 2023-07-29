@@ -20,7 +20,6 @@ The following table of modified keybinds can be seen here:
 | Take Screenshot             | F2        | F12         |
 | Toggle Cinematic Camera     | Not Bound | F8          |
 | Toggle Fullscreen           | F11       | Not Bound   |
-| Toggle Perspective          | F5        | P           |
 | Zoom                        | C         | Z           |
 | Reload Shaders              | R         | Not Bound   |
 | Shaderpack Selection Screen | O         | Not Bound   |
