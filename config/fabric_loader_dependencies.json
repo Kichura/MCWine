@@ -48,7 +48,8 @@
         "canvas": "*",
         "optifabric": "*",
         "optifine": "*",
-        "smoothboot": "*"
+        "smoothboot": "*",
+        "threadtweak": "*"
       }
     },
     "viafabric": {
