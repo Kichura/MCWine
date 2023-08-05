@@ -46,13 +46,13 @@
     "rain_splash": true
   },
   "render_settings": {
+    "armor_stand": true,
+    "beacon_beam": true,
     "dimensionFogDistance": {
       "minecraft:overworld": 12,
       "minecraft:the_end": 12,
       "minecraft:the_nether": 12
     },
-    "armor_stand": true,
-    "beacon_beam": true,
     "enchanting_table_book": true,
     "fog_distance": 0,
     "fog_start": 100,
@@ -62,13 +62,12 @@
     "multi_dimension_fog_control": true,
     "painting": true,
     "piston": true,
-    "player_name_tag": true,
-    "use_linear_flat_color_blender": false
+    "player_name_tag": true
   },
   "super_secret_settings": {
-    "fetch_sodium_crowdin_translations": false,
     "fetch_sodium_extra_crowdin_translations": false,
-    "sodium_crowdin_project_identifier": "sodium-fabric",
-    "sodium_extra_crowdin_project_identifier": "sodium-extra"
+    "sodium_extra_crowdin_project_identifier": "sodium-extra",
+    "fetch_sodium_crowdin_translations": false,
+    "sodium_crowdin_project_identifier": "sodium-fabric"
   }
 }
