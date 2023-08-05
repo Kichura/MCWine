@@ -1,14 +1,48 @@
 {
   "id": "MCWine-Dev",
   "inheritsFrom": "1.20.1",
-  "releaseTime": "2023-08-02",
-  "time": "2023-08-02",
+  "releaseTime": "2023-08-05",
+  "time": "2023-08-05",
   "type": "release",
   "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
   "logging": {},
   "arguments": {
     "game": [],
-    "jvm": []
+    "jvm": [
+	{
+     "rules": [
+         {
+           "action": "allow",
+           "os": {
+             "name": "linux"
+           }
+         }
+       ],
+       "value": "-Dloader.disable_beacon=true -Dowo.handshake.disable=true -Dfile.encoding=UTF-8"
+     },
+     {
+     "rules": [
+         {
+           "action": "allow",
+           "os": {
+             "name": "macos"
+           }
+         }
+       ],
+       "value": "-XstartOnFirstThread -Dloader.disable_beacon=true -Dowo.handshake.disable=true -Dfile.encoding=UTF-8"
+     },
+     {
+     "rules": [
+         {
+           "action": "allow",
+           "os": {
+             "name": "windows"
+           }
+         }
+       ],
+       "value": "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dloader.disable_beacon=true -Dowo.handshake.disable=true -Dfile.encoding=UTF-8"
+	 }
+	]
   },
   "javaVersion": {
     "component": "java-runtime-gamma",
