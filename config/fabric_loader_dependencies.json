@@ -46,6 +46,7 @@
       "+breaks": {
         "c2me": "*",
         "canvas": "*",
+        "notenoughcrashes": "*",
         "optifabric": "*",
         "optifine": "*",
         "smoothboot": "*",
