@@ -1182,7 +1182,7 @@
         }
     ],
     "name": "LWJGL 3",
-    "order": -1,
+    "order": 9,
     "releaseTime": "2023-06-09",
     "type": "release",
     "uid": "org.lwjgl3",

@@ -15,6 +15,7 @@
         }
     ],
     "type": "release",
+    "order": 2,
     "uid": "net.fabricmc.intermediary",
     "version": "1.20.1",
     "volatile": true
