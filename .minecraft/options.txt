@@ -144,7 +144,7 @@ soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_record:0.165
 soundCategory_voice:0.0
-soundCategory_weather:0.50
+soundCategory_weather:0.165
 soundDevice:""
 syncChunkWrites:false
 telemetryOptInExtra:false
