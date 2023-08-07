@@ -5,6 +5,9 @@
   "time": "2023-08-07",
   "type": "release",
   "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
+  "assets": "5",
+  "complianceLevel": 1,
+  "minimiumLauncherVersion": 21,
   "logging": {},
   "arguments": {
     "game": [],
@@ -48,9 +51,6 @@
     "component": "java-runtime-gamma",
     "majorVersion": 17
   },
-  "assets": "5",
-  "complianceLevel": 1,
-  "minimiumLauncherVersion": 21,
   "libraries": [
     {
       "name": "net.fabricmc:tiny-mappings-parser:0.3.0+build.17",
