@@ -118,7 +118,7 @@
           "action": "allow",
           "os": {
             "name": "macos",
-            "arch": "arm64"
+            "arch": "aarch_64"
           }
         }
       ]
