@@ -633,7 +633,8 @@
         {
           "action": "allow",
           "os": {
-            "name": "macos"
+            "name": "macos",
+            "arch": "x86_64"
           }
         }
       ]
