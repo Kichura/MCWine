@@ -99,6 +99,33 @@
     {
       "downloads": {
         "artifact": {
+         "path": "ca/weblite/java-objc-bridge/1.2java-objc-bridge-1.2.jar",
+         "sha1": "af8ba4c82a8979d07319f74278312af6c1cd61a5",
+         "size": 1476301,
+         "url": "https://repo1.maven.org/maven2/ca/weblite/java-objc-bridge/1.2/java-objc-bridge-1.2.jar"
+        }
+      },
+      "name": "ca.weblite:java-objc-bridge:1.2",
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "macos",
+            "arch": "x86_64"
+          }
+        },
+        {
+          "action": "allow",
+          "os": {
+            "name": "macos",
+            "arch": "arm64"
+          }
+        }
+      ]
+    },
+    {
+      "downloads": {
+        "artifact": {
          "path": "org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar",
          "sha1": "41eb7184ea9d556f23e18b5cb99cad1f8581fc00",
          "size": 63635,
