@@ -90,7 +90,7 @@
 - [Sr_Paulo___](https://www.curseforge.com/min´ecraft/texture-packs/sr_paulo-better-spyglass) - Improves the spyglass,
 - [Eianex](https://www.curseforge.com/minecraft/texture-packs/haybale-aesthetic) - Makes the hay bale look aesthetic,
 - [PixelBrush](https://www.planetminecraft.com/texture-pack/pixel-s-modified-cherry) - Modifies the cherry blocks to be realistic,
-- [DareSea_](https://www.planetminecraft.com/project/alls-fae-cove) - Map used for panorama,
+- [Telcontar](https://www.planetminecraft.com/project/the-realm-of-narthelleth) - Map used for panorama,
 - [robotkoer](https://modrinth.com/resourcepack/chat-reporting-helper) - Makes the chat reporting system less complicated to read,
 - [Cleora](https://pastebin.com/raw/A6QGinfJ) - Modernizes all default skins,
 - [MannyQUESO](https://www.planetminecraft.com/texture-pack/improved-daylight-sensor) - Improves the day & night sensors,
