@@ -1,6 +1,5 @@
 ## Mods Used For This Pack
 
-- [Alternate Entity Culling (Aka EntityCulling Fabric/Forge)](https://modrinth.com/mod/entityculling) - **tr9zw**,
 - [Ctrl Q](https://modrinth.com/mod/ctrl-q) - **Mrredstone5230**,
 - [Dark Graph](https://modrinth.com/mod/dark-graph) - **EcoBuilder13**,
 - [DCWA (Aka Disable Custom Worlds Advice)](https://modrinth.com/mod/dcwa) - **rdvdev2**,
