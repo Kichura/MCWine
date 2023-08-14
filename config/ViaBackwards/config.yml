@@ -10,14 +10,6 @@
 always-show-original-mob-name: true
 add-custom-enchants-into-lore: true
 add-teamcolor-to-prefix: false
-chat-types-1_19_1:
-  "chat.type.announcement": "[%s] %s"
-  "chat.type.emote": "* %s %s"
-  "chat.type.team.sent": "-> %s <%s> %s"
-  "chat.type.team.text": "%s <%s> %s"
-  "chat.type.text": "<%s> %s"
-  "commands.message.display.incoming": "%s whispers to you: %s"
-  "commands.message.display.outgoing": "You whisper to %s: %s"
 fix-1_13-face-player: true
 fix-formatted-inventory-titles: true
 handle-pings-as-inv-acknowledgements: true
