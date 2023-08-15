@@ -1,5 +1,9 @@
 {
-  "canScroll": true,
-  "resetOnUnlock": false,
-  "useWASD": false
+	"canScroll": true,
+	"keyboardScrollSpeed": 5,
+	"resetOnUnlock": true,
+	"scrollSmoothness": 0.250000,
+	"scrollSpeed": 10,
+	"useLShift": true,
+	"useWASD": false
 }
