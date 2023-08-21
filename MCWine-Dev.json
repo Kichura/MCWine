@@ -1,8 +1,8 @@
 {
   "id": "MCWine-Dev",
   "inheritsFrom": "1.20.1",
-  "releaseTime": "2023-08-16",
-  "time": "2023-08-16",
+  "releaseTime": "2023-08-21",
+  "time": "2023-08-21",
   "type": "release",
   "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
   "assets": "5",
@@ -99,7 +99,7 @@
     {
       "downloads": {
         "artifact": {
-         "path": "ca/weblite/java-objc-bridge/1.2java-objc-bridge-1.2.jar",
+         "path": "ca/weblite/java-objc-bridge/1.2/java-objc-bridge-1.2.jar",
          "sha1": "af8ba4c82a8979d07319f74278312af6c1cd61a5",
          "size": 1476301,
          "url": "https://repo1.maven.org/maven2/ca/weblite/java-objc-bridge/1.2/java-objc-bridge-1.2.jar"
@@ -298,13 +298,13 @@
     {
       "downloads": {
         "artifact": {
-         "path": "com/github/oshi/oshi-core/6.4.4/oshi-core-6.4.4.jar",
-         "sha1": "5fcf76dda71647a65d6fafbab2bf03065bf3d52d",
-         "size": 970106,
-         "url": "https://repo1.maven.org/maven2/com/github/oshi/oshi-core/6.4.4/oshi-core-6.4.4.jar"
+         "path": "com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar",
+         "sha1": "943ba26de047eb6b28fff47f5ee939a34eb5fc8e",
+         "size": 970546,
+         "url": "https://repo1.maven.org/maven2/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar"
         }
       },
-      "name": "com.github.oshi:oshi-core:6.4.4"
+      "name": "com.github.oshi:oshi-core:6.4.5"
     },
     {
       "downloads": {
