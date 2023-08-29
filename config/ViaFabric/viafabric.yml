@@ -44,6 +44,8 @@ client-side-force-disable:
 - '*.mcmiddleearth.com'
 - mcplayhd.net
 - '*.mcplayhd.net'
+- minecraftonline.com
+- '*.minecraftonline.com'
 - minehut.com
 - '*.minehut.com'
 - minehut.gg
@@ -52,6 +54,8 @@ client-side-force-disable:
 - '*.minemen.club'
 - minescape.me
 - '*.minescape.me'
+- og-network.net
+- '*.og-network.net'
 - performium.net
 - '*.performium.net'
 - piratemc.com
