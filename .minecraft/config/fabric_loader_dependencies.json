@@ -23,7 +23,8 @@
     },
     "lambdynlights": {
       "-recommends": {
-        "modmenu": "IGNORED"
+        "modmenu": "IGNORED",
+        "quilt_loader": "IGNORED"
       }
     },
     "languagereload": {
