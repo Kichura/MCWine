@@ -6,6 +6,7 @@
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) - **juliand665**,
 - [Dynamic Lights (Aka LambDynamicLights)](https://modrinth.com/mod/lambdynamiclights) - **LambdAurora**,
 - [EmuNO](https://modrinth.com/mod/emuno) - **ryanccn**,
+- [Faster IP Pinging (Aka fast-ip-ping)](https://modrinth.com/mod/fast-ip-ping) - **fallen-breath**,
 - [Fast Quit](https://modrinth.com/mod/fastquit) - **KingContaria**,
 - [FCLS (Aka kennytvs-epic-force-close-loading-screen-mod-for-fabric)](https://modrinth.com/mod/forcecloseworldloadingscreen) - **kennytv**,
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) - **malte0811**,
