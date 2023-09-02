@@ -10,7 +10,7 @@
   "minimiumLauncherVersion": 21,
   "logging": {},
   "javaVersion": {
-    "component": "java-runtime-gamma",
+    "component": "java-runtime-gamma-snapshot",
     "majorVersion": 17
   },
   "arguments": {
