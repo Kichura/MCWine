@@ -1,0 +1,25 @@
+{
+  "states": {
+    "hovered": {
+      "frame_rate_target": 30,
+      "graphics_state": "default",
+      "run_garbage_collector": false,
+      "show_toasts": false,
+      "volume_multiplier": 0.3
+    },
+    "invisible": {
+      "frame_rate_target": 1,
+      "graphics_state": "minimal",
+      "run_garbage_collector": true,
+      "show_toasts": false,
+      "volume_multiplier": 0.12
+    },
+    "unfocused": {
+      "frame_rate_target": 1,
+      "graphics_state": "reduced",
+      "run_garbage_collector": true,
+      "show_toasts": false,
+      "volume_multiplier": 0.12
+    }
+  }
+}
