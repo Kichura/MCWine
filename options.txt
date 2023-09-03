@@ -53,8 +53,8 @@ key_key.back:key.keyboard.s
 key_key.chat:key.keyboard.t
 key_key.command:key.keyboard.unknown
 key_key.drop:key.keyboard.q
-key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
-key_key.dynamicfps.toggle_forced:key.keyboard.unknown
+key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
+key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.forward:key.keyboard.w
 key_key.fullscreen:key.keyboard.unknown
 key_key.hotbar.1:key.keyboard.1
