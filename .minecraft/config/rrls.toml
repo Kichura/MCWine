@@ -5,10 +5,10 @@
 # whilst taking care of everything else without including distractions.
 #
 enabled = true
-rgbProgress = false
 loadingScreenHide = false
-showIn = "ALL"
-type = "PROGRESS"
+reInitScreen = true
 reloadText = ""
 resetResources = true
-reInitScreen = true
+rgbProgress = false
+showIn = "ALL"
+type = "PROGRESS"
