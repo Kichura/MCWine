@@ -1,7 +1,7 @@
 {
   "states": {
     "hovered": {
-      "frame_rate_target": 30,
+      "frame_rate_target": 60,
       "graphics_state": "default",
       "run_garbage_collector": false,
       "show_toasts": false,
