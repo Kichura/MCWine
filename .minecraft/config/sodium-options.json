@@ -5,7 +5,7 @@
     "use_advanced_staging_buffers": false
   },
   "notifications": {
-    "hide_donation_button": true
+    "hide_donation_button": false
   },
   "performance": {
     "chunk_builder_threads": 1,
