@@ -32,6 +32,7 @@
 - [Old World Menu](https://modrinth.com/mod/oldworldmenu) - **RaderRMT**,
 - [Raised](https://modrinth.com/mod/raised) - **yurisuika**,
 - [Remove-GFARB (Aka Game Menu Remove GFARB)](https://modrinth.com/mod/gamemenuremovegfarb) - **morimori0317**,
+- [Remove Reloading Screen](https://modrinth.com/mod/rrls) - **dima_dencep**,
 - [Remove Report Button (Aka No Report Button)](https://modrinth.com/mod/nrb) - **Lucaslah**,
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - **FlashyReese**,
 - [Scrollable Tooltips (Aka Tooltip Scroll)](https://modrinth.com/mod/tooltip-scroll) - **Provismet**,

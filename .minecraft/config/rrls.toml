@@ -1,0 +1,14 @@
+#
+# Remove Reloading Screen configuration goes here,
+#
+# This will tell Remove Reloading Screen to show the progress bar,
+# whilst taking care of everything else without including distractions.
+#
+enabled = true
+rgbProgress = false
+loadingScreenHide = false
+showIn = "ALL"
+type = "PROGRESS"
+reloadText = ""
+resetResources = true
+reInitScreen = true
