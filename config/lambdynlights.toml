@@ -1,6 +1,7 @@
 #
 # Dyanmic lights configuration goes here,
-# It is recommended you leave this mode set to fancy for best effects unless your game's framerate becomes unstable.
+# It is recommended you leave this mode set to fancy for best effects unless your game's framerate becomes unstable,
+# or the mod ends up causing weird flickering then use fast/fastest modes instead.
 #
 
 mode = "fast"
