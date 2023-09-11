@@ -3,7 +3,6 @@
 # It is recommended you leave this mode set to fancy for best effects unless your game's framerate becomes unstable,
 # or the mod ends up causing weird flickering then use fast/fastest modes instead.
 #
-
 mode = "fast"
 #
 # Light sources configuration, Can be modified if you wish to use your own preferences.
@@ -89,14 +88,13 @@ mode = "fast"
 				structure_block = false
 				suspicious_sand = false
 				trapped_chest = false
-
+		#
+		# What entities to toggle in order to be used in dynamic lights,
+		# Similar to the block entity switches above except it's about the non-block entities instead.
+		#
+		# The resource pack rule applies here aswell by the way.
+		#
 		[light_sources.settings.entities]
-			#
-			# What entities to toggle in order to be used in dynamic lights,
-			# Similar to the block entity switches above except it's about the non-block entities instead.
-			#
-			# The resource pack rule applies here aswell by the way.
-			#
 			[light_sources.settings.entities.minecraft]
 				allay = true
 				area_effect_cloud = false
@@ -222,7 +220,12 @@ mode = "fast"
 				zombie_horse = false
 				zombie_villager = false
 				zombified_piglin = false
-
+			#
+			# Other light sources configuration go here,
+			#
+			# This spot contains third-party entities such as Paradise Lost mod,
+			# and therefore can be modified aswell to meet the player's own changes.
+			#
 			[light_sources.settings.entities.paradise_lost]
 				aerbunny = false
 				moa = false
