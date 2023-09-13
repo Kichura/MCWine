@@ -1,6 +1,7 @@
 {
   "fallbacks": [],
   "language": "en_us",
+  "multilingualItemSearch": true,
   "previousFallbacks": [],
   "previousLanguage": ""
 }
