@@ -1,6 +1,6 @@
 {
   "advanced": {
-    "cpu_render_ahead_limit": 4,
+    "cpu_render_ahead_limit": 3,
     "enable_memory_tracing": false,
     "use_advanced_staging_buffers": false
   },
