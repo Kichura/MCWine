@@ -25,8 +25,6 @@ MCWine is a fabric-based modpack designed to bring better performance, brand new
 
 It is recommended that you use [Java 20 (Lite JDK)](https://bell-sw.com/pages/downloads) to allow minecraft to make use of the latest java version.
 
-*Although now requires ```javacheck.jar``` to be deleted as reported in [MCL-18306](https://bugs.mojang.com/browse/MCL-18306). (But if you use Prism Launcher instead then skip the ```javacheck.jar``` removal requirement)*
-
 ## JVM Arguments (Optional)
 
 It is recommended that you use [one of these specific scripts](https://github.com/Kichura/MCWine/tree/PrismMC-Dev/sources/jvm_arguments.md) as your JVM arguments instead of the defaults.
