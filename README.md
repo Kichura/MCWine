@@ -23,7 +23,7 @@ MCWine is a fabric-based modpack designed to bring better performance, brand new
 
 ## Updating Java Version (Optional)
 
-It is recommended that you use [Java 20 (Lite JDK)](https://bell-sw.com/pages/downloads) to allow minecraft to make use of the latest java version.
+It is recommended that you use [Java 21 (Lite JDK)](https://bell-sw.com/pages/downloads) to allow minecraft to make use of the latest java version.
 
 ## JVM Arguments (Optional)
 
