@@ -4,11 +4,11 @@
     "fabricloader": {
       "+depends": {
         "fabricloader": ">=0.14.22",
-        "fabric-api": ">=0.87.0+1.20.1",
+        "fabric-api": ">=0.89.2+1.20.2",
         "fabric-language-kotlin": ">=1.10.10+kotlin.1.10.0"
       },
       "+suggests": {
-        "cloth-config": ">=11.0.106"
+        "cloth-config": ">=12.0.109"
       }
     },
     "fastquit": {
@@ -57,12 +57,12 @@
     },
     "viafabric": {
       "+depends": {
-        "viabackwards": ">=4.7.0",
-        "viaversion": ">=4.7.0"
+        "viabackwards": ">=4.8.0",
+        "viaversion": ">=4.8.0"
       },
       "+suggests": {
         "nochatreports": "*",
-        "viarewind": ">=2.0.3"
+        "viarewind": ">=3.0.0"
       },
       "+breaks": {
         "essential-container": "*",
