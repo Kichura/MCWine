@@ -12,7 +12,7 @@
 - [Fix ChatPosition (Aka Chat Up!)](https://github.com/gnembon/chat-up) - **gnembon**,
 - [Fix Chunk Lags (Aka ForgetMeChunk)](https://modrinth.com/mod/forgetmechunk) - **BreadLoaf**,
 - [Fix Item Models (Aka Item Model Fix)](https://www.modrinth.com/mod/item-model-fix) - **Pepper_Bell**,
-- [Fix Server Pinging (Aka ServerPingerFixer)](https://github.com/JustAlittleWolf/ServerPingFixer) - **JustAlittleWolf**,
+- [Fix Server Pinging (Aka ServerPingerFixer)](https://github.com/JustAlittleWolf/ServerPingerFixer) - **JustAlittleWolf**,
 - [Fix Sky Colors (Aka Clear Skies)](https://github.com/grondag/clear-skies) - **grondag**,
 - [Fix Sounds (Aka Volume Fix)](https://modrinth.com/mod/volume-fix) - **Roundaround**,
 - [Fix ToolTips (Aka ToolTipFix)](https://modrinth.com/mod/tooltipfix) - **Kyrptonaught**,
