@@ -27,15 +27,15 @@ It is recommended that you use [Java 21 (Lite JDK)](https://bell-sw.com/pages/do
 
 ## JVM Arguments (Optional)
 
-It is recommended that you use [one of these specific scripts](https://github.com/Kichura/MCWine/tree/Dev/sources/jvm_arguments.md) as your JVM arguments instead of the defaults.
+It is recommended that you use [one of these specific scripts](https://github.com/Kichura/MCWine/tree/PrismMC-Dev/sources/jvm_arguments.md) as your JVM arguments instead of the defaults.
 
 *(You can change the ```-Xmx3G``` including ```-Xms3G``` value from the list itself in order to manage the game RAM on how much to use for Minecraft, But depends on your computer's hardware; Both of those are not needed in Prism Launcher however as it uses it's own configurators for that)*
 
 ## Mods + Resource Pack Assets Used For This Pack
 
-Please [check this page](https://github.com/Kichura/MCWine/tree/Dev/sources/mods_used.md) for a whole list of mods that have been used for this modpack,
+Please [check this page](https://github.com/Kichura/MCWine/tree/PrismMC-Dev/sources/mods_used.md) for a whole list of mods that have been used for this modpack,
 
-For the resource pack list, It can be found [in this page](https://github.com/Kichura/MCWine/tree/Dev/sources/resources_used.md) instead.
+For the resource pack list, It can be found [in this page](https://github.com/Kichura/MCWine/tree/PrismMC-Dev/sources/resources_used.md) instead.
 
 ## Special Thanks To
 
@@ -54,7 +54,7 @@ For the resource pack list, It can be found [in this page](https://github.com/Ki
 4. This modpack does not ship with mod menu as most configurations for each mod have been pre-baked. but you can install it regardless,
 5. Some mods will possibly contain bugs that can break this client - If you are sensitive to these issues; You can disable the specific mods to play without them,
 6. This modpack requires the use of OpenGL 3.3 or higher but if you wish to try and unlock this on your older GPU - [Learn more here,](https://gist.github.com/Kichura/9fa44010d8ed9e5733d258292e327001)
-7. Certain keybinds in this modpack have been modified, The new keybinds can be [seen here.](https://github.com/Kichura/MCWine/blob/Dev/sources/keybinds.md)
+7. Certain keybinds in this modpack have been modified, The new keybinds can be [seen here.](https://github.com/Kichura/MCWine/blob/PrismMC-Dev/sources/keybinds.md)
 
 ## Modrinth Version
 
@@ -62,4 +62,4 @@ This modpack is available on modrinth as a lightweight version, but will not shi
 
 ## License
 
-MCWine is licensed under MIT *(No Attribution)*, a free and open-source license. For more information, please see the [license file.](https://github.com/Kichura/MCWine/blob/Dev/LICENSE)
+MCWine is licensed under MIT *(No Attribution)*, a free and open-source license. For more information, please see the [license file.](https://github.com/Kichura/MCWine/blob/PrismMC-Dev/LICENSE)
