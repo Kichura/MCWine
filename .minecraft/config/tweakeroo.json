@@ -156,7 +156,7 @@
       "keys": ""
     },
     "openConfigGui": {
-      "keys": "F3,SLASH"
+      "keys": "F3,0"
     },
     "placementYMirror": {
       "keys": ""
@@ -710,7 +710,7 @@
     "disableScoreboardRendering": {
       "enabled": true,
       "hotkey": {
-        "keys": "F7"
+        "keys": "F3,4"
       }
     },
     "disableShulkerBoxTooltip": {
