@@ -36,10 +36,10 @@
         },
         {
             "cachedName": "Oshi",
-            "cachedVersion": "6.4.5",
+            "cachedVersion": "6.4.6",
             "cachedVolatile": true,
             "uid": "com.github.oshi",
-            "version": "6.4.5"
+            "version": "6.4.6"
         },
         {
             "cachedName": "Minecraft",
@@ -50,24 +50,24 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "cachedVersion": "1.20.1",
+            "cachedVersion": "1.20.2",
             "important": true,
             "uid": "net.minecraft",
-            "version": "1.20.1"
+            "version": "1.20.2"
         },
         {
             "cachedName": "Intermediary Mappings",
             "cachedRequires": [
                 {
-                    "equals": "1.20.1",
+                    "equals": "1.20.2",
                     "uid": "net.minecraft"
                 }
             ],
-            "cachedVersion": "1.20.1",
+            "cachedVersion": "1.20.2",
             "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "net.fabricmc.intermediary",
-            "version": "1.20.1"
+            "version": "1.20.2"
         },
         {
             "cachedName": "Fabric Loader",

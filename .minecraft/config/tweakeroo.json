@@ -1,7 +1,7 @@
 {
   "Fixes": {
     "elytraFix": true,
-    "macHorizontalScroll": true,
+    "macHorizontalScroll": false,
     "ravagerClientBlockBreakFix": true
   },
   "Generic": {

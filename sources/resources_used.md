@@ -96,12 +96,13 @@
 - [MannyQUESO](https://www.planetminecraft.com/texture-pack/improved-daylight-sensor) - Improves the day & night sensors,
 - [Hippopotamoss](https://www.planetminecraft.com/texture-pack/coarse-dirt-hanging-roots) - Makes the hanging roots match the coarse dirt design,
 - [CountXD](https://www.planetminecraft.com/texture-pack/glowing-armor-trims-5933760) - Makes the armor trims glow, (OF or EMF mod required)
-- [Cappee](https://pastebin.com/raw/4Mcskdac) - Makes the smithing template item consistent with other items,
+- [Cappee](https://www.planetminecraft.com/texture-pack/cappee-s-consistent-egg-items) - Changes sniffer egg to be consistent,
 - [SandWhoop](https://www.planetminecraft.com/texture-pack/book-thred-fix) - Fixes the book and quill GUI from being offset,
 - [AWheelingNerd](https://www.planetminecraft.com/texture-pack/enhancedping) - Enhances the ping icons,
 - [JohnnykilroyV2](https://www.planetminecraft.com/texture-pack/johnnykilroy-s-small-edits) - Enhances the pitcher plant and torchflower,
 - [Cr4ftx](https://www.planetminecraft.com/texture-pack/reshaded-books) - Reshades the regular + enchanted book,
-- [SpleedSnowBrawl](https://www.planetminecraft.com/texture-pack/better-items-1-20-exclusive-add-on) - Enhances the brush, smithing templates and relic music disc.
+- [SpleedSnowBrawl](https://www.planetminecraft.com/texture-pack/better-items-1-20-exclusive-add-on) - Enhances the brush, smithing templates and relic music disc,
+- [WhiterM](https://www.planetminecraft.com/texture-pack/better-armor-trims-6049900) - Improves the armor trim items.
 
 ## Resource Pack Credits (Programmer Art+)
 
