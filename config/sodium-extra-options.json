@@ -18,6 +18,7 @@
   },
   "extra_settings": {
     "advancement_toast": true,
+    "cloud_distance": 150,
     "cloud_height": 200,
     "instant_sneak": false,
     "overlay_corner": "TOP_LEFT",
@@ -34,9 +35,6 @@
     "toasts": true,
     "tutorial_toast": false,
     "use_adaptive_sync": false
-  },
-  "notification_settings": {
-    "hide_r_s_o_recommendation": true
   },
   "particle_settings": {
     "block_break": true,
