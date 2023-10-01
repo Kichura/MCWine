@@ -34,6 +34,10 @@
   "invertRightYAxis": false,
   "joystickAsMouse": false,
   "leftDeadZone": 0.25,
+  "leftTouchBinds": [
+    "controls_ring",
+    "debug_screen"
+  ],
   "maxAnalogValueLeftX": 1.0,
   "maxAnalogValueLeftY": 1.0,
   "maxAnalogValueRightX": 1.0,
@@ -64,8 +68,11 @@
   "secondControllerID": -1.0,
   "shortcutInControls": true,
   "shouldRenderReacharoundOutline": false,
-  "touchSpeed": 12.0,
   "touchMode": "FINGER_POS",
+  "touchOutlineColorAlpha": 150,
+  "touchOutlineColorHex": "#ffffff",
+  "touchSpeed": 12.0,
+  "touchTransparency": 75,
   "triggerFix": true,
   "unfocusedInput": true,
   "verticalFlyDrifting": true,
