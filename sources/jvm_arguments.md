@@ -4,7 +4,7 @@
 
 ## ZGC
 
-`-Xms3G -Xmx3G -Dfile.encoding=UTF-8 -Dowo.handshake.disable=true -Dloader.disable_beacon=true -XX:+IgnoreUnrecognizedVMOptions -XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:-OmitStackTraceInFastThrow -XX:+ShowCodeDetailsInExceptionMessages -XX:+DisableExplicitGC -XX:-UseParallelGC -XX:-UseParallelOldGC -XX:+PerfDisableSharedMem -XX:+UseZGC -XX:-ZUncommit -XX:ZUncommitDelay=300 -XX:ZCollectionInterval=5 -XX:ZAllocationSpikeTolerance=2.0 -XX:+AlwaysPreTouch -XX:+UseTransparentHugePages -XX:LargePageSizeInBytes=2M -XX:+UseLargePages -XX:+ParallelRefProcEnabled`
+`-Xms3G -Xmx3G -Dfile.encoding=UTF-8 -Dowo.handshake.disable=true -Dloader.disable_beacon=true -XX:+IgnoreUnrecognizedVMOptions -XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:-OmitStackTraceInFastThrow -XX:+ShowCodeDetailsInExceptionMessages -XX:+DisableExplicitGC -XX:-UseParallelGC -XX:-UseParallelOldGC -XX:+PerfDisableSharedMem -XX:+UseZGC -XX:+ZGenerational -XX:-ZUncommit -XX:ZUncommitDelay=300 -XX:ZCollectionInterval=5 -XX:ZAllocationSpikeTolerance=2.0 -XX:+AlwaysPreTouch -XX:+UseTransparentHugePages -XX:LargePageSizeInBytes=2M -XX:+UseLargePages -XX:+ParallelRefProcEnabled`
 
 ## Shenandoah
 
@@ -14,7 +14,7 @@
 
 1. For the G1 Garbage Collector JVM script to work; Java 8 or newer is required,
 
-2. For the Z Garbage Collector JVM script to work; Java 14 or newer is required instead,
+2. For the Z Garbage Collector JVM script to work; Java 21 or newer is required instead,
 
 3. For the Shenandoah Garbage Collector JVM script to work; Java 15 or newer is required instead, *(Doesn't support any JDK variants by Oracle)*
 
