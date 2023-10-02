@@ -32,11 +32,13 @@
   ],
   "invertRightXAxis": false,
   "invertRightYAxis": false,
+  "invertTouch": false,
   "joystickAsMouse": false,
   "leftDeadZone": 0.25,
   "leftTouchBinds": [
     "controls_ring",
-    "debug_screen"
+    "screenshot",
+    "toggle_perspective"
   ],
   "maxAnalogValueLeftX": 1.0,
   "maxAnalogValueLeftY": 1.0,
@@ -49,13 +51,17 @@
     1.0
   ],
   "mouseScreens": [
+    "com.mamiyaotaru.voxelmap.gui.GuiPersistentMap",
+    "com.mamiyaotaru.voxelmap.gui.GuiWaypoints",
     "dev.emi.emi.screen",
     "hardcorequesting.client.interfaces.EditTrackerScreen",
     "hardcorequesting.client.interfaces.GuiQuestBook",
     "hardcorequesting.client.interfaces.GuiReward",
     "me.flashyreese.mods.reeses_sodium_options.client.gui",
+    "me.shedaniel.clothconfig2.gui.ClothConfigScreen",
     "net.minecraft.class_408",
     "net.minecraft.class_457",
+    "net.minecraft.class_3872",
     "net.minecraft.client.gui.screen.advancement"
   ],
   "mouseSpeed": 7.0,
@@ -63,11 +69,17 @@
   "reacharoundOutlineColorAlpha": 102,
   "reacharoundOutlineColorHex": "#ffffff",
   "rightDeadZone": 0.25,
+  "rightTouchBinds": [
+    "screenshot",
+    "toggle_perspective",
+    "use"
+  ],
   "ringBindings": [],
   "rotationSpeed": 12.0,
   "secondControllerID": -1.0,
   "shortcutInControls": true,
   "shouldRenderReacharoundOutline": false,
+  "touchBreakDelay": 120,
   "touchMode": "FINGER_POS",
   "touchOutlineColorAlpha": 150,
   "touchOutlineColorHex": "#ffffff",
