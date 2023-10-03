@@ -85,7 +85,7 @@
   "touchOutlineColorHex": "#ffffff",
   "touchSpeed": 12.0,
   "touchTransparency": 75,
-  "triggerFix": true,
+  "triggerFix": false,
   "unfocusedInput": true,
   "verticalFlyDrifting": true,
   "verticalReacharound": false,
