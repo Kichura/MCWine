@@ -107,7 +107,7 @@
     "use"
   ],
   "ringBindings": [],
-  "rotationSpeed": 12.0,
+  "rotationSpeed": 25.0,
   "secondControllerID": -1.0,
   "shortcutInControls": true,
   "shouldRenderReacharoundOutline": false,
@@ -115,7 +115,7 @@
   "touchMode": "FINGER_POS",
   "touchOutlineColorAlpha": 150,
   "touchOutlineColorHex": "#ffffff",
-  "touchSpeed": 12.0,
+  "touchSpeed": 25.0,
   "touchTransparency": 75,
   "triggerFix": false,
   "unfocusedInput": true,
@@ -126,5 +126,5 @@
   "wasdScreens": [
     "com.ultreon.devices.core.Laptop"
   ],
-  "yAxisRotationSpeed": 12.0
+  "yAxisRotationSpeed": 25.0
 }
