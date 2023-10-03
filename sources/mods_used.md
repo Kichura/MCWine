@@ -20,7 +20,6 @@
 - [Improved Horse HUD (Aka Better Mount HUD)](https://modrinth.com/mod/better-mount-hud) - **Lortseam**,
 - [Indium](https://modrinth.com/mod/indium) - **comp500**,
 - [Iris](https://github.com/IrisShaders/Iris) - **coderbot**, **FoundationGames**, **IMS212**, **Justsnoopy30**,
-- [Keep Resource Packs (Aka KeepResourcePackOnProxiedServerSwitch)](https://modrinth.com/mod/keepresourcepack) - **kennytv**,
 - [LazyLang (Aka Language Reload)](https://modrinth.com/mod/language-reload) - **Jerozgen**,
 - [Lithium](https://github.com/CaffeineMC/lithium-fabric/tree/develop) - **2No2Name**, **JellySquid**,
 - [Midnight Controls](https://modrinth.com/mod/midnightcontrols) - **Motschen**, **LambdAurora**,
