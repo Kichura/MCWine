@@ -708,7 +708,7 @@
       }
     },
     "disableScoreboardRendering": {
-      "enabled": true,
+      "enabled": false,
       "hotkey": {
         "keys": "F3,4"
       }
