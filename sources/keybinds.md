@@ -25,6 +25,7 @@ The following table of modified keybinds can be seen here:
 | Shaderpack Selection Screen | O         | Not Bound   |
 | Open Tweakeroo Config       | Not Bound | F3+0        |
 | Toggle Scoreboard           | Not Bound | F3+4        |
+| Toggle Boss Bar             | Not Bound | F3+5        |
 
 *Other keybinds such as `List Players` (for example) are not shown as they were never modified by this modpack,\
 The tweakeroo keybinds are not available in the Modrinth version as the mod is not present there.*
