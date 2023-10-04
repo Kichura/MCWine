@@ -38,13 +38,13 @@
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "net.fabricmc:fabric-loader:0.14.22",
+            "name": "net.fabricmc:fabric-loader:0.14.23",
             "url": "https://maven.fabricmc.net"
         }
     ],
     "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
     "name": "Fabric Loader",
-    "releaseTime": "2023-10-02",
+    "releaseTime": "2023-10-04",
     "requires": [
         {
             "uid": "net.fabricmc.intermediary"
@@ -53,5 +53,5 @@
     "type": "release",
     "order": 1,
     "uid": "net.fabricmc.fabric-loader",
-    "version": "0.14.22"
+    "version": "0.14.23"
 }
