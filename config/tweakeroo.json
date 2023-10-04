@@ -554,7 +554,7 @@
     "disableBossBar": {
       "enabled": false,
       "hotkey": {
-        "keys": ""
+        "keys": "F3,5"
       }
     },
     "disableBossFog": {
