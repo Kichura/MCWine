@@ -4,7 +4,7 @@
     "fabricloader": {
       "+depends": {
         "fabricloader": ">=0.14.22",
-        "fabric-api": ">=0.89.3+1.20.2",
+        "fabric-api": ">=0.90.0+1.20.2",
         "fabric-language-kotlin": ">=1.10.10+kotlin.1.10.0"
       },
       "+suggests": {
@@ -62,7 +62,7 @@
       },
       "+suggests": {
         "nochatreports": "*",
-        "viarewind": ">=3.0.0"
+        "viarewind": ">=3.0.1"
       },
       "+breaks": {
         "essential-container": "*",
