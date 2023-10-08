@@ -5,7 +5,9 @@
 # By default this is done to indicate the 1.9.x+ PvP cooldown system aswell as fixes like books for example.
 #
 cooldown-indicator: TITLE
+emulate-world-border: true
 max-book-page-length: 3500
 max-book-pages: 50
 replace-adventure: true
 replace-particles: true
+world-border-particle: fireworksSpark
