@@ -96,7 +96,7 @@
 - [MannyQUESO](https://www.planetminecraft.com/texture-pack/improved-daylight-sensor) - Improves the day & night sensors,
 - [Hippopotamoss](https://www.planetminecraft.com/texture-pack/coarse-dirt-hanging-roots) - Makes the hanging roots match the coarse dirt design,
 - [CountXD](https://www.planetminecraft.com/texture-pack/glowing-armor-trims-5933760) - Makes the armor trims glow, (OF or EMF mod required)
-- [Cappee](https://www.planetminecraft.com/texture-pack/cappee-s-consistent-egg-items) - Changes sniffer egg to be consistent,
+- [Cappee](https://pastebin.com/raw/dTxJWijn) - Changes sniffer egg to be consistent and converts tall flowers into items via GUIs,
 - [SandWhoop](https://www.planetminecraft.com/texture-pack/book-thred-fix) - Fixes the book and quill GUI from being offset,
 - [AWheelingNerd](https://www.planetminecraft.com/texture-pack/enhancedping) - Enhances the ping icons,
 - [JohnnykilroyV2](https://www.planetminecraft.com/texture-pack/johnnykilroy-s-small-edits) - Enhances the pitcher plant and torchflower,
