@@ -47,9 +47,9 @@
     "armor_stand": true,
     "beacon_beam": true,
     "dimensionFogDistance": {
-      "minecraft:overworld": 12,
-      "minecraft:the_end": 12,
-      "minecraft:the_nether": 12
+      "minecraft:overworld": 16,
+      "minecraft:the_end": 16,
+      "minecraft:the_nether": 16
     },
     "enchanting_table_book": true,
     "fog_distance": 0,
