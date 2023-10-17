@@ -24,7 +24,7 @@ darknessEffectScale:0.0
 directionalAudio:true
 discrete_mouse_scroll:false
 enableVsync:false
-entityDistanceScaling:0.5
+entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
 fov:0.0
