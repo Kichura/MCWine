@@ -124,12 +124,12 @@ rawMouseInput:false
 realmsNotifications:false
 reducedDebugInfo:false
 renderClouds:"false"
-renderDistance:8
+renderDistance:10
 resourcePacks:["fabric","vanilla","file/Default+.zip"]
 screenEffectScale:0.0
 showAutosaveIndicator:false
 showSubtitles:false
-simulationDistance:5
+simulationDistance:8
 skipMultiplayerWarning:true
 skipRealms32bitWarning:true
 soundCategory_ambient:1.0
