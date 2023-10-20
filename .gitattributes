@@ -27,6 +27,7 @@ LICENSE             text
 .gitattributes export-ignore
 sources export-ignore
 sources/jvm_arguments.md export-ignore
+sources/keybinds.md export-ignore
 sources/mods_used.md export-ignore
 sources/sources_list.md export-ignore
 README.md export-ignore
