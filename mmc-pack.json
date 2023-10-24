@@ -22,10 +22,10 @@
         },
         {
             "cachedName": "Apache Log4J",
-            "cachedVersion": "2.21.0",
+            "cachedVersion": "2.21.1",
             "cachedVolatile": true,
             "uid": "org.apache.logging.log4j",
-            "version": "2.21.0"
+            "version": "2.21.1"
         },
         {
             "cachedName": "SLF4J",
@@ -76,9 +76,9 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "cachedVersion": "0.14.23",
+            "cachedVersion": "0.14.24",
             "uid": "net.fabricmc.fabric-loader",
-            "version": "0.14.23"
+            "version": "0.14.24"
         }
     ],
     "formatVersion": 1
