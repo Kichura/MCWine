@@ -81,7 +81,7 @@
 - [DartCat25](https://www.planetminecraft.com/texture-pack/prettier-tint) - Improves tinting on leather armor and potion overlay,
 - [DevDyna](https://www.curseforge.com/minecraft/texture-packs/fixsculk) - Animates the sculk block,
 - [carriecare](https://pastebin.com/raw/2JVUKnqm) - Adjusts the acacia textures and modernizes creeper + enderman,
-- [DeadbushCarrot](https://www.planetminecraft.com/texture-pack/fixed-diamond-armor) - Fixes the diamond chestplate model,
+- [DeadbushCarrot](https://pastebin.com/raw/NtiEJVUX) - Fixes the diamond chestplate model,
 - [cornbread_alphanumeric](https://www.curseforge.com/minecraft/texture-packs/cornbreads-music-fixer) - Fixes soundtrack so that they play properly in actual order,
 - [Haikis](https://www.curseforge.com/minecraft/texture-packs/low-on-fire) - Lowers fire animation whilst in first person,
 - [blank3times](https://www.planetminecraft.com/texture-pack/consistent-bamboo-wood) - Makes bamboo wood consistent,
@@ -103,7 +103,8 @@
 - [Cr4ftx](https://www.planetminecraft.com/texture-pack/reshaded-books) - Reshades the regular + enchanted book,
 - [SpleedSnowBrawl](https://www.planetminecraft.com/texture-pack/better-items-1-20-exclusive-add-on) - Enhances the brush, smithing templates and relic music disc,
 - [WhiterM](https://www.planetminecraft.com/texture-pack/better-armor-trims-6049900) - Improves the armor trim items,
-- [ZenithKnight](https://www.planetminecraft.com/texture-pack/colored-sheared-sheep) - Keeps the color of sheared sheep.
+- [ZenithKnight](https://www.planetminecraft.com/texture-pack/colored-sheared-sheep) - Keeps the color of sheared sheep,
+- [railgun](https://modrinth.com/resourcepack/centered-crosshair-fix) - Centers the crosshair.
 
 ## Resource Pack Credits (Programmer Art+)
 
