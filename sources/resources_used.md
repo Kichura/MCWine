@@ -102,7 +102,8 @@
 - [JohnnykilroyV2](https://www.planetminecraft.com/texture-pack/johnnykilroy-s-small-edits) - Enhances the pitcher plant and torchflower,
 - [Cr4ftx](https://www.planetminecraft.com/texture-pack/reshaded-books) - Reshades the regular + enchanted book,
 - [SpleedSnowBrawl](https://www.planetminecraft.com/texture-pack/better-items-1-20-exclusive-add-on) - Enhances the brush, smithing templates and relic music disc,
-- [WhiterM](https://www.planetminecraft.com/texture-pack/better-armor-trims-6049900) - Improves the armor trim items.
+- [WhiterM](https://www.planetminecraft.com/texture-pack/better-armor-trims-6049900) - Improves the armor trim items,
+- [ZenithKnight](https://www.planetminecraft.com/texture-pack/colored-sheared-sheep) - Keeps the color of sheared sheep.
 
 ## Resource Pack Credits (Programmer Art+)
 
