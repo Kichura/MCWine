@@ -81,7 +81,7 @@
 - [DartCat25](https://www.planetminecraft.com/texture-pack/prettier-tint) - Improves tinting on leather armor and potion overlay,
 - [DevDyna](https://www.curseforge.com/minecraft/texture-packs/fixsculk) - Animates the sculk block,
 - [carriecare](https://pastebin.com/raw/2JVUKnqm) - Adjusts the acacia textures and modernizes creeper + enderman,
-- [DeadbushCarrot](https://pastebin.com/raw/NtiEJVUX) - Fixes the diamond chestplate model,
+- [DeadbushCarrot](https://pastebin.com/raw/NtiEJVUX) - Fixes the diamond chestplate model and ports bedrock water to java, (Bedrock water requires OF or Colormatic mod)
 - [cornbread_alphanumeric](https://www.curseforge.com/minecraft/texture-packs/cornbreads-music-fixer) - Fixes soundtrack so that they play properly in actual order,
 - [Haikis](https://www.curseforge.com/minecraft/texture-packs/low-on-fire) - Lowers fire animation whilst in first person,
 - [blank3times](https://www.planetminecraft.com/texture-pack/consistent-bamboo-wood) - Makes bamboo wood consistent,
