@@ -104,7 +104,8 @@
 - [SpleedSnowBrawl](https://www.planetminecraft.com/texture-pack/better-items-1-20-exclusive-add-on) - Enhances the brush, smithing templates and relic music disc,
 - [WhiterM](https://www.planetminecraft.com/texture-pack/better-armor-trims-6049900) - Improves the armor trim items,
 - [ZenithKnight](https://www.planetminecraft.com/texture-pack/colored-sheared-sheep) - Keeps the color of sheared sheep,
-- [railgun](https://modrinth.com/resourcepack/centered-crosshair-fix) - Centers the crosshair.
+- [railgun](https://modrinth.com/resourcepack/centered-crosshair-fix) - Centers the crosshair,
+- [AmongstReality](https://modrinth.com/resourcepack/amongstrealitys-bow) - Gives the bow a new design.
 
 ## Resource Pack Credits (Programmer Art+)
 
