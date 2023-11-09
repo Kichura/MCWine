@@ -116,7 +116,8 @@
 - [DeadbushCarrot](https://www.planetminecraft.com/texture-pack/fixed-diamond-armor-programer-art) - Fixes the diamond chestplate model on programmer art,
 - [blank3times](https://www.planetminecraft.com/texture-pack/cherry-blossom-programmer-art) - Implements cherry blocks to programmer art,
 - [robotkoer](https://modrinth.com/resourcepack/chat-reporting-helper) - Makes the chat reporting system less complicated to read,
-- [glitchy256](https://www.curseforge.com/minecraft/texture-packs/classic-handhelds) - Restores the 1.8.x handhelds.
+- [glitchy256](https://www.curseforge.com/minecraft/texture-packs/classic-handhelds) - Restores the 1.8.x handhelds,
+- [Twixxi](https://www.modrinth.com/resourcepack/large-roman-numerals) - Adds further romanic for level 0 - 255,
 
 ## Resource Pack Credits (High Contrast+)
 
@@ -125,6 +126,7 @@
 - [Lizter](https://www.curseforge.com/minecraft/texture-packs/higher-contrast) - Implements icon to pack,
 - [Kichura (That is me!)](https://github.com/Kichura) - Fixes third-party textures and polishing tiny details,
 - [robotkoer](https://modrinth.com/resourcepack/chat-reporting-helper) - Makes the chat reporting system less complicated to read,
-- [Cleora](https://pastebin.com/raw/A6QGinfJ) - Modernizes all default skins.
+- [Cleora](https://pastebin.com/raw/A6QGinfJ) - Modernizes all default skins,
+- [Twixxi](https://www.modrinth.com/resourcepack/large-roman-numerals) - Adds further romanic for level 0 - 255,
 
 *(This list is subject to change - If you do not want to use any of the two resource packs then you can disable them in the resource packs configuration page in-game)*
