@@ -38,9 +38,9 @@
 - [Timeless](https://modrinth.com/mod/timeless) - **RaderRMT**,
 - [Tweakeroo](https://github.com/maruohon/tweakeroo) - **masady**,
 - [Unstuck Titles (Aka Title Fix)](https://modrinth.com/mod/title-fix-mod) - **DuncanRuns**,
-- [ViaBackwards](https://github.com/ViaVersion/ViaBackwards) - **creeper123123321**, **ForceUpdate1**, **Gerrygames**, **kennytv**, **Matsv**,
-- [ViaFabric](https://github.com/ViaVersion/ViaFabric) - **creeper123123321**,
-- [ViaRewind](https://github.com/ViaVersion/ViaRewind) - **Gerrygames**, **FlorianMichael/EnZaXD**, **creeper123321123**,
+- [ViaBackwards](https://modrinth.com/plugin/viabackwards) - **creeper123123321**, **ForceUpdate1**, **Gerrygames**, **kennytv**, **Matsv**,
+- [ViaFabric](https://modrinth.com/mod/viafabric) - **creeper123123321**,
+- [ViaRewind](https://modrinth.com/plugin/viarewind) - **Gerrygames**, **FlorianMichael/EnZaXD**, **creeper123321123**,
 - [Zoom (Aka Logical Zoom)](https://github.com/LogicalGeekBoy/logical_zoom) - **LogicalGeekBoy**,
 
 ## Libraries used for this pack
