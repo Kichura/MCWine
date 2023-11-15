@@ -128,5 +128,7 @@
 - [robotkoer](https://modrinth.com/resourcepack/chat-reporting-helper) - Makes the chat reporting system less complicated to read,
 - [Cleora](https://pastebin.com/raw/A6QGinfJ) - Modernizes all default skins,
 - [Twixxi](https://www.modrinth.com/resourcepack/large-roman-numerals) - Adds further romanic for level 0 - 255,
+- [railgun](https://modrinth.com/resourcepack/better-wither-heart) - Improves the wither heart to be morely obvious,
+- [Rhythmic](https://modrinth.com/resourcepack/high-contrast-pottery) - Makes the pottery symbols easier to tell.
 
 *(This list is subject to change - If you do not want to use any of the two resource packs then you can disable them in the resource packs configuration page in-game)*
