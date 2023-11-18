@@ -4,8 +4,8 @@
 # This will tell Remove Reloading Screen to show the progress bar,
 # whilst taking care of everything else without including distractions.
 #
-enabled = true
-loadingScreenHide = false
+animationSpeed = 1500.0
+hideType = "RELOADING"
 reInitScreen = true
 reloadText = ""
 resetResources = true
