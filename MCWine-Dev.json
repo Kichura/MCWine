@@ -1,8 +1,8 @@
 {
   "id": "MCWine-Dev",
   "inheritsFrom": "1.20.2",
-  "releaseTime": "2023-11-20",
-  "time": "2023-11-20",
+  "releaseTime": "2023-11-25",
+  "time": "2023-11-25",
   "type": "release",
   "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
   "assets": "8",
@@ -298,10 +298,10 @@
     {
       "downloads": {
         "artifact": {
-         "path": "com/github/oshi/oshi-core/6.4.7/oshi-core-6.4.7.jar",
-         "sha1": "7577b3e9c0e3946100145639689ad648f34316b8",
-         "size": 975588,
-         "url": "https://repo1.maven.org/maven2/com/github/oshi/oshi-core/6.4.7/oshi-core-6.4.7.jar"
+         "path": "com/github/oshi/oshi-core/6.4.8/oshi-core-6.4.8.jar",
+         "sha1": "aa87845731c42da5607708b893c6a37ec1fb9791",
+         "size": 975591,
+         "url": "https://repo1.maven.org/maven2/com/github/oshi/oshi-core/6.4.8/oshi-core-6.4.8.jar"
         }
       },
       "name": "com.github.oshi:oshi-core:6.4.7"
