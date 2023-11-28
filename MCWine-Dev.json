@@ -93,6 +93,10 @@
       "url": "https://maven.fabricmc.net/"
     },
     {
+      "name": "io.github.llamalad7:mixinextras-fabric:0.3.0",
+      "url": "https://maven.fabricmc.net/"
+    },
+    {
       "name": "net.fabricmc:fabric-loader:0.15.0",
       "url": "https://maven.fabricmc.net/"
     },
