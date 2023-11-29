@@ -109,7 +109,7 @@
 
 ## Resource Pack Credits (Programmer Art+)
 
-- [Crackers0106](https://www.planetminecraft.com/minecraft/texture-pack/programmer-art) - Base used for own Programmer Art+ variant,
+- [Crackers0106](https://www.planetminecraft.com/texture-pack/programmer-art) - Base used for own Programmer Art+ variant,
 - [SalC1](https://salc1.com) - Changes sounds back to the old ones and includes other PA restorations,
 - [thgabs](https://www.curseforge.com/minecraft/texture-packs/programmer-art-fix) - Fixes some of the missing assets,
 - [nappabutterfinger](https://www.planetminecraft.com/texture-pack/162old-food-textures-resource-pack) - Restores food items to their old variants,
@@ -118,6 +118,7 @@
 - [robotkoer](https://modrinth.com/resourcepack/chat-reporting-helper) - Makes the chat reporting system less complicated to read,
 - [glitchy256](https://www.curseforge.com/minecraft/texture-packs/classic-handhelds) - Restores the 1.8.x handhelds,
 - [Twixxi](https://www.modrinth.com/resourcepack/large-roman-numerals) - Adds further romanic for level 0 - 255,
+- [mbanders](https://www.planetminecraft.com/texture-pack/cohesive-block-sounds) - Makes block sounds cohesive.
 
 ## Resource Pack Credits (High Contrast+)
 
