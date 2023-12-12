@@ -38,7 +38,7 @@
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "io.github.llamalad7:mixinextras-fabric:0.3.1",
+            "name": "io.github.llamalad7:mixinextras-fabric:0.3.2",
             "url": "https://maven.fabricmc.net/"
         },
         {
@@ -48,7 +48,7 @@
     ],
     "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
     "name": "Fabric Loader",
-    "releaseTime": "2023-12-09",
+    "releaseTime": "2023-12-12",
     "requires": [
         {
             "uid": "net.fabricmc.intermediary"
