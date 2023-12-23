@@ -107,7 +107,9 @@
 - [railgun](https://modrinth.com/resourcepack/centered-crosshair-fix) - Centers the crosshair,
 - [AmongstReality](https://modrinth.com/resourcepack/amongstrealitys-bow) - Gives the bow a new design,
 - [ivan2604](https://pastebin.com/raw/7Va90Mrn) - Fixes trapdoor handles and certain GUIs,
-- [NaryNotNarold](https://modrinth.com/resourcepack/redecorated-pot) - Redesigns the decorated pots.
+- [NaryNotNarold](https://modrinth.com/resourcepack/redecorated-pot) - Redesigns the decorated pots,
+- [LobbyLC](https://modrinth.com/resourcepack/compass) - Makes the compass consistent with recovery compass,
+- [Kotyarendj](https://modrinth.com/resourcepack/chrismaschestfix) - Fixes the christmas chest where the present part is cut-off.
 
 ## Resource Pack Credits (Programmer Art+)
 
@@ -120,7 +122,8 @@
 - [robotkoer](https://modrinth.com/resourcepack/chat-reporting-helper) - Makes the chat reporting system less complicated to read,
 - [glitchy256](https://www.curseforge.com/minecraft/texture-packs/classic-handhelds) - Restores the 1.8.x handhelds,
 - [Twixxi](https://www.modrinth.com/resourcepack/large-roman-numerals) - Adds further romanic for level 0 - 255,
-- [Sencie](https://www.planetminecraft.com/texture-pack/old-sounds-4911323) - Restores the old sound effects.
+- [Sencie](https://www.planetminecraft.com/texture-pack/old-sounds-4911323) - Restores the old sound effects,
+- [haloman30](https://www.planetminecraft.com/texture-pack/classic-pre-1-13-font) - Restores the 1.12.2 font.
 
 ## Resource Pack Credits (High Contrast+)
 

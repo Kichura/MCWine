@@ -62,6 +62,7 @@ mode = "fast"
 				command_block = false
 				comparator = false
 				conduit = false
+				crafter = false
 				daylight_detector = false
 				decorated_pot = false
 				dispenser = false
@@ -88,6 +89,7 @@ mode = "fast"
 				structure_block = false
 				suspicious_sand = false
 				trapped_chest = false
+				trial_spawner = false
 		#
 		# What entities to toggle in order to be used in dynamic lights,
 		# Similar to the block entity switches above except it's about the non-block entities instead.
@@ -106,6 +108,7 @@ mode = "fast"
 				blaze = true
 				block_display = false
 				boat = false
+				breeze = true
 				camel = false
 				cat = false
 				cave_spider = true
@@ -210,6 +213,7 @@ mode = "fast"
 				vindicator = false
 				wandering_trader = false
 				warden = true
+				wind_charge = false
 				witch = false
 				wither = true
 				wither_skeleton = false
