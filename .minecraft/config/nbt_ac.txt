@@ -1,0 +1,16 @@
+#
+# Configuration for NBT AutoComplete goes here,
+#
+# This allows experienced players to use NBT-related commands properly with autocomplete,
+# without having to constantly look up documentations on what tags to use everytime.
+#
+hide_forge_tags = true
+ignore_letter_case = true
+load_from_resources = true
+print_exception_stack_trace = false
+save_suggestions = 0
+short_boolean = false
+show_tag_types = false
+support_command_namespace = true
+use_disassembler = true
+use_new_thread = true

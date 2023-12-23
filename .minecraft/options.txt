@@ -40,6 +40,7 @@ hideBundleTutorial:true
 hideLightningFlashes:true
 hideMatchedNames:true
 hideServerAddress:true
+hideSplashTexts:false
 highContrast:false
 incompatibleResourcePacks:[]
 invertYMouse:false
@@ -151,4 +152,4 @@ toggleSprint:false
 touchscreen:false
 tutorialStep:none
 useNativeTransport:true
-version:3578
+version:3700

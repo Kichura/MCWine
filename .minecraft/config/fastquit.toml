@@ -7,5 +7,5 @@
 allowMultipleServers = true
 backgroundPriority = 3
 renderSavingScreen = false
-showSavingTime = "§cNo"
+showSavingTime = "FALSE"
 showToasts = false
