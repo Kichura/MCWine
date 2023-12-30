@@ -16,8 +16,6 @@ client-side-force-disable:
 - '*.autcraft.com'
 - bedwarspractice.club
 - '*.bedwarspractice.club'
-- brawl.com
-- '*.brawl.com'
 - bridger.land
 - '*.bridger.land'
 - cubecraft.net
@@ -28,6 +26,8 @@ client-side-force-disable:
 - '*.gommehd.net'
 - havocmc.net
 - '*.havocmc.net'
+- hoplite.gg
+- '*.hoplite.gg'
 - hypixel.net
 - '*.hypixel.net'
 - imaginefun.net
@@ -38,8 +38,6 @@ client-side-force-disable:
 - '*.lunar.gg'
 - mccisland.net
 - '*.mccisland.net'
-- mcbrawl.com
-- '*.mcbrawl.com'
 - mcmiddleearth.com
 - '*.mcmiddleearth.com'
 - mcplayhd.net
@@ -60,8 +58,6 @@ client-side-force-disable:
 - '*.performium.net'
 - piratemc.com
 - '*.piratemc.com'
-- potion.land
-- '*.potion.land'
 - potterworldmc.com
 - '*.potterworldmc.com'
 - pvplegacy.net
