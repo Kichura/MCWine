@@ -139,4 +139,4 @@
 - [Rhythmic](https://modrinth.com/resourcepack/high-contrast-pottery) - Makes the pottery symbols easier to tell,
 - [Embin](https://modrinth.com/resourcepack/embin-hardcore_absorption) - Improves the absorption hearts in hardcore mode.
 
-*(This list is subject to change - If you do not want to use any of the two resource packs then you can disable them in the resource packs configuration page in-game)*
+*(This list is subject to change - If you do not want to use any of the three resource packs then you can disable them in the resource packs configuration page in-game)*
