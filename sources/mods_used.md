@@ -51,4 +51,4 @@
 - [SpruceUI](https://github.com/LambdAurora/SpruceUI) - **LambdAurora**,
 - [ViaVersion](https://github.com/ViaVersion/ViaVersion) - **_MylesC**, **creeper123123321**, **Gerrygames**, **kennytv**, **Matsv**.
 
-*(This list is subject to change - If a mod fails to boot this client then refer to the 5th disclaimer comment in main repository page)*
+*(This list is subject to change - If a mod fails to boot this client then refer to the 4th disclaimer comment in main repository page)*
