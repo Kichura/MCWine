@@ -2,7 +2,7 @@
 
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) - Contains most of the tweaks,
 - [Kichura (That is me!)](https://github.com/Kichura) - Fixes third-party textures / pack scripts,
-- [GamingMike21](https://twitch.tv/gaming_mike21) - Helping with updating textures such as sniffer spawn egg,
+- [GamingMike21](https://twitch.tv/gaming_mike21) - Helping with updating textures such as spawn eggs,
 - [TheMobCave](https://www.youtube.com/watch?v=9PYpUCo8TKQ) - Replaces rain sound effects,
 - [TinyDaggsy](https://pastebin.com/raw/DVfVa2VM) - Changes llama decoration, furnaces, shulker boxes, signs, coral blocks, etc,
 - [EpicOOF](https://modrinth.com/resourcepack/corrected-mob-heads) - Moves heads to camera for better view,
@@ -109,7 +109,8 @@
 - [ivan2604](https://pastebin.com/raw/7Va90Mrn) - Fixes trapdoor handles and certain GUIs,
 - [NaryNotNarold](https://modrinth.com/resourcepack/redecorated-pot) - Redesigns the decorated pots,
 - [LobbyLC](https://modrinth.com/resourcepack/compass) - Makes the compass consistent with recovery compass,
-- [Kotyarendj](https://modrinth.com/resourcepack/chrismaschestfix) - Fixes the christmas chest where the present part is cut-off.
+- [Kotyarendj](https://modrinth.com/resourcepack/chrismaschestfix) - Fixes the christmas chest where the present part is cut-off,
+- [PrimalGlina](https://www.planetminecraft.com/texture-pack/refreshed-armadillo) - Changes the armadillo assets to look less weird.
 
 ## Resource Pack Credits (Programmer Art+)
 

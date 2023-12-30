@@ -1,10 +1,11 @@
 {
   "BINDING": {},
   "analogMovement": true,
-  "autoSwitchMode": false,
   "arrowScreens": [
     "net.minecraft.class_408"
   ],
+  "autoSwitchMode": false,
+  "cameraMode": "FLAT",
   "closeButtonScreens": [
     "net.minecraft.class_408",
     "net.minecraft.class_457"
@@ -72,16 +73,16 @@
     "screenshot",
     "toggle_perspective"
   ],
-  "maxAnalogValueLeftX": 1.0,
-  "maxAnalogValueLeftY": 1.0,
-  "maxAnalogValueRightX": 1.0,
-  "maxAnalogValueRightY": 1.0,
   "maxAnalogValues": [
     1.0,
     1.0,
     1.0,
     1.0
   ],
+  "maxAnalogValueLeftX": 1.0,
+  "maxAnalogValueLeftY": 1.0,
+  "maxAnalogValueRightX": 1.0,
+  "maxAnalogValueRightY": 1.0,
   "mouseScreens": [
     "com.mamiyaotaru.voxelmap.gui.GuiPersistentMap",
     "com.mamiyaotaru.voxelmap.gui.GuiWaypoints",
@@ -107,24 +108,25 @@
     "use"
   ],
   "ringBindings": [],
-  "rotationSpeed": 25.0,
+  "rotationSpeed": 12.0,
   "secondControllerID": -1.0,
   "shortcutInControls": true,
   "shouldRenderReacharoundOutline": false,
   "touchBreakDelay": 120,
+  "touchInControllerMode": false,
   "touchMode": "FINGER_POS",
   "touchOutlineColorAlpha": 150,
   "touchOutlineColorHex": "#ffffff",
-  "touchSpeed": 25.0,
+  "touchSpeed": 12.0,
   "touchTransparency": 75,
-  "triggerFix": false,
+  "triggerFix": true,
   "unfocusedInput": true,
   "verticalFlyDrifting": true,
   "verticalReacharound": false,
   "virtualMouse": false,
   "virtualMouseSkin": "DEFAULT_DARK",
+  "yAxisRotationSpeed": 12.0,
   "wasdScreens": [
     "com.ultreon.devices.core.Laptop"
-  ],
-  "yAxisRotationSpeed": 25.0
+  ]
 }
