@@ -20,7 +20,7 @@
 
 4. The -Xms and -Xmx parts can be modified to your own personal likings in case the Java RAM is insufficient,
 
-5. The JVM arguments list above are not supported by OpenJ9 and instead hotspot must be used instead.
+5. The JVM arguments list above are not supported by OpenJ9 and instead hotspot must be used.
 
 
 ## Sources Used For The Scripts:
