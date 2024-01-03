@@ -5,6 +5,8 @@
 # whilst taking care of everything else without including distractions.
 #
 animationSpeed = 250.0
+aprilFool = "DISABLED"
+earlyPackStatusSend = true
 hideType = "RELOADING"
 reInitScreen = true
 reloadText = ""
