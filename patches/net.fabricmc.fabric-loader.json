@@ -10,7 +10,7 @@
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "net.fabricmc:tiny-remapper:0.9.0",
+            "name": "net.fabricmc:tiny-remapper:0.10.0",
             "url": "https://maven.fabricmc.net/"
         },
         {
@@ -48,7 +48,7 @@
     ],
     "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
     "name": "Fabric Loader",
-    "releaseTime": "2023-12-18",
+    "releaseTime": "2024-01-04",
     "requires": [
         {
             "uid": "net.fabricmc.intermediary"
