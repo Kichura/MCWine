@@ -1,8 +1,8 @@
 {
   "id": "MCWine-Nightly",
   "inheritsFrom": "1.20.4",
-  "releaseTime": "2024-01-07",
-  "time": "2024-01-07",
+  "releaseTime": "2024-01-09",
+  "time": "2024-01-09",
   "type": "release",
   "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
   "assets": "12",
@@ -130,13 +130,13 @@
     {
       "downloads": {
         "artifact": {
-         "path": "org/slf4j/slf4j-api/2.0.10/slf4j-api-2.0.10.jar",
-         "sha1": "7af762c03f74a463d36d5786ec67006cce865892",
-         "size": 67841,
-         "url": "https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.10/slf4j-api-2.0.10.jar"
+         "path": "org/slf4j/slf4j-api/2.0.11/slf4j-api-2.0.11.jar",
+         "sha1": "ad96c3f8cf895e696dd35c2bc8e8ebe710be9e6d",
+         "size": 67831,
+         "url": "https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.11/slf4j-api-2.0.11.jar"
         }
       },
-      "name": "org.slf4j:slf4j-api:2.0.10"
+      "name": "org.slf4j:slf4j-api:2.0.11"
     },
     {
       "downloads": {
