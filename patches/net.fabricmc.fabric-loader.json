@@ -42,7 +42,7 @@
             "url": "https://repo1.maven.org/maven2/"
         },
         {
-            "name": "net.fabricmc:fabric-loader:0.15.5",
+            "name": "net.fabricmc:fabric-loader:0.15.6",
             "url": "https://maven.fabricmc.net/"
         }
     ],
@@ -57,5 +57,5 @@
     "type": "release",
     "order": 1,
     "uid": "net.fabricmc.fabric-loader",
-    "version": "0.15.5"
+    "version": "0.15.6"
 }
