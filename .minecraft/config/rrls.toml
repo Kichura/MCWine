@@ -6,12 +6,15 @@
 #
 animationSpeed = 250.0
 aprilFool = "DISABLED"
+blockOverlay = false
+doubleLoad = "LOAD"
 earlyPackStatusSend = true
 forceClose = false
 hideType = "RELOADING"
 miniRender = true
 reInitScreen = true
 reloadText = ""
+removeOverlayAtEnd = true
 resetResources = true
 rgbProgress = false
 type = "PROGRESS"
