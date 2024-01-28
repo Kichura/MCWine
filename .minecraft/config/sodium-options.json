@@ -5,7 +5,9 @@
     "use_advanced_staging_buffers": false
   },
   "notifications": {
-    "hide_donation_button": false
+    "force_disable_donation_prompts": true,
+    "has_cleared_donation_button": true,
+    "has_seen_donation_prompt": true
   },
   "performance": {
     "chunk_builder_threads": 1,
