@@ -24,6 +24,7 @@
 - [NBT AutoComplete](https://modrinth.com/mod/nbt-autocomplete) - **mt1006**,
 - [No Chat Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) - **Aizistral**,
 - [No Flashing Night Vision (Aka Night Vision flash be gone)](https://github.com/AshIndigo/NightVisionFlashBegone) - **AshIndigo**,
+- [No Mod Detection (Aka Mod Detection Preventer)](https://modrinth.com/mod/moddetectionpreventer) - **JustAlittleWolf**,
 - [NoMoreScore](https://github.com/Ecorous/NoMoreScore) - **Ecorous**,
 - [Remove GFARB (Aka Game Menu Remove GFARB)](https://modrinth.com/mod/gamemenuremovegfarb) - **morimori0317**,
 - [Remove Reloading Screen](https://modrinth.com/mod/rrls) - **dima_dencep**,
