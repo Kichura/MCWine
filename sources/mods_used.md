@@ -31,6 +31,7 @@
 - [Remove Report Button (Aka No Report Button)](https://modrinth.com/mod/nrb) - **Lucaslah**,
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - **FlashyReese**,
 - [Scrollable Tooltips (Aka Tooltip Scroll)](https://modrinth.com/mod/tooltip-scroll) - **Provismet**,
+- [Skip Backup Screen](https://modrinth.com/mod/skip-backup-screen) - **maxthetomas**,
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric/tree/dev) - **JellySquid**,
 - [Sodium Extra(s)](https://modrinth.com/mod/sodium-extra) - **FlashyReese**,
 - [Timeless](https://modrinth.com/mod/timeless) - **RaderRMT**,
