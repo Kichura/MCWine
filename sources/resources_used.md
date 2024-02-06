@@ -110,7 +110,8 @@
 - [NaryNotNarold](https://modrinth.com/resourcepack/redecorated-pot) - Redesigns the decorated pots,
 - [LobbyLC](https://modrinth.com/resourcepack/compass) - Makes the compass consistent with recovery compass,
 - [Kotyarendj](https://modrinth.com/resourcepack/chrismaschestfix) - Fixes the christmas chest where the present part is cut-off,
-- [PrimalGlina](https://www.planetminecraft.com/texture-pack/refreshed-armadillo) - Changes the armadillo assets to look less weird.
+- [PrimalGlina](https://www.planetminecraft.com/texture-pack/refreshed-armadillo) - Changes the armadillo assets to look less weird,
+- [Torrezx](https://www.planetminecraft.com/texture-pack/torrezx-best-collar) - Improves the collar on both wolves and cats.
 
 ## Resource Pack Credits (Programmer Art+)
 
