@@ -73,5 +73,6 @@
         "weather": 1.0
       }
     }
-  }
+  },
+  "uncap_menu_frame_rate": false
 }
