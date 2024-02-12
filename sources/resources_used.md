@@ -111,13 +111,14 @@
 - [LobbyLC](https://modrinth.com/resourcepack/compass) - Makes the compass consistent with recovery compass,
 - [Kotyarendj](https://modrinth.com/resourcepack/chrismaschestfix) - Fixes the christmas chest where the present part is cut-off,
 - [PrimalGlina](https://www.planetminecraft.com/texture-pack/refreshed-armadillo) - Changes the armadillo assets to look less weird,
-- [Torrezx](https://www.planetminecraft.com/texture-pack/torrezx-best-collar) - Improves the collar on both wolves and cats.
+- [Torrezx](https://www.planetminecraft.com/texture-pack/torrezx-best-collar) - Improves the collar on both wolves and cats,
+- [thgabs](https://modrinth.com/resourcepack/hangul-kana-fix) - Fixes hangul & kana fonts from being weird.
 
 ## Resource Pack Credits (Programmer Art+)
 
 - [Crackers0106](https://www.planetminecraft.com/texture-pack/programmer-art) - Base used for own Programmer Art+ variant,
 - [SalC1](https://salc1.com) - Restores the main programmer art-related changes,
-- [thgabs](https://www.curseforge.com/minecraft/texture-packs/programmer-art-fix) - Fixes some of the missing assets,
+- [thgabs](https://pastebin.com/raw/XXxBrKQw) - Fixes some of the missing assets,
 - [nappabutterfinger](https://www.planetminecraft.com/texture-pack/162old-food-textures-resource-pack) - Restores food items to their old variants,
 - [DeadbushCarrot](https://www.planetminecraft.com/texture-pack/fixed-diamond-armor-programer-art) - Fixes the diamond chestplate model on programmer art,
 - [blank3times](https://www.planetminecraft.com/texture-pack/cherry-blossom-programmer-art) - Implements cherry blocks to programmer art,
@@ -138,6 +139,7 @@
 - [Twixxi](https://www.modrinth.com/resourcepack/large-roman-numerals) - Adds further romanic for level 0 - 255,
 - [railgun](https://modrinth.com/resourcepack/better-wither-heart) - Improves the wither heart to be morely obvious,
 - [Rhythmic](https://modrinth.com/resourcepack/high-contrast-pottery) - Makes the pottery symbols easier to tell,
-- [Embin](https://modrinth.com/resourcepack/embin-hardcore_absorption) - Improves the absorption hearts in hardcore mode.
+- [Embin](https://modrinth.com/resourcepack/embin-hardcore_absorption) - Improves the absorption hearts in hardcore mode,
+- [thgabs](https://modrinth.com/resourcepack/hangul-kana-fix) - Fixes hangul & kana fonts from being weird.
 
 *(This list is subject to change - If you do not want to use any of the three resource packs then you can disable them in the resource packs configuration page in-game)*
