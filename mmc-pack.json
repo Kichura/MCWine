@@ -29,10 +29,10 @@
         },
         {
             "cachedName": "SLF4J",
-            "cachedVersion": "2.0.11",
+            "cachedVersion": "2.0.12",
             "cachedVolatile": true,
             "uid": "org.slf4j",
-            "version": "2.0.11"
+            "version": "2.0.12"
         },
         {
             "cachedName": "Oshi",
@@ -76,9 +76,9 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "cachedVersion": "0.15.6",
+            "cachedVersion": "0.15.7",
             "uid": "net.fabricmc.fabric-loader",
-            "version": "0.15.6"
+            "version": "0.15.7"
         }
     ],
     "formatVersion": 1
