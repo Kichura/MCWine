@@ -3,9 +3,9 @@
   "overrides": {
     "fabricloader": {
       "+depends": {
-        "fabricloader": ">=0.15.6",
-        "fabric-api": ">=0.95.4+1.20.4",
-        "fabric-language-kotlin": ">=1.10.17+kotlin.1.9.22"
+        "fabricloader": ">=0.15.7",
+        "fabric-api": ">=0.96.1+1.20.4",
+        "fabric-language-kotlin": ">=1.10.18+kotlin.1.9.22"
       },
       "+suggests": {
         "cloth-config": ">=13.0.121"
@@ -52,6 +52,7 @@
         "optifabric": "*",
         "optifine": "*",
         "smoothboot": "*",
+        "stutterfix": "*",
         "threadtweak": "*",
         "vmp": "*"
       }
