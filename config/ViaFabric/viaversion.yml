@@ -60,9 +60,9 @@ suppress-conversion-warnings: true
 # However because this was later merged into Paper 1.17.1 and newer, this is considered pointless to have.
 #
 max-pps: -1
-max-pps-kick-msg: §cSomething went wrong with your connection!
+max-pps-kick-msg: §cYour connection has sent too many packets at once!
 tracking-max-warnings: 18000
-tracking-max-kick-msg: §cSomething went wrong with your connection!
+tracking-max-kick-msg: §cYour connection has sent too many packets at once!
 tracking-period: -1
 tracking-warning-pps: 18000
 #
