@@ -11,13 +11,16 @@
   "game_menu_button_style": "replace_bugs",
   "hidden_configs": [
     "cloth-config",
+    "itemmodelfix",
     "languagereload",
     "libgui",
     "malilib",
     "mica",
     "midnightlib",
     "modernfix",
+    "nbt_ac",
     "nochatreports",
+    "oldpotions",
     "rrls"
   ],
   "hidden_mods": [
