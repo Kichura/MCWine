@@ -59,12 +59,12 @@
     },
     "viafabric": {
       "+depends": {
-        "viabackwards": ">=4.9.1",
-        "viaversion": ">=4.9.2"
+        "viabackwards": ">=4.9.2",
+        "viaversion": ">=4.9.3"
       },
       "+suggests": {
         "nochatreports": "*",
-        "viarewind": ">=3.0.5"
+        "viarewind": ">=3.0.6"
       },
       "+breaks": {
         "essential-container": "*",
