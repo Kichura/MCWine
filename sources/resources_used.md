@@ -112,7 +112,8 @@
 - [Kotyarendj](https://modrinth.com/resourcepack/chrismaschestfix) - Fixes the christmas chest where the present part is cut-off,
 - [PrimalGlina](https://www.planetminecraft.com/texture-pack/refreshed-armadillo) - Changes the armadillo assets to look less weird,
 - [Torrezx](https://www.planetminecraft.com/texture-pack/torrezx-best-collar) - Improves the collar on both wolves and cats,
-- [thgabs](https://modrinth.com/resourcepack/hangul-kana-fix) - Fixes hangul & kana fonts from being weird.
+- [thgabs](https://modrinth.com/resourcepack/hangul-kana-fix) - Fixes hangul & kana fonts from being weird,
+- [haventhadadonutyet](https://modrinth.com/resourcepack/bring-back-old-potion-colors) - Restores the old potion colors. (OF / Colormatic variant)
 
 ## Resource Pack Credits (Programmer Art+)
 
@@ -126,7 +127,8 @@
 - [glitchy256](https://www.curseforge.com/minecraft/texture-packs/classic-handhelds) - Restores the 1.8.x handhelds,
 - [Twixxi](https://www.modrinth.com/resourcepack/large-roman-numerals) - Adds further romanic for level 0 - 255,
 - [Sencie](https://www.planetminecraft.com/texture-pack/old-sounds-4911323) - Restores the old sound effects,
-- [haloman30](https://www.planetminecraft.com/texture-pack/classic-pre-1-13-font) - Restores the 1.12.2 font.
+- [haloman30](https://www.planetminecraft.com/texture-pack/classic-pre-1-13-font) - Restores the 1.12.2 font,
+- [haventhadadonutyet](https://modrinth.com/resourcepack/bring-back-old-potion-colors) - Restores the old potion colors. (OF / Colormatic variant)
 
 ## Resource Pack Credits (High Contrast+)
 
@@ -140,6 +142,7 @@
 - [railgun](https://modrinth.com/resourcepack/better-wither-heart) - Improves the wither heart to be morely obvious,
 - [Rhythmic](https://modrinth.com/resourcepack/high-contrast-pottery) - Makes the pottery symbols easier to tell,
 - [Embin](https://modrinth.com/resourcepack/embin-hardcore_absorption) - Improves the absorption hearts in hardcore mode,
-- [thgabs](https://modrinth.com/resourcepack/hangul-kana-fix) - Fixes hangul & kana fonts from being weird.
+- [thgabs](https://modrinth.com/resourcepack/hangul-kana-fix) - Fixes hangul & kana fonts from being weird,
+- [haventhadadonutyet](https://modrinth.com/resourcepack/bring-back-old-potion-colors) - Restores the old potion colors. (OF / Colormatic variant)
 
 *(This list is subject to change - If you do not want to use any of the three resource packs then you can disable them in the resource packs configuration page in-game)*
