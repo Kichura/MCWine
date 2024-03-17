@@ -13,7 +13,7 @@
 - [dbrighthd](https://www.curseforge.com/minecraft/texture-packs/sea-grass-fix) - Patches sea tall-grass to not peek out of water,
 - [Lad_Flaver](https://www.curseforge.com/minecraft/texture-packs/rail-fix) - Patches rails to not be stretched anymore,
 - [liahim85](https://www.curseforge.com/minecraft/texture-packs/authentic-shadows) - Makes entity shadow accurate to MC's style,
-- [qkrehf2](https://www.curseforge.com/minecraft/texture-packs/bkt-better-korean-translation) - Makes korean betterly translated,
+- [Irochi](https://modrinth.com/resourcepack/friendlykorean) - Makes korean betterly translated,
 - [Bold_Muddy](https://pastebin.com/raw/mDVQ7ii9) - Adds second ear for zombified piglin and animated sculker sensor,
 - [mr_ch0c0late1](https://www.curseforge.com/minecraft/texture-packs/blockstates) - Makes the age system more noticable,
 - [send4kolchak](https://www.curseforge.com/minecraft/texture-packs/sends-realistic-lighting) - Makes lighting more accurate for moody, (OF only)
@@ -113,7 +113,12 @@
 - [PrimalGlina](https://www.planetminecraft.com/texture-pack/refreshed-armadillo) - Changes the armadillo assets to look less weird,
 - [Torrezx](https://www.planetminecraft.com/texture-pack/torrezx-best-collar) - Improves the collar on both wolves and cats,
 - [thgabs](https://modrinth.com/resourcepack/hangul-kana-fix) - Fixes hangul & kana fonts from being weird,
-- [haventhadadonutyet](https://modrinth.com/resourcepack/bring-back-old-potion-colors) - Restores the old potion colors. (OF / Colormatic variant)
+- [haventhadadonutyet](https://modrinth.com/resourcepack/bring-back-old-potion-colors) - Restores the old potion colors, (OF / Colormatic variant)
+- [fre1q](https://modrinth.com/resourcepack/modern-toasts) - Modernizes Toast Notifications,
+- [ICE_CUBES](https://modrinth.com/resourcepack/scafolding-made-better) - Improves the scaffolding block,
+- [mrfireflyermc](https://modrinth.com/resourcepack/better-chestplates) - Improves the chestplate armor,
+- [witheredwasabi](https://modrinth.com/resourcepack/refreshed-pottery-sherds) - Enhances the pottery sherds,
+- [StormDragon77](https://modrinth.com/resourcepack/no-z-fighting) - Removes Z-Fighting from specific places. (Mostly requires OF / EMF)
 
 ## Resource Pack Credits (Programmer Art+)
 
