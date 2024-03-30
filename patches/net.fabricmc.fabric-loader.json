@@ -6,7 +6,7 @@
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "net.fabricmc:sponge-mixin:0.12.5+mixin.0.8.5",
+            "name": "net.fabricmc:sponge-mixin:0.13.1+mixin.0.8.5",
             "url": "https://maven.fabricmc.net/"
         },
         {
@@ -18,23 +18,23 @@
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "org.ow2.asm:asm:9.6",
+            "name": "org.ow2.asm:asm:9.7",
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "org.ow2.asm:asm-analysis:9.6",
+            "name": "org.ow2.asm:asm-analysis:9.7",
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "org.ow2.asm:asm-commons:9.6",
+            "name": "org.ow2.asm:asm-commons:9.7",
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "org.ow2.asm:asm-tree:9.6",
+            "name": "org.ow2.asm:asm-tree:9.7",
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "org.ow2.asm:asm-util:9.6",
+            "name": "org.ow2.asm:asm-util:9.7",
             "url": "https://maven.fabricmc.net/"
         },
         {
@@ -48,7 +48,7 @@
     ],
     "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
     "name": "Fabric Loader",
-    "releaseTime": "2024-02-13",
+    "releaseTime": "2024-03-23",
     "requires": [
         {
             "uid": "net.fabricmc.intermediary"
