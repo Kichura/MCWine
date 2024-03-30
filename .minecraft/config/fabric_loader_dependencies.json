@@ -1,6 +1,12 @@
 {
   "version": 1,
   "overrides": {
+    "dynamic_fps": {
+      "-recommends": {
+        "modmenu": "IGNORED",
+        "quilt_loader": "IGNORED"
+      }
+    },
     "fabricloader": {
       "+depends": {
         "fabricloader": ">=0.15.7",
@@ -30,6 +36,11 @@
     "languagereload": {
       "-suggests": {
         "modmenu": "IGNORED"
+      }
+    },
+    "mica": {
+      "-recommends": {
+        "yet_another_config_lib_v3": "IGNORED"
       }
     },
     "midnightcontrols": {
