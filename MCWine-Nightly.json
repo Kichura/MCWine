@@ -115,14 +115,14 @@
           "action": "allow",
           "os": {
             "name": "osx",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         },
         {
           "action": "allow",
           "os": {
             "name": "osx",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -252,7 +252,7 @@
           "action": "allow",
           "os": {
             "name": "linux",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -292,7 +292,7 @@
           "action": "allow",
           "os": {
             "name": "linux",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -356,7 +356,7 @@
           "action": "allow",
           "os": {
             "name": "linux",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -376,7 +376,7 @@
           "action": "allow",
           "os": {
             "name": "linux",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -396,7 +396,7 @@
           "action": "allow",
           "os": {
             "name": "osx",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -416,7 +416,7 @@
           "action": "allow",
           "os": {
             "name": "osx",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -436,7 +436,7 @@
           "action": "allow",
           "os": {
             "name": "windows",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -456,7 +456,7 @@
           "action": "allow",
           "os": {
             "name": "windows",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -487,7 +487,7 @@
           "action": "allow",
           "os": {
             "name": "linux",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -507,7 +507,7 @@
           "action": "allow",
           "os": {
             "name": "linux",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -527,7 +527,7 @@
           "action": "allow",
           "os": {
             "name": "osx",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -547,7 +547,7 @@
           "action": "allow",
           "os": {
             "name": "osx",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -567,7 +567,7 @@
           "action": "allow",
           "os": {
             "name": "windows",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -587,7 +587,7 @@
           "action": "allow",
           "os": {
             "name": "windows",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -618,7 +618,7 @@
           "action": "allow",
           "os": {
             "name": "linux",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -638,7 +638,7 @@
           "action": "allow",
           "os": {
             "name": "linux",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -658,7 +658,7 @@
           "action": "allow",
           "os": {
             "name": "osx",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -678,7 +678,7 @@
           "action": "allow",
           "os": {
             "name": "osx",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -698,7 +698,7 @@
           "action": "allow",
           "os": {
             "name": "windows",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -718,7 +718,7 @@
           "action": "allow",
           "os": {
             "name": "windows",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -749,7 +749,7 @@
           "action": "allow",
           "os": {
             "name": "linux",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -769,7 +769,7 @@
           "action": "allow",
           "os": {
             "name": "linux",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -789,7 +789,7 @@
           "action": "allow",
           "os": {
             "name": "osx",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -809,7 +809,7 @@
           "action": "allow",
           "os": {
             "name": "osx",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -829,7 +829,7 @@
           "action": "allow",
           "os": {
             "name": "windows",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -849,7 +849,7 @@
           "action": "allow",
           "os": {
             "name": "windows",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -880,7 +880,7 @@
           "action": "allow",
           "os": {
             "name": "linux",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -900,7 +900,7 @@
           "action": "allow",
           "os": {
             "name": "linux",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -920,7 +920,7 @@
           "action": "allow",
           "os": {
             "name": "osx",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -940,7 +940,7 @@
           "action": "allow",
           "os": {
             "name": "osx",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -960,7 +960,7 @@
           "action": "allow",
           "os": {
             "name": "windows",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -980,7 +980,7 @@
           "action": "allow",
           "os": {
             "name": "windows",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -1011,7 +1011,7 @@
           "action": "allow",
           "os": {
             "name": "linux",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -1031,7 +1031,7 @@
           "action": "allow",
           "os": {
             "name": "linux",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -1051,7 +1051,7 @@
           "action": "allow",
           "os": {
             "name": "osx",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -1071,7 +1071,7 @@
           "action": "allow",
           "os": {
             "name": "osx",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -1091,7 +1091,7 @@
           "action": "allow",
           "os": {
             "name": "windows",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -1111,7 +1111,7 @@
           "action": "allow",
           "os": {
             "name": "windows",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -1142,7 +1142,7 @@
           "action": "allow",
           "os": {
             "name": "linux",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -1162,7 +1162,7 @@
           "action": "allow",
           "os": {
             "name": "linux",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -1182,7 +1182,7 @@
           "action": "allow",
           "os": {
             "name": "osx",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -1202,7 +1202,7 @@
           "action": "allow",
           "os": {
             "name": "osx",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -1222,7 +1222,7 @@
           "action": "allow",
           "os": {
             "name": "windows",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -1242,7 +1242,7 @@
           "action": "allow",
           "os": {
             "name": "windows",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -1273,7 +1273,7 @@
           "action": "allow",
           "os": {
             "name": "osx",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -1293,7 +1293,7 @@
           "action": "allow",
           "os": {
             "name": "osx",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -1324,7 +1324,7 @@
           "action": "allow",
           "os": {
             "name": "linux",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -1344,7 +1344,7 @@
           "action": "allow",
           "os": {
             "name": "linux",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -1364,7 +1364,7 @@
           "action": "allow",
           "os": {
             "name": "osx",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -1384,7 +1384,7 @@
           "action": "allow",
           "os": {
             "name": "osx",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -1404,7 +1404,7 @@
           "action": "allow",
           "os": {
             "name": "windows",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -1424,7 +1424,7 @@
           "action": "allow",
           "os": {
             "name": "windows",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -1455,7 +1455,7 @@
           "action": "allow",
           "os": {
             "name": "linux",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -1475,7 +1475,7 @@
           "action": "allow",
           "os": {
             "name": "linux",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -1495,7 +1495,7 @@
           "action": "allow",
           "os": {
             "name": "osx",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -1515,7 +1515,7 @@
           "action": "allow",
           "os": {
             "name": "osx",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
@@ -1535,7 +1535,7 @@
           "action": "allow",
           "os": {
             "name": "windows",
-            "arch": "x86_64"
+            "arch": "x64"
           }
         }
       ]
@@ -1555,7 +1555,7 @@
           "action": "allow",
           "os": {
             "name": "windows",
-            "arch": "aarch_64"
+            "arch": "arm64"
           }
         }
       ]
