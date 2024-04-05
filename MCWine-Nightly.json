@@ -1,8 +1,8 @@
 {
   "id": "MCWine-Nightly",
   "inheritsFrom": "1.20.4",
-  "releaseTime": "2024-04-03",
-  "time": "2024-04-03",
+  "releaseTime": "2024-04-05",
+  "time": "2024-04-05",
   "type": "release",
   "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
   "assets": "12",
@@ -57,7 +57,7 @@
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "net.fabricmc:sponge-mixin:0.13.1+mixin.0.8.5",
+      "name": "net.fabricmc:sponge-mixin:0.13.2+mixin.0.8.5",
       "url": "https://maven.fabricmc.net/"
     },
     {
