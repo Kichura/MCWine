@@ -29,7 +29,7 @@ It is recommended that you use [Java 21 (Lite JDK)](https://bell-sw.com/pages/do
 
 It is recommended that you use these JVM arguments for this modpack:
 
-`-Xms3G -Xmx3G -Dfile.encoding=UTF-8 -Dowo.handshake.disable=true -Dloader.disable_beacon=true -XX:+UseShenandoahGC`
+`-Xms3G -Xmx3G -Dfile.encoding=UTF-8 -Dowo.handshake.disable=true -Dloader.disable_beacon=true -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+UseShenandoahGC`
 
 *(You can change the ```-Xmx3G``` and ```-Xms3G``` values in order to manage the game RAM on how much to use for Minecraft, But depends on your computer's hardware; Both of those are not needed in Prism Launcher however as it uses it's own configurators for that)*
 
