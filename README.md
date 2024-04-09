@@ -27,9 +27,11 @@ It is recommended that you use [Java 21 (Lite JDK)](https://bell-sw.com/pages/do
 
 ## JVM Arguments (Optional)
 
-It is recommended that you use [one of these specific scripts](https://github.com/Kichura/MCWine/tree/PrismMC-Nightly/sources/jvm_arguments.md) as your JVM arguments instead of the defaults.
+It is recommended that you use these JVM arguments for this modpack:
 
-*(You can change the ```-Xmx3G``` including ```-Xms3G``` value from the list itself in order to manage the game RAM on how much to use for Minecraft, But depends on your computer's hardware; Both of those are not needed in Prism Launcher however as it uses it's own configurators for that)*
+`-Xms3G -Xmx3G -Dfile.encoding=UTF-8 -Dowo.handshake.disable=true -Dloader.disable_beacon=true -XX:+UseShenandoahGC`
+
+*(You can change the ```-Xmx3G``` and ```-Xms3G``` values in order to manage the game RAM on how much to use for Minecraft, But depends on your computer's hardware; Both of those are not needed in Prism Launcher however as it uses it's own configurators for that)*
 
 ## Mods + Resource Pack Assets Used For This Pack
 
