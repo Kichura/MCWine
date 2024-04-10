@@ -120,7 +120,10 @@
 - [witheredwasabi](https://modrinth.com/resourcepack/refreshed-pottery-sherds) - Enhances the pottery sherds,
 - [StormDragon77](https://modrinth.com/resourcepack/no-z-fighting) - Removes Z-Fighting from specific places, (Mostly requires OF / EMF)
 - [Shade_of_gr3y](https://www.planetminecraft.com/texture-pack/bedrock-exclusive-splashes-with-and-without-java-splashes-included) - Includes the exclusive splash texts in Java,
-- [GamingBob](https://pastebin.com/raw/9E8nzymE) - Renames "Zombie Horse" and "Zombie Villager" to "Zombified Horse" and "Zombified Villager".
+- [GamingBob](https://pastebin.com/raw/9E8nzymE) - Renames "Zombie Horse" and "Zombie Villager" to "Zombified Horse" and "Zombified Villager",
+- [Naflaim](https://www.planetminecraft.com/texture-pack/naflaim-s-better-pumpkins) - Improves pumpkins and jack o' lanterns,
+- [Forschi_Quack](https://www.planetminecraft.com/texture-pack/improved-ghast-tear-2pixels) - Improves the ghast tear item,
+- [Writengran51](https://www.planetminecraft.com/texture-pack/improved-map-icons) - Improves the map icons.
 
 ## Resource Pack Credits (Programmer Art+)
 
