@@ -1,8 +1,8 @@
 {
   "id": "MCWine-Nightly",
   "inheritsFrom": "1.20.4",
-  "releaseTime": "2024-04-10",
-  "time": "2024-04-10",
+  "releaseTime": "2024-04-12",
+  "time": "2024-04-12",
   "type": "release",
   "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
   "assets": "12",
@@ -57,7 +57,7 @@
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "net.fabricmc:sponge-mixin:0.13.2+mixin.0.8.5",
+      "name": "net.fabricmc:sponge-mixin:0.13.3+mixin.0.8.5",
       "url": "https://maven.fabricmc.net/"
     },
     {
@@ -97,7 +97,7 @@
       "url": "https://repo1.maven.org/maven2/"
     },
     {
-      "name": "net.fabricmc:fabric-loader:0.15.9",
+      "name": "net.fabricmc:fabric-loader:0.15.10",
       "url": "https://maven.fabricmc.net/"
     },
     {
@@ -122,13 +122,13 @@
     {
       "downloads": {
         "artifact": {
-         "path": "org/slf4j/slf4j-api/2.0.12/slf4j-api-2.0.12.jar",
-         "sha1": "48f109a2a6d8f446c794f3e3fa0d86df0cdfa312",
-         "size": 68115,
-         "url": "https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.12/slf4j-api-2.0.12.jar"
+         "path": "org/slf4j/slf4j-api/2.0.13/slf4j-api-2.0.13.jar",
+         "sha1": "80229737f704b121a318bba5d5deacbcf395bc77",
+         "size": 68605,
+         "url": "https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.13/slf4j-api-2.0.13.jar"
         }
       },
-      "name": "org.slf4j:slf4j-api:2.0.12"
+      "name": "org.slf4j:slf4j-api:2.0.13"
     },
     {
       "downloads": {
