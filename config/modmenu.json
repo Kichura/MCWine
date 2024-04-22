@@ -49,5 +49,6 @@
   "sorting": "ascending",
   "translate_descriptions": true,
   "translate_names": true,
+  "update_channel": "beta",
   "update_checker": false
 }
