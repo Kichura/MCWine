@@ -24,7 +24,6 @@
 - [NBT AutoComplete](https://modrinth.com/mod/nbt-autocomplete) - **mt1006**,
 - [No Chat Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) - **Aizistral**,
 - [No Flashing Night Vision (Aka Night Vision flash be gone)](https://github.com/AshIndigo/NightVisionFlashBegone) - **AshIndigo**,
-- [No Mod Detection (Aka Mod Detection Preventer)](https://modrinth.com/mod/moddetectionpreventer) - **JustAlittleWolf**,
 - [NoMoreScore](https://github.com/Ecorous/NoMoreScore) - **Ecorous**,
 - [Old Potions](https://modrinth.com/mod/oldpotions) - **Abbie5**,
 - [Old Icon (Aka Old MC Icon)](https://modrinth.com/mod/old-mc-logo) - **IThundxr**,
