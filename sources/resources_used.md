@@ -94,6 +94,7 @@
 - [robotkoer](https://modrinth.com/resourcepack/chat-reporting-helper) - Makes the chat reporting system less complicated to read,
 - [Cleora](https://pastebin.com/raw/A6QGinfJ) - Modernizes all default skins,
 - [MannyQUESO](https://www.planetminecraft.com/texture-pack/improved-daylight-sensor) - Improves the day & night sensors,
+- [cranzag](https://www.planetminecraft.com/texture-pack/dark-oak-daylight-sensors) - Changes the dar & night sensors to use dark oak colors,
 - [Hippopotamoss](https://www.planetminecraft.com/texture-pack/coarse-dirt-hanging-roots) - Makes the hanging roots match the coarse dirt design,
 - [CountXD](https://www.planetminecraft.com/texture-pack/glowing-armor-trims-5933760) - Makes the armor trims glow, (OF or EMF mod required)
 - [Cappee](https://pastebin.com/raw/dTxJWijn) - Changes sniffer egg to be consistent and converts tall flowers into items via GUIs,
