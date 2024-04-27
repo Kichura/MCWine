@@ -27,22 +27,15 @@ send-supported-versions: true
 #
 block-protocols: []
 block-versions:
-- 1.4.6/7
-- 1.5/1.5.1
-- 1.5.2
-- 1.6.1
-- 1.6.2
-- 1.6.3
-- 1.6.4
 - 1.7.2-1.7.5
 - 1.7.6-1.7.10
 - '1.9'
 - 1.9.1
 - 1.9.2
-- 1.9.3/4
+- 1.9.3
 - 1.10.x
 - '1.11'
-- 1.11.1/2
+- 1.11.1
 - '1.13'
 - 1.13.1
 - 1.13.2
@@ -94,6 +87,8 @@ team-colour-fix: true
 truncate-1_14-books: true
 use-1_15-instant-respawn: false
 vine-climb-fix: true
+translate-ocelot-to-cat: true
+enforce-secure-chat: false
 #
 # ViaFabric patch (1.8+) configuration goes here,
 #
