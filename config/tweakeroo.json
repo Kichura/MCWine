@@ -42,6 +42,7 @@
     "hotbarSwapOverlayOffsetY": 4,
     "itemSwapDurabilityThreshold": 20,
     "itemUsePacketCheckBypass": true,
+    "mapPreviewRequireShift": true,
     "mapPreviewSize": 160,
     "periodicAttackInterval": 20,
     "periodicHoldAttackDuration": 20,
