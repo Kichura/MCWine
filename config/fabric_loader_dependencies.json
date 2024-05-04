@@ -50,7 +50,7 @@
     },
     "minecraft": {
       "+depends": {
-        "java": ">=17"
+        "java": ">=21"
       },
       "+recommends": {
         "MCWine": "latest"
@@ -58,7 +58,9 @@
       "+breaks": {
         "c2me": "*",
         "canvas": "*",
+        "dashloader": "*",
         "entityculling": "*",
+        "fastload": "*",
         "notenoughcrashes": "*",
         "optifabric": "*",
         "optifine": "*",
