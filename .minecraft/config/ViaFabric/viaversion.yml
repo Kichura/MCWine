@@ -99,7 +99,6 @@ auto-team: false
 bossbar-anti-flicker: false
 bossbar-patch: true
 chunk-border-fix: true
-force-json-transform: true
 item-cache: true
 left-handed-handling: true
 minimize-cooldown: true

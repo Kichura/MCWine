@@ -4,10 +4,13 @@
 # This is reserved towards version 1.7.x and 1.8.x respectively where certain things need special treatments,
 # By default this is done to indicate the 1.9.x+ PvP cooldown system aswell as fixes like books for example.
 #
+always-show-original-mob-name: true
 cooldown-indicator: TITLE
 emulate-world-border: true
+enable-offhand: true
 max-book-page-length: 3500
 max-book-pages: 50
+offhand-command: '/offhand'
 replace-adventure: true
 replace-particles: true
 world-border-particle: fireworksSpark
