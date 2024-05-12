@@ -21,10 +21,6 @@ MCWine is a fabric-based modpack designed to bring better performance, brand new
 2. Drag the ZIP-archive to Prism Launcher window; and hit OK in the window that pops up,
 3. Double-click that version you just created to launch the modpack.
 
-## Updating Java Version (Optional)
-
-It is recommended that you use [Java 21 (Lite JDK)](https://bell-sw.com/pages/downloads) to allow minecraft to make use of the latest java version.
-
 ## JVM Arguments (Optional)
 
 It is recommended that you use these JVM arguments for this modpack:
