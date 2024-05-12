@@ -72,12 +72,12 @@
     },
     "viafabric": {
       "+depends": {
-        "viabackwards": ">=4.10.0",
-        "viaversion": ">=4.10.0"
+        "viabackwards": ">=4.10.2",
+        "viaversion": ">=4.10.2"
       },
       "+suggests": {
         "nochatreports": "*",
-        "viarewind": ">=3.1.0"
+        "viarewind": ">=3.1.2"
       },
       "+breaks": {
         "essential-container": "*",
