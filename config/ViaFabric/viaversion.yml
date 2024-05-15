@@ -69,6 +69,7 @@ armor-toggle-fix: true
 cache-1_17-light: true
 chat-nbt-fix: true
 disable-1_13-auto-complete: true
+enforce-secure-chat: false
 fix-1_14-health-nan: true
 fix-infested-block-breaking: true
 fix-low-snow-collision: true
@@ -84,11 +85,10 @@ register-userconnections-on-join: true
 resource-pack-1_17-prompt: §9This server requires the resource pack to be enabled in order to display other contents properly.
 serverside-blockconnections: true
 team-colour-fix: true
+translate-ocelot-to-cat: true
 truncate-1_14-books: true
 use-1_15-instant-respawn: false
 vine-climb-fix: true
-translate-ocelot-to-cat: true
-enforce-secure-chat: false
 #
 # ViaFabric patch (1.8+) configuration goes here,
 #
