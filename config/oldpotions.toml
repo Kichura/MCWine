@@ -4,5 +4,5 @@
 # This restores the glinting effect back to the potions,
 # and also the original colors back to them before they were cut in vanilla.
 #
-enableGlint = true
-oldColors = true
+enable_glint = true
+old_colors = true
