@@ -124,7 +124,8 @@
 - [GamingBob](https://pastebin.com/raw/9E8nzymE) - Renames "Zombie Horse" and "Zombie Villager" to "Zombified Horse" and "Zombified Villager",
 - [Naflaim](https://www.planetminecraft.com/texture-pack/naflaim-s-better-pumpkins) - Improves pumpkins and jack o' lanterns,
 - [Forschi_Quack](https://www.planetminecraft.com/texture-pack/improved-ghast-tear-2pixels) - Improves the ghast tear item,
-- [Writengran51](https://www.planetminecraft.com/texture-pack/improved-map-icons) - Improves the map icons.
+- [Writengran51](https://www.planetminecraft.com/texture-pack/improved-map-icons) - Improves the map icons,
+- [cranzag](https://pastebin.com/raw/GGMUAdP6) - Improves Magma Block, Day/Night sensors and map item.
 
 ## Resource Pack Credits (Programmer Art+)
 
