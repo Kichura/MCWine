@@ -9,48 +9,6 @@
   "complianceLevel": 1,
   "minimiumLauncherVersion": 21,
   "logging": {},
-  "javaVersion": {
-    "component": "java-runtime-delta",
-    "majorVersion": 21
-  },
-  "arguments": {
-    "game": [],
-    "jvm": [
-    {
-     "rules": [
-         {
-           "action": "allow",
-           "os": {
-             "name": "linux"
-           }
-         }
-       ],
-       "value": "-Dloader.disable_beacon=true -Dowo.handshake.disable=true -Dfile.encoding=UTF-8"
-     },
-     {
-     "rules": [
-         {
-           "action": "allow",
-           "os": {
-             "name": "macos"
-           }
-         }
-       ],
-       "value": "-XstartOnFirstThread -Dloader.disable_beacon=true -Dowo.handshake.disable=true -Dfile.encoding=UTF-8"
-     },
-     {
-     "rules": [
-         {
-           "action": "allow",
-           "os": {
-             "name": "windows"
-           }
-         }
-       ],
-       "value": "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dloader.disable_beacon=true -Dowo.handshake.disable=true -Dfile.encoding=UTF-8"
-       }
-    ]
-  },
   "libraries": [
     {
       "name": "net.fabricmc:tiny-mappings-parser:0.3.0+build.17",
@@ -1618,5 +1576,47 @@
         }
       ]
     }
-  ]
+  ],
+  "javaVersion": {
+    "component": "java-runtime-delta",
+    "majorVersion": 21
+  },
+  "arguments": {
+    "game": [],
+    "jvm": [
+    {
+     "rules": [
+         {
+           "action": "allow",
+           "os": {
+             "name": "linux"
+           }
+         }
+       ],
+       "value": "-Dloader.disable_beacon=true -Dowo.handshake.disable=true -Dfile.encoding=UTF-8"
+     },
+     {
+     "rules": [
+         {
+           "action": "allow",
+           "os": {
+             "name": "macos"
+           }
+         }
+       ],
+       "value": "-XstartOnFirstThread -Dloader.disable_beacon=true -Dowo.handshake.disable=true -Dfile.encoding=UTF-8"
+     },
+     {
+     "rules": [
+         {
+           "action": "allow",
+           "os": {
+             "name": "windows"
+           }
+         }
+       ],
+       "value": "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dloader.disable_beacon=true -Dowo.handshake.disable=true -Dfile.encoding=UTF-8"
+       }
+     ]
+  }
 }
