@@ -4,72 +4,72 @@
     {
      "downloads": {
           "artifact": {
-              "sha1": "9d21d602ad7c639fa16b1d26559065d310a34c51",
-              "size": 307344,
-              "url": "https://repo1.maven.org/maven2/io/netty/netty-buffer/4.1.109.Final/netty-buffer-4.1.109.Final.jar"
+              "sha1": "3d918a9ee057d995c362902b54634fc307132aac",
+              "size": 333176,
+              "url": "https://repo1.maven.org/maven2/io/netty/netty-buffer/4.1.110.Final/netty-buffer-4.1.110.Final.jar"
           }
       },
-      "name": "io.netty:netty-buffer:4.1.109.Final"
+      "name": "io.netty:netty-buffer:4.1.110.Final"
     },
     {
       "downloads": {
           "artifact": {
-              "sha1": "16e0b2beb49318a549d3ba5d66d707bd5daa8c97",
-              "size": 353493,
-              "url": "https://repo1.maven.org/maven2/io/netty/netty-codec/4.1.109.Final/netty-codec-4.1.109.Final.jar"
+              "sha1": "f1fa43b03e93ab88e805b6a4e3e83780c80b47d2",
+              "size": 353944,
+              "url": "https://repo1.maven.org/maven2/io/netty/netty-codec/4.1.110.Final/netty-codec-4.1.110.Final.jar"
           }
       },
-      "name": "io.netty:netty-codec:4.1.109.Final"
+      "name": "io.netty:netty-codec:4.1.110.Final"
     },
     {
       "downloads": {
           "artifact": {
-              "sha1": "da63e54ee1ca69abf4206cb74fadef7f50850911",
-              "size": 664404,
-              "url": "https://repo1.maven.org/maven2/io/netty/netty-common/4.1.109.Final/netty-common-4.1.109.Final.jar"
+              "sha1": "ec361e7e025c029be50c55c8480080cabcbc01e7",
+              "size": 688546,
+              "url": "https://repo1.maven.org/maven2/io/netty/netty-common/4.1.110.Final/netty-common-4.1.110.Final.jar"
           }
       },
-      "name": "io.netty:netty-common:4.1.109.Final"
+      "name": "io.netty:netty-common:4.1.110.Final"
     },
     {
       "downloads": {
           "artifact": {
-              "sha1": "9167863307b3c44cc12262e7b5512de3499b9c4a",
-              "size": 568956,
-              "url": "https://repo1.maven.org/maven2/io/netty/netty-handler/4.1.109.Final/netty-handler-4.1.109.Final.jar"
+              "sha1": "168db749c22652ee7fed1ebf7ec46ce856d75e51",
+              "size": 569951,
+              "url": "https://repo1.maven.org/maven2/io/netty/netty-handler/4.1.110.Final/netty-handler-4.1.110.Final.jar"
           }
       },
-      "name": "io.netty:netty-handler:4.1.109.Final"
+      "name": "io.netty:netty-handler:4.1.110.Final"
     },
     {
       "downloads": {
           "artifact": {
-              "sha1": "055485ac976e27c8bb67ee111a8490c58f67b70c",
+              "sha1": "66c15921104cda0159b34e316541bc765dfaf3c0",
               "size": 37814,
-              "url": "https://repo1.maven.org/maven2/io/netty/netty-resolver/4.1.109.Final/netty-resolver-4.1.109.Final.jar"
+              "url": "https://repo1.maven.org/maven2/io/netty/netty-resolver/4.1.110.Final/netty-resolver-4.1.110.Final.jar"
           }
       },
-      "name": "io.netty:netty-resolver:4.1.109.Final"
+      "name": "io.netty:netty-resolver:4.1.110.Final"
     },
     {
       "downloads": {
           "artifact": {
-              "sha1": "7307c8acbc9b331fce3496750a5112bdc726fd2a",
-              "size": 147342,
-              "url": "https://repo1.maven.org/maven2/io/netty/netty-transport-classes-epoll/4.1.109.Final/netty-transport-classes-epoll-4.1.109.Final.jar"
+              "sha1": "3ca1cff0bf82bfd38e89f6946e54f24cbb3424a2",
+              "size": 147350,
+              "url": "https://repo1.maven.org/maven2/io/netty/netty-transport-classes-epoll/4.1.110.Final/netty-transport-classes-epoll-4.1.110.Final.jar"
           }
       },
-      "name": "io.netty:netty-transport-classes-epoll:4.1.109.Final"
+      "name": "io.netty:netty-transport-classes-epoll:4.1.110.Final"
     },
     {
       "downloads": {
           "artifact": {
-              "sha1": "2f95102cdc2b0d86d6191bd8642706375fec2662",
-              "size": 41238,
-              "url": "https://repo1.maven.org/maven2/io/netty/netty-transport-native-epoll/4.1.109.Final/netty-transport-native-epoll-4.1.109.Final-linux-aarch_64.jar"
+              "sha1": "37d00198159565b08a86036f9aae3185f8aabdb4",
+              "size": 41234,
+              "url": "https://repo1.maven.org/maven2/io/netty/netty-transport-native-epoll/4.1.110.Final/netty-transport-native-epoll-4.1.110.Final-linux-aarch_64.jar"
           }
       },
-      "name": "io.netty:netty-transport-native-epoll:4.1.109.Final:linux-aarch_64",
+      "name": "io.netty:netty-transport-native-epoll:4.1.110.Final:linux-aarch_64",
       "rules": [
         {
             "action": "allow",
@@ -93,12 +93,12 @@
     {
       "downloads": {
           "artifact": {
-              "sha1": "64e43e84d907d057da2b03bd9499a2c72f70c6df",
-              "size": 35730,
-              "url": "https://repo1.maven.org/maven2/io/netty/netty-transport-native-epoll/4.1.109.Final/netty-transport-native-epoll-4.1.109.Final-linux-riscv64.jar"
+              "sha1": "3cc6371ff078d5d2cddc09fadc3ed522f8c057f5",
+              "size": 35724,
+              "url": "https://repo1.maven.org/maven2/io/netty/netty-transport-native-epoll/4.1.110.Final/netty-transport-native-epoll-4.1.110.Final-linux-riscv64.jar"
           }
       },
-      "name": "io.netty:netty-transport-native-epoll:4.1.109.Final:linux-riscv64",
+      "name": "io.netty:netty-transport-native-epoll:4.1.110.Final:linux-riscv64",
       "rules": [
         {
             "action": "allow",
@@ -122,12 +122,12 @@
     {
       "downloads": {
           "artifact": {
-              "sha1": "1f762ef557cf91d16b86bde840f618ddb38e6f81",
-              "size": 39715,
-              "url": "https://repo1.maven.org/maven2/io/netty/netty-transport-native-epoll/4.1.109.Final/netty-transport-native-epoll-4.1.109.Final-linux-x86_64.jar"
+              "sha1": "72b74a82d22e215d1f2573c040078e0afff519af",
+              "size": 39724,
+              "url": "https://repo1.maven.org/maven2/io/netty/netty-transport-native-epoll/4.1.110.Final/netty-transport-native-epoll-4.1.110.Final-linux-x86_64.jar"
           }
       },
-      "name": "io.netty:netty-transport-native-epoll:4.1.109.Final:linux-x86_64",
+      "name": "io.netty:netty-transport-native-epoll:4.1.110.Final:linux-x86_64",
       "rules": [
         {
             "action": "allow",
@@ -151,29 +151,29 @@
     {
       "downloads": {
           "artifact": {
-              "sha1": "da7fe1e6943cbab8ee48df2beadc2c8304f347a2",
-              "size": 44066,
-              "url": "https://repo1.maven.org/maven2/io/netty/netty-transport-native-unix-common/4.1.109.Final/netty-transport-native-unix-common-4.1.109.Final.jar"
+              "sha1": "a7096e7c0a25a983647909d7513f5d4943d589c0",
+              "size": 44064,
+              "url": "https://repo1.maven.org/maven2/io/netty/netty-transport-native-unix-common/4.1.110.Final/netty-transport-native-unix-common-4.1.110.Final.jar"
           }
       },
-      "name": "io.netty:netty-transport-native-unix-common:4.1.109.Final"
+      "name": "io.netty:netty-transport-native-unix-common:4.1.110.Final"
     },
     {
       "downloads": {
           "artifact": {
-              "sha1": "79e3b07d58ef03c7a860d48f932b720675aa8bd3",
-              "size": 497753,
-              "url": "https://repo1.maven.org/maven2/io/netty/netty-transport/4.1.109.Final/netty-transport-4.1.109.Final.jar"
+              "sha1": "b91f04c39ac14d6a29d07184ef305953ee6e0348",
+              "size": 517826,
+              "url": "https://repo1.maven.org/maven2/io/netty/netty-transport/4.1.110.Final/netty-transport-4.1.110.Final.jar"
           }
       },
-      "name": "io.netty:netty-transport:4.1.109.Final"
+      "name": "io.netty:netty-transport:4.1.110.Final"
       }
     ],
     "name": "Netty",
     "order": 8,
-    "releaseTime": "2024-04-15",
+    "releaseTime": "2024-05-22",
     "type": "release",
     "uid": "io.netty",
-    "version": "4.1.109.Final",
+    "version": "4.1.110.Final",
     "volatile": true
 }
