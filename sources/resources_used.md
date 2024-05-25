@@ -125,7 +125,8 @@
 - [Naflaim](https://www.planetminecraft.com/texture-pack/naflaim-s-better-pumpkins) - Improves pumpkins and jack o' lanterns,
 - [Forschi_Quack](https://www.planetminecraft.com/texture-pack/improved-ghast-tear-2pixels) - Improves the ghast tear item,
 - [Writengran51](https://www.planetminecraft.com/texture-pack/improved-map-icons) - Improves the map icons,
-- [cranzag](https://pastebin.com/raw/GGMUAdP6) - Improves Magma Block, Day/Night sensors and map item.
+- [cranzag](https://pastebin.com/raw/GGMUAdP6) - Improves Magma Block, Day/Night sensors and map item,
+- [X-tale-Cross](https://www.planetminecraft.com/texture-pack/goat-model-fix-pack-1-18-1-20) - Fixes the Goat's head pivot point. (Requires OF / EMF)
 
 ## Resource Pack Credits (Programmer Art+)
 
