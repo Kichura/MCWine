@@ -1,4 +1,4 @@
-## Resource Pack Credits (Default+)
+## Resource Pack Credits (Default Plus)
 
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) - Contains most of the tweaks,
 - [Kichura (That is me!)](https://github.com/Kichura) - Fixes third-party textures / pack scripts,
@@ -128,7 +128,7 @@
 - [cranzag](https://pastebin.com/raw/GGMUAdP6) - Improves Magma Block, Day/Night sensors and map item,
 - [X-tale-Cross](https://www.planetminecraft.com/texture-pack/goat-model-fix-pack-1-18-1-20) - Fixes the Goat's head pivot point. (Requires OF / EMF)
 
-## Resource Pack Credits (Programmer Art+)
+## Resource Pack Credits (Programmer Art Plus)
 
 - [Crackers0106](https://www.planetminecraft.com/texture-pack/programmer-art) - Base used for own Programmer Art+ variant,
 - [SalC1](https://salc1.com) - Restores the main programmer art-related changes,
@@ -144,7 +144,7 @@
 - [haventhadadonutyet](https://modrinth.com/resourcepack/bring-back-old-potion-colors) - Restores the old potion colors, (OF / Colormatic variant)
 - [SomeOne10YT](https://www.planetminecraft.com/texture-pack/old-zombie-pigman-resource-pack) - Restores the old Zombie Pigman. (Requires OF / EMF)
 
-## Resource Pack Credits (High Contrast+)
+## Resource Pack Credits (High Contrast Plus)
 
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) - Changes the panorama to the end,
 - [RubricalChain25](https://www.curseforge.com/minecraft/texture-packs/better-high-contrast) - Modifies every other UI to be high contrasted,
