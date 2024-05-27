@@ -1,8 +1,8 @@
 {
   "id": "MCWine-Nightly",
   "inheritsFrom": "1.20.4",
-  "releaseTime": "2024-05-23",
-  "time": "2024-05-23",
+  "releaseTime": "2024-05-27",
+  "time": "2024-05-27",
   "type": "release",
   "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
   "assets": "12",
@@ -269,13 +269,13 @@
     {
       "downloads": {
         "artifact": {
-         "path": "com/github/oshi/oshi-core/6.6.0/oshi-core-6.6.0.jar",
-         "sha1": "344c50abc95000e1fd0d8eea4f0f95df08f878d1",
-         "size": 988288,
-         "url": "https://repo1.maven.org/maven2/com/github/oshi/oshi-core/6.6.0/oshi-core-6.6.0.jar"
+         "path": "com/github/oshi/oshi-core/6.6.1/oshi-core-6.6.1.jar",
+         "sha1": "c7932da87cb30007cc80601cf078d5a6cedeaea7",
+         "size": 988645,
+         "url": "https://repo1.maven.org/maven2/com/github/oshi/oshi-core/6.6.1/oshi-core-6.6.1.jar"
         }
       },
-      "name": "com.github.oshi:oshi-core:6.6.0"
+      "name": "com.github.oshi:oshi-core:6.6.1"
     },
     {
       "downloads": {
