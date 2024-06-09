@@ -1,0 +1,20 @@
+{
+  "main_menu": {
+    "bottom_left": [
+      {
+        "text": "Powered by MCWine",
+        "color": "white"
+      }
+    ],
+    "bottom_right": [
+      {
+        "text": "GitHub Version (Branch: Nightly)",
+        "color": "white",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://github.com/Kichura/MCWine/tree/Nightly"
+        }
+      }
+    ]
+  }
+}

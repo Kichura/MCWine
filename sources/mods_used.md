@@ -18,6 +18,7 @@
 - [Iris](https://github.com/IrisShaders/Iris) - **coderbot**, **FoundationGames**, **IMS212**, **Justsnoopy30**,
 - [LazyLang (Aka Language Reload)](https://modrinth.com/mod/language-reload) - **Jerozgen**,
 - [Lithium](https://github.com/CaffeineMC/lithium-fabric/tree/develop) - **2No2Name**, **JellySquid**,
+- [Main Menu Credits](https://modrinth.com/mod/main-menu-credits) - **isxander**,
 - [Mica](https://modrinth.com/mod/mica) - **LemonCaramel**,
 - [MidnightControls](https://modrinth.com/mod/midnightcontrols) - **Motschen**, **LambdAurora**,
 - [ModernFix](https://modrinth.com/mod/modernfix) - **embeddedt**,
