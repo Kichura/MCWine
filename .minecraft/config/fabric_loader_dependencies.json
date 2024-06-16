@@ -70,12 +70,12 @@
     },
     "viafabric": {
       "+depends": {
-        "viabackwards": ">=4.10.2",
-        "viaversion": ">=4.10.2"
+        "viabackwards": ">=5.0.0",
+        "viaversion": ">=5.0.0"
       },
       "+suggests": {
         "nochatreports": "*",
-        "viarewind": ">=3.1.2"
+        "viarewind": ">=4.0.0"
       },
       "+breaks": {
         "essential-container": "*",
