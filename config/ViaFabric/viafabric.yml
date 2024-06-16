@@ -5,6 +5,7 @@
 client-side-version: -2
 enable-client-side: true
 hide-button: false
+ignore-registry-sync-errors: true
 #
 # Since these servers have either very strict anti-cheats or include their own protocol-compatibility system,
 # They will be blacklisted so that the user cannot try to tamper with ViaFabric just to join servers that way.
