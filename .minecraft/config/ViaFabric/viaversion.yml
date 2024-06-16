@@ -13,7 +13,7 @@
 #
 # Update configuration goes here.
 #
-checkforupdates: false
+check-for-updates: false
 #
 # Supported version ping configuration goes here.
 #
@@ -76,6 +76,7 @@ fix-low-snow-collision: true
 fix-non-full-blocklight: true
 flowerstem-when-block-above: false
 forced-use-1_17-resource-pack: true
+handle-invalid-item-count: true
 hologram-patch: true
 hologram-y: -0.96
 ignore-long-1_16-channel-names: true
