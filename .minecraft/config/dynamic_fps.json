@@ -1,5 +1,18 @@
 {
-  "idle_time": 0,
+  "battery_tracker": {
+    "display": {
+      "condition": "disabled",
+      "placement": "top_right"
+    },
+    "enabled": false,
+    "notifications": false,
+    "switch_states": false
+  },
+  "download_natives": false,
+  "idle": {
+    "condition": "none",
+    "timeout": 0
+  },
   "states": {
     "abandoned": {
       "frame_rate_target": 10,
@@ -38,10 +51,10 @@
       }
     },
     "invisible": {
-      "graphics_state": "minimal",
-      "show_toasts": false,
-      "run_garbage_collector": true,
       "frame_rate_target": 1,
+      "graphics_state": "minimal",
+      "run_garbage_collector": true,
+      "show_toasts": false,
       "volume_multipliers": {
         "ambient": 1.0,
         "blocks": 1.0,
@@ -72,7 +85,14 @@
         "voice": 1.0,
         "weather": 1.0
       }
+    },
+    "unplugged": {
+      "frame_rate_target": 60
     }
   },
-  "uncap_menu_frame_rate": false
+  "uncap_menu_frame_rate": false,
+  "volume_transition_speed": {
+    "down": -1.0,
+    "up": -1.0
+  }
 }
