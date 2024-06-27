@@ -6,6 +6,7 @@
 #
 always-show-original-mob-name: true
 cooldown-indicator: TITLE
+emulate-levitation-effect: true
 emulate-world-border: true
 enable-offhand: true
 max-book-page-length: 3500
