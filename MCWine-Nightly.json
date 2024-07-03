@@ -1,8 +1,8 @@
 {
   "id": "MCWine-Nightly",
   "inheritsFrom": "1.20.4",
-  "releaseTime": "2024-06-12",
-  "time": "2024-06-12",
+  "releaseTime": "2024-07-04",
+  "time": "2024-07-04",
   "type": "release",
   "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
   "assets": "12",
@@ -19,7 +19,7 @@
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "net.fabricmc:tiny-remapper:0.10.3",
+      "name": "net.fabricmc:tiny-remapper:0.10.4",
       "url": "https://maven.fabricmc.net/"
     },
     {
