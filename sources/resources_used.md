@@ -1,8 +1,9 @@
-## Resource Pack Credits (Default+)
+## Resource Pack Credits (Default Plus)
 
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) - Contains most of the tweaks,
 - [Kichura (That is me!)](https://github.com/Kichura) - Fixes third-party textures / pack scripts,
 - [GamingMike21](https://twitch.tv/gaming_mike21) - Helping with updating textures such as spawn eggs,
+- [IMS212](https://github.com/IMS212) - Helping with porting Prettier Tint's shader code to 1.20.5+,
 - [TheMobCave](https://www.youtube.com/watch?v=9PYpUCo8TKQ) - Replaces rain sound effects,
 - [TinyDaggsy](https://pastebin.com/raw/DVfVa2VM) - Changes llama decoration, furnaces, shulker boxes, signs, coral blocks, etc,
 - [EpicOOF](https://modrinth.com/resourcepack/corrected-mob-heads) - Moves heads to camera for better view,
@@ -94,7 +95,7 @@
 - [robotkoer](https://modrinth.com/resourcepack/chat-reporting-helper) - Makes the chat reporting system less complicated to read,
 - [Cleora](https://pastebin.com/raw/A6QGinfJ) - Modernizes all default skins,
 - [MannyQUESO](https://www.planetminecraft.com/texture-pack/improved-daylight-sensor) - Improves the day & night sensors,
-- [cranzag](https://www.planetminecraft.com/texture-pack/dark-oak-daylight-sensors) - Changes the dar & night sensors to use dark oak colors,
+- [cranzag](https://pastebin.com/raw/7iz3MTg8) - Changes the day & night sensors and evoker texture,
 - [Hippopotamoss](https://www.planetminecraft.com/texture-pack/coarse-dirt-hanging-roots) - Makes the hanging roots match the coarse dirt design,
 - [CountXD](https://www.planetminecraft.com/texture-pack/glowing-armor-trims-5933760) - Makes the armor trims glow, (OF or EMF mod required)
 - [Cappee](https://pastebin.com/raw/dTxJWijn) - Changes sniffer egg to be consistent and converts tall flowers into items via GUIs,
@@ -128,7 +129,7 @@
 - [cranzag](https://pastebin.com/raw/GGMUAdP6) - Improves Magma Block, Day/Night sensors and map item,
 - [X-tale-Cross](https://www.planetminecraft.com/texture-pack/goat-model-fix-pack-1-18-1-20) - Fixes the Goat's head pivot point. (Requires OF / EMF)
 
-## Resource Pack Credits (Programmer Art+)
+## Resource Pack Credits (Programmer Art Plus)
 
 - [Crackers0106](https://www.planetminecraft.com/texture-pack/programmer-art) - Base used for own Programmer Art+ variant,
 - [SalC1](https://salc1.com) - Restores the main programmer art-related changes,
@@ -142,9 +143,12 @@
 - [Sencie](https://www.planetminecraft.com/texture-pack/old-sounds-4911323) - Restores the old sound effects,
 - [haloman30](https://www.planetminecraft.com/texture-pack/classic-pre-1-13-font) - Restores the 1.12.2 font,
 - [haventhadadonutyet](https://modrinth.com/resourcepack/bring-back-old-potion-colors) - Restores the old potion colors, (OF / Colormatic variant)
-- [SomeOne10YT](https://www.planetminecraft.com/texture-pack/old-zombie-pigman-resource-pack) - Restores the old Zombie Pigman. (Requires OF / EMF)
+- [SomeOne10YT](https://www.planetminecraft.com/texture-pack/old-zombie-pigman-resource-pack) - Restores the old Zombie Pigman, (Requires OF / EMF)
+- [McConstruciones](https://www.planetminecraft.com/texture-pack/old-ominous-bottle) - Makes Ominous Bottle consistent with other bottles,
+- [ZedWitzle](https://www.planetminecraft.com/texture-pack/rebottled-1-21) - Updates bottles to be nicer,
+- [cinema_sheeps](https://www.planetminecraft.com/texture-pack/minecraft-skeleton-and-zombie-dungeons-resource-pack) - Ports Skeleton texture from dungeons.
 
-## Resource Pack Credits (High Contrast+)
+## Resource Pack Credits (High Contrast Plus)
 
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) - Changes the panorama to the end,
 - [RubricalChain25](https://www.curseforge.com/minecraft/texture-packs/better-high-contrast) - Modifies every other UI to be high contrasted,
