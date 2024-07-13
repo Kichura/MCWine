@@ -10,6 +10,7 @@
 always-show-original-mob-name: true
 add-custom-enchants-into-lore: true
 add-teamcolor-to-prefix: false
+bedrock-at-y-0: false
 fix-1_13-face-player: true
 fix-formatted-inventory-titles: true
 handle-pings-as-inv-acknowledgements: true
