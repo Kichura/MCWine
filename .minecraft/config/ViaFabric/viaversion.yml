@@ -99,10 +99,10 @@ vine-climb-fix: true
 auto-team: false
 bossbar-anti-flicker: false
 bossbar-patch: true
+cancel-block-sounds: true
 chunk-border-fix: true
 item-cache: true
 left-handed-handling: true
-minimize-cooldown: true
 no-delay-shield-blocking: false
 prevent-collision: false
 replace-pistons: false
