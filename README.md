@@ -5,19 +5,19 @@ MCWine is a fabric-based modpack designed to bring better performance, brand new
 
 ## Installing This Modpack (Official/Vanilla Method)
 
-1. [**Click here to download the development version,**](https://github.com/Kichura/MCWine/archive/refs/heads/Nightly.zip)
+1. [**Click here to download the LTS version,**](https://github.com/Kichura/MCWine/archive/refs/heads/LTS.zip)
 2. Open your Minecraft folder,
 3. Open the ZIP-archive you have downloaded from step one,
-4. Extract the MCWine-Nightly folder from the ZIP-archive to .minecraft/versions folder, if asked - replace the files,
+4. Extract the MCWine-LTS folder from the ZIP-archive to .minecraft/versions folder, if asked - replace the files,
 5. Restart your minecraft launcher,
 6. Create a new installation instance by heading to "Installations" and choosing the **+** icon,
-7. Choose the version "release MCWine-Nightly" from versions list which should be on the top,
-8. Change the game directory from default to .minecraft/versions/MCWine-Nightly folder,
+7. Choose the version "release MCWine-LTS" from versions list which should be on the top,
+8. Change the game directory from default to .minecraft/versions/MCWine-LTS folder,
 9. Save the instance and attempt to run the instance.
 
 ## Installing This Modpack (Prism Launcher Method)
 
-1. [**Click here to download the development version,**](https://github.com/Kichura/MCWine/archive/refs/heads/PrismMC-Nightly.zip)
+1. [**Click here to download the LTS version,**](https://github.com/Kichura/MCWine/archive/refs/heads/PrismMC-LTS.zip)
 2. Drag the ZIP-archive to Prism Launcher window; and hit OK in the window that pops up,
 3. Double-click that version you just created to launch the modpack.
 
@@ -31,9 +31,9 @@ It is recommended that you use these JVM arguments for this modpack:
 
 ## Mods + Resource Pack Assets Used For This Pack
 
-Please [check this page](https://github.com/Kichura/MCWine/tree/PrismMC-Nightly/sources/mods_used.md) for a whole list of mods that have been used for this modpack,
+Please [check this page](https://github.com/Kichura/MCWine/tree/PrismMC-LTS/sources/mods_used.md) for a whole list of mods that have been used for this modpack,
 
-For the resource pack list, It can be found [in this page](https://github.com/Kichura/MCWine/tree/PrismMC-Nightly/sources/resources_used.md) instead.
+For the resource pack list, It can be found [in this page](https://github.com/Kichura/MCWine/tree/PrismMC-LTS/sources/resources_used.md) instead.
 
 ## Special Thanks To
 
@@ -51,7 +51,7 @@ For the resource pack list, It can be found [in this page](https://github.com/Ki
 3. This modpack does not ship with mod menu as most configurations for each mod have been pre-baked. but you can install it regardless,
 4. Some mods will possibly contain bugs that can break this client - If you are sensitive to these issues; You can disable the specific mods to play without them,
 5. This modpack requires the use of OpenGL 3.3 or higher but if you wish to try and unlock this on your older GPU - [Learn more here,](https://gist.github.com/Kichura/9fa44010d8ed9e5733d258292e327001)
-6. Certain keybinds in this modpack have been modified, The new keybinds can be [seen here.](https://github.com/Kichura/MCWine/blob/PrismMC-Nightly/sources/keybinds.md)
+6. Certain keybinds in this modpack have been modified, The new keybinds can be [seen here.](https://github.com/Kichura/MCWine/blob/PrismMC-LTS/sources/keybinds.md)
 
 ## Modrinth Version
 
@@ -59,4 +59,4 @@ This modpack is available on modrinth as a lightweight version, but will not shi
 
 ## License
 
-MCWine is licensed under MIT *(No Attribution)*, a free and open-source license. For more information, please see the [license file.](https://github.com/Kichura/MCWine/blob/PrismMC-Nightly/LICENSE)
+MCWine is licensed under MIT *(No Attribution)*, a free and open-source license. For more information, please see the [license file.](https://github.com/Kichura/MCWine/blob/PrismMC-LTS/LICENSE)

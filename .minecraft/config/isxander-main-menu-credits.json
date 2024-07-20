@@ -8,11 +8,11 @@
     ],
     "bottom_right": [
       {
-        "text": "GitHub Version (Branch: PrismMC-Nightly)",
+        "text": "GitHub Version (Branch: PrismMC-LTS)",
         "color": "white",
         "clickEvent": {
           "action": "open_url",
-          "value": "https://github.com/Kichura/MCWine/tree/PrismMC-Nightly"
+          "value": "https://github.com/Kichura/MCWine/tree/PrismMC-LTS"
         }
       }
     ]
