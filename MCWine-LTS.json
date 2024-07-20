@@ -1,8 +1,8 @@
 {
-  "id": "MCWine-Nightly",
+  "id": "MCWine-LTS",
   "inheritsFrom": "1.20.4",
-  "releaseTime": "2024-07-13",
-  "time": "2024-07-13",
+  "releaseTime": "2024-07-20",
+  "time": "2024-07-20",
   "type": "release",
   "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
   "assets": "12",
