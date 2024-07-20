@@ -8,11 +8,11 @@
     ],
     "bottom_right": [
       {
-        "text": "GitHub Version (Branch: Nightly)",
+        "text": "GitHub Version (Branch: LTS)",
         "color": "white",
         "clickEvent": {
           "action": "open_url",
-          "value": "https://github.com/Kichura/MCWine/tree/Nightly"
+          "value": "https://github.com/Kichura/MCWine/tree/LTS"
         }
       }
     ]
