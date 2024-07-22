@@ -25,7 +25,7 @@ MCWine is a fabric-based modpack designed to bring better performance, brand new
 
 It is recommended that you use these JVM arguments for this modpack:
 
-`-Xms3G -Xmx3G -Dfile.encoding=UTF-8 -Dowo.handshake.disable=true -Dloader.disable_beacon=true -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:+UseShenandoahGC --add-modules=jdk.incubator.vector`
+`-Xms3G -Xmx3G -Dfile.encoding=UTF-8 -Dowo.handshake.disable=true -Dsodium.checks.issue2561=false -Dloader.disable_beacon=true -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:+UseShenandoahGC --add-modules=jdk.incubator.vector`
 
 *(You can change the ```-Xmx3G``` and ```-Xms3G``` values in order to manage the game RAM on how much to use for Minecraft, But depends on your computer's hardware; Both of those are not needed in Prism Launcher however as it uses it's own configurators for that)*
 
