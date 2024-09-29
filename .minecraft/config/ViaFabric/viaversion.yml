@@ -77,6 +77,7 @@ fix-non-full-blocklight: true
 flowerstem-when-block-above: false
 forced-use-1_17-resource-pack: true
 handle-invalid-item-count: true
+hide-scoreboard-numbers: false
 hologram-patch: true
 hologram-y: -0.96
 ignore-long-1_16-channel-names: true

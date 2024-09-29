@@ -9,6 +9,7 @@ cooldown-indicator: TITLE
 emulate-levitation-effect: true
 emulate-world-border: true
 enable-offhand: true
+handle-player-combat-packet: true
 max-book-page-length: 3500
 max-book-pages: 50
 offhand-command: '/offhand'
