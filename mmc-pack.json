@@ -10,10 +10,10 @@
         },
         {
             "cachedName": "Netty",
-            "cachedVersion": "4.1.112.Final",
+            "cachedVersion": "4.1.113.Final",
             "cachedVolatile": true,
             "uid": "io.netty",
-            "version": "4.1.112.Final"
+            "version": "4.1.113.Final"
         },
         {
             "cachedName": "ca.weblite",
@@ -22,10 +22,10 @@
         },
         {
             "cachedName": "Apache Log4J",
-            "cachedVersion": "2.23.1",
+            "cachedVersion": "2.24.0",
             "cachedVolatile": true,
             "uid": "org.apache.logging.log4j",
-            "version": "2.23.1"
+            "version": "2.24.0"
         },
         {
             "cachedName": "SLF4J",
@@ -36,10 +36,10 @@
         },
         {
             "cachedName": "Oshi",
-            "cachedVersion": "6.6.2",
+            "cachedVersion": "6.6.5",
             "cachedVolatile": true,
             "uid": "com.github.oshi",
-            "version": "6.6.2"
+            "version": "6.6.5"
         },
         {
             "cachedName": "Minecraft",
@@ -76,9 +76,9 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "cachedVersion": "0.16.0",
+            "cachedVersion": "0.16.5",
             "uid": "net.fabricmc.fabric-loader",
-            "version": "0.16.0"
+            "version": "0.16.5"
         }
     ],
     "formatVersion": 1
