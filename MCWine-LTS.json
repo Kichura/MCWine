@@ -1,8 +1,8 @@
 {
   "id": "MCWine-LTS",
   "inheritsFrom": "1.20.4",
-  "releaseTime": "2024-08-14",
-  "time": "2024-08-14",
+  "releaseTime": "2024-09-29",
+  "time": "2024-09-29",
   "type": "release",
   "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
   "assets": "12",
@@ -31,7 +31,7 @@
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "net.fabricmc:fabric-loader:0.16.0",
+      "name": "net.fabricmc:fabric-loader:0.16.5",
       "url": "https://maven.fabricmc.net/"
     },
     {
@@ -39,7 +39,7 @@
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "net.fabricmc:sponge-mixin:0.15.0+mixin.0.8.7",
+      "name": "net.fabricmc:sponge-mixin:0.15.3+mixin.0.8.7",
       "url": "https://maven.fabricmc.net/"
     },
     {
@@ -75,112 +75,112 @@
     {
       "downloads": {
         "artifact": {
-         "path": "org/apache/logging/log4j/log4j-api/2.23.1/log4j-api-2.23.1.jar",
-         "sha1": "9c15c29c526d9c6783049c0a77722693c66706e1",
-         "size": 342535,
-         "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.23.1/log4j-api-2.23.1.jar"
+         "path": "org/apache/logging/log4j/log4j-api/2.24.0/log4j-api-2.24.0.jar",
+         "sha1": "c6d9bd0c95c9bb6c530f4800da9507b98f018654",
+         "size": 346618,
+         "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.24.0/log4j-api-2.24.0.jar"
         }
       },
-      "name": "org.apache.logging.log4j:log4j-api:2.23.1"
+      "name": "org.apache.logging.log4j:log4j-api:2.24.0"
     },
     {
       "downloads": {
         "artifact": {
-         "path": "org/apache/logging/log4j/log4j-core/2.23.1/log4j-core-2.23.1.jar",
-         "sha1": "905802940e2c78042d75b837c136ac477d2b4e4d",
-         "size": 1901886,
-         "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.23.1/log4j-core-2.23.1.jar"
+         "path": "org/apache/logging/log4j/log4j-core/2.24.0/log4j-core-2.24.0.jar",
+         "sha1": "537543d3b84d78b4d7ad055c98f8af13e5e7f3a8",
+         "size": 1908190,
+         "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.24.0/log4j-core-2.24.0.jar"
         }
       },
-      "name": "org.apache.logging.log4j:log4j-core:2.23.1"
+      "name": "org.apache.logging.log4j:log4j-core:2.24.0"
     },
     {
       "downloads": {
         "artifact": {
-         "path": "org/apache/logging/log4j/log4j-slf4j2-impl/2.23.1/log4j-slf4j2-impl-2.23.1.jar",
-         "sha1": "c3ffee33404c3a178f026fd8c7ef0e058b01b01c",
-         "size": 27293,
-         "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-slf4j2-impl/2.23.1/log4j-slf4j2-impl-2.23.1.jar"
+         "path": "org/apache/logging/log4j/log4j-slf4j2-impl/2.24.0/log4j-slf4j2-impl-2.24.0.jar",
+         "sha1": "3d550671b19e83591d5e66cc8c77272e7aaac34c",
+         "size": 30131,
+         "url": "https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-slf4j2-impl/2.24.0/log4j-slf4j2-impl-2.24.0.jar"
         }
       },
-      "name": "org.apache.logging.log4j:log4j-slf4j2-impl:2.23.1"
+      "name": "org.apache.logging.log4j:log4j-slf4j2-impl:2.24.0"
     },
     {
       "downloads": {
         "artifact": {
-          "path": "io/netty/netty-buffer/4.1.112.Final/netty-buffer-4.1.112.Final.jar",
-          "sha1": "bdc12df04bb6858890b8aa108060b5b365a26102",
-          "size": 336505,
-          "url": "https://repo1.maven.org/maven2/io/netty/netty-buffer/4.1.112.Final/netty-buffer-4.1.112.Final.jar"
+          "path": "io/netty/netty-buffer/4.1.113.Final/netty-buffer-4.1.113.Final.jar",
+          "sha1": "069462f1f5528fb95477fa3b15a1e755ada0df66",
+          "size": 336774,
+          "url": "https://repo1.maven.org/maven2/io/netty/netty-buffer/4.1.113.Final/netty-buffer-4.1.113.Final.jar"
         }
       },
-      "name": "io.netty:netty-buffer:4.1.112.Final"
+      "name": "io.netty:netty-buffer:4.1.113.Final"
     },
     {
       "downloads": {
         "artifact": {
-          "path": "io/netty/netty-codec/4.1.112.Final/netty-codec-4.1.112.Final.jar",
-          "sha1": "c87f2ec3d9a97bd2b793d16817abb2bab93a7fc3",
+          "path": "io/netty/netty-codec/4.1.113.Final/netty-codec-4.1.113.Final.jar",
+          "sha1": "370ab9b7c1b31b32423498331c1f723cda3332cb",
           "size": 352121,
-          "url": "https://repo1.maven.org/maven2/io/netty/netty-codec/4.1.112.Final/netty-codec-4.1.112.Final.jar"
+          "url": "https://repo1.maven.org/maven2/io/netty/netty-codec/4.1.113.Final/netty-codec-4.1.113.Final.jar"
         }
       },
-      "name": "io.netty:netty-codec:4.1.112.Final"
+      "name": "io.netty:netty-codec:4.1.113.Final"
     },
     {
       "downloads": {
         "artifact": {
-          "path": "io/netty/netty-common/4.1.112.Final/netty-common-4.1.112.Final.jar",
-          "sha1": "b2798069092a981a832b7510d0462ee9efb7a80e",
-          "size": 694486,
-          "url": "https://repo1.maven.org/maven2/io/netty/netty-common/4.1.112.Final/netty-common-4.1.112.Final.jar"
+          "path": "io/netty/netty-common/4.1.113.Final/netty-common-4.1.113.Final.jar",
+          "sha1": "1a7fe68aa349746008e5cff490aa6077728aac5a",
+          "size": 694524,
+          "url": "https://repo1.maven.org/maven2/io/netty/netty-common/4.1.113.Final/netty-common-4.1.113.Final.jar"
         }
       },
-      "name": "io.netty:netty-common:4.1.112.Final"
+      "name": "io.netty:netty-common:4.1.113.Final"
     },
     {
       "downloads": {
         "artifact": {
-          "path": "io/netty/netty-handler/4.1.112.Final/netty-handler-4.1.112.Final.jar",
-          "sha1": "3d5e2d5bcc6baeeb8c13a230980c6132a778e036",
-          "size": 571223,
-          "url": "https://repo1.maven.org/maven2/io/netty/netty-handler/4.1.112.Final/netty-handler-4.1.112.Final.jar"
+          "path": "io/netty/netty-handler/4.1.113.Final/netty-handler-4.1.113.Final.jar",
+          "sha1": "df48be9ca640df01c66c1ee88fc2cd91987c31ab",
+          "size": 571373,
+          "url": "https://repo1.maven.org/maven2/io/netty/netty-handler/4.1.113.Final/netty-handler-4.1.113.Final.jar"
         }
       },
-      "name": "io.netty:netty-handler:4.1.112.Final"
+      "name": "io.netty:netty-handler:4.1.113.Final"
     },
     {
       "downloads": {
         "artifact": {
-          "path": "io/netty/netty-resolver/4.1.112.Final/netty-resolver-4.1.112.Final.jar",
-          "sha1": "58a631d9d44c4ed7cc0dcc9cffa6641da9374d72",
-          "size": 37838,
-          "url": "https://repo1.maven.org/maven2/io/netty/netty-resolver/4.1.112.Final/netty-resolver-4.1.112.Final.jar"
+          "path": "io/netty/netty-resolver/4.1.113.Final/netty-resolver-4.1.113.Final.jar",
+          "sha1": "ffe3172485dd1e433271a60195d4a26fd9398be7",
+          "size": 37839,
+          "url": "https://repo1.maven.org/maven2/io/netty/netty-resolver/4.1.113.Final/netty-resolver-4.1.113.Final.jar"
         }
       },
-      "name": "io.netty:netty-resolver:4.1.112.Final"
+      "name": "io.netty:netty-resolver:4.1.113.Final"
     },
     {
       "downloads": {
         "artifact": {
-          "path": "io/netty/netty-transport-classes-epoll/4.1.112.Final/netty-transport-classes-epoll-4.1.112.Final.jar",
-          "sha1": "67e590356eb53c20aaabd67f61ae66f628e62e3d",
-          "size": 147377,
-          "url": "https://repo1.maven.org/maven2/io/netty/netty-transport-classes-epoll/4.1.112.Final/netty-transport-classes-epoll-4.1.112.Final.jar"
+          "path": "io/netty/netty-transport-classes-epoll/4.1.113.Final/netty-transport-classes-epoll-4.1.113.Final.jar",
+          "sha1": "314f680c386eddbb944cad1c63a116b9b3b75e42",
+          "size": 147616,
+          "url": "https://repo1.maven.org/maven2/io/netty/netty-transport-classes-epoll/4.1.113.Final/netty-transport-classes-epoll-4.1.113.Final.jar"
         }
       },
-      "name": "io.netty:netty-transport-classes-epoll:4.1.112.Final"
+      "name": "io.netty:netty-transport-classes-epoll:4.1.113.Final"
     },
     {
       "downloads": {
         "artifact": {
-          "path": "io/netty/netty-transport-native-epoll/4.1.112.Final/netty-transport-native-epoll-4.1.112.Final-linux-aarch_64.jar",
-          "sha1": "a58b80fd8e2d593d37f44faf7dbdcf7bb75fb66d",
-          "size": 41354,
-          "url": "https://repo1.maven.org/maven2/io/netty/netty-transport-native-epoll/4.1.112.Final/netty-transport-native-epoll-4.1.112.Final-linux-aarch_64.jar"
+          "path": "io/netty/netty-transport-native-epoll/4.1.113.Final/netty-transport-native-epoll-4.1.113.Final-linux-aarch_64.jar",
+          "sha1": "4d2887e8c05612183dc88524eb914b857087c42a",
+          "size": 41485,
+          "url": "https://repo1.maven.org/maven2/io/netty/netty-transport-native-epoll/4.1.113.Final/netty-transport-native-epoll-4.1.113.Final-linux-aarch_64.jar"
         }
       },
-      "name": "io.netty:netty-transport-native-epoll:4.1.112.Final:linux-aarch_64",
+      "name": "io.netty:netty-transport-native-epoll:4.1.113.Final:linux-aarch_64",
       "rules": [
         {
           "action": "allow",
@@ -193,13 +193,13 @@
     {
       "downloads": {
         "artifact": {
-          "path": "io/netty/netty-transport-native-epoll/4.1.112.Final/netty-transport-native-epoll-4.1.112.Final-linux-x86_64.jar",
-          "sha1": "caed6f2ae7aebcef50098a64f55918cb8550d2d0",
-          "size": 39782,
-          "url": "https://repo1.maven.org/maven2/io/netty/netty-transport-native-epoll/4.1.112.Final/netty-transport-native-epoll-4.1.112.Final-linux-x86_64.jar"
+          "path": "io/netty/netty-transport-native-epoll/4.1.113.Final/netty-transport-native-epoll-4.1.113.Final-linux-x86_64.jar",
+          "sha1": "a26dddb61a54c5d939c2e35197232f618322c1b1",
+          "size": 39865,
+          "url": "https://repo1.maven.org/maven2/io/netty/netty-transport-native-epoll/4.1.113.Final/netty-transport-native-epoll-4.1.113.Final-linux-x86_64.jar"
         }
       },
-      "name": "io.netty:netty-transport-native-epoll:4.1.112.Final:linux-x86_64",
+      "name": "io.netty:netty-transport-native-epoll:4.1.113.Final:linux-x86_64",
       "rules": [
         {
           "action": "allow",
@@ -212,35 +212,35 @@
     {
       "downloads": {
         "artifact": {
-          "path": "io/netty/netty-transport-native-unix-common/4.1.112.Final/netty-transport-native-unix-common-4.1.112.Final.jar",
-          "sha1": "b50ff619cdcdc48e748cba3405c9988529f28f60",
-          "size": 44156,
-          "url": "https://repo1.maven.org/maven2/io/netty/netty-transport-native-unix-common/4.1.112.Final/netty-transport-native-unix-common-4.1.112.Final.jar"
+          "path": "io/netty/netty-transport-native-unix-common/4.1.113.Final/netty-transport-native-unix-common-4.1.113.Final.jar",
+          "sha1": "e8d1d4ba444e203fd8af42a9d22e1032d89daa32",
+          "size": 44155,
+          "url": "https://repo1.maven.org/maven2/io/netty/netty-transport-native-unix-common/4.1.113.Final/netty-transport-native-unix-common-4.1.113.Final.jar"
         }
       },
-      "name": "io.netty:netty-transport-native-unix-common:4.1.112.Final"
+      "name": "io.netty:netty-transport-native-unix-common:4.1.113.Final"
     },
     {
       "downloads": {
         "artifact": {
-          "path": "io/netty/netty-transport/4.1.112.Final/netty-transport-4.1.112.Final.jar",
-          "sha1": "77cd136dd3843f5e7cbcf68c824975d745c49ddb",
-          "size": 517957,
-          "url": "https://repo1.maven.org/maven2/io/netty/netty-transport/4.1.112.Final/netty-transport-4.1.112.Final.jar"
+          "path": "io/netty/netty-transport/4.1.113.Final/netty-transport-4.1.113.Final.jar",
+          "sha1": "8ba0a07b6ca61aefd607ca2a91ebd1cce28f5e3d",
+          "size": 521367,
+          "url": "https://repo1.maven.org/maven2/io/netty/netty-transport/4.1.113.Final/netty-transport-4.1.113.Final.jar"
         }
       },
-      "name": "io.netty:netty-transport:4.1.112.Final"
+      "name": "io.netty:netty-transport:4.1.113.Final"
     },
     {
       "downloads": {
         "artifact": {
-         "path": "com/github/oshi/oshi-core/6.6.2/oshi-core-6.6.2.jar",
-         "sha1": "b0aadf5a09bbeee1d3801de85eb750fb41263517",
-         "size": 989086,
-         "url": "https://repo1.maven.org/maven2/com/github/oshi/oshi-core/6.6.2/oshi-core-6.6.2.jar"
+         "path": "com/github/oshi/oshi-core/6.6.5/oshi-core-6.6.5.jar",
+         "sha1": "e1099981fd15dc4236c4499d82aba1276fb43a9a",
+         "size": 991378,
+         "url": "https://repo1.maven.org/maven2/com/github/oshi/oshi-core/6.6.5/oshi-core-6.6.5.jar"
         }
       },
-      "name": "com.github.oshi:oshi-core:6.6.2"
+      "name": "com.github.oshi:oshi-core:6.6.5"
     },
     {
       "downloads": {
