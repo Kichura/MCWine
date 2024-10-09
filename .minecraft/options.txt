@@ -44,6 +44,7 @@ hideSplashTexts:false
 highContrast:false
 incompatibleResourcePacks:[]
 invertYMouse:false
+japaneseGlyphVariants:false
 joinedFirstServer:true
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
@@ -100,6 +101,7 @@ lang:en_us
 lastServer:
 mainHand:"right"
 maxFps:120
+menuBackgroundBlurriness:3
 mipmapLevels:2
 modelPart_cape:true
 modelPart_hat:true
@@ -133,7 +135,6 @@ showAutosaveIndicator:false
 showSubtitles:false
 simulationDistance:8
 skipMultiplayerWarning:true
-skipRealms32bitWarning:true
 soundCategory_ambient:1.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0
@@ -153,4 +154,4 @@ toggleSprint:false
 touchscreen:false
 tutorialStep:none
 useNativeTransport:true
-version:3700
+version:3955

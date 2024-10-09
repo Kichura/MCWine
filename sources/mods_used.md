@@ -1,5 +1,7 @@
 ## Mods Used For This Pack
 
+- [Allow Portal GUIs](https://modrinth.com/mod/allow-portal-guis) - **TeaMaster**,
+- [Component AutoComplete](https://modrinth.com/mod/nbt-autocomplete) - **mt1006**,
 - [Dark Graph](https://modrinth.com/mod/dark-graph) - **EcoBuilder13**,
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) - **juliand665**,
 - [Dynamic Lights (Aka LambDynamicLights)](https://modrinth.com/mod/lambdynamiclights) - **LambdAurora**,
@@ -22,7 +24,6 @@
 - [Mica](https://modrinth.com/mod/mica) - **LemonCaramel**,
 - [MidnightControls](https://modrinth.com/mod/midnightcontrols) - **Motschen**, **LambdAurora**,
 - [ModernFix](https://modrinth.com/mod/modernfix) - **embeddedt**,
-- [NBT AutoComplete](https://modrinth.com/mod/nbt-autocomplete) - **mt1006**,
 - [No Chat Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) - **Aizistral**,
 - [No Flashing Night Vision (Aka Night Vision flash be gone)](https://github.com/AshIndigo/NightVisionFlashBegone) - **AshIndigo**,
 - [NoMoreScore](https://github.com/Ecorous/NoMoreScore) - **Ecorous**,
@@ -37,7 +38,6 @@
 - [Skip Backup Screen](https://modrinth.com/mod/skip-backup-screen) - **maxthetomas**,
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric/tree/dev) - **JellySquid**,
 - [Sodium Extra(s)](https://modrinth.com/mod/sodium-extra) - **FlashyReese**,
-- [Tweakeroo](https://github.com/maruohon/tweakeroo) - **masady**,
 - [Unstuck Titles (Aka Title Fix)](https://modrinth.com/mod/title-fix-mod) - **DuncanRuns**,
 - [ViaBackwards](https://modrinth.com/plugin/viabackwards) - **creeper123123321**, **ForceUpdate1**, **Gerrygames**, **kennytv**, **Matsv**,
 - [ViaFabric](https://modrinth.com/mod/viafabric) - **creeper123123321**, **EnZaXD**, **kennytv**, **Kichura**,
@@ -49,10 +49,7 @@
 - [Cloth Config API](https://modrinth.com/mod/cloth-config) - **shedaniel**,
 - [Fabric API](https://modrinth.com/mod/fabric-api) - **modruss50**, **sfPlayer1**,
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) - **modruss50**, **sfPlayer1**,
-- [MaLiLib](https://github.com/maruohon/malilib) - **masady**,
-- [MidnightLib](https://modrinth.com/mod/midnightlib) - **Motschen**,
-- [Pride Lib](https://github.com/Queerbric/pridelib) - **Emi**, **LambdAurora**, **unascribed**,
-- [SpruceUI](https://github.com/LambdAurora/SpruceUI) - **LambdAurora**,
+- [ObsidianUI](https://modrinth.com/mod/obsidianui) - **ThinkingStudio**,
 - [ViaVersion](https://github.com/ViaVersion/ViaVersion) - **_MylesC**, **creeper123123321**, **Gerrygames**, **kennytv**, **Matsv**.
 
 *(This list is subject to change - If a mod fails to boot this client then refer to the 4th disclaimer comment in main repository page)*

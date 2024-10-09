@@ -57,15 +57,10 @@
     "item_frame": true,
     "item_frame_name_tag": true,
     "light_updates": true,
+    "limit_beacon_beam_height": true,
     "multi_dimension_fog_control": true,
     "painting": true,
     "piston": true,
     "player_name_tag": true
-  },
-  "super_secret_settings": {
-    "fetch_sodium_extra_crowdin_translations": false,
-    "sodium_extra_crowdin_project_identifier": "sodium-extra",
-    "fetch_sodium_crowdin_translations": false,
-    "sodium_crowdin_project_identifier": "sodium-fabric"
   }
 }

@@ -8,11 +8,11 @@
     ],
     "bottom_right": [
       {
-        "text": "GitHub Version (Branch: PrismMC-LTS)",
+        "text": "GitHub Version (Branch: PrismMC-Canary)",
         "color": "white",
         "clickEvent": {
           "action": "open_url",
-          "value": "https://github.com/Kichura/MCWine/tree/PrismMC-LTS"
+          "value": "https://github.com/Kichura/MCWine/tree/PrismMC-Canary"
         }
       }
     ]

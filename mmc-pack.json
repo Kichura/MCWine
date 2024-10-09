@@ -9,23 +9,16 @@
             "version": "3.3.4"
         },
         {
-            "cachedName": "Netty",
-            "cachedVersion": "4.1.113.Final",
-            "cachedVolatile": true,
-            "uid": "io.netty",
-            "version": "4.1.113.Final"
-        },
-        {
             "cachedName": "ca.weblite",
             "uid": "ca.weblite",
             "version": "1.2"
         },
         {
             "cachedName": "Apache Log4J",
-            "cachedVersion": "2.24.0",
+            "cachedVersion": "2.24.1",
             "cachedVolatile": true,
             "uid": "org.apache.logging.log4j",
-            "version": "2.24.0"
+            "version": "2.24.1"
         },
         {
             "cachedName": "SLF4J",
@@ -50,24 +43,24 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "cachedVersion": "1.20.4",
+            "cachedVersion": "1.21.1",
             "important": true,
             "uid": "net.minecraft",
-            "version": "1.20.4"
+            "version": "1.21.1"
         },
         {
             "cachedName": "Intermediary Mappings",
             "cachedRequires": [
                 {
-                    "equals": "1.20.4",
+                    "equals": "1.21.1",
                     "uid": "net.minecraft"
                 }
             ],
-            "cachedVersion": "1.20.4",
+            "cachedVersion": "1.21.1",
             "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "net.fabricmc.intermediary",
-            "version": "1.20.4"
+            "version": "1.21.1"
         },
         {
             "cachedName": "Fabric Loader",

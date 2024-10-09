@@ -1,4 +1,11 @@
 {
+  "Debug": {
+    "debugMessages": false,
+    "inputCancellationDebugging": false,
+    "keybindDebugging": false,
+    "keybindDebuggingIngame": false,
+    "mouseScrollDebug": false
+  },
   "Generic": {
     "ignoredKeys": {
       "keys": ""
