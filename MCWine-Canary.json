@@ -1622,7 +1622,7 @@
            }
          }
        ],
-       "value": "-Dloader.disable_beacon=true -Dowo.handshake.disable=true -Dfile.encoding=UTF-8"
+       "value": "-Dloader.disable_beacon=true -Dsodium.checks.issue2561=false -Dowo.handshake.disable=true -Dfile.encoding=UTF-8"
      },
      {
      "rules": [
@@ -1633,7 +1633,7 @@
            }
          }
        ],
-       "value": "-XstartOnFirstThread -Dloader.disable_beacon=true -Dowo.handshake.disable=true -Dfile.encoding=UTF-8"
+       "value": "-XstartOnFirstThread -Dsodium.checks.issue2561=false -Dloader.disable_beacon=true -Dowo.handshake.disable=true -Dfile.encoding=UTF-8"
      },
      {
      "rules": [
