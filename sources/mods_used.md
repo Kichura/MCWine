@@ -30,7 +30,6 @@
 - [Old Potions](https://modrinth.com/mod/oldpotions) - **Abbie5**,
 - [Old Icon (Aka Old MC Icon)](https://modrinth.com/mod/old-mc-logo) - **IThundxr**,
 - [Old World Menu](https://github.com/RaderRMT/OldWorldMenu) - **Kichura**, **RaderRMT**,
-- [Remove GFARB (Aka Game Menu Remove GFARB)](https://modrinth.com/mod/gamemenuremovegfarb) - **morimori0317**,
 - [Remove Reloading Screen](https://modrinth.com/mod/rrls) - **dima_dencep**,
 - [Remove Report Button (Aka No Report Button)](https://modrinth.com/mod/nrb) - **Lucaslah**,
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - **FlashyReese**,
