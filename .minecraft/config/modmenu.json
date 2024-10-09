@@ -13,8 +13,6 @@
     "cloth-config",
     "itemmodelfix",
     "languagereload",
-    "libgui",
-    "malilib",
     "mica",
     "midnightlib",
     "modernfix",
@@ -37,7 +35,7 @@
     "viafabric-mc1201",
     "viafabric-mc1204",
     "viafabric-mc1206",
-    "viafabric-mc121"
+    "viafabric-mc1211"
   ],
   "hide_badges": true,
   "hide_config_buttons": false,
