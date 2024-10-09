@@ -4,7 +4,7 @@
 - [Component AutoComplete](https://modrinth.com/mod/nbt-autocomplete) - **mt1006**,
 - [Dark Graph](https://modrinth.com/mod/dark-graph) - **EcoBuilder13**,
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) - **juliand665**,
-- [Dynamic Lights (Aka LambDynamicLights)](https://modrinth.com/mod/lambdynamiclights) - **LambdAurora**,
+- [Dynamic Lights (Aka RyoamicLights)](https://modrinth.com/mod/ryoamiclights) - **ThinkingStudio**,
 - [Faster IP Pinging (Aka fast-ip-ping)](https://modrinth.com/mod/fast-ip-ping) - **fallen-breath**,
 - [FastQuit](https://modrinth.com/mod/fastquit) - **KingContaria**,
 - [FCLS (Aka kennytvs-epic-force-close-loading-screen-mod-for-fabric)](https://modrinth.com/mod/forcecloseworldloadingscreen) - **kennytv**,
