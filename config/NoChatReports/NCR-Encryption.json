@@ -1,11 +1,6 @@
 {
   "algorithmName": "AES/CFB8+Base64",
   "enableEncryption": false,
-  "showEncryptionButton": false,
-  "showEncryptionIndicators": false,
-  "encryptionKey": "",
-  "encryptionPassphrase": "",
-  "encryptPublic": true,
   "encryptableCommands": [
     "ac:0",
     "achat:0",
@@ -49,5 +44,10 @@
     "tm:1",
     "w:1"
   ],
+  "encryptPublic": true,
+  "encryptionKey": "",
+  "encryptionPassphrase": "",
+  "showEncryptionButton": false,
+  "showEncryptionIndicators": false,
   "skipWarning": true
 }

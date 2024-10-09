@@ -5,12 +5,11 @@
 # whilst taking care of everything else without including distractions.
 #
 animationSpeed = 250.0
-aprilFool = "DISABLED"
 blockOverlay = false
 doubleLoad = "LOAD"
 earlyPackStatusSend = true
-forceClose = false
-hideType = "RELOADING"
+enableScissor = true
+hideOverlays = "RELOADING"
 miniRender = true
 reInitScreen = true
 reloadText = ""

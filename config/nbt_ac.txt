@@ -4,18 +4,34 @@
 # This allows experienced players to use NBT-related commands properly with autocomplete,
 # without having to constantly look up documentations on what tags to use everytime.
 #
+allow_block_entity_extraction = true
+custom_sorting = true
 debug_config_screen = false
 debug_mode = false
 debug_sleep = 2500
+default_quotation_mark_type = 2
+gray_out_irrelevant = true
 hide_forge_tags = true
+hide_mc_namespace_in_components = true
+hide_mc_namespace_in_strings = false
+hide_mc_namespace_in_tags = true
 ignore_letter_case = true
+json_string_suggestion = 1
 load_from_resources = true
+mark_irrelevant = true
+mark_recommended = true
 max_cached_instances = 10
 max_stack_traces = 5
+placing_of_irrelevant = 1
+recommended_at_the_top = true
 save_suggestions = 0
 short_boolean = false
-show_tag_types = false
+show_custom_data_as_relevant = false
+show_custom_model_data_as_relevant = false
+show_tag_hints = false
+string_quotation_marks = false
 support_command_namespace = true
+tag_quotation_marks = false
 use_cache = false
 use_disassembler = true
 use_new_thread = true

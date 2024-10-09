@@ -8,11 +8,11 @@
     ],
     "bottom_right": [
       {
-        "text": "GitHub Version (Branch: LTS)",
+        "text": "GitHub Version (Branch: Canary)",
         "color": "white",
         "clickEvent": {
           "action": "open_url",
-          "value": "https://github.com/Kichura/MCWine/tree/LTS"
+          "value": "https://github.com/Kichura/MCWine/tree/Canary"
         }
       }
     ]
