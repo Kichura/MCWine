@@ -1,8 +1,8 @@
 {
   "id": "MCWine-Canary",
   "inheritsFrom": "1.21.1",
-  "releaseTime": "2024-10-09",
-  "time": "2024-10-09",
+  "releaseTime": "2024-10-12",
+  "time": "2024-10-12",
   "type": "release",
   "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
   "assets": "17",
@@ -31,7 +31,7 @@
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "net.fabricmc:fabric-loader:0.16.5",
+      "name": "net.fabricmc:fabric-loader:0.16.7",
       "url": "https://maven.fabricmc.net/"
     },
     {
