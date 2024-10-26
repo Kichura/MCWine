@@ -127,7 +127,10 @@
 - [Forschi_Quack](https://www.planetminecraft.com/texture-pack/improved-ghast-tear-2pixels) - Improves the ghast tear item,
 - [Writengran51](https://www.planetminecraft.com/texture-pack/improved-map-icons) - Improves the map icons,
 - [cranzag](https://pastebin.com/raw/GGMUAdP6) - Improves Magma Block, Day/Night sensors and map item,
-- [X-tale-Cross](https://www.planetminecraft.com/texture-pack/goat-model-fix-pack-1-18-1-20) - Fixes the Goat's head pivot point. (Requires OF / EMF)
+- [X-tale-Cross](https://www.planetminecraft.com/texture-pack/goat-model-fix-pack-1-18-1-20) - Fixes the Goat's head pivot point, (Requires OF / EMF)
+- [McConstruciones](https://www.planetminecraft.com/texture-pack/old-ominous-bottle) - Makes Ominous Bottle consistent with other bottles,
+- [ZedWitzle](https://www.planetminecraft.com/texture-pack/rebottled-1-21) - Updates bottles to be nicer,
+- [cinema_sheeps](https://www.planetminecraft.com/texture-pack/minecraft-skeleton-and-zombie-dungeons-resource-pack) - Ports Skeleton texture from dungeons.
 
 ## Resource Pack Credits (Programmer Art Plus)
 
@@ -143,10 +146,7 @@
 - [Sencie](https://www.planetminecraft.com/texture-pack/old-sounds-4911323) - Restores the old sound effects,
 - [haloman30](https://www.planetminecraft.com/texture-pack/classic-pre-1-13-font) - Restores the 1.12.2 font,
 - [haventhadadonutyet](https://modrinth.com/resourcepack/bring-back-old-potion-colors) - Restores the old potion colors, (OF / Colormatic variant)
-- [SomeOne10YT](https://www.planetminecraft.com/texture-pack/old-zombie-pigman-resource-pack) - Restores the old Zombie Pigman, (Requires OF / EMF)
-- [McConstruciones](https://www.planetminecraft.com/texture-pack/old-ominous-bottle) - Makes Ominous Bottle consistent with other bottles,
-- [ZedWitzle](https://www.planetminecraft.com/texture-pack/rebottled-1-21) - Updates bottles to be nicer,
-- [cinema_sheeps](https://www.planetminecraft.com/texture-pack/minecraft-skeleton-and-zombie-dungeons-resource-pack) - Ports Skeleton texture from dungeons.
+- [SomeOne10YT](https://www.planetminecraft.com/texture-pack/old-zombie-pigman-resource-pack) - Restores the old Zombie Pigman. (Requires OF / EMF)
 
 ## Resource Pack Credits (High Contrast Plus)
 
