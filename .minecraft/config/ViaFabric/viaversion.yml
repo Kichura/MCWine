@@ -71,7 +71,7 @@ chat-nbt-fix: true
 disable-1_13-auto-complete: true
 enforce-secure-chat: false
 fix-1_14-health-nan: true
-fix-1_21-placement-rotation: false
+fix-1_21-placement-rotation: true
 fix-infested-block-breaking: true
 fix-low-snow-collision: true
 fix-non-full-blocklight: true

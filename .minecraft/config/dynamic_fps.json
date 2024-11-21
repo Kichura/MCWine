@@ -1,14 +1,15 @@
 {
   "battery_tracker": {
+    "notifications": false,
     "display": {
       "condition": "disabled",
       "placement": "top_right"
     },
     "enabled": false,
-    "notifications": false,
     "switch_states": false
   },
   "download_natives": false,
+  "mock_battery_data": false,
   "idle": {
     "condition": "none",
     "timeout": 0

@@ -1,11 +1,4 @@
 #
-# Dyanmic lights configuration goes here,
-# It is recommended you leave this mode set to fancy for best effects unless your game's framerate becomes unstable,
-# or the mod ends up causing weird flickering then use fast/fastest modes instead.
-#
-mode = "fancy"
-
-#
 # Light sources configuration, Can be modified if you wish to use your own preferences.
 #
 [light_sources]
@@ -26,219 +19,83 @@ mode = "fancy"
 	# This may cause issues with shaders so best to keep that in mind.
 	#
 	self = true
-	#
-	# If enabled, Make TNT light up during igniting effect.
-	#
-	tnt = "off"
-	#
-	# If enabled, Make creepers light up during igniting effect.
-	#
-	creeper = "off"
 
 	#
 	# Light sources configuration goes here.
 	#
 	[light_sources.settings]
 
-		[light_sources.settings.block_entities]
-
-			#
-			# What block entities to toggle in order to be used in dynamic lights,
-			# A portion of these don't need dynamic lights to be used anyways so they will be filtered.
-			#
-			# Unless you have an resource pack enabled that supports these then enable the specific ones.
-			#
-			[light_sources.settings.block_entities.minecraft]
-				banner = false
-				barrel = false
-				beacon = true
-				bed = false
-				beehive = false
-				bell = false
-				blast_furnace = true
-				brewing_stand = true
-				brushable_block = false
-				calibrated_sculk_sensor = true
-				campfire = true
-				chest = false
-				chiseled_bookshelf = false
-				command_block = false
-				comparator = false
-				conduit = false
-				crafter = false
-				daylight_detector = false
-				decorated_pot = false
-				dispenser = false
-				dropper = false
-				enchanting_table = false
-				end_gateway = true
-				end_portal = true
-				ender_chest = true
-				furnace = true
-				hanging_sign = false
-				hopper = false
-				jigsaw = false
-				jukebox = false
-				lectern = false
-				mob_spawner = false
-				piston = false
-				sculk_catalyst = true
-				sculk_sensor = false
-				sculk_shrieker = true
-				shulker_box = false
-				sign = false
-				skull = false
-				smoker = true
-				structure_block = false
-				suspicious_sand = false
-				trapped_chest = false
-				trial_spawner = true
-				vault = true
-		#
-		# What entities to toggle in order to be used in dynamic lights,
-		# Similar to the block entity switches above except it's about the non-block entities instead.
-		#
-		# The resource pack rule applies here aswell by the way.
-		#
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
-				allay = true
-				area_effect_cloud = false
+				area_effect_cloud = true
 				armadillo = true
-				armor_stand = false
-				arrow = false
-				axolotl = false
-				bat = false
-				bee = false
+				armor_stand = true
+				arrow = true
+				axolotl = true
+				bat = true
+				bee = true
 				blaze = true
-				block_display = false
-				boat = false
-				bogged = false
-				breeze = true
-				breeze_wind_charge = true
-				camel = false
-				cat = false
+				cat = true
 				cave_spider = true
-				chest_boat = false
-				chest_minecart = false
-				chicken = false
-				cod = false
-				command_block_minecart = false
-				cow = false
-				creeper = false
-				dolphin = false
-				donkey = false
-				dragon_fireball = false
+				chest_minecart = true
+				chicken = true
+				cod = true
+				cow = true
+				creeper = true
+				donkey = true
 				drowned = true
-				egg = false
-				elder_guardian = true
-				end_crystal = true
+				egg = true
 				ender_dragon = true
-				ender_pearl = false
+				ender_pearl = true
 				enderman = true
 				endermite = true
-				evoker = false
-				evoker_fangs = false
-				experience_bottle = false
+				experience_bottle = true
 				experience_orb = true
-				eye_of_ender = true
-				falling_block = false
 				fireball = true
 				firework_rocket = true
-				fishing_bobber = false
-				fox = false
-				frog = false
-				furnace_minecart = false
-				ghast = false
-				giant = false
-				glow_item_frame = false
+				fishing_bobber = true
+				frog = true
+				ghast = true
+				giant = true
+				glow_item_frame = true
 				glow_squid = true
-				goat = false
 				guardian = true
-				hoglin = false
-				hopper_minecart = false
-				horse = false
-				husk = false
-				illusioner = false
-				interaction = false
-				iron_golem = false
+				horse = true
+				iron_golem = true
 				item = true
-				item_display = false
-				item_frame = false
-				leash_knot = false
+				item_frame = true
+				leash_knot = true
 				lightning_bolt = true
-				llama = false
-				llama_spit = false
 				magma_cube = true
-				marker = false
-				minecart = false
-				mooshroom = false
-				mule = false
-				ocelot = false
-				ominous_item_spawner = false
-				painting = false
-				panda = false
-				parrot = false
-				phantom = true
-				pig = false
-				piglin = false
-				piglin_brute = false
-				pillager = false
+				minecart = true
+				mooshroom = true
+				ocelot = true
+				painting = true
+				pig = true
 				player = true
-				polar_bear = false
-				potion = false
-				pufferfish = false
-				rabbit = false
-				ravager = false
-				salmon = false
-				sheep = false
-				shulker = false
-				shulker_bullet = true
-				silverfish = false
-				skeleton = false
-				skeleton_horse = false
-				slime = false
+				potion = true
+				pufferfish = true
+				rabbit = true
+				salmon = true
+				sheep = true
+				silverfish = true
+				skeleton = true
+				slime = true
 				small_fireball = true
-				sniffer = false
-				snow_golem = false
-				snowball = false
-				spawner_minecart = false
-				spectral_arrow = true
+				snow_golem = true
+				snowball = true
 				spider = true
-				squid = false
+				squid = true
 				stray = true
-				strider = false
-				tadpole = false
-				text_display = true
-				tnt = false
-				tnt_minecart = false
-				trader_llama = false
-				trident = true
-				tropical_fish = false
-				turtle = false
-				vex = false
-				villager = false
-				vindicator = false
-				wandering_trader = false
+				turtle = true
+				villager = true
 				warden = true
-				wind_charge = false
-				witch = false
+				witch = true
 				wither = true
-				wither_skeleton = false
-				wither_skull = false
-				wolf = false
-				zoglin = false
-				zombie = false
-				zombie_horse = false
-				zombie_villager = false
-				zombified_piglin = false
-			#
-			# Other light sources configuration go here,
-			#
-			# This spot contains third-party entities such as Paradise Lost mod,
-			# and therefore can be modified aswell to meet the player's own changes.
-			#
-			[light_sources.settings.entities.paradise_lost]
-				aerbunny = false
-				moa = false
+				wither_skeleton = true
+				wither_skull = true
+				wolf = true
+				zombie = true
+				zombie_villager = true
+				zombified_piglin = true

@@ -14,5 +14,6 @@ bedrock-at-y-0: false
 fix-1_13-face-player: true
 fix-formatted-inventory-titles: true
 handle-pings-as-inv-acknowledgements: true
+map-darkness-effect: true
 sculk-shriekers-to-crying-obsidian: true
 suppress-emulation-warnings: true
