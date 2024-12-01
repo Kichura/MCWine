@@ -113,6 +113,7 @@ shield-blocking: true
 show-shield-when-sword-in-hand: true
 simulate-pt: true
 suppress-metadata-errors: true
+sword-blocking-via-consumable: true
 use-new-deathmessages: true
 use-new-effect-indicator: true
 #
