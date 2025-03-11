@@ -1,0 +1,7 @@
+#
+# Configuration for Forge Config API Port,
+# Sets up the configuration watcher for forge-related configs that depend on this API.
+#
+defaultConfigsPath = "defaultconfigs"
+disableConfigWatcher = false
+logUntranslatedConfigurationWarnings = false

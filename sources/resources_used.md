@@ -3,7 +3,6 @@
 - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs) - Contains most of the tweaks,
 - [Kichura (That is me!)](https://github.com/Kichura) - Fixes third-party textures / pack scripts,
 - [GamingMike21](https://twitch.tv/gaming_mike21) - Helping with updating textures such as spawn eggs,
-- [IMS212](https://github.com/IMS212) - Helping with porting Prettier Tint's shader code to 1.20.5+,
 - [TheMobCave](https://www.youtube.com/watch?v=9PYpUCo8TKQ) - Replaces rain sound effects,
 - [TinyDaggsy](https://pastebin.com/raw/DVfVa2VM) - Changes llama decoration, furnaces, shulker boxes, signs, coral blocks, etc,
 - [EpicOOF](https://modrinth.com/resourcepack/corrected-mob-heads) - Moves heads to camera for better view,

@@ -18,7 +18,7 @@ chatOpacity:1.0
 chatScale:1.0
 chatVisibility:0
 chatWidth:1.0
-damageTiltStrength:0.25
+damageTiltStrength:0.250
 darkMojangStudiosBackground:true
 darknessEffectScale:0.0
 directionalAudio:true
@@ -28,7 +28,7 @@ entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
 fov:0.0
-fovEffectScale:0.1
+fovEffectScale:0.105
 fullscreen:false
 gamma:0.5
 glDebugVerbosity:0
@@ -36,12 +36,13 @@ glintSpeed:0.5
 glintStrength:0.75
 graphicsMode:0
 guiScale:4
-hideBundleTutorial:true
 hideLightningFlashes:true
 hideMatchedNames:true
 hideServerAddress:true
 hideSplashTexts:false
 highContrast:false
+highContrastBlockOutline:false
+inactivityFpsLimit:"afk"
 incompatibleResourcePacks:[]
 invertYMouse:false
 japaneseGlyphVariants:false
@@ -79,7 +80,6 @@ key_key.midnightcontrols.look_left:key.keyboard.left
 key_key.midnightcontrols.look_right:key.keyboard.right
 key_key.midnightcontrols.look_up:key.keyboard.up
 key_key.midnightcontrols.ring:key.keyboard.unknown
-key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.pickItem:key.mouse.middle
 key_key.playerlist:key.keyboard.tab
 key_key.right:key.keyboard.d
@@ -130,6 +130,7 @@ reducedDebugInfo:false
 renderClouds:"false"
 renderDistance:10
 resourcePacks:["fabric","vanilla","file/Default Plus.zip"]
+rotateWithMinecart:false
 screenEffectScale:0.0
 showAutosaveIndicator:false
 showSubtitles:false
@@ -154,4 +155,4 @@ toggleSprint:false
 touchscreen:false
 tutorialStep:none
 useNativeTransport:true
-version:3955
+version:4189

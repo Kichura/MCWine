@@ -1,66 +1,58 @@
 {
     "components": [
         {
-            "cachedName": "LWJGL 3",
-            "cachedVersion": "3.3.4",
-            "cachedVolatile": true,
-            "dependencyOnly": true,
-            "uid": "org.lwjgl3",
-            "version": "3.3.4"
-        },
-        {
             "cachedName": "ca.weblite",
             "uid": "ca.weblite",
             "version": "1.2"
         },
         {
             "cachedName": "Apache Log4J",
-            "cachedVersion": "2.24.1",
+            "cachedVersion": "2.24.3",
             "cachedVolatile": true,
             "uid": "org.apache.logging.log4j",
-            "version": "2.24.1"
+            "version": "2.24.3"
         },
         {
             "cachedName": "SLF4J",
-            "cachedVersion": "2.0.16",
+            "cachedVersion": "2.0.17",
             "cachedVolatile": true,
             "uid": "org.slf4j",
-            "version": "2.0.16"
+            "version": "2.0.17"
         },
         {
             "cachedName": "Oshi",
-            "cachedVersion": "6.6.5",
+            "cachedVersion": "6.7.0",
             "cachedVolatile": true,
             "uid": "com.github.oshi",
-            "version": "6.6.5"
+            "version": "6.7.0"
         },
         {
             "cachedName": "Minecraft",
             "cachedRequires": [
                 {
-                    "equals": "3.3.4",
-                    "suggests": "3.3.4",
+                    "equals": "3.3.3",
+                    "suggests": "3.3.3",
                     "uid": "org.lwjgl3"
                 }
             ],
-            "cachedVersion": "1.21.1",
+            "cachedVersion": "1.21.4",
             "important": true,
             "uid": "net.minecraft",
-            "version": "1.21.1"
+            "version": "1.21.4"
         },
         {
             "cachedName": "Intermediary Mappings",
             "cachedRequires": [
                 {
-                    "equals": "1.21.1",
+                    "equals": "1.21.4",
                     "uid": "net.minecraft"
                 }
             ],
-            "cachedVersion": "1.21.1",
+            "cachedVersion": "1.21.4",
             "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "net.fabricmc.intermediary",
-            "version": "1.21.1"
+            "version": "1.21.4"
         },
         {
             "cachedName": "Fabric Loader",
@@ -69,9 +61,9 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "cachedVersion": "0.16.9",
+            "cachedVersion": "0.16.10",
             "uid": "net.fabricmc.fabric-loader",
-            "version": "0.16.9"
+            "version": "0.16.10"
         }
     ],
     "formatVersion": 1
