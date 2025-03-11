@@ -1,19 +1,26 @@
-#
-# Remove Reloading Screen configuration goes here,
-#
-# This will tell Remove Reloading Screen to show the progress bar,
-# whilst taking care of everything else without including distractions.
-#
-animationSpeed = 250.0
-blockOverlay = false
-doubleLoad = "LOAD"
-earlyPackStatusSend = true
-enableScissor = true
-hideOverlays = "RELOADING"
-miniRender = true
-reInitScreen = true
-reloadText = ""
-removeOverlayAtEnd = true
-resetResources = true
-rgbProgress = false
-type = "PROGRESS"
+[global]
+	hideOverlays = "RELOADING"
+	blockOverlay = false
+	miniRender = true
+	enableScissor = true
+
+[splash]
+	type = "PROGRESS"
+	rgbProgress = false
+	reloadText = ""
+	animationSpeed = 250.0
+
+[interpolation]
+	interpolateProgress = false
+	interpolateAtEnd = false
+	ease = "INOUTQUINT"
+	easingArg = nan
+
+[other]
+	resetResources = true
+	reInitScreen = true
+	earlyPackStatusSend = true
+	doubleLoad = "LOAD"
+
+[platform]
+	skipForgeOverlay = true

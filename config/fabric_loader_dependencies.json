@@ -9,13 +9,9 @@
     },
     "fabricloader": {
       "+depends": {
-        "fabricloader": ">=0.16.9",
-        "fabric-api": ">=0.109.0+1.21.1",
-        "fabric-language-kotlin": ">=1.12.3+kotlin.2.0.21",
+        "fabricloader": ">=0.16.10",
+        "fabric-api": ">=0.118.0+1.21.4",
         "java": ">=21"
-      },
-      "+suggests": {
-        "cloth-config": ">=15.0.140"
       }
     },
     "fastquit": {
@@ -70,12 +66,12 @@
     },
     "viafabric": {
       "+depends": {
-        "viabackwards": ">=5.1.1",
-        "viaversion": ">=5.1.1"
+        "viabackwards": ">=5.2.1",
+        "viaversion": ">=5.2.1"
       },
       "+suggests": {
         "nochatreports": "*",
-        "viarewind": ">=4.0.3"
+        "viarewind": ">=4.0.5"
       },
       "+breaks": {
         "essential-container": "*",
