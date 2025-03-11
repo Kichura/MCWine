@@ -19,6 +19,11 @@
         "modmenu": "IGNORED"
       }
     },
+    "forgeconfigapiport": {
+      "-recommends": {
+        "modmenu": "IGNORED"
+      }
+    },
     "itemmodelfix": {
       "-recommends": {
         "modmenu": "IGNORED"
