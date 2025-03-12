@@ -16,8 +16,6 @@
 - [Irochi](https://modrinth.com/resourcepack/friendlykorean) - Makes korean betterly translated,
 - [Bold_Muddy](https://pastebin.com/raw/mDVQ7ii9) - Adds second ear for zombified piglin and animated sculker sensor,
 - [mr_ch0c0late1](https://www.curseforge.com/minecraft/texture-packs/blockstates) - Makes the age system more noticable,
-- [send4kolchak](https://www.curseforge.com/minecraft/texture-packs/sends-realistic-lighting) - Makes lighting more accurate for moody, (OF only)
-- [tild09](https://www.curseforge.com/minecraft/texture-packs/updated-witches) - Overhauls the witch model, (OF or CEM mod required)
 - [ICantThinkOfAUsername](https://www.planetminecraft.com/texture-pack/better-enchantment-names) - Adds icons to enchantments,
 - [1Krista](https://pastebin.com/raw/Ep7yXMtV) - Patches half-doors and cobblestone walls from glitching out,
 - [OffLime](https://www.planetminecraft.com/texture-pack/caves-amp-cliffs-tweaks-main-release-version) - Enhances Raw Copper/Iron & Music discs,
@@ -42,7 +40,6 @@
 - [iloveflareon](https://www.planetminecraft.com/texture-pack/jappa-square-barrels-1-15-1-16-1-17) - Fixes the opened barrel model,
 - [MiningPug](https://www.planetminecraft.com/texture-pack/truly-default) - Fixes most of broken textures,
 - [Pythagoras_314](https://www.planetminecraft.com/texture-pack/accurate-jappa-dirt) - Enhances the dirt block,
-- [henwiquegamesuwu](https://www.curseforge.com/minecraft/texture-packs/axolotls) - Adds variated axolotl buckets, (OF/CIT Resewn Only)
 - [TechDawg98](https://www.planetminecraft.com/texture-pack/simply-soft) - Replaces the rain & snow particles,
 - [IronDuchess](https://www.planetminecraft.com/texture-pack/chain-colored-iron-bars-java) - Makes the iron bars chain-like colored,
 - [Gameations](https://www.planetminecraft.com/texture-pack/no-tint) - Removes the ugly tints from textures,
@@ -75,13 +72,11 @@
 - [GalacticAnimations](https://www.planetminecraft.com/texture-pack/better-frog-eggs) - Makes frog eggs look better,
 - [valesde_valley](https://www.planetminecraft.com/texture-pack/tweaked-smithing-table) - Tweaks the smithing table to look more accurate,
 - [Amaro_Lunatico](https://www.planetminecraft.com/texture-pack/consistent-leads-texture-packs) - Makes leads look consistent,
-- [AnnouncerF](https://www.planetminecraft.com/texture-pack/1-19-goat-horns-optifine-cit-resewn-required) - Gives specific textures for each goat horn,
-- [DiamondIsntHere](https://www.planetminecraft.com/texture-pack/technoblade-pigs-5630640) - Adds technoblade as renamed pig,
 - [PixelPeter](https://www.planetminecraft.com/texture-pack/betterfroglights) - Enhances froglight block textures,
 - [DartCat25](https://www.planetminecraft.com/texture-pack/prettier-tint) - Improves tinting on leather armor and potion overlay,
 - [DevDyna](https://www.curseforge.com/minecraft/texture-packs/fixsculk) - Animates the sculk block,
 - [carriecare](https://pastebin.com/raw/2JVUKnqm) - Adjusts the acacia textures and modernizes creeper + enderman,
-- [DeadbushCarrot](https://pastebin.com/raw/NtiEJVUX) - Fixes the diamond chestplate model and ports bedrock water to java, (Bedrock water requires OF or Colormatic mod)
+- [DeadbushCarrot](https://www.planetminecraft.com/texture-pack/fixed-diamond-armor) - Fixes the diamond chestplate model,
 - [cornbread_alphanumeric](https://www.curseforge.com/minecraft/texture-packs/cornbreads-music-fixer) - Fixes soundtrack so that they play properly in actual order,
 - [Haikis](https://www.curseforge.com/minecraft/texture-packs/low-on-fire) - Lowers fire animation whilst in first person,
 - [blank3times](https://www.planetminecraft.com/texture-pack/consistent-bamboo-wood) - Makes bamboo wood consistent,
@@ -96,7 +91,6 @@
 - [MannyQUESO](https://www.planetminecraft.com/texture-pack/improved-daylight-sensor) - Improves the day & night sensors,
 - [cranzag](https://pastebin.com/raw/7iz3MTg8) - Changes the day & night sensors and evoker texture,
 - [Hippopotamoss](https://www.planetminecraft.com/texture-pack/coarse-dirt-hanging-roots) - Makes the hanging roots match the coarse dirt design,
-- [CountXD](https://www.planetminecraft.com/texture-pack/glowing-armor-trims-5933760) - Makes the armor trims glow, (OF or EMF mod required)
 - [Cappee](https://pastebin.com/raw/dTxJWijn) - Changes sniffer egg to be consistent and converts tall flowers into items via GUIs,
 - [SandWhoop](https://www.planetminecraft.com/texture-pack/book-thred-fix) - Fixes the book and quill GUI from being offset,
 - [AWheelingNerd](https://www.planetminecraft.com/texture-pack/enhancedping) - Enhances the ping icons,
@@ -104,7 +98,6 @@
 - [Cr4ftx](https://www.planetminecraft.com/texture-pack/reshaded-books) - Reshades the regular + enchanted book,
 - [SpleedSnowBrawl](https://www.planetminecraft.com/texture-pack/better-items-1-20-exclusive-add-on) - Enhances the brush, smithing templates and relic music disc,
 - [WhiterM](https://www.planetminecraft.com/texture-pack/better-armor-trims-6049900) - Improves the armor trim items,
-- [ZenithKnight](https://www.planetminecraft.com/texture-pack/colored-sheared-sheep) - Keeps the color of sheared sheep,
 - [railgun](https://modrinth.com/resourcepack/centered-crosshair-fix) - Centers the crosshair,
 - [AmongstReality](https://modrinth.com/resourcepack/amongstrealitys-bow) - Gives the bow a new design,
 - [ivan2604](https://pastebin.com/raw/7Va90Mrn) - Fixes trapdoor handles and certain GUIs,
@@ -114,19 +107,16 @@
 - [PrimalGlina](https://www.planetminecraft.com/texture-pack/refreshed-armadillo) - Changes the armadillo assets to look less weird,
 - [Torrezx](https://www.planetminecraft.com/texture-pack/torrezx-best-collar) - Improves the collar on both wolves and cats,
 - [thgabs](https://modrinth.com/resourcepack/hangul-kana-fix) - Fixes hangul & kana fonts from being weird,
-- [haventhadadonutyet](https://modrinth.com/resourcepack/bring-back-old-potion-colors) - Restores the old potion colors, (OF / Colormatic variant)
 - [fre1q](https://modrinth.com/resourcepack/modern-toasts) - Modernizes Toast Notifications,
 - [ICE_CUBES](https://modrinth.com/resourcepack/scafolding-made-better) - Improves the scaffolding block,
 - [mrfireflyermc](https://modrinth.com/resourcepack/better-chestplates) - Improves the chestplate armor,
 - [witheredwasabi](https://modrinth.com/resourcepack/refreshed-pottery-sherds) - Enhances the pottery sherds,
-- [StormDragon77](https://modrinth.com/resourcepack/no-z-fighting) - Removes Z-Fighting from specific places, (Mostly requires OF / EMF)
 - [Shade_of_gr3y](https://www.planetminecraft.com/texture-pack/bedrock-exclusive-splashes-with-and-without-java-splashes-included) - Includes the exclusive splash texts in Java,
 - [GamingBob](https://pastebin.com/raw/9E8nzymE) - Renames "Zombie Horse" and "Zombie Villager" to "Zombified Horse" and "Zombified Villager",
 - [Naflaim](https://www.planetminecraft.com/texture-pack/naflaim-s-better-pumpkins) - Improves pumpkins and jack o' lanterns,
 - [Forschi_Quack](https://www.planetminecraft.com/texture-pack/improved-ghast-tear-2pixels) - Improves the ghast tear item,
 - [Writengran51](https://www.planetminecraft.com/texture-pack/improved-map-icons) - Improves the map icons,
 - [cranzag](https://pastebin.com/raw/GGMUAdP6) - Improves Magma Block, Day/Night sensors and map item,
-- [X-tale-Cross](https://www.planetminecraft.com/texture-pack/goat-model-fix-pack-1-18-1-20) - Fixes the Goat's head pivot point, (Requires OF / EMF).
 - [McConstruciones](https://www.planetminecraft.com/texture-pack/old-ominous-bottle) - Makes Ominous Bottle consistent with other bottles,
 - [ZedWitzle](https://www.planetminecraft.com/texture-pack/rebottled-1-21) - Updates bottles to be nicer,
 - [cinema_sheeps](https://www.planetminecraft.com/texture-pack/minecraft-skeleton-and-zombie-dungeons-resource-pack) - Ports Skeleton texture from dungeons.
@@ -144,8 +134,6 @@
 - [Twixxi](https://www.modrinth.com/resourcepack/large-roman-numerals) - Adds further romanic for level 0 - 255,
 - [Sencie](https://www.planetminecraft.com/texture-pack/old-sounds-4911323) - Restores the old sound effects,
 - [haloman30](https://www.planetminecraft.com/texture-pack/classic-pre-1-13-font) - Restores the 1.12.2 font,
-- [haventhadadonutyet](https://modrinth.com/resourcepack/bring-back-old-potion-colors) - Restores the old potion colors, (OF / Colormatic variant)
-- [SomeOne10YT](https://www.planetminecraft.com/texture-pack/old-zombie-pigman-resource-pack) - Restores the old Zombie Pigman, (Requires OF / EMF)
 - [skeletonlol](https://www.planetminecraft.com/texture-pack/pale-oak-log-retexture) - Makes the pale oak log morely polished,
 - [MincedRaft117](https://modrinth.com/resourcepack/creaking-resin) - Recolors Resin related blocks/items to creaking heart color palette.
 
@@ -161,7 +149,6 @@
 - [railgun](https://modrinth.com/resourcepack/better-wither-heart) - Improves the wither heart to be morely obvious,
 - [Rhythmic](https://modrinth.com/resourcepack/high-contrast-pottery) - Makes the pottery symbols easier to tell,
 - [Embin](https://modrinth.com/resourcepack/embin-hardcore_absorption) - Improves the absorption hearts in hardcore mode,
-- [thgabs](https://modrinth.com/resourcepack/hangul-kana-fix) - Fixes hangul & kana fonts from being weird,
-- [haventhadadonutyet](https://modrinth.com/resourcepack/bring-back-old-potion-colors) - Restores the old potion colors. (OF / Colormatic variant)
+- [thgabs](https://modrinth.com/resourcepack/hangul-kana-fix) - Fixes hangul & kana fonts from being weird.
 
 *(This list is subject to change - If you do not want to use any of the three resource packs then you can disable them in the resource packs configuration page in-game)*
