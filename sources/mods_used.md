@@ -47,7 +47,7 @@
 - [Cloth Config API](https://modrinth.com/mod/cloth-config) - **shedaniel**,
 - [Fabric API](https://modrinth.com/mod/fabric-api) - **modruss50**, **sfPlayer1**,
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) - **modruss50**, **sfPlayer1**,
-- [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port](https://modrinth.com/mod/forge-config-api-port) - **Fuzs**,
+- [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port) - **Fuzs**,
 - [ObsidianUI](https://modrinth.com/mod/obsidianui) - **ThinkingStudio**,
 - [ViaVersion](https://github.com/ViaVersion/ViaVersion) - **_MylesC**, **creeper123123321**, **Gerrygames**, **kennytv**, **Matsv**.
 
