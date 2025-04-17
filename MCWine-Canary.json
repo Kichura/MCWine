@@ -1,8 +1,8 @@
 {
   "id": "MCWine-Canary",
   "inheritsFrom": "1.21.4",
-  "releaseTime": "2025-04-01",
-  "time": "2025-04-01",
+  "releaseTime": "2025-04-18",
+  "time": "2025-04-18",
   "type": "release",
   "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
   "assets": "19",
@@ -11,27 +11,27 @@
   "logging": {},
   "libraries": [
     {
-      "name": "org.ow2.asm:asm:9.7.1",
+      "name": "org.ow2.asm:asm:9.8",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.ow2.asm:asm-analysis:9.7.1",
+      "name": "org.ow2.asm:asm-analysis:9.8",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.ow2.asm:asm-commons:9.7.1",
+      "name": "org.ow2.asm:asm-commons:9.8",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.ow2.asm:asm-tree:9.7.1",
+      "name": "org.ow2.asm:asm-tree:9.8",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "org.ow2.asm:asm-util:9.7.1",
+      "name": "org.ow2.asm:asm-util:9.8",
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "net.fabricmc:fabric-loader:0.16.11",
+      "name": "net.fabricmc:fabric-loader:0.16.14",
       "url": "https://maven.fabricmc.net/"
     },
     {
