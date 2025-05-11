@@ -46,6 +46,7 @@ block-versions:
 block-disconnect-msg: §cThis version cannot be used for this server as it is not supported.
 reload-disconnect-msg: §6This server has been reloaded, Please connect back to the server again.
 suppress-conversion-warnings: true
+suppress-text-component-conversion-warnings: true
 #
 # Packet limitation configuration goes here,
 #
