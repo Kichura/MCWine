@@ -68,7 +68,6 @@ tracking-warning-pps: 18000
 1_13-tab-complete-delay: 3
 armor-toggle-fix: true
 cache-1_17-light: true
-chat-nbt-fix: true
 disable-1_13-auto-complete: true
 enforce-secure-chat: false
 fix-1_14-health-nan: true
