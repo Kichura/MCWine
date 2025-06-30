@@ -16,6 +16,7 @@ fix-formatted-inventory-titles: true
 handle-pings-as-inv-acknowledgements: true
 map-custom-model-data: true
 map-darkness-effect: true
+map-display-entities: true
 scaffolding-to-water: false
 sculk-shriekers-to-crying-obsidian: true
 suppress-emulation-warnings: true
